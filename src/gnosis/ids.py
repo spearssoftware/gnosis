@@ -42,6 +42,7 @@ def disambiguate(
     name: str,
     records: list[dict],
     id_field: str = "personLookup",
+    id_to_name: dict[str, str] | None = None,
 ) -> dict[str, str]:
     """Generate unique slugs for a list of records sharing the same name.
 
@@ -74,7 +75,8 @@ def disambiguate(
         upstream_id = rec.get(id_field, "")
         father = rec.get("father")
         if father and isinstance(father, list) and len(father) > 0:
-            father_name = father[0] if isinstance(father[0], str) else ""
+            father_rec_id = father[0] if isinstance(father[0], str) else ""
+            father_name = id_to_name.get(father_rec_id, "") if id_to_name and father_rec_id else ""
             if father_name:
                 father_slug = slugify(father_name)
                 candidate = f"{base_slug}-son-of-{father_slug}"
