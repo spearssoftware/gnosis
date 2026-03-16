@@ -1,0 +1,6 @@
+{
+  "_comment": "Manual overrides for Theographic-to-OpenBible place matching. Key = Theographic slug, Value = OpenBible friendly_id",
+  "sea-of-galilee": "Sea_of_Galilee",
+  "mount-sinai": "Mount_Sinai",
+  "red-sea": "Red_Sea"
+}

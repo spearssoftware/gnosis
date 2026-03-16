@@ -1,0 +1,32 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v4
+      - run: uv sync
+      - run: uv run gnosis validate --strict
+      - run: uv run gnosis build
+      - name: Package output
+        run: |
+          cd output
+          zip -r ../gnosis-${{ github.ref_name }}.zip *.json
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            output/people.json
+            output/places.json
+            output/events.json
+            output/people-groups.json
+            output/verse-index.json
+            gnosis-${{ github.ref_name }}.zip

@@ -1,0 +1,12 @@
+{
+  "theographic": {
+    "repo": "robertrouse/theographic-bible-metadata",
+    "commit": "0e0bb42f7218aaacdfa525f3ed57ef6bf2b4ac96",
+    "date": "2026-02-20T19:25:27-06:00"
+  },
+  "openbible": {
+    "repo": "openbibleinfo/Bible-Geocoding-Data",
+    "commit": "7eb18a5ee62f27b9b93bd6689ea272d76dd23b8f",
+    "date": "2021-10-31T20:57:10-04:00"
+  }
+}

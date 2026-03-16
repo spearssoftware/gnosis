@@ -1,0 +1,46 @@
+name: Check Upstream
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for upstream updates
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          SNAPSHOT="sources/snapshot.json"
+          if [ ! -f "$SNAPSHOT" ]; then
+            echo "No snapshot file found"
+            exit 0
+          fi
+
+          THEO_SAVED=$(jq -r '.theographic.commit' "$SNAPSHOT")
+          OB_SAVED=$(jq -r '.openbible.commit' "$SNAPSHOT")
+
+          THEO_LATEST=$(gh api repos/robertrouse/theographic-bible-metadata/commits/master --jq '.sha' 2>/dev/null || echo "unknown")
+          OB_LATEST=$(gh api repos/openbibleinfo/Bible-Geocoding-Data/commits/main --jq '.sha' 2>/dev/null || echo "unknown")
+
+          UPDATES=""
+          if [ "$THEO_SAVED" != "$THEO_LATEST" ] && [ "$THEO_LATEST" != "unknown" ]; then
+            UPDATES="$UPDATES- Theographic: $THEO_SAVED -> $THEO_LATEST\n"
+          fi
+          if [ "$OB_SAVED" != "$OB_LATEST" ] && [ "$OB_LATEST" != "unknown" ]; then
+            UPDATES="$UPDATES- OpenBible: $OB_SAVED -> $OB_LATEST\n"
+          fi
+
+          if [ -n "$UPDATES" ]; then
+            gh issue create \
+              --title "Upstream data has new commits" \
+              --body "$(printf "The following upstream repos have new commits since our last snapshot:\n\n$UPDATES\nRun the fetch script to update sources.")"
+          else
+            echo "No upstream changes detected"
+          fi
