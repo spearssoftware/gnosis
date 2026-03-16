@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 
-from rapidfuzz import fuzz
+from rapidfuzz import fuzz, process
 
 from gnosis.parsers.openbible import OpenBiblePlace
 from gnosis.types import Place
@@ -36,6 +36,11 @@ def merge_places(
     for fid in openbible_places:
         ob_lower[fid.lower().replace("_", " ")] = fid
 
+    # Build fuzzy match candidates: normalized name → friendly_id
+    ob_normalized: dict[str, str] = {
+        fid.lower().replace("_", " "): fid for fid in openbible_places
+    }
+
     matched_ob_ids: set[str] = set()
 
     for slug, place in theographic_places.items():
@@ -64,23 +69,25 @@ def merge_places(
         if matched:
             continue
 
-        # 3. Fuzzy match
+        # 3. Fuzzy match using rapidfuzz.process.extractOne
         best_score = 0.0
         best_fid = None
         for name in [place.kjv_name, place.esv_name, place.name]:
             if not name:
                 continue
-            for ob_fid in openbible_places:
-                if ob_fid in matched_ob_ids:
-                    continue
-                score = fuzz.token_sort_ratio(
-                    name.lower(), ob_fid.lower().replace("_", " ")
-                )
-                if score > best_score:
-                    best_score = score
-                    best_fid = ob_fid
+            result = process.extractOne(
+                name.lower(),
+                ob_normalized.keys(),
+                scorer=fuzz.token_sort_ratio,
+                score_cutoff=85,
+            )
+            if result and result[1] > best_score:
+                best_score = result[1]
+                candidate_fid = ob_normalized[result[0]]
+                if candidate_fid not in matched_ob_ids:
+                    best_fid = candidate_fid
 
-        if best_score >= 85 and best_fid:
+        if best_fid:
             _apply_openbible(place, openbible_places[best_fid])
             match_log[slug] = "fuzzy"
             matched_ob_ids.add(best_fid)

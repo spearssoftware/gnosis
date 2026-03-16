@@ -76,18 +76,16 @@ def parse_openbible(sources_dir: Path) -> dict[str, OpenBiblePlace]:
                 # Try to get coordinates from identifications → resolutions
                 best_lat, best_lon, best_confidence = _extract_best_coords(rec)
 
-                # Try modern associations if no direct coords
+                # Resolve modern associations once for coords fallback + modern name
+                modern_lat, modern_lon, modern_name = _resolve_modern_coords(
+                    rec, modern_places
+                )
+                if modern_name:
+                    place.modern_name = modern_name
+
                 if best_lat is None:
-                    best_lat, best_lon, modern_name = _resolve_modern_coords(
-                        rec, modern_places
-                    )
-                    if modern_name:
-                        place.modern_name = modern_name
-                else:
-                    # Still try to get modern name
-                    _, _, modern_name = _resolve_modern_coords(rec, modern_places)
-                    if modern_name:
-                        place.modern_name = modern_name
+                    best_lat = modern_lat
+                    best_lon = modern_lon
 
                 place.latitude = best_lat
                 place.longitude = best_lon

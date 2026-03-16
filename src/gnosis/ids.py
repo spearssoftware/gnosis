@@ -6,6 +6,7 @@ from pathlib import Path
 
 GNOSIS_NAMESPACE = uuid.UUID("a1b2c3d4-e5f6-7890-abcd-ef1234567890")
 
+_SLUG_RE = re.compile(r"[^a-z0-9]+")
 _PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 _SLUG_OVERRIDES_PATH = _PROJECT_ROOT / "overrides" / "slug_overrides.json"
 
@@ -27,7 +28,7 @@ def slugify(name: str) -> str:
     text = unicodedata.normalize("NFKD", name)
     text = text.encode("ascii", "ignore").decode("ascii")
     text = text.lower()
-    text = re.sub(r"[^a-z0-9]+", "-", text)
+    text = _SLUG_RE.sub("-", text)
     text = text.strip("-")
     return text
 

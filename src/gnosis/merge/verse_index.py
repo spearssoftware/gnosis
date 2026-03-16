@@ -16,20 +16,14 @@ def build_verse_index(
 
     for person in people.values():
         for verse in person.verses:
-            if verse not in index:
-                index[verse] = VerseEntry()
-            index[verse].people.append(person.id)
+            index.setdefault(verse, VerseEntry()).people.append(person.id)
 
     for place in places.values():
         for verse in place.verses:
-            if verse not in index:
-                index[verse] = VerseEntry()
-            index[verse].places.append(place.id)
+            index.setdefault(verse, VerseEntry()).places.append(place.id)
 
     for event in events.values():
         for verse in event.verses:
-            if verse not in index:
-                index[verse] = VerseEntry()
-            index[verse].events.append(event.id)
+            index.setdefault(verse, VerseEntry()).events.append(event.id)
 
     return index

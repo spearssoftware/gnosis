@@ -151,11 +151,6 @@ def parse_theographic(sources_dir: Path) -> tuple[
             return []
         return [lookup[rid] for rid in ids if rid in lookup]
 
-    def resolve_verses(ids: list | None) -> list[str]:
-        if not ids:
-            return []
-        return [verse_lookup[rid] for rid in ids if rid in verse_lookup]
-
     def resolve_single(ids: list | None, lookup: dict[str, str]) -> str | None:
         if not ids:
             return None
@@ -185,7 +180,7 @@ def parse_theographic(sources_dir: Path) -> tuple[
             if texts:
                 name_meaning = texts[0]
 
-        verses = resolve_verses(fields.get("verses"))
+        verses = resolve_refs(fields.get("verses"), verse_lookup)
 
         person = Person(
             id=slug,
@@ -228,7 +223,7 @@ def parse_theographic(sources_dir: Path) -> tuple[
         lat = _try_float(fields.get("latitude"))
         lon = _try_float(fields.get("longitude"))
 
-        verses = resolve_verses(fields.get("verses"))
+        verses = resolve_refs(fields.get("verses"), verse_lookup)
 
         place = Place(
             id=slug,
@@ -267,7 +262,7 @@ def parse_theographic(sources_dir: Path) -> tuple[
 
         start_year, start_display, start_era = _parse_year(fields.get("startDate"))
 
-        verses = resolve_verses(fields.get("verses"))
+        verses = resolve_refs(fields.get("verses"), verse_lookup)
 
         event = Event(
             id=slug,

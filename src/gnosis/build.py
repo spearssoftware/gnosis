@@ -21,6 +21,14 @@ OUTPUT_DIR = PROJECT_ROOT / "output"
 console = Console()
 
 
+def _parse_all() -> tuple:
+    """Parse and merge all sources. Returns (people, places, events, groups, match_log)."""
+    people, places, events, groups = parse_theographic(SOURCES_DIR / "theographic")
+    openbible_places = parse_openbible(SOURCES_DIR / "openbible")
+    places, match_log = merge_places(places, openbible_places)
+    return people, places, events, groups, match_log
+
+
 def _write_output(data: dict, filename: str) -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     path = OUTPUT_DIR / filename
@@ -35,24 +43,16 @@ def cmd_build(strict: bool = False) -> bool:
     console.print("[bold]Gnosis Build Pipeline[/bold]\n")
 
     with Progress(console=console) as progress:
-        task = progress.add_task("Parsing Theographic...", total=5)
+        task = progress.add_task("Parsing sources...", total=3)
 
-        theographic_dir = SOURCES_DIR / "theographic"
-        people, places, events, groups = parse_theographic(theographic_dir)
-        progress.update(task, advance=1, description="Parsing OpenBible...")
-
-        openbible_dir = SOURCES_DIR / "openbible"
-        openbible_places = parse_openbible(openbible_dir)
-        progress.update(task, advance=1, description="Merging places...")
-
-        places, match_log = merge_places(places, openbible_places)
+        people, places, events, groups, match_log = _parse_all()
         progress.update(task, advance=1, description="Building verse index...")
 
         verse_index = build_verse_index(people, places, events)
         progress.update(task, advance=1, description="Validating...")
 
         results = validate(people, places, events, groups, match_log, strict=strict)
-        progress.update(task, advance=1, description="Done")
+        progress.update(task, advance=1, description="Done ✓")
 
     console.print()
     ok = print_results(results)
@@ -92,13 +92,7 @@ def cmd_validate(strict: bool = False) -> bool:
     """Run validation only (no output written)."""
     console.print("[bold]Gnosis Validation[/bold]\n")
 
-    theographic_dir = SOURCES_DIR / "theographic"
-    people, places, events, groups = parse_theographic(theographic_dir)
-
-    openbible_dir = SOURCES_DIR / "openbible"
-    openbible_places = parse_openbible(openbible_dir)
-    places, match_log = merge_places(places, openbible_places)
-
+    people, places, events, groups, match_log = _parse_all()
     results = validate(people, places, events, groups, match_log, strict=strict)
     return print_results(results)
 

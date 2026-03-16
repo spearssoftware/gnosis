@@ -2,6 +2,7 @@
 
 import re
 from dataclasses import dataclass, field
+from typing import Literal
 
 from rich.console import Console
 from rich.table import Table
@@ -16,7 +17,7 @@ OSIS_PATTERN = re.compile(
 @dataclass
 class ValidationResult:
     name: str
-    status: str  # "pass", "warn", "fail"
+    status: Literal["pass", "warn", "fail"]
     message: str
     details: list[str] = field(default_factory=list)
 
@@ -32,23 +33,20 @@ def validate(
     """Run all validation checks. Returns list of results."""
     results: list[ValidationResult] = []
 
-    # 1. Duplicate ID detection
-    results.append(_check_duplicate_ids(people, places, events, groups))
-
-    # 2. Dangling cross-refs
+    # 1. Dangling cross-refs
     results.append(_check_dangling_refs(people, places, events, groups))
 
-    # 3. OSIS format validation
+    # 2. OSIS format validation
     results.append(_check_osis_format(people, places, events))
 
-    # 4. WIP entry detection
+    # 3. WIP entry detection
     results.append(_check_wip_entries(people, places, events, strict))
 
-    # 5. Place merge coverage
+    # 4. Place merge coverage
     if match_log:
         results.append(_check_place_coverage(match_log))
 
-    # 6. Basic entity counts
+    # 5. Basic entity counts
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
@@ -84,36 +82,6 @@ def print_results(results: list[ValidationResult]) -> bool:
 
     console.print(table)
     return not has_failures
-
-
-def _check_duplicate_ids(
-    people: dict[str, Person],
-    places: dict[str, Place],
-    events: dict[str, Event],
-    groups: dict[str, PeopleGroup],
-) -> ValidationResult:
-    """Check for duplicate IDs within each entity type (cross-type duplicates are OK)."""
-    dupes: list[str] = []
-    for label, collection in [
-        ("people", people),
-        ("places", places),
-        ("events", events),
-        ("groups", groups),
-    ]:
-        seen: set[str] = set()
-        for eid in collection:
-            if eid in seen:
-                dupes.append(f"{label}/{eid}")
-            seen.add(eid)
-
-    if dupes:
-        return ValidationResult(
-            name="Duplicate IDs",
-            status="fail",
-            message=f"{len(dupes)} duplicate IDs found",
-            details=dupes,
-        )
-    return ValidationResult(name="Duplicate IDs", status="pass", message="No duplicates")
 
 
 def _check_dangling_refs(
