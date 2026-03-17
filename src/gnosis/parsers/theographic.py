@@ -228,10 +228,14 @@ def parse_theographic(sources_dir: Path) -> tuple[
 
         verses = resolve_refs(fields.get("verses"), verse_lookup)
 
+        # Skip possessive artifacts (e.g. "ashdod-s", "jerusalem-s")
+        if slug.endswith("-s") and not verses:
+            continue
+
         place = Place(
             id=slug,
             uuid=make_uuid(slug),
-            name=fields.get("placeLookup", fields.get("kjvName", "")),
+            name=fields.get("kjvName", fields.get("esvName", fields.get("placeLookup", ""))),
             kjv_name=fields.get("kjvName"),
             esv_name=fields.get("esvName"),
             latitude=lat,

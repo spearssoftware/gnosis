@@ -12,6 +12,7 @@ from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.theographic import parse_theographic
+from gnosis.sqlite_writer import write_sqlite
 from gnosis.validate.checks import print_results, validate
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -88,6 +89,9 @@ def cmd_build(strict: bool = False) -> bool:
         {k: v.model_dump() for k, v in sorted(verse_index.items())},
         "verse-index.json",
     )
+
+    db_path = write_sqlite(people, places, events, groups, OUTPUT_DIR)
+    console.print(f"  Wrote {db_path.name}")
 
     console.print("\n[bold green]Build complete.[/bold green]")
     return True
