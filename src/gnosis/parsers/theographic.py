@@ -96,21 +96,14 @@ def parse_theographic(sources_dir: Path) -> tuple[
     events_raw = _load_json(sources_dir / "events.json")
     groups_raw = _load_json(sources_dir / "peopleGroups.json")
 
-    # Build Airtable ID → name lookup for patronymic disambiguation
+    # People: group by name for disambiguation + build ID→name lookup
     airtable_id_to_name: dict[str, str] = {}
-    for rec in people_raw:
-        fields = rec.get("fields", {})
-        name = fields.get("name", fields.get("personLookup", ""))
-        if name:
-            airtable_id_to_name[rec["id"]] = name
-
-    # People: group by name for disambiguation
     people_by_name: dict[str, list[dict]] = defaultdict(list)
     for rec in people_raw:
         fields = rec.get("fields", {})
         name = fields.get("name", fields.get("personLookup", ""))
         if name:
-            # Store full record plus Airtable ID for disambiguation
+            airtable_id_to_name[rec["id"]] = name
             entry = {**fields, "_airtable_id": rec["id"]}
             people_by_name[name].append(entry)
 
