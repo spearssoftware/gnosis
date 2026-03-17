@@ -16,7 +16,6 @@ def test_person_full():
         gender="Male",
         birth_year=-2165,
         birth_year_display="2166 BC",
-        birth_era="BC",
         father="terah",
         children=["isaac", "ishmael"],
         verses=["Gen.12.1"],

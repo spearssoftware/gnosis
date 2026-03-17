@@ -29,6 +29,11 @@ def _parse_all() -> tuple:
     return people, places, events, groups, match_log
 
 
+def _compact(data: dict) -> dict:
+    """Remove None values and empty collections from a dict."""
+    return {k: v for k, v in data.items() if v is not None and v != [] and v != ""}
+
+
 def _write_output(data: dict, filename: str) -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     path = OUTPUT_DIR / filename
@@ -64,19 +69,19 @@ def cmd_build(strict: bool = False) -> bool:
 
     # Serialize to JSON dicts keyed by slug ID
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(people.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(people.items())},
         "people.json",
     )
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(places.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(places.items())},
         "places.json",
     )
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(events.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(events.items())},
         "events.json",
     )
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(groups.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(groups.items())},
         "people-groups.json",
     )
     _write_output(

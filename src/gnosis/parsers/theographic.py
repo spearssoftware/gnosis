@@ -9,33 +9,35 @@ from gnosis.ids import disambiguate, make_uuid, slugify
 from gnosis.types import Event, PeopleGroup, Person, Place
 
 
-def _parse_year(year_str: str | None) -> tuple[int | None, str | None, str | None]:
-    """Parse a year string like '1575 BC' into (astronomical_year, display, era).
+def _parse_year(year_str: str | None) -> int | None:
+    """Parse a year string into an astronomical year integer.
 
-    Returns (astronomical_int, display_string, era).
+    Accepts '1575 BC', '30 AD', or raw integers like '-4'.
     Astronomical years: 1 BC = 0, 2 BC = -1, etc.
     """
     if not year_str or not year_str.strip():
-        return None, None, None
+        return None
 
     year_str = year_str.strip()
     match = re.match(r"^(-?\d+)\s*(BC|AD|BCE|CE)?$", year_str, re.IGNORECASE)
     if not match:
-        return None, year_str, None
+        return None
 
     num = int(match.group(1))
     era = (match.group(2) or "").upper()
 
     if era in ("BC", "BCE"):
-        astronomical = -(num - 1)  # 1 BC = 0, 2 BC = -1
-        display = f"{num} BC"
-        return astronomical, display, "BC"
-    elif era in ("AD", "CE"):
-        display = f"{num} AD"
-        return num, display, "AD"
-    else:
-        # No era marker — assume positive = AD
-        return num, str(num), None
+        return -(num - 1)  # 1 BC = 0, 2 BC = -1
+    return num
+
+
+def _display_year(year: int | None) -> str | None:
+    """Convert an astronomical year to a display string like '1997 BC' or '30 AD'."""
+    if year is None:
+        return None
+    if year <= 0:
+        return f"{-year + 1} BC"
+    return f"{year} AD"
 
 
 def _load_json(path: Path) -> list[dict]:
@@ -179,8 +181,8 @@ def parse_theographic(sources_dir: Path) -> tuple[
         slug = person_id_to_slug[airtable_id]
         fields = rec.get("fields", {})
 
-        birth_year, birth_display, birth_era = _parse_year(fields.get("birthYear"))
-        death_year, death_display, death_era = _parse_year(fields.get("deathYear"))
+        birth_year = _parse_year(fields.get("birthYear"))
+        death_year = _parse_year(fields.get("deathYear"))
 
         # Extract name meaning from Easton's
         name_meaning = None
@@ -199,10 +201,8 @@ def parse_theographic(sources_dir: Path) -> tuple[
             gender=fields.get("gender"),
             birth_year=birth_year,
             death_year=death_year,
-            birth_year_display=birth_display,
-            birth_era=birth_era,
-            death_year_display=death_display,
-            death_era=death_era,
+            birth_year_display=_display_year(birth_year),
+            death_year_display=_display_year(death_year),
             birth_place=resolve_single(fields.get("birthPlace"), place_id_to_slug),
             death_place=resolve_single(fields.get("deathPlace"), place_id_to_slug),
             father=resolve_single(fields.get("father"), person_id_to_slug),
@@ -270,7 +270,7 @@ def parse_theographic(sources_dir: Path) -> tuple[
         slug = event_id_to_slug[airtable_id]
         fields = rec.get("fields", {})
 
-        start_year, start_display, start_era = _parse_year(fields.get("startDate"))
+        start_year = _parse_year(fields.get("startDate"))
 
         verses = resolve_refs(fields.get("verses"), verse_lookup)
 
@@ -279,8 +279,7 @@ def parse_theographic(sources_dir: Path) -> tuple[
             uuid=make_uuid(slug),
             title=fields.get("title", ""),
             start_year=start_year,
-            start_year_display=start_display,
-            start_era=start_era,
+            start_year_display=_display_year(start_year),
             duration=fields.get("duration"),
             sort_key=fields.get("sortKey"),
             participants=resolve_refs(fields.get("participants"), person_id_to_slug),

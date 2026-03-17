@@ -9,7 +9,6 @@ class Event(BaseModel):
     # Dates (astronomical year integers)
     start_year: int | None = None
     start_year_display: str | None = None
-    start_era: str | None = None
     duration: str | None = None
     sort_key: float | None = None
 
