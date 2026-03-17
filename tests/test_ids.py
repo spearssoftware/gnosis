@@ -33,14 +33,29 @@ def test_disambiguate_single():
 
 
 def test_disambiguate_with_patronymic():
+    id_to_name = {"recFather1": "Jacob", "recFather2": "Esau"}
     records = [
-        {"_airtable_id": "rec1", "father": ["Jacob"]},
-        {"_airtable_id": "rec2", "father": ["Esau"]},
+        {"_airtable_id": "rec1", "father": ["recFather1"]},
+        {"_airtable_id": "rec2", "father": ["recFather2"]},
+    ]
+    result = disambiguate(
+        "Zechariah", records, id_field="_airtable_id", id_to_name=id_to_name
+    )
+    slugs = set(result.values())
+    assert slugs == {"zechariah-son-of-jacob", "zechariah-son-of-esau"}
+
+
+def test_disambiguate_patronymic_skipped_without_id_to_name():
+    records = [
+        {"_airtable_id": "rec1", "father": ["recFather1"]},
+        {"_airtable_id": "rec2", "father": ["recFather2"]},
     ]
     result = disambiguate("Zechariah", records, id_field="_airtable_id")
     slugs = set(result.values())
     assert len(slugs) == 2
-    assert all("zechariah" in s for s in slugs)
+    # Without id_to_name, should fall through to numeric
+    assert "zechariah" in slugs
+    assert "zechariah-1" in slugs
 
 
 def test_disambiguate_numeric_fallback():

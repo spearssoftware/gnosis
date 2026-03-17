@@ -12,6 +12,7 @@ from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.theographic import parse_theographic
+from gnosis.sqlite_writer import write_sqlite
 from gnosis.validate.checks import print_results, validate
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -27,6 +28,11 @@ def _parse_all() -> tuple:
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
     return people, places, events, groups, match_log
+
+
+def _compact(data: dict) -> dict:
+    """Remove None values and empty collections from a dict."""
+    return {k: v for k, v in data.items() if v is not None and v != [] and v != ""}
 
 
 def _write_output(data: dict, filename: str) -> None:
@@ -64,25 +70,28 @@ def cmd_build(strict: bool = False) -> bool:
 
     # Serialize to JSON dicts keyed by slug ID
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(people.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(people.items())},
         "people.json",
     )
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(places.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(places.items())},
         "places.json",
     )
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(events.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(events.items())},
         "events.json",
     )
     _write_output(
-        {k: v.model_dump(exclude_none=True) for k, v in sorted(groups.items())},
+        {k: _compact(v.model_dump()) for k, v in sorted(groups.items())},
         "people-groups.json",
     )
     _write_output(
         {k: v.model_dump() for k, v in sorted(verse_index.items())},
         "verse-index.json",
     )
+
+    db_path = write_sqlite(people, places, events, groups, OUTPUT_DIR)
+    console.print(f"  Wrote {db_path.name}")
 
     console.print("\n[bold green]Build complete.[/bold green]")
     return True
