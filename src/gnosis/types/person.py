@@ -11,9 +11,7 @@ class Person(BaseModel):
     birth_year: int | None = None
     death_year: int | None = None
     birth_year_display: str | None = None
-    birth_era: str | None = None
     death_year_display: str | None = None
-    death_era: str | None = None
 
     # Relations (slug ID refs)
     birth_place: str | None = None
