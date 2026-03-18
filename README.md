@@ -4,15 +4,16 @@ A curated biblical knowledge graph merging [Theographic Bible Metadata](https://
 
 ## Output
 
-Published via GitHub Releases as JSON files:
+Published via GitHub Releases as JSON files and a SQLite database:
 
 - **people.json** — Biblical figures with relations, dates, verse refs
 - **places.json** — Locations with coordinates, classifications, verse refs
 - **events.json** — Biblical events with participants, dates, verse refs
 - **people-groups.json** — Tribes and ethnic groups
 - **verse-index.json** — Reverse index: verse → entities mentioned
+- **gnosis.db** — SQLite database with all entities, junction tables, and indexes
 
-All files are dicts keyed by slug ID (e.g. `"abraham"`, `"jerusalem"`). Each entity includes a deterministic UUID v5.
+JSON files are dicts keyed by slug ID (e.g. `"abraham"`, `"jerusalem"`). Each entity includes a deterministic UUID v5. The SQLite database mirrors the same data with integer PKs, foreign keys, and junction tables for many-to-many relationships.
 
 ## Usage
 
