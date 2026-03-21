@@ -8,6 +8,7 @@ from rich.console import Console
 from rich.table import Table
 
 from gnosis.types import Event, PeopleGroup, Person, Place
+from gnosis.types.cross_reference import CrossReferenceEntry
 
 OSIS_PATTERN = re.compile(
     r"^[A-Z1-9][A-Za-z]+\.\d{1,3}\.\d{1,3}(-\d{1,3})?$"
@@ -28,6 +29,7 @@ def validate(
     events: dict[str, Event],
     groups: dict[str, PeopleGroup],
     match_log: dict[str, str] | None = None,
+    cross_refs: dict[str, CrossReferenceEntry] | None = None,
     strict: bool = False,
 ) -> list[ValidationResult]:
     """Run all validation checks. Returns list of results."""
@@ -46,13 +48,19 @@ def validate(
     if match_log:
         results.append(_check_place_coverage(match_log))
 
-    # 5. Basic entity counts
+    # 5. Cross-reference validation
+    if cross_refs is not None:
+        results.append(_check_cross_refs(cross_refs))
+
+    # 6. Basic entity counts
+    xref_count = sum(len(e.targets) for e in cross_refs.values()) if cross_refs else 0
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
         message=(
             f"{len(people)} people, {len(places)} places, "
-            f"{len(events)} events, {len(groups)} groups"
+            f"{len(events)} events, {len(groups)} groups, "
+            f"{xref_count} cross-refs"
         ),
     ))
 
@@ -223,4 +231,43 @@ def _check_place_coverage(match_log: dict[str, str]) -> ValidationResult:
             f"exact: {counts['exact']}, override: {counts['override']}, "
             f"fuzzy: {counts['fuzzy']}, unmatched: {counts['unmatched']}"
         ),
+    )
+
+
+def _check_cross_refs(
+    cross_refs: dict[str, CrossReferenceEntry],
+) -> ValidationResult:
+    invalid: list[str] = []
+    self_refs: list[str] = []
+    total = 0
+
+    for from_verse, entry in cross_refs.items():
+        if not OSIS_PATTERN.match(from_verse):
+            invalid.append(f"from: {from_verse}")
+        for t in entry.targets:
+            total += 1
+            if not OSIS_PATTERN.match(t.verse_start):
+                invalid.append(f"to: {t.verse_start}")
+            if t.verse_end and not OSIS_PATTERN.match(t.verse_end):
+                invalid.append(f"to_end: {t.verse_end}")
+            if t.verse_start == from_verse and t.verse_end is None:
+                self_refs.append(from_verse)
+
+    details = [f"invalid OSIS: {r}" for r in invalid[:5]]
+    details += [f"self-ref: {r}" for r in self_refs[:5]]
+
+    if invalid:
+        return ValidationResult(
+            name="Cross-references",
+            status="warn",
+            message=(
+                f"{len(invalid)} invalid OSIS refs, "
+                f"{len(self_refs)} self-refs in {total} cross-refs"
+            ),
+            details=details,
+        )
+    return ValidationResult(
+        name="Cross-references",
+        status="pass",
+        message=f"{total} cross-refs across {len(cross_refs)} verses",
     )

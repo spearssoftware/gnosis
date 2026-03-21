@@ -49,7 +49,8 @@ def db_path(tmp_path: Path) -> Path:
             theographic_id="rec-pat",
         ),
     }
-    return write_sqlite(people, places, events, groups, tmp_path)
+    cross_refs: dict = {}
+    return write_sqlite(people, places, events, groups, cross_refs, tmp_path)
 
 
 def _query(db_path: Path, sql: str) -> list:

@@ -5,6 +5,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from gnosis.types import Event, PeopleGroup, Person, Place
+from gnosis.types.cross_reference import CrossReferenceEntry
 
 _SCHEMA = """
 CREATE TABLE verse (
@@ -121,6 +122,14 @@ CREATE TABLE event_participant (
     PRIMARY KEY (event_id, person_id)
 );
 
+CREATE TABLE cross_reference (
+    id INTEGER PRIMARY KEY,
+    from_verse_id INTEGER NOT NULL REFERENCES verse(id),
+    to_verse_start_id INTEGER NOT NULL REFERENCES verse(id),
+    to_verse_end_id INTEGER REFERENCES verse(id),
+    votes INTEGER NOT NULL DEFAULT 0
+);
+
 CREATE TABLE gnosis_meta (
     key TEXT PRIMARY KEY,
     value TEXT
@@ -140,6 +149,8 @@ CREATE INDEX idx_person_child_child_id ON person_child(child_id);
 CREATE INDEX idx_person_partner_partner_id ON person_partner(partner_id);
 CREATE INDEX idx_person_group_group_id ON person_group(group_id);
 CREATE INDEX idx_event_participant_person_id ON event_participant(person_id);
+CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
+CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
 
 
@@ -148,6 +159,7 @@ def write_sqlite(
     places: dict[str, Place],
     events: dict[str, Event],
     groups: dict[str, PeopleGroup],
+    cross_refs: dict[str, CrossReferenceEntry],
     output_dir: Path,
 ) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
@@ -170,6 +182,12 @@ def write_sqlite(
         all_verses.update(pl.verses)
     for e in events.values():
         all_verses.update(e.verses)
+    for from_v, entry in cross_refs.items():
+        all_verses.add(from_v)
+        for t in entry.targets:
+            all_verses.add(t.verse_start)
+            if t.verse_end:
+                all_verses.add(t.verse_end)
 
     verse_to_id: dict[str, int] = {}
     for i, ref in enumerate(sorted(all_verses), start=1):
@@ -341,7 +359,25 @@ def write_sqlite(
         ),
     )
 
-    # 7. Metadata
+    # 7. Cross-references
+    xref_rows = []
+    for from_v, entry in cross_refs.items():
+        from_id = verse_to_id.get(from_v)
+        if from_id is None:
+            continue
+        for t in entry.targets:
+            start_id = verse_to_id.get(t.verse_start)
+            if start_id is None:
+                continue
+            end_id = verse_to_id.get(t.verse_end) if t.verse_end else None
+            xref_rows.append((from_id, start_id, end_id, t.votes))
+    con.executemany(
+        "INSERT INTO cross_reference (from_verse_id, to_verse_start_id, to_verse_end_id, votes) "
+        "VALUES (?, ?, ?, ?)",
+        xref_rows,
+    )
+
+    # 8. Metadata
     con.execute(
         "INSERT INTO gnosis_meta (key, value) VALUES (?, ?)",
         ("version", "0.1.0"),

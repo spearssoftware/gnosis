@@ -11,6 +11,7 @@ from rich.progress import Progress
 from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
 from gnosis.parsers.openbible import parse_openbible
+from gnosis.parsers.scrollmapper import parse_scrollmapper
 from gnosis.parsers.theographic import parse_theographic
 from gnosis.sqlite_writer import write_sqlite
 from gnosis.validate.checks import print_results, validate
@@ -23,11 +24,12 @@ console = Console()
 
 
 def _parse_all() -> tuple:
-    """Parse and merge all sources. Returns (people, places, events, groups, match_log)."""
+    """Parse and merge all sources."""
     people, places, events, groups = parse_theographic(SOURCES_DIR / "theographic")
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
-    return people, places, events, groups, match_log
+    cross_refs = parse_scrollmapper(SOURCES_DIR)
+    return people, places, events, groups, match_log, cross_refs
 
 
 def _compact(data: dict) -> dict:
@@ -51,13 +53,16 @@ def cmd_build(strict: bool = False) -> bool:
     with Progress(console=console) as progress:
         task = progress.add_task("Parsing sources...", total=3)
 
-        people, places, events, groups, match_log = _parse_all()
+        people, places, events, groups, match_log, cross_refs = _parse_all()
         progress.update(task, advance=1, description="Building verse index...")
 
         verse_index = build_verse_index(people, places, events)
         progress.update(task, advance=1, description="Validating...")
 
-        results = validate(people, places, events, groups, match_log, strict=strict)
+        results = validate(
+            people, places, events, groups, match_log,
+            cross_refs=cross_refs, strict=strict,
+        )
         progress.update(task, advance=1, description="Done ✓")
 
     console.print()
@@ -89,8 +94,12 @@ def cmd_build(strict: bool = False) -> bool:
         {k: v.model_dump() for k, v in sorted(verse_index.items())},
         "verse-index.json",
     )
+    _write_output(
+        {k: _compact(v.model_dump()) for k, v in sorted(cross_refs.items())},
+        "cross-references.json",
+    )
 
-    db_path = write_sqlite(people, places, events, groups, OUTPUT_DIR)
+    db_path = write_sqlite(people, places, events, groups, cross_refs, OUTPUT_DIR)
     console.print(f"  Wrote {db_path.name}")
 
     console.print("\n[bold green]Build complete.[/bold green]")
@@ -101,8 +110,11 @@ def cmd_validate(strict: bool = False) -> bool:
     """Run validation only (no output written)."""
     console.print("[bold]Gnosis Validation[/bold]\n")
 
-    people, places, events, groups, match_log = _parse_all()
-    results = validate(people, places, events, groups, match_log, strict=strict)
+    people, places, events, groups, match_log, cross_refs = _parse_all()
+    results = validate(
+        people, places, events, groups, match_log,
+        cross_refs=cross_refs, strict=strict,
+    )
     return print_results(results)
 
 
