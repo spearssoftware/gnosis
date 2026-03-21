@@ -9,6 +9,7 @@ from rich.table import Table
 
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
+from gnosis.types.dictionary import DictionaryEntry
 from gnosis.types.strongs import StrongsEntry
 
 OSIS_PATTERN = re.compile(
@@ -32,6 +33,7 @@ def validate(
     match_log: dict[str, str] | None = None,
     cross_refs: dict[str, CrossReferenceEntry] | None = None,
     strongs: dict[str, StrongsEntry] | None = None,
+    dictionary: dict[str, DictionaryEntry] | None = None,
     strict: bool = False,
 ) -> list[ValidationResult]:
     """Run all validation checks. Returns list of results."""
@@ -58,16 +60,22 @@ def validate(
     if strongs is not None:
         results.append(_check_strongs(strongs))
 
-    # 7. Basic entity counts
+    # 7. Dictionary validation
+    if dictionary is not None:
+        results.append(_check_dictionary(dictionary))
+
+    # 8. Basic entity counts
     xref_count = sum(len(e.targets) for e in cross_refs.values()) if cross_refs else 0
     strongs_count = len(strongs) if strongs else 0
+    dict_count = len(dictionary) if dictionary else 0
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
         message=(
             f"{len(people)} people, {len(places)} places, "
             f"{len(events)} events, {len(groups)} groups, "
-            f"{xref_count} cross-refs, {strongs_count} strongs"
+            f"{xref_count} cross-refs, {strongs_count} strongs, "
+            f"{dict_count} dictionary"
         ),
     ))
 
@@ -307,4 +315,44 @@ def _check_strongs(strongs: dict[str, StrongsEntry]) -> ValidationResult:
         name="Strong's concordance",
         status="pass",
         message=f"{len(strongs)} entries (H:{hebrew}, G:{greek})",
+    )
+
+
+def _check_dictionary(
+    dictionary: dict[str, DictionaryEntry],
+) -> ValidationResult:
+    invalid_refs: list[str] = []
+    empty_defs: list[str] = []
+    source_counts: dict[str, int] = {}
+
+    for slug, entry in dictionary.items():
+        if not entry.definitions:
+            empty_defs.append(slug)
+        for defn in entry.definitions:
+            source_counts[defn.source] = source_counts.get(defn.source, 0) + 1
+        for ref in entry.scripture_refs:
+            if not OSIS_PATTERN.match(ref):
+                invalid_refs.append(f"{slug}: {ref}")
+
+    details: list[str] = []
+    if invalid_refs:
+        details.extend(invalid_refs[:5])
+    if empty_defs:
+        details.append(f"{len(empty_defs)} entries with no definitions")
+
+    sources_str = ", ".join(
+        f"{k}:{v}" for k, v in sorted(source_counts.items())
+    )
+
+    if invalid_refs:
+        return ValidationResult(
+            name="Dictionary",
+            status="warn",
+            message=f"{len(invalid_refs)} invalid refs in {len(dictionary)} entries",
+            details=details,
+        )
+    return ValidationResult(
+        name="Dictionary",
+        status="pass",
+        message=f"{len(dictionary)} entries ({sources_str})",
     )

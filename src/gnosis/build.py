@@ -10,6 +10,7 @@ from rich.progress import Progress
 
 from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
+from gnosis.parsers.dictionaries import link_dictionary_entities, parse_dictionaries
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
 from gnosis.parsers.strongs import parse_strongs
@@ -31,7 +32,9 @@ def _parse_all() -> tuple:
     places, match_log = merge_places(places, openbible_places)
     cross_refs = parse_scrollmapper(SOURCES_DIR)
     strongs = parse_strongs(SOURCES_DIR)
-    return people, places, events, groups, match_log, cross_refs, strongs
+    dictionary = parse_dictionaries(SOURCES_DIR)
+    link_dictionary_entities(dictionary, people, places)
+    return people, places, events, groups, match_log, cross_refs, strongs, dictionary
 
 
 def _compact(data: dict) -> dict:
@@ -55,7 +58,8 @@ def cmd_build(strict: bool = False) -> bool:
     with Progress(console=console) as progress:
         task = progress.add_task("Parsing sources...", total=3)
 
-        people, places, events, groups, match_log, cross_refs, strongs = _parse_all()
+        (people, places, events, groups, match_log,
+         cross_refs, strongs, dictionary) = _parse_all()
         progress.update(task, advance=1, description="Building verse index...")
 
         verse_index = build_verse_index(people, places, events)
@@ -63,7 +67,8 @@ def cmd_build(strict: bool = False) -> bool:
 
         results = validate(
             people, places, events, groups, match_log,
-            cross_refs=cross_refs, strongs=strongs, strict=strict,
+            cross_refs=cross_refs, strongs=strongs,
+            dictionary=dictionary, strict=strict,
         )
         progress.update(task, advance=1, description="Done ✓")
 
@@ -104,9 +109,14 @@ def cmd_build(strict: bool = False) -> bool:
         {k: _compact(v.model_dump()) for k, v in sorted(strongs.items())},
         "strongs.json",
     )
+    _write_output(
+        {k: _compact(v.model_dump()) for k, v in sorted(dictionary.items())},
+        "dictionary.json",
+    )
 
     db_path = write_sqlite(
-        people, places, events, groups, cross_refs, strongs, OUTPUT_DIR,
+        people, places, events, groups, cross_refs, strongs, dictionary,
+        OUTPUT_DIR,
     )
     console.print(f"  Wrote {db_path.name}")
 
@@ -118,10 +128,12 @@ def cmd_validate(strict: bool = False) -> bool:
     """Run validation only (no output written)."""
     console.print("[bold]Gnosis Validation[/bold]\n")
 
-    people, places, events, groups, match_log, cross_refs, strongs = _parse_all()
+    (people, places, events, groups, match_log,
+     cross_refs, strongs, dictionary) = _parse_all()
     results = validate(
         people, places, events, groups, match_log,
-        cross_refs=cross_refs, strongs=strongs, strict=strict,
+        cross_refs=cross_refs, strongs=strongs,
+        dictionary=dictionary, strict=strict,
     )
     return print_results(results)
 

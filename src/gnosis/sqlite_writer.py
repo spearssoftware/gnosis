@@ -6,6 +6,7 @@ from pathlib import Path
 
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
+from gnosis.types.dictionary import DictionaryEntry
 from gnosis.types.strongs import StrongsEntry
 
 _SCHEMA = """
@@ -135,6 +136,26 @@ CREATE TABLE strongs (
     kjv_usage TEXT
 );
 
+CREATE TABLE dictionary_entry (
+    id INTEGER PRIMARY KEY,
+    slug TEXT NOT NULL UNIQUE,
+    uuid TEXT NOT NULL,
+    name TEXT NOT NULL
+);
+
+CREATE TABLE dictionary_definition (
+    id INTEGER PRIMARY KEY,
+    entry_id INTEGER NOT NULL REFERENCES dictionary_entry(id),
+    source TEXT NOT NULL,
+    text TEXT NOT NULL
+);
+
+CREATE TABLE dictionary_verse (
+    entry_id INTEGER NOT NULL REFERENCES dictionary_entry(id),
+    verse_id INTEGER NOT NULL REFERENCES verse(id),
+    PRIMARY KEY (entry_id, verse_id)
+);
+
 CREATE TABLE cross_reference (
     id INTEGER PRIMARY KEY,
     from_verse_id INTEGER NOT NULL REFERENCES verse(id),
@@ -163,6 +184,8 @@ CREATE INDEX idx_person_partner_partner_id ON person_partner(partner_id);
 CREATE INDEX idx_person_group_group_id ON person_group(group_id);
 CREATE INDEX idx_event_participant_person_id ON event_participant(person_id);
 CREATE INDEX idx_strongs_number ON strongs(number);
+CREATE INDEX idx_dict_entry_name ON dictionary_entry(name);
+CREATE INDEX idx_dict_def_entry ON dictionary_definition(entry_id);
 CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
 CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
@@ -175,6 +198,7 @@ def write_sqlite(
     groups: dict[str, PeopleGroup],
     cross_refs: dict[str, CrossReferenceEntry],
     strongs: dict[str, StrongsEntry],
+    dictionary: dict[str, DictionaryEntry],
     output_dir: Path,
 ) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
@@ -203,6 +227,8 @@ def write_sqlite(
             all_verses.add(t.verse_start)
             if t.verse_end:
                 all_verses.add(t.verse_end)
+    for d_entry in dictionary.values():
+        all_verses.update(d_entry.scripture_refs)
 
     verse_to_id: dict[str, int] = {}
     for i, ref in enumerate(sorted(all_verses), start=1):
@@ -386,7 +412,36 @@ def write_sqlite(
             ),
         )
 
-    # 8. Cross-references
+    # 8. Dictionary entries
+    dict_slug_to_id: dict[str, int] = {}
+    def_id = 0
+    for i, (slug, d) in enumerate(sorted(dictionary.items()), start=1):
+        dict_slug_to_id[slug] = i
+        con.execute(
+            "INSERT INTO dictionary_entry (id, slug, uuid, name) "
+            "VALUES (?, ?, ?, ?)",
+            (i, slug, d.uuid, d.name),
+        )
+        for defn in d.definitions:
+            def_id += 1
+            con.execute(
+                "INSERT INTO dictionary_definition (id, entry_id, source, text) "
+                "VALUES (?, ?, ?, ?)",
+                (def_id, i, defn.source, defn.text),
+            )
+
+    con.executemany(
+        "INSERT OR IGNORE INTO dictionary_verse (entry_id, verse_id) "
+        "VALUES (?, ?)",
+        (
+            (dict_slug_to_id[slug], verse_to_id[v])
+            for slug, d in dictionary.items()
+            for v in d.scripture_refs
+            if v in verse_to_id
+        ),
+    )
+
+    # 9. Cross-references
     xref_rows = []
     for from_v, entry in cross_refs.items():
         from_id = verse_to_id.get(from_v)
@@ -404,7 +459,7 @@ def write_sqlite(
         xref_rows,
     )
 
-    # 9. Metadata
+    # 10. Metadata
     con.execute(
         "INSERT INTO gnosis_meta (key, value) VALUES (?, ?)",
         ("version", "0.1.0"),
