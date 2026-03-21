@@ -8,6 +8,7 @@ from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
 from gnosis.types.strongs import StrongsEntry
+from gnosis.types.topic import Topic
 
 _SCHEMA = """
 CREATE TABLE verse (
@@ -156,6 +157,32 @@ CREATE TABLE dictionary_verse (
     PRIMARY KEY (entry_id, verse_id)
 );
 
+CREATE TABLE topic (
+    id INTEGER PRIMARY KEY,
+    slug TEXT NOT NULL UNIQUE,
+    uuid TEXT NOT NULL,
+    name TEXT NOT NULL
+);
+
+CREATE TABLE topic_aspect (
+    id INTEGER PRIMARY KEY,
+    topic_id INTEGER NOT NULL REFERENCES topic(id),
+    label TEXT,
+    source TEXT
+);
+
+CREATE TABLE topic_aspect_verse (
+    aspect_id INTEGER NOT NULL REFERENCES topic_aspect(id),
+    verse_id INTEGER NOT NULL REFERENCES verse(id),
+    PRIMARY KEY (aspect_id, verse_id)
+);
+
+CREATE TABLE topic_see_also (
+    topic_id INTEGER NOT NULL REFERENCES topic(id),
+    related_topic_id INTEGER NOT NULL REFERENCES topic(id),
+    PRIMARY KEY (topic_id, related_topic_id)
+);
+
 CREATE TABLE cross_reference (
     id INTEGER PRIMARY KEY,
     from_verse_id INTEGER NOT NULL REFERENCES verse(id),
@@ -186,6 +213,8 @@ CREATE INDEX idx_event_participant_person_id ON event_participant(person_id);
 CREATE INDEX idx_strongs_number ON strongs(number);
 CREATE INDEX idx_dict_entry_name ON dictionary_entry(name);
 CREATE INDEX idx_dict_def_entry ON dictionary_definition(entry_id);
+CREATE INDEX idx_topic_name ON topic(name);
+CREATE INDEX idx_topic_aspect_topic ON topic_aspect(topic_id);
 CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
 CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
@@ -199,6 +228,7 @@ def write_sqlite(
     cross_refs: dict[str, CrossReferenceEntry],
     strongs: dict[str, StrongsEntry],
     dictionary: dict[str, DictionaryEntry],
+    topics: dict[str, Topic],
     output_dir: Path,
 ) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
@@ -229,6 +259,9 @@ def write_sqlite(
                 all_verses.add(t.verse_end)
     for d_entry in dictionary.values():
         all_verses.update(d_entry.scripture_refs)
+    for t in topics.values():
+        for asp in t.aspects:
+            all_verses.update(asp.verses)
 
     verse_to_id: dict[str, int] = {}
     for i, ref in enumerate(sorted(all_verses), start=1):
@@ -441,7 +474,44 @@ def write_sqlite(
         ),
     )
 
-    # 9. Cross-references
+    # 9. Topics
+    topic_slug_to_id: dict[str, int] = {}
+    aspect_id = 0
+    for i, (slug, t) in enumerate(sorted(topics.items()), start=1):
+        topic_slug_to_id[slug] = i
+        con.execute(
+            "INSERT INTO topic (id, slug, uuid, name) VALUES (?, ?, ?, ?)",
+            (i, slug, t.uuid, t.name),
+        )
+        for asp in t.aspects:
+            aspect_id += 1
+            con.execute(
+                "INSERT INTO topic_aspect (id, topic_id, label, source) "
+                "VALUES (?, ?, ?, ?)",
+                (aspect_id, i, asp.label, asp.source),
+            )
+            con.executemany(
+                "INSERT OR IGNORE INTO topic_aspect_verse (aspect_id, verse_id) "
+                "VALUES (?, ?)",
+                (
+                    (aspect_id, verse_to_id[v])
+                    for v in asp.verses
+                    if v in verse_to_id
+                ),
+            )
+
+    con.executemany(
+        "INSERT OR IGNORE INTO topic_see_also (topic_id, related_topic_id) "
+        "VALUES (?, ?)",
+        (
+            (topic_slug_to_id[slug], topic_slug_to_id[sa])
+            for slug, t in topics.items()
+            for sa in t.see_also
+            if sa in topic_slug_to_id
+        ),
+    )
+
+    # 10. Cross-references
     xref_rows = []
     for from_v, entry in cross_refs.items():
         from_id = verse_to_id.get(from_v)
@@ -459,7 +529,7 @@ def write_sqlite(
         xref_rows,
     )
 
-    # 10. Metadata
+    # 11. Metadata
     con.execute(
         "INSERT INTO gnosis_meta (key, value) VALUES (?, ?)",
         ("version", "0.1.0"),

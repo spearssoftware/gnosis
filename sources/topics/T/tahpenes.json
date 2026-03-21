@@ -1,0 +1,43 @@
+{
+  "topic": "TAHPENES",
+  "slug": "tahpenes",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A queen of Egypt",
+      "references": [
+        "1 Kings 11:19,20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 11:19,20"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Kings"
+    ]
+  }
+}

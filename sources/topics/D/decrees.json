@@ -1,0 +1,74 @@
+{
+  "topic": "DECREES",
+  "slug": "decrees",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of the Me",
+      "references": [
+        "Daniel 6:14,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "From the congregation in",
+      "references": [
+        "Acts 16:4",
+        "Acts 15:28,29"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 6:14,15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 15:28,29"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Daniel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Daniel"
+    ]
+  }
+}

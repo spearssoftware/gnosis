@@ -1,0 +1,42 @@
+{
+  "topic": "AMANA",
+  "slug": "amana",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A mountain mentioned in",
+      "references": [
+        "Song of Solomon 4:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:8"
+    }
+  ],
+  "books_mentioned": [
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Song of Solomon"
+    ]
+  }
+}

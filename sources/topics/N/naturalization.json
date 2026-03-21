@@ -1,0 +1,56 @@
+{
+  "topic": "NATURALIZATION",
+  "slug": "naturalization",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Acts 22:28",
+        "Ephesians 2:12,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 22:28"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        12,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 2:12,19"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ephesians"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Ephesians"
+    ]
+  }
+}

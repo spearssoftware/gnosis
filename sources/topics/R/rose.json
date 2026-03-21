@@ -1,0 +1,55 @@
+{
+  "topic": "ROSE",
+  "slug": "rose",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Song of Solomon 2:1",
+        "Isaiah 35:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 35,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 35:1"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Song of Solomon",
+      "Isaiah"
+    ]
+  }
+}

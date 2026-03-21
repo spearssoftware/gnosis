@@ -1,0 +1,55 @@
+{
+  "topic": "QUIVER",
+  "slug": "quiver",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "For arrows",
+      "references": [
+        "Genesis 27:3",
+        "Isaiah 22:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 27:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 22,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 22:6"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Isaiah"
+    ]
+  }
+}

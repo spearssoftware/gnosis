@@ -1,0 +1,79 @@
+{
+  "topic": "MEPHAATH",
+  "slug": "mephaath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A Leviti",
+      "references": [
+        "Joshua 13:18",
+        "Joshua 21:37",
+        "1 Chronicles 6:79",
+        "Jeremiah 48:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:18"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:37"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        79
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:79"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Jeremiah",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "1 Chronicles",
+      "Jeremiah"
+    ]
+  }
+}

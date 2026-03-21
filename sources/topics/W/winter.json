@@ -1,0 +1,311 @@
+{
+  "topic": "WINTER",
+  "slug": "winter",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "METEOROLOGY"
+  ],
+  "aspects": [
+    {
+      "label": "An",
+      "references": [
+        "Genesis 8:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Plowing in, in",
+      "references": [
+        "Proverbs 20:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Rainy sea",
+      "references": [
+        "Song of Solomon 2:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Shipping suspen",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul remains for one, at Nicopolis",
+      "references": [
+        "Titus 3:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Summer and winter houses",
+      "references": [
+        "Jeremiah 36:22",
+        "Amos 3:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMETEOROLOGY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "God makes",
+      "references": [
+        "Psalms 74:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Yearly return of, secured by covenant",
+      "references": [
+        "Genesis 8:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Coldness and inclemency of, noticed",
+      "references": [
+        "Proverbs 20:4",
+        "John 10:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Unsuited for: Travelling",
+      "references": [
+        "Matthew 24:20",
+        "2 Timothy 4:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Unsuited for: Navigation",
+      "references": [
+        "Acts 27:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ships were laid up in port during",
+      "references": [
+        "Acts 27:12",
+        "Acts 28:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews frequently had special houses for",
+      "references": [
+        "Jeremiah 36:22",
+        "Amos 3:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of seasons of spiritual adversity",
+      "references": [
+        "Song of Solomon 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:4"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:11"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 27,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 27:12"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 28,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 28:11"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:22"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 3:15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 74,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 74:17"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 10:22"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 24:20"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:21"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:12"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:11"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts",
+    "Amos",
+    "Genesis",
+    "Jeremiah",
+    "John",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 15,
+    "ot_refs": 8,
+    "nt_refs": 7,
+    "books_count": 11,
+    "top_books": [
+      "Song of Solomon",
+      "Acts",
+      "Genesis",
+      "Proverbs",
+      "Titus",
+      "Jeremiah",
+      "Amos",
+      "Psalms",
+      "John",
+      "Matthew"
+    ]
+  }
+}

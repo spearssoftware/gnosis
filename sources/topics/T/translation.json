@@ -1,0 +1,157 @@
+{
+  "topic": "TRANSLATION",
+  "slug": "translation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Transporting)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Enoch",
+      "references": [
+        "Genesis 5:2,4",
+        "Hebrews 11:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Elijah",
+      "references": [
+        "2 Kings 2:1-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Jesus",
+      "references": [
+        "Mark 16:19",
+        "Luke 24:51",
+        "Acts 1:9-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Corinthians 5:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        2,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 5:2,4"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:5"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "2 Kings 2:1-12"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 16:19"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 24:51"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 1:9-11"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 5:4"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "2 Kings",
+    "Acts",
+    "Genesis",
+    "Hebrews",
+    "Luke",
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 2,
+    "nt_refs": 5,
+    "books_count": 7,
+    "top_books": [
+      "Genesis",
+      "Hebrews",
+      "2 Kings",
+      "Mark",
+      "Luke",
+      "Acts",
+      "2 Corinthians"
+    ]
+  }
+}

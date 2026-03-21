@@ -1,0 +1,122 @@
+{
+  "topic": "ELON",
+  "slug": "elon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father-in-law of Esau",
+      "references": [
+        "Genesis 26:34",
+        "Genesis 36:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "Genesis 46:14",
+        "Numbers 26:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A town of Dan",
+      "references": [
+        "Joshua 19:43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Hebrew",
+      "references": [
+        "Judges 12:11,12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:34"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:26"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:43"
+    },
+    {
+      "book": "Judges",
+      "chapter": 12,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 12:11,12"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Joshua",
+    "Judges",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "Numbers",
+      "Joshua",
+      "Judges"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "GOLGOTHA",
+  "slug": "golgotha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CALVARY"
+  ],
+  "aspects": [
+    {
+      "label": "The Aramaic name of the place where Jesus was crucified",
+      "references": [
+        "Matthew 27:33",
+        "Mark 15:22",
+        "John 19:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:33"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:22"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:17"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "John"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "topic": "AHOLIBAH",
+  "slug": "aholibah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An imaginary character, typi",
+      "references": [
+        "Ezekiel 23:4,5,36,44"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        4,
+        5,
+        36,
+        44
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ezekiel 23:4,5,36,44"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezekiel"
+    ]
+  }
+}

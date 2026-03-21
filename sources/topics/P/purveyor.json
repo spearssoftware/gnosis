@@ -1,0 +1,55 @@
+{
+  "topic": "PURVEYOR",
+  "slug": "purveyor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "For",
+      "references": [
+        "1 Kings 4:7-19,27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        27
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "1 Kings 4:7-19,27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Kings"
+    ]
+  }
+}

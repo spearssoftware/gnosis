@@ -1,0 +1,189 @@
+{
+  "topic": "BOWL",
+  "slug": "bowl",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BASIN"
+  ],
+  "aspects": [
+    {
+      "label": "Ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".For the tabernacle",
+      "references": [
+        "Exodus 25:29",
+        "Exodus 37:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Temple",
+      "references": [
+        "1 Kings 7:50",
+        "1 Chronicles 28:17",
+        "2 Chronicles 4:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of silver",
+      "references": [
+        "Numbers 4:7",
+        "Numbers 7:13,19,25,31,37,43,49,55,61,67,73,79,84"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Stamped “Holiness to the Lord,”",
+      "references": [
+        "Ecclesiastes 14:20,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBASIN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Ecclesiastes 12:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:29"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 37:16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:50"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 28:17"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:8"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 4:7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        13,
+        19,
+        25,
+        31,
+        37,
+        43,
+        49,
+        55,
+        61,
+        67,
+        73,
+        79,
+        84
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Numbers 7:13,19,25,31,37,43,49,55,61,67,73,79,84"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 14,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 14:20,21"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Ecclesiastes",
+    "Exodus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Exodus",
+      "Numbers",
+      "Ecclesiastes",
+      "1 Kings",
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

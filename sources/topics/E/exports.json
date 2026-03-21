@@ -1,0 +1,243 @@
+{
+  "topic": "EXPORTS",
+  "slug": "exports",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMERCE",
+    "IMPORTS"
+  ],
+  "aspects": [
+    {
+      "label": "From Egypt",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of horses and chariots, and linen yarn",
+      "references": [
+        "1 Kings 10:28,29",
+        "2 Chronicles 1:16,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of corn (grain)Ge 42;43",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "From Gilead",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of spices",
+      "references": [
+        "Genesis 37:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "From Ophir",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of gold",
+      "references": [
+        "1 Kings 10:11",
+        "1 Kings 22:48",
+        "1 Chronicles 29:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "From Tarshish",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of gold",
+      "references": [
+        "1 Kings 10:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ivory, apes, and peacocks",
+      "references": [
+        "1 Kings 10:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Silver, iron, tin, lead, brass, slaves",
+      "references": [
+        "Ezekiel 27:12,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "From Arabia",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of sheep and goats",
+      "references": [
+        "Ezekiel 27:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "From Palestine",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Honey",
+      "references": [
+        "Ezekiel 27:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIMPORTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMMERCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 10:28,29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 1,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 1:16,17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:25"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:11"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:48"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 27:12,13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Ezekiel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 17,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Kings",
+      "Ezekiel",
+      "2 Chronicles",
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

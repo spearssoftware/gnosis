@@ -1,0 +1,49 @@
+{
+  "topic": "SCALL",
+  "slug": "scall",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LEPROSY"
+  ],
+  "aspects": [
+    {
+      "label": "A form of leprosy",
+      "references": [
+        "Leviticus 13:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLEPROSY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 13:30"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

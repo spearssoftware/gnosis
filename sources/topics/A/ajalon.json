@@ -1,0 +1,168 @@
+{
+  "topic": "AJALON",
+  "slug": "ajalon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city of Dan",
+      "references": [
+        "Joshua 19:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assigned to the Levites. A city of refuge",
+      "references": [
+        "Joshua 21:24",
+        "1 Samuel 14:31",
+        "1 Chronicles 6:69"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Amorites of, not exterminated",
+      "references": [
+        "Judges 1:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of Zebu",
+      "references": [
+        "Judges 12:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city of",
+      "references": [
+        "2 Chronicles 28:18",
+        "2 Chronicles 11:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A valley",
+      "references": [
+        "Joshua 10:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:42"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:24"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        69
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:69"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:35"
+    },
+    {
+      "book": "Judges",
+      "chapter": 12,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 12:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 28:18"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:10"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 10:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Chronicles",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Joshua",
+      "Judges",
+      "2 Chronicles",
+      "1 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

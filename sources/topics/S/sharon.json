@@ -1,0 +1,137 @@
+{
+  "topic": "SHARON",
+  "slug": "sharon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The maritime slope of Palestine north of the city of Joppa",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".David’ s herds in",
+      "references": [
+        "1 Chronicles 27:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Roses and beauty of",
+      "references": [
+        "Song of Solomon 2:1",
+        "Isaiah 33:9",
+        "Isaiah 35:2",
+        "Isaiah 65:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Acts 9:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A place that has not been ascertained",
+      "references": [
+        "1 Chronicles 5:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:29"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 33,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 33:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 35,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 35:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:35"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Acts",
+    "Isaiah",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Isaiah",
+      "1 Chronicles",
+      "Song of Solomon",
+      "Acts"
+    ]
+  }
+}

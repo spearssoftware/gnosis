@@ -1,0 +1,102 @@
+{
+  "topic": "GOSSIP",
+  "slug": "gossip",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SLANDER",
+    "SPEAKING, EVIL"
+  ],
+  "aspects": [
+    {
+      "label": "FORBID",
+      "references": [
+        "Leviticus 19:16",
+        "Psalms 50:20",
+        "Proverbs 11:13",
+        "Proverbs 20:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSLAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSPEAKING, EVIL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 50,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 50:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:19"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:9"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Leviticus",
+      "Psalms"
+    ]
+  }
+}

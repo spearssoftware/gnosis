@@ -1,0 +1,53 @@
+{
+  "topic": "DOEG",
+  "slug": "doeg",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An Edomite, present when Ahimelech helped David1Sa",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "21:7;Ps 52",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Mur",
+      "references": [
+        "1 Samuel 22:18,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 22:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Samuel"
+    ]
+  }
+}

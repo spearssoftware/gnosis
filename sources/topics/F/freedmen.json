@@ -1,0 +1,49 @@
+{
+  "topic": "FREEDMEN",
+  "slug": "freedmen",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EMANCIPATION"
+  ],
+  "aspects": [
+    {
+      "label": "Synagogue of",
+      "references": [
+        "Acts 6:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEMANCIPATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 6:9"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

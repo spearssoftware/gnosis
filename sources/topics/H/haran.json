@@ -1,0 +1,288 @@
+{
+  "topic": "HARAN",
+  "slug": "haran",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father of Lot and brother of Abraham",
+      "references": [
+        "Genesis 11:26-31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 2:46"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Levite",
+      "references": [
+        "1 Chronicles 23:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".A place in Me",
+      "references": [
+        "Genesis 11:31",
+        "Genesis 12:4,5",
+        "Acts 7:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 11:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abraham leaves, by divine command",
+      "references": [
+        "Genesis 12:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jacob flees to",
+      "references": [
+        "Genesis 27:43",
+        "Genesis 28:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Returns from, with Rachel and Leah",
+      "references": [
+        "Genesis 31:17-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Conquest of, king of Assyria",
+      "references": [
+        "2 Kings 19:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Merchants of",
+      "references": [
+        "Ezekiel 27:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Idolatry in",
+      "references": [
+        "Joshua 24:2,14",
+        "Isaiah 37:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Genesis 11:26-31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:46"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 12:4,5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:32"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 12:1-5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 27:43"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 28,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 28:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 31:17-21"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:12"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:23"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        2,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 24:2,14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "Acts",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 15,
+    "ot_refs": 14,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Acts",
+      "2 Kings",
+      "Ezekiel",
+      "Joshua",
+      "Isaiah"
+    ]
+  }
+}

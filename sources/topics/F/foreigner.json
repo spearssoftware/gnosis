@@ -1,0 +1,61 @@
+{
+  "topic": "FOREIGNER",
+  "slug": "foreigner",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ALIENS",
+    "GENTILES",
+    "STRANGERS"
+  ],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Ephesians 2:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeALIENS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGENTILES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSTRANGERS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 2:19"
+    }
+  ],
+  "books_mentioned": [
+    "Ephesians"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Ephesians"
+    ]
+  }
+}

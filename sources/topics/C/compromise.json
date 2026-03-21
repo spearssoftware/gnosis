@@ -1,0 +1,97 @@
+{
+  "topic": "COMPROMISE",
+  "slug": "compromise",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADJUDICATION",
+    "ARBITRATION",
+    "COURT",
+    "JUSTICE"
+  ],
+  "aspects": [
+    {
+      "label": "BEFORE LITIGATION, ENJOINED",
+      "references": [
+        "Proverbs 25:8-10",
+        "Matthew 5:25,26",
+        "Luke 12:58,59"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeAD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeARBITRATION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJUSTICE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCOURT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        8,
+        9,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 25:8-10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 5:25,26"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        58,
+        59
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 12:58,59"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Matthew",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

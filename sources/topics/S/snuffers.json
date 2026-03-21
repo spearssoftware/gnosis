@@ -1,0 +1,81 @@
+{
+  "topic": "SNUFFERS",
+  "slug": "snuffers",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Provi",
+      "references": [
+        "1 Kings 7:50"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "12:13;25:14;",
+      "references": [
+        "Jeremiah 52:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:50"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:13"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 25,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 25:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 52,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 52:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "Jeremiah"
+    ]
+  }
+}

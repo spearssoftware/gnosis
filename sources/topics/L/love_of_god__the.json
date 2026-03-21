@@ -1,0 +1,766 @@
+{
+  "topic": "LOVE OF GOD, THE",
+  "slug": "love_of_god__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Is a part of his character",
+      "references": [
+        "2 Corinthians 13:11",
+        "1 John 4:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christ, the especial object of",
+      "references": [
+        "John 15:9",
+        "John 17:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christ abides in",
+      "references": [
+        "John 15:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Sovereign",
+      "references": [
+        "Deuteronomy 7:8",
+        "Deuteronomy 10:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Great",
+      "references": [
+        "Ephesians 2:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Abiding",
+      "references": [
+        "Zephaniah 3:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Unfailing",
+      "references": [
+        "Isaiah 49:15,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Unalienable",
+      "references": [
+        "Romans 8:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Constraining",
+      "references": [
+        "Hosea 11:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Everlasting",
+      "references": [
+        "Jeremiah 31:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Irrespective of merit",
+      "references": [
+        "Deuteronomy 7:7",
+        "Job 7:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Manifested towards: Perishing sinners",
+      "references": [
+        "John 3:16",
+        "Titus 3:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Manifested towards: His saints",
+      "references": [
+        "John 16:27",
+        "John 17:23",
+        "2 Thessalonians 2:16",
+        "1 John 4:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Manifested towards: The destitute",
+      "references": [
+        "Deuteronomy 10:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Manifested towards: The cheerful giver",
+      "references": [
+        "2 Corinthians 9:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: The giving of Christ",
+      "references": [
+        "John 3:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: The sending of Christ",
+      "references": [
+        "1 John 4:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Christ’s dying for us while sinners",
+      "references": [
+        "Romans 5:8",
+        "1 John 4:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Election",
+      "references": [
+        "Malachi 1:2,3",
+        "Romans 9:11-13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Adoption",
+      "references": [
+        "1 John 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Redemption",
+      "references": [
+        "Isaiah 43:3,4",
+        "Isaiah 63:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Freeness of salvation",
+      "references": [
+        "Titus 3:4-7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Forgiving sin",
+      "references": [
+        "Isaiah 38:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Quickening of souls",
+      "references": [
+        "Ephesians 2:4,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Drawing us to himself",
+      "references": [
+        "Hosea 11:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Temporal blessings",
+      "references": [
+        "Deuteronomy 7:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Chastisements",
+      "references": [
+        "Hebrews 12:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhibited in: Defeating evil counsels",
+      "references": [
+        "Deuteronomy 23:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Shed abroad in the heart by the Holy Spirit",
+      "references": [
+        "Romans 5:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints know and believe",
+      "references": [
+        "1 John 4:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should abide in",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Perfected in saints: By obedience",
+      "references": [
+        "1 John 2:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Perfected in saints: By brotherly love",
+      "references": [
+        "1 John 4:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The source of our love to him",
+      "references": [
+        "1 John 4:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be sought in prayer",
+      "references": [
+        "2 Corinthians 13:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Corinthians",
+      "chapter": 13,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 13:11"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:8"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 15:9"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 17:26"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 15:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 10:15"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 2:4"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 3:17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 49,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 49:15,16"
+    },
+    {
+      "book": "Romans",
+      "chapter": 8,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 8:39"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 11:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 31,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 31:3"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:7"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 7:17"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 3:16"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:4"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 16:27"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 17:23"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Thessalonians 2:16"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 10:18"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 9:7"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:9"
+    },
+    {
+      "book": "Romans",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 5:8"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:10"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 1,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Malachi 1:2,3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 9,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Romans 9:11-13"
+    },
+    {
+      "book": "1 John",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 3:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 43:3,4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 63,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 63:9"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Titus 3:4-7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 38,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 38:17"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 2:4,5"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:13"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 23:5"
+    },
+    {
+      "book": "Romans",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 5:5"
+    },
+    {
+      "book": "1 John",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 2:5"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:12"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:19"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 13,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 13:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 John",
+    "2 Corinthians",
+    "2 Thessalonians",
+    "Deuteronomy",
+    "Ephesians",
+    "Hebrews",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Malachi",
+    "Romans",
+    "Titus",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 35,
+    "total_refs": 42,
+    "ot_refs": 15,
+    "nt_refs": 27,
+    "books_count": 15,
+    "top_books": [
+      "1 John",
+      "John",
+      "Deuteronomy",
+      "Isaiah",
+      "Romans",
+      "2 Corinthians",
+      "Ephesians",
+      "Titus",
+      "Zephaniah",
+      "Hosea"
+    ]
+  }
+}

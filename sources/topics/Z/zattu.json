@@ -1,0 +1,69 @@
+{
+  "topic": "ZATTU",
+  "slug": "zattu",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. One whose",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2:8;10:27;",
+      "references": [
+        "Nehemiah 7:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Probably i",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".One who sealed the covenant with Nehemiah",
+      "references": [
+        "Nehemiah 10:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:14"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

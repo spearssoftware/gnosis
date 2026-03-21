@@ -1,0 +1,123 @@
+{
+  "topic": "SCAB",
+  "slug": "scab",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DISEASE",
+    "SANITATION",
+    "SCURVY"
+  ],
+  "aspects": [
+    {
+      "label": "Disease of the skin",
+      "references": [
+        "Leviticus 13:2,6-8",
+        "Leviticus 14:56",
+        "Leviticus 21:20",
+        "Leviticus 22:22",
+        "Deuteronomy 28:27",
+        "Isaiah 3:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDISEASE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSANITATION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSCURVY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "verses": [
+        2,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Leviticus 13:2,6-8"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        56
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 14:56"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 21:20"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 22:22"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:27"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:17"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Isaiah",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Deuteronomy",
+      "Isaiah"
+    ]
+  }
+}

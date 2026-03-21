@@ -1,0 +1,98 @@
+{
+  "topic": "HUSHIM",
+  "slug": "hushim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 46:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Numbers 26:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Benjamite",
+      "references": [
+        "1 Chronicles 7:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Wife of Shaharaim",
+      "references": [
+        "1 Chronicles 8:8,11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:42"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:8,11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Numbers"
+    ]
+  }
+}

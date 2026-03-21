@@ -1,0 +1,70 @@
+{
+  "topic": "HOSANNA",
+  "slug": "hosanna",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A form of Jewish acclamation",
+      "references": [
+        "Matthew 21:9,15",
+        "Mark 11:9,10",
+        "John 12:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        9,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 21:9,15"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 11:9,10"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 12:13"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "John"
+    ]
+  }
+}

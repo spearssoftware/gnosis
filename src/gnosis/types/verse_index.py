@@ -5,3 +5,4 @@ class VerseEntry(BaseModel):
     people: list[str] = []
     places: list[str] = []
     events: list[str] = []
+    topics: list[str] = []

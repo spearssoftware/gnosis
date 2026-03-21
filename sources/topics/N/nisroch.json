@@ -1,0 +1,57 @@
+{
+  "topic": "NISROCH",
+  "slug": "nisroch",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An idol",
+      "references": [
+        "2 Kings 19:36,37",
+        "Isaiah 37:37,38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 19:36,37"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        37,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 37:37,38"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Kings",
+      "Isaiah"
+    ]
+  }
+}

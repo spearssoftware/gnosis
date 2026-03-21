@@ -1,0 +1,73 @@
+{
+  "topic": "THYATIRA",
+  "slug": "thyatira",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The hometown of Lydia, a convert of Paul",
+      "references": [
+        "Acts 16:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Revelation 1:11",
+        "Revelation 2:18,24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:14"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 2,
+      "verses": [
+        18,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 2:18,24"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Revelation",
+      "Acts"
+    ]
+  }
+}

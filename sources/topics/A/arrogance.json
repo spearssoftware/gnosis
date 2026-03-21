@@ -1,0 +1,75 @@
+{
+  "topic": "ARROGANCE",
+  "slug": "arrogance",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PRIDE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "1 Samuel 2:3",
+        "Proverbs 8:13",
+        "Isaiah 13:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePRI",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 2:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 8:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Isaiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Samuel",
+      "Proverbs",
+      "Isaiah"
+    ]
+  }
+}

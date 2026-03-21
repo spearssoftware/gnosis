@@ -1,0 +1,76 @@
+{
+  "topic": "SPIDER",
+  "slug": "spider",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Mentioned in one of Agur’ s riddles",
+      "references": [
+        "Proverbs 30:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Web of, figurative of the hope of the hypocriteJob",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "8:14;",
+      "references": [
+        "Isaiah 59:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:28"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 8:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:5"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Proverbs",
+      "Isaiah"
+    ]
+  }
+}

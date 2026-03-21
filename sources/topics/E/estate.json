@@ -1,0 +1,49 @@
+{
+  "topic": "ESTATE",
+  "slug": "estate",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LAND"
+  ],
+  "aspects": [
+    {
+      "label": "Vast lan",
+      "references": [
+        "Isaiah 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLAND",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:8"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

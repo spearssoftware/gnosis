@@ -1,0 +1,110 @@
+{
+  "topic": "BALAK",
+  "slug": "balak",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BALAAM"
+  ],
+  "aspects": [
+    {
+      "label": "King of Moab",
+      "references": [
+        "Numbers 22:4",
+        "Joshua 24:9",
+        "Judges 11:25",
+        "Micah 6:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tries to bribe Balaam to curse Israel",
+      "references": [
+        "Numbers 22:5-7,15-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBALAAM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 22:4"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:9"
+    },
+    {
+      "book": "Judges",
+      "chapter": 11,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 11:25"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 6:5"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "verses": [
+        5,
+        6,
+        7,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 22:5-7,15-17"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua",
+    "Judges",
+    "Micah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Numbers",
+      "Joshua",
+      "Judges",
+      "Micah"
+    ]
+  }
+}

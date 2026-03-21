@@ -1,0 +1,135 @@
+{
+  "topic": "VIPER",
+  "slug": "viper",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SERPENT"
+  ],
+  "aspects": [
+    {
+      "label": "A serpent",
+      "references": [
+        "Job 20:16",
+        "Isaiah 30:6",
+        "Isaiah 59:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fastens on Paul’ s hand",
+      "references": [
+        "Acts 28:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSERPENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Matthew 3:7",
+        "Matthew 23:33",
+        "Luke 3:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 20:16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 3:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:33"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:7"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Isaiah",
+    "Job",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 7,
+    "ot_refs": 3,
+    "nt_refs": 4,
+    "books_count": 5,
+    "top_books": [
+      "Isaiah",
+      "Matthew",
+      "Job",
+      "Acts",
+      "Luke"
+    ]
+  }
+}

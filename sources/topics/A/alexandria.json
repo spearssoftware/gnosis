@@ -1,0 +1,87 @@
+{
+  "topic": "ALEXANDRIA",
+  "slug": "alexandria",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Egypt",
+      "references": [
+        "Acts 6:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ships of",
+      "references": [
+        "Acts 27:6",
+        "Acts 28:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Apollos born in",
+      "references": [
+        "Acts 18:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 6:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:24"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

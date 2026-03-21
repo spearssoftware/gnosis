@@ -1,0 +1,206 @@
+{
+  "topic": "SOWER",
+  "slug": "sower",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Parable of the",
+      "references": [
+        "Matthew 13:3-8",
+        "Mark 4:3-20",
+        "Luke 8:5-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Ecclesiastes 11:4",
+        "Isaiah 28:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 126:5",
+        "Proverbs 11:18",
+        "Isaiah 32:20",
+        "Hosea 8:7",
+        "Hosea 10:12",
+        "Galatians 6:7,8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Matthew 13:3-8"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 18,
+      "testament": "NT",
+      "raw": "Mark 4:3-20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 8:5-8"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 11:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 28:25"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 126,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 126:5"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 32,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 32:20"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 8:7"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 10:12"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 6:7,8"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Galatians",
+    "Hosea",
+    "Isaiah",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 11,
+    "ot_refs": 7,
+    "nt_refs": 4,
+    "books_count": 9,
+    "top_books": [
+      "Isaiah",
+      "Hosea",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "Ecclesiastes",
+      "Psalms",
+      "Proverbs",
+      "Galatians"
+    ]
+  }
+}

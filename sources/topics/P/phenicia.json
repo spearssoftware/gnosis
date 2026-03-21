@@ -1,0 +1,143 @@
+{
+  "topic": "PHENICIA",
+  "slug": "phenicia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Inhabitants of,",
+      "references": [
+        "Genesis 10:15,18,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 18:7",
+        "Ezekiel 32:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jews from, hear Jesus",
+      "references": [
+        "Mark 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits the congregations in",
+      "references": [
+        "Acts 15:3",
+        "Acts 21:2-4",
+        "Acts 27:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        15,
+        18,
+        19
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 10:15,18,19"
+    },
+    {
+      "book": "Judges",
+      "chapter": 18,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 18:7"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 32,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 32:30"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 21:2-4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:3"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezekiel",
+    "Genesis",
+    "Judges",
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 3,
+    "nt_refs": 4,
+    "books_count": 5,
+    "top_books": [
+      "Acts",
+      "Genesis",
+      "Judges",
+      "Ezekiel",
+      "Mark"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "MALINGERING",
+  "slug": "malingering",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "INSTANCE OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".David feigning madness",
+      "references": [
+        "1 Samuel 21:13-15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "verses": [
+        13,
+        14,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 21:13-15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Samuel"
+    ]
+  }
+}

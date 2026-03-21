@@ -1,0 +1,129 @@
+{
+  "topic": "HADADEZER",
+  "slug": "hadadezer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "King of Zobah, vanquished by David",
+      "references": [
+        "2 Samuel 8:3-13",
+        "2 Samuel 10:15-19",
+        "1 Kings 11:23",
+        "1 Chronicles 18:3-10",
+        "1 Chronicles 19:6-19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "2 Samuel 8:3-13"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Samuel 10:15-19"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 11:23"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "1 Chronicles 18:3-10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "1 Chronicles 19:6-19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles",
+      "1 Kings"
+    ]
+  }
+}

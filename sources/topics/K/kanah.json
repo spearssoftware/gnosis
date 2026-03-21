@@ -1,0 +1,80 @@
+{
+  "topic": "KANAH",
+  "slug": "kanah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A brook dividing the territory of Ephraim from the territory",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of Manasseh",
+      "references": [
+        "Joshua 16:8",
+        "Joshua 17:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A town in the territory of the tribe of AsherJos",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 19:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 16,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 16:8"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:9"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:28"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

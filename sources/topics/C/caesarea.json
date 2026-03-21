@@ -1,0 +1,166 @@
+{
+  "topic": "CAESAREA",
+  "slug": "caesarea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A seaport in Palestine",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "The home of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Philip",
+      "references": [
+        "Acts 8:40",
+        "Acts 21:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Cornelius, the centurion",
+      "references": [
+        "Acts 10:1,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Herod",
+      "references": [
+        "Acts 12:19-23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Felix",
+      "references": [
+        "Acts 23:23,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul conveyed to, by the disciples to save him from his enemies",
+      "references": [
+        "Acts 9:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By Roman",
+      "references": [
+        "Acts 23:23-35"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 8:40"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        1,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 10:1,24"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Acts 12:19-23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 23:23,24"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Acts 23:23-35"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 7,
+    "ot_refs": 0,
+    "nt_refs": 7,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

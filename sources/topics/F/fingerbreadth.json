@@ -1,0 +1,42 @@
+{
+  "topic": "FINGERBREADTH",
+  "slug": "fingerbreadth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A unit of measurement",
+      "references": [
+        "Jeremiah 52:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 52,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 52:21"
+    }
+  ],
+  "books_mentioned": [
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Jeremiah"
+    ]
+  }
+}

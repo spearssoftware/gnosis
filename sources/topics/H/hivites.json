@@ -1,0 +1,473 @@
+{
+  "topic": "HIVITES",
+  "slug": "hivites",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A tribe of",
+      "references": [
+        "Genesis 10:17",
+        "1 Chronicles 1:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Shechemites and Gibeonites were families of",
+      "references": [
+        "Genesis 34:2",
+        "Joshua 9:7",
+        "Joshua 11:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Esau intermarries with",
+      "references": [
+        "Genesis 26:34",
+        "Genesis 36:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Dwelling place of",
+      "references": [
+        "Joshua 11:3",
+        "Judges 3:3",
+        "2 Samuel 24:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Their land given to the Israelites",
+      "references": [
+        "Exodus 23:23,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "20:17;",
+      "references": [
+        "Judges 3:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conquered by Joshua",
+      "references": [
+        "Joshua 9:1",
+        "Joshua 12:8",
+        "Joshua 24:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Pay tribute to",
+      "references": [
+        "1 Kings 9:21",
+        "2 Chronicles 8:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Descended from Canaan",
+      "references": [
+        "Genesis 10:15,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Supposed to be the ancient Avim, or Avites",
+      "references": [
+        "Deuteronomy 2:33",
+        "Joshua 13:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "One of the seven nations of Canaan",
+      "references": [
+        "Deuteronomy 7:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Dwelt near Lebanon",
+      "references": [
+        "Judges 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Shechemites a people of",
+      "references": [
+        "Genesis 34:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Gibeonites a people of",
+      "references": [
+        "Joshua 9:3,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Esau intermarried with",
+      "references": [
+        "Genesis 36:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Land of, promised to Israel",
+      "references": [
+        "Exodus 3:8",
+        "Exodus 23:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Israel commanded to destroy",
+      "references": [
+        "Deuteronomy 7:1,2,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A part of, left to prove Israel",
+      "references": [
+        "Judges 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Remnant of, made tributary in the reign of Solomon",
+      "references": [
+        "1 Kings 9:20,21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 34,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 34:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 9:7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 11:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:34"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 11:3"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 3:3"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 24:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        23,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 23:23,28"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 20:17"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 3:5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 9:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:8"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:11"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:21"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 8,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 8:8"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        15,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:15,17"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:33"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:3"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        3,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 9:3,7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 3:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:1,2,24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 9:20,21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "2 Samuel",
+    "Deuteronomy",
+    "Exodus",
+    "Genesis",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 27,
+    "ot_refs": 27,
+    "nt_refs": 0,
+    "books_count": 9,
+    "top_books": [
+      "Joshua",
+      "Genesis",
+      "Exodus",
+      "Deuteronomy",
+      "Judges",
+      "1 Kings",
+      "1 Chronicles",
+      "2 Samuel",
+      "2 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "UPHAZ",
+  "slug": "uphaz",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "OPHIR"
+  ],
+  "aspects": [
+    {
+      "label": "A country famous for gold",
+      "references": [
+        "Jeremiah 10:9",
+        "Daniel 10:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOPHIR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 10:9"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 10:5"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Daniel"
+    ]
+  }
+}

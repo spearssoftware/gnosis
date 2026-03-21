@@ -1,0 +1,144 @@
+{
+  "topic": "SHAPHAT",
+  "slug": "shaphat",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The representative of the tribe of Simeon among the spies",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "sent into",
+      "references": [
+        "Numbers 13:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Elisha",
+      "references": [
+        "1 Kings 19:16,19",
+        "2 Kings 3:11",
+        "2 Kings 6:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 3:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Gadite",
+      "references": [
+        "1 Chronicles 5:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5.",
+      "references": [
+        "1 Chronicles 27:29"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 13:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        16,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 19:16,19"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 3:11"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 6:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:29"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Kings",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "2 Kings",
+      "Numbers",
+      "1 Kings"
+    ]
+  }
+}

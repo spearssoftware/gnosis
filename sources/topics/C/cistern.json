@@ -1,0 +1,113 @@
+{
+  "topic": "CISTERN",
+  "slug": "cistern",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WELLS"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Isaiah 36:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Broken",
+      "references": [
+        "Jeremiah 2:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "2 Kings 18:31",
+        "Proverbs 5:15",
+        "Ecclesiastes 12:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeWELLS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 36,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 36:16"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:13"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:31"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 5:15"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:6"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Ecclesiastes",
+    "Isaiah",
+    "Jeremiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Isaiah",
+      "Jeremiah",
+      "2 Kings",
+      "Proverbs",
+      "Ecclesiastes"
+    ]
+  }
+}

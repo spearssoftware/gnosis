@@ -1,0 +1,71 @@
+{
+  "topic": "WEATHER",
+  "slug": "weather",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "METEOROLOGY"
+  ],
+  "aspects": [
+    {
+      "label": "Signs of",
+      "references": [
+        "Matthew 16:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sayings concerning",
+      "references": [
+        "Job 37:9,17,22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMETEOROLOGY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 16:2,3"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "verses": [
+        9,
+        17,
+        22
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Job 37:9,17,22"
+    }
+  ],
+  "books_mentioned": [
+    "Job",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Job"
+    ]
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "topic": "TITHE",
+  "slug": "tithe",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The tenth of anything",
+      "references": [
+        "1 Samuel 8:15,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Antiquity of the custom of giving to God’s ministers",
+      "references": [
+        "Genesis 14:20",
+        "Hebrews 7:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Considered a just return to God for his blessings",
+      "references": [
+        "Genesis 28:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Under the law belonged to God",
+      "references": [
+        "Leviticus 27:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Consisted of a tenth: Of all the produce of the land",
+      "references": [
+        "Leviticus 27:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Consisted of a tenth: Of all cattle",
+      "references": [
+        "Leviticus 27:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Consisted of a tenth: Of holy things dedicated",
+      "references": [
+        "2 Chronicles 31:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given by God to the Levites for their services",
+      "references": [
+        "Numbers 18:21,24",
+        "Nehemiah 10:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The tenth of, offered by the Levites as an heave offering to God",
+      "references": [
+        "Numbers 18:26,27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The tenth of, given by the Levites to the priests as their portion",
+      "references": [
+        "Numbers 18:26,28",
+        "Nehemiah 10:38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Reasonableness of appointing, for the Levites",
+      "references": [
+        "Numbers 18:20,23,24",
+        "Joshua 13:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "When redeemed to a fifth part of the value added",
+      "references": [
+        "Leviticus 27:31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Punishment for changing",
+      "references": [
+        "Leviticus 27:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews slow in giving",
+      "references": [
+        "Nehemiah 13:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews reproved for withholding",
+      "references": [
+        "Malachi 3:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The pious governors of Israel caused the payment of",
+      "references": [
+        "2 Chronicles 31:5",
+        "Nehemiah 13:11,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Rulers appointed over, for distributing",
+      "references": [
+        "2 Chronicles 31:12",
+        "Nehemiah 13:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Pharisees scrupulous in paying",
+      "references": [
+        "Luke 11:42",
+        "Luke 18:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A second: Or its value yearly brought to the tabernacle and eaten before the Lord",
+      "references": [
+        "Deuteronomy 12:6,7,17-19",
+        "Deuteronomy 14:22-27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A second: To be consumed at home every third year to promote hospitality and charity",
+      "references": [
+        "Deuteronomy 14:28,29",
+        "Deuteronomy 26:12-15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "verses": [
+        15,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 8:15,17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:20"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 7:6"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 28,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 28:22"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 27:30"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 27:32"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:6"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "verses": [
+        21,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 18:21,24"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:37"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 18:26,27"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "verses": [
+        26,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 18:26,28"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:38"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "verses": [
+        20,
+        23,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 18:20,23,24"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:33"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 27:31"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 27:33"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 13,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 13:10"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:5"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 13,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 13:11,12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 13,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 13:13"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:42"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 18:12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 12,
+      "verses": [
+        6,
+        7,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Deuteronomy 12:6,7,17-19"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:22-27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:28,29"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 26,
+      "verses": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Deuteronomy 26:12-15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Chronicles",
+    "Deuteronomy",
+    "Genesis",
+    "Hebrews",
+    "Joshua",
+    "Leviticus",
+    "Luke",
+    "Malachi",
+    "Nehemiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 28,
+    "ot_refs": 25,
+    "nt_refs": 3,
+    "books_count": 11,
+    "top_books": [
+      "Nehemiah",
+      "Leviticus",
+      "Numbers",
+      "Deuteronomy",
+      "2 Chronicles",
+      "Genesis",
+      "Luke",
+      "1 Samuel",
+      "Hebrews",
+      "Joshua"
+    ]
+  }
+}

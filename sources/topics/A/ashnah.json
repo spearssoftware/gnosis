@@ -1,0 +1,43 @@
+{
+  "topic": "ASHNAH",
+  "slug": "ashnah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Name of two towns in",
+      "references": [
+        "Joshua 15:33,43"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        33,
+        43
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 15:33,43"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

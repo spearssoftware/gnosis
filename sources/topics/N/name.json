@@ -1,0 +1,191 @@
+{
+  "topic": "NAME",
+  "slug": "name",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JESUS, IN HIS NAME"
+  ],
+  "aspects": [
+    {
+      "label": "Va",
+      "references": [
+        "Proverbs 22:1",
+        "Ecclesiastes 7:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A new name given to per",
+      "references": [
+        "Isaiah 62:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To Abraham",
+      "references": [
+        "Genesis 17:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sarah",
+      "references": [
+        "Genesis 17:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jacob",
+      "references": [
+        "Genesis 32:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul",
+      "references": [
+        "Acts 13:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Intercessional inf",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJESUS, IN HIS NAME",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Hosea 1:3,4,6,9",
+        "Hosea 2:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:1"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 62,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 62:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 32,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 32:28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 13:9"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 1,
+      "verses": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Hosea 1:3,4,6,9"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:1"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ecclesiastes",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 9,
+    "ot_refs": 8,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "Genesis",
+      "Hosea",
+      "Proverbs",
+      "Ecclesiastes",
+      "Isaiah",
+      "Acts"
+    ]
+  }
+}

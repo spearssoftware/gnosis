@@ -1,0 +1,37 @@
+{
+  "topic": "WARFARE",
+  "slug": "warfare",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WAR"
+  ],
+  "aspects": [
+    {
+      "label": "SeeWAR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Spiritual",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See FIGURATIVE, un",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

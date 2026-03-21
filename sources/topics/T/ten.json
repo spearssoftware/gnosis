@@ -1,0 +1,81 @@
+{
+  "topic": "TEN",
+  "slug": "ten",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Used for an in",
+      "references": [
+        "Genesis 31:7",
+        "Leviticus 26:26",
+        "Numbers 14:22",
+        "Ecclesiastes 8:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:7"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:26"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 14:22"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 8:23"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Genesis",
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "Leviticus",
+      "Numbers",
+      "Ecclesiastes"
+    ]
+  }
+}

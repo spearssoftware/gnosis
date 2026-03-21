@@ -1,0 +1,255 @@
+{
+  "topic": "DEBTOR",
+  "slug": "debtor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CREDITOR",
+    "DEBT",
+    "SURETY"
+  ],
+  "aspects": [
+    {
+      "label": "LAWS CONCERNING",
+      "references": [
+        "Exodus 21:2-6",
+        "Exodus 22:10-15",
+        "Leviticus 25:14-17,25-41,47-55",
+        "Nehemiah 10:31",
+        "Matthew 5:25,26,40",
+        "Matthew 18:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "UNCLASSIFIED SCRIPTURES RELATING TO",
+      "references": [
+        "2 Kings 4:1-7",
+        "Nehemiah 5:3-5",
+        "Job 20:18,19",
+        "Matthew 18:23-33",
+        "Luke 20:9-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCREDITOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSURETY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 21,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Exodus 21:2-6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Exodus 22:10-15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "verse_count": 30,
+      "testament": "OT",
+      "raw": "Leviticus 25:14-17,25-41,47-55"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:31"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        25,
+        26,
+        40
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 5:25,26,40"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:25"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "2 Kings 4:1-7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nehemiah 5:3-5"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 20:18,19"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Matthew 18:23-33"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 20:9-16"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Exodus",
+    "Job",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 11,
+    "ot_refs": 7,
+    "nt_refs": 4,
+    "books_count": 7,
+    "top_books": [
+      "Matthew",
+      "Exodus",
+      "Nehemiah",
+      "Leviticus",
+      "2 Kings",
+      "Job",
+      "Luke"
+    ]
+  }
+}

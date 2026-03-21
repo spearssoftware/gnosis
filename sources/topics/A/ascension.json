@@ -1,0 +1,130 @@
+{
+  "topic": "ASCENSION",
+  "slug": "ascension",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of Elijah",
+      "references": [
+        "2 Kings 2:1-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Jesus",
+      "references": [
+        "Mark 16:19,20",
+        "Luke 24:50-53",
+        "Acts 1:9-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of two witnesses",
+      "references": [
+        "Revelation 11:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 18,
+      "testament": "OT",
+      "raw": "2 Kings 2:1-18"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 16:19,20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "verses": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 24:50-53"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 1:9-12"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 11:12"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Acts",
+    "Luke",
+    "Mark",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 1,
+    "nt_refs": 4,
+    "books_count": 5,
+    "top_books": [
+      "2 Kings",
+      "Mark",
+      "Luke",
+      "Acts",
+      "Revelation"
+    ]
+  }
+}

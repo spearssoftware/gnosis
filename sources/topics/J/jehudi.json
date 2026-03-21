@@ -1,0 +1,44 @@
+{
+  "topic": "JEHUDI",
+  "slug": "jehudi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A Jew, an official at Jehoiakim’s court who read",
+      "references": [
+        "Jeremiah 36:14,21,23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        14,
+        21,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 36:14,21,23"
+    }
+  ],
+  "books_mentioned": [
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Jeremiah"
+    ]
+  }
+}

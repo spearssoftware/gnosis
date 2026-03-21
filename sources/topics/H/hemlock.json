@@ -1,0 +1,62 @@
+{
+  "topic": "HEMLOCK",
+  "slug": "hemlock",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GALL"
+  ],
+  "aspects": [
+    {
+      "label": "A poi",
+      "references": [
+        "Hosea 10:4",
+        "Amos 6:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGALL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hosea",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 10:4"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 6:12"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Hosea"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Hosea",
+      "Amos"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "topic": "GOMER",
+  "slug": "gomer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:2,3",
+        "1 Chronicles 1:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A people",
+      "references": [
+        "Ezekiel 38:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Wife (concubine?) of Hosea",
+      "references": [
+        "Hosea 1:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:2,3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:5,6"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 38:6"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 1,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 1:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezekiel",
+    "Genesis",
+    "Hosea"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Ezekiel",
+      "Hosea"
+    ]
+  }
+}

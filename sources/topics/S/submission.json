@@ -1,0 +1,113 @@
+{
+  "topic": "SUBMISSION",
+  "slug": "submission",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "OBEDIENCE"
+  ],
+  "aspects": [
+    {
+      "label": "To authority",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus an example of",
+      "references": [
+        "Matthew 26:39,42",
+        "Mark 14:36",
+        "Luke 22:42",
+        "Hebrews 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Paul",
+      "references": [
+        "1 Corinthians 16:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOBEDIENCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        39,
+        42
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 26:39,42"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:36"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 22:42"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 5:8"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Hebrews",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 5,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "Hebrews",
+      "1 Corinthians"
+    ]
+  }
+}

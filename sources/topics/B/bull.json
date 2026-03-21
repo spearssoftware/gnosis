@@ -1,0 +1,85 @@
+{
+  "topic": "BULL",
+  "slug": "bull",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BULLOCK",
+    "OFFERINGS"
+  ],
+  "aspects": [
+    {
+      "label": "Wild,",
+      "references": [
+        "Isaiah 51:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Blood of, in sacrifice",
+      "references": [
+        "Hebrews 9:13",
+        "Hebrews 10:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBULLOCK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOFFERINGS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 51,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 51:20"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 9,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 9:13"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 10:4"
+    }
+  ],
+  "books_mentioned": [
+    "Hebrews",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Hebrews",
+      "Isaiah"
+    ]
+  }
+}

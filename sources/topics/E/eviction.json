@@ -1,0 +1,55 @@
+{
+  "topic": "EVICTION",
+  "slug": "eviction",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of tenants",
+      "references": [
+        "Matthew 21:41",
+        "Mark 12:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:41"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 12:9"
+    }
+  ],
+  "books_mentioned": [
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Mark"
+    ]
+  }
+}

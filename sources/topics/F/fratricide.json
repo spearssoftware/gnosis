@@ -1,0 +1,133 @@
+{
+  "topic": "FRATRICIDE",
+  "slug": "fratricide",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HOMICIDE"
+  ],
+  "aspects": [
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 4:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abimelech",
+      "references": [
+        "Judges 9:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Absalom",
+      "references": [
+        "2 Samuel 13:28,29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Kings 2:23-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jehoram",
+      "references": [
+        "2 Chronicles 21:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHOMICI",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:8"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:5"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 13:28,29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        23,
+        24,
+        25
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 2:23-25"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 21,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 21:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "2 Samuel",
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Genesis",
+      "Judges",
+      "2 Samuel",
+      "1 Kings",
+      "2 Chronicles"
+    ]
+  }
+}

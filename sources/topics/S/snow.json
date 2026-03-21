@@ -1,0 +1,152 @@
+{
+  "topic": "SNOW",
+  "slug": "snow",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "In Palestine",
+      "references": [
+        "2 Samuel 23:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In Uz",
+      "references": [
+        "Job 6:16",
+        "Job 9:30",
+        "Job 37:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "On Mount Lebanon",
+      "references": [
+        "Jeremiah 18:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of purity",
+      "references": [
+        "Psalms 51:7",
+        "Isaiah 1:18",
+        "Lamentations 4:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 23:20"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 6:16"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 9:30"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 37:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 18,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 18:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 51,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 51:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:18"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 4:7"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Lamentations",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Job",
+      "2 Samuel",
+      "Jeremiah",
+      "Psalms",
+      "Isaiah",
+      "Lamentations"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "topic": "AZAZEL",
+  "slug": "azazel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The s",
+      "references": [
+        "Leviticus 16:8,10,26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        8,
+        10,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 16:8,10,26"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

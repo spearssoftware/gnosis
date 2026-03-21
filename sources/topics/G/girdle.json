@@ -1,0 +1,348 @@
+{
+  "topic": "GIRDLE",
+  "slug": "girdle",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Worn by the high priest",
+      "references": [
+        "Exodus 28:4,39",
+        "Exodus 39:29",
+        "Leviticus 8:7",
+        "Leviticus 16:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Other priests",
+      "references": [
+        "Exodus 28:40",
+        "Exodus 29:9",
+        "Leviticus 8:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Women",
+      "references": [
+        "Isaiah 3:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Embroi",
+      "references": [
+        "Exodus 28:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "Proverbs 31:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "2 Kings 1:8",
+        "Matthew 3:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Traffic in",
+      "references": [
+        "Proverbs 31:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used to bear arms",
+      "references": [
+        "1 Samuel 18:4",
+        "2 Samuel 20:8",
+        "2 Kings 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 11:5",
+        "Isaiah 22:21",
+        "Ephesians 6:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Jeremiah 13:1-11",
+        "Acts 21:11",
+        "Revelation 15:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        4,
+        39
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 28:4,39"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:29"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 8:7"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 16:4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:40"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:9"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 8:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:24"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:24"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 1:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 3:4"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 18:4"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:8"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 3:21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 22,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 22:21"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 13,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Jeremiah 13:1-11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 15,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 15:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Ephesians",
+    "Exodus",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Matthew",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 21,
+    "ot_refs": 17,
+    "nt_refs": 4,
+    "books_count": 12,
+    "top_books": [
+      "Exodus",
+      "Leviticus",
+      "Isaiah",
+      "2 Kings",
+      "Proverbs",
+      "Matthew",
+      "1 Samuel",
+      "2 Samuel",
+      "Ephesians",
+      "Jeremiah"
+    ]
+  }
+}

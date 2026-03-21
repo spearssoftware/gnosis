@@ -1,0 +1,32 @@
+{
+  "topic": "PERSONIFICATION",
+  "slug": "personification",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PANTOMIME"
+  ],
+  "aspects": [
+    {
+      "label": "Of wisdomPr 1;2:1-9;8;9",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePANTOMIME",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

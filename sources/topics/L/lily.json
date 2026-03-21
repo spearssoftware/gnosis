@@ -1,0 +1,137 @@
+{
+  "topic": "LILY",
+  "slug": "lily",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The principal",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of",
+      "references": [
+        "1 Kings 7:19,22,26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mol",
+      "references": [
+        "1 Kings 7:26",
+        "2 Chronicles 4:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Les",
+      "references": [
+        "Matthew 6:28-30",
+        "Luke 12:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the lips of the beloved",
+      "references": [
+        "Song of Solomon 5:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        19,
+        22,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 7:19,22,26"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:26"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        28,
+        29,
+        30
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 6:28-30"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:27"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "Luke",
+    "Matthew",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 4,
+    "nt_refs": 2,
+    "books_count": 5,
+    "top_books": [
+      "1 Kings",
+      "2 Chronicles",
+      "Matthew",
+      "Luke",
+      "Song of Solomon"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "topic": "BASIN",
+  "slug": "basin",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TABERNACLE, FURNITURE OF"
+  ],
+  "aspects": [
+    {
+      "label": "Ma",
+      "references": [
+        "1 Kings 7:50",
+        "1 Chronicles 28:17",
+        "2 Chronicles 4:8,22",
+        "Ezra 1:10",
+        "Ezra 8:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "Exodus 27:3",
+        "Exodus 38:3",
+        "1 Kings 7:45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTABERNACLE, FURNITURE OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:50"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 28:17"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        8,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:8,22"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 1:10"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:27"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:3"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:45"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Exodus",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Kings",
+      "Ezra",
+      "Exodus",
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

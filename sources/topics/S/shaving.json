@@ -1,0 +1,81 @@
+{
+  "topic": "SHAVING",
+  "slug": "shaving",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BEARD"
+  ],
+  "aspects": [
+    {
+      "label": "Forbid",
+      "references": [
+        "Numbers 6:5",
+        "Judges 13:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Forbid",
+      "references": [
+        "Ezekiel 44:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBEARD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 13:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 44,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 44:20"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Judges",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Numbers",
+      "Judges",
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "topic": "DOWRY",
+  "slug": "dowry",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WOMEN"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Exodus 22:16,17",
+        "Ruth 4:3-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWOMEN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 22:16,17"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Ruth 4:3-9"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Ruth"
+    ]
+  }
+}

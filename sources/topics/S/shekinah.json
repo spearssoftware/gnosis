@@ -1,0 +1,150 @@
+{
+  "topic": "SHEKINAH",
+  "slug": "shekinah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The visible sign of God’ s presence on the ark of the testimony",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "in the Holy of Holies",
+      "references": [
+        "Exodus 25:22",
+        "Leviticus 16:2",
+        "2 Samuel 6:2",
+        "2 Kings 19:14,15",
+        "Psalms 80:1",
+        "Isaiah 37:16",
+        "Ezekiel 9:3",
+        "Ezekiel 10:18",
+        "Hebrews 9:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:22"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 16:2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:2"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 19:14,15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 80:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 9,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 9:3"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 10:18"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 9:5"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "2 Samuel",
+    "Exodus",
+    "Ezekiel",
+    "Hebrews",
+    "Isaiah",
+    "Leviticus",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 9,
+    "ot_refs": 8,
+    "nt_refs": 1,
+    "books_count": 8,
+    "top_books": [
+      "Ezekiel",
+      "Exodus",
+      "Leviticus",
+      "2 Samuel",
+      "2 Kings",
+      "Psalms",
+      "Isaiah",
+      "Hebrews"
+    ]
+  }
+}

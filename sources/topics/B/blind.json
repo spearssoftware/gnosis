@@ -1,0 +1,81 @@
+{
+  "topic": "BLIND",
+  "slug": "blind",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BLINDNESS"
+  ],
+  "aspects": [
+    {
+      "label": "Cruelty to, forbid",
+      "references": [
+        "Leviticus 19:14",
+        "Deuteronomy 27:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The taunting Jebusites, hated by David",
+      "references": [
+        "2 Samuel 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBLINDNESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:14"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:18"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 5:8"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Deuteronomy",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Deuteronomy",
+      "2 Samuel"
+    ]
+  }
+}

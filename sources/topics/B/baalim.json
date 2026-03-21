@@ -1,0 +1,87 @@
+{
+  "topic": "BAALIM",
+  "slug": "baalim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BAAL"
+  ],
+  "aspects": [
+    {
+      "label": "P",
+      "references": [
+        "Judges 2:11",
+        "1 Samuel 7:4",
+        "Hosea 2:13,17",
+        "Hosea 11:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBAAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 2:11"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 7:4"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        13,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Hosea 2:13,17"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 11:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Hosea",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Hosea",
+      "Judges",
+      "1 Samuel"
+    ]
+  }
+}

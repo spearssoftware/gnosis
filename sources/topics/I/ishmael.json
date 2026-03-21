@@ -1,0 +1,445 @@
+{
+  "topic": "ISHMAEL",
+  "slug": "ishmael",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 16:11,15,16",
+        "1 Chronicles 1:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prayer of Abraham for",
+      "references": [
+        "Genesis 17:18,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Circumcised",
+      "references": [
+        "Genesis 17:23-26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Promised to be the father of a nation",
+      "references": [
+        "Genesis 16:11,12",
+        "Genesis 17:20",
+        "Genesis 21:12,13,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sent away by Abraham",
+      "references": [
+        "Genesis 21:6-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".With",
+      "references": [
+        "Genesis 25:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Children of",
+      "references": [
+        "Genesis 25:12-18",
+        "1 Chronicles 1:29-31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Daughter of, marries Esau",
+      "references": [
+        "Genesis 28:9",
+        "Genesis 36:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 25:17,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father Of Zebadiah",
+      "references": [
+        "2 Chronicles 19:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "1 Chronicles 8:38",
+        "1 Chronicles 9:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. One of the",
+      "references": [
+        "2 Chronicles 23:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A priest of the exile",
+      "references": [
+        "Ezra 10:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assassinated Gedaliah, governor of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "and takes many Jews",
+      "references": [
+        "Jeremiah 40:8-16",
+        "Jeremiah 41:1-11",
+        "2 Kings 25:23-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Jeremiah 41:12-15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 16,
+      "verses": [
+        11,
+        15,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 16:11,15,16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:28"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        18,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 17:18,20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 17:23-26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 16,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 16:11,12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        12,
+        13,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 21:12,13,18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "Genesis 21:6-21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Genesis 25:12-18"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        29,
+        30,
+        31
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:29-31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 28,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 28:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 36:2,3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 25:17,18"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 19,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 19:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:38"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:44"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 23,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 23:1"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Jeremiah 40:8-16"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Jeremiah 41:1-11"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        23,
+        24,
+        25
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 25:23-25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Jeremiah 41:12-15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "Ezra",
+    "Genesis",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 17,
+    "total_refs": 23,
+    "ot_refs": 23,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Jeremiah",
+      "2 Chronicles",
+      "Ezra",
+      "2 Kings"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "HIRELING",
+  "slug": "hireling",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SERVANT"
+  ],
+  "aspects": [
+    {
+      "label": "Not to be oppressed",
+      "references": [
+        "Malachi 3:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSERVANT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:5"
+    }
+  ],
+  "books_mentioned": [
+    "Malachi"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Malachi"
+    ]
+  }
+}

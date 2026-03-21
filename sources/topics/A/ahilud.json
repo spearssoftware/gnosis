@@ -1,0 +1,93 @@
+{
+  "topic": "AHILUD",
+  "slug": "ahilud",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of Baana",
+      "references": [
+        "1 Kings 4:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Father of Jehoshaphat",
+      "references": [
+        "2 Samuel 8:16",
+        "2 Samuel 20:24",
+        "1 Kings 4:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:12"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:16"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:3"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "2 Samuel"
+    ]
+  }
+}

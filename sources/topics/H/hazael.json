@@ -1,0 +1,169 @@
+{
+  "topic": "HAZAEL",
+  "slug": "hazael",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(King of Syria)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Anointed king by Elijah",
+      "references": [
+        "1 Kings 19:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conquests by",
+      "references": [
+        "2 Kings 8:28,29",
+        "2 Kings 9:14",
+        "2 Kings 10:32,33",
+        "2 Kings 12:17,18",
+        "2 Kings 13:3,22",
+        "2 Chronicles 22:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conspires against, mur",
+      "references": [
+        "2 Kings 8:8-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Kings 13:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 19:15"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 8:28,29"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 9:14"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 10:32,33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 12:17,18"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        3,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 13:3,22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 22,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 22:5,6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "2 Kings 8:8-15"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 13:24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "2 Kings",
+      "1 Kings",
+      "2 Chronicles"
+    ]
+  }
+}

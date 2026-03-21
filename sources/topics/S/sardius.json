@@ -1,0 +1,118 @@
+{
+  "topic": "SARDIUS",
+  "slug": "sardius",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A precious stone)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "In the breastplate",
+      "references": [
+        "Exodus 28:17",
+        "Exodus 39:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the gar",
+      "references": [
+        "Ezekiel 28:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Seen in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Revelation 21:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Revelation 4:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 4:3"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Ezekiel",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 3,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Revelation",
+      "Ezekiel"
+    ]
+  }
+}

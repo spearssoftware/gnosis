@@ -1,0 +1,722 @@
+{
+  "topic": "TOWERS",
+  "slug": "towers",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Origin and antiquity of",
+      "references": [
+        "Genesis 11:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were built: In cities",
+      "references": [
+        "Judges 9:51"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were built: On the walls of cities",
+      "references": [
+        "2 Chronicles 14:7",
+        "2 Chronicles 26:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were built: In the forests",
+      "references": [
+        "2 Chronicles 27:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were built: In the deserts",
+      "references": [
+        "2 Chronicles 26:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were built: In vineyards",
+      "references": [
+        "Isaiah 5:2",
+        "Matthew 21:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently very high",
+      "references": [
+        "Isaiah 2:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently strong and well fortified",
+      "references": [
+        "Judges 9:51",
+        "2 Chronicles 26:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used as armouries",
+      "references": [
+        "Song of Solomon 4:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used as citadels in time of war",
+      "references": [
+        "Judges 9:51",
+        "Ezekiel 27:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Watchmen posted on, in times of danger",
+      "references": [
+        "2 Kings 9:17",
+        "Habakkuk 2:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Babel",
+      "references": [
+        "Genesis 11:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Edar",
+      "references": [
+        "Genesis 35:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Penuel",
+      "references": [
+        "Judges 8:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Shechem",
+      "references": [
+        "Judges 9:46"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Thebez",
+      "references": [
+        "Judges 9:50,51"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: David",
+      "references": [
+        "Song of Solomon 4:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Lebanon",
+      "references": [
+        "Song of Solomon 7:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Of the furnaces",
+      "references": [
+        "Nehemiah 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Meah",
+      "references": [
+        "Nehemiah 12:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Jezreel",
+      "references": [
+        "2 Kings 9:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Hananeel",
+      "references": [
+        "Jeremiah 31:38",
+        "Zechariah 14:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Syene",
+      "references": [
+        "Ezekiel 29:10",
+        "Ezekiel 30:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Siloam",
+      "references": [
+        "Luke 13:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of Jerusalem remarkable for number, strength, and beauty",
+      "references": [
+        "Psalms 48:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently thrown down in war",
+      "references": [
+        "Judges 8:17",
+        "Judges 9:49",
+        "Ezekiel 26:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently left desolate",
+      "references": [
+        "Isaiah 32:14",
+        "Zephaniah 3:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: God as the protector of his people",
+      "references": [
+        "2 Samuel 22:3,51",
+        "Psalms 18:2",
+        "Psalms 61:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The name of the Lord",
+      "references": [
+        "Proverbs 18:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Ministers",
+      "references": [
+        "Jeremiah 6:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Mount Sion",
+      "references": [
+        "Micah 4:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The grace and dignity of the church",
+      "references": [
+        "Song of Solomon 4:4",
+        "Song of Solomon 7:4",
+        "Song of Solomon 8:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The proud and haughty",
+      "references": [
+        "Isaiah 2:15",
+        "Isaiah 30:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:51"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 14:7"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:9"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 27,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 27:4"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:33"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:15"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:4"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:11"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 9:17"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 2:1"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:21"
+    },
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 8:17"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:46"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        50,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 9:50,51"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 7:4"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:11"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:39"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 31,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 31:38"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 14,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 14:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 29,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 29:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 30,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 30:6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 48,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 48:12"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:49"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 26:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 32,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 32:14"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 3:6"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        3,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 22:3,51"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 61,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 61:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:27"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 4:8"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 8:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:25"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Ezekiel",
+    "Genesis",
+    "Habakkuk",
+    "Isaiah",
+    "Jeremiah",
+    "Judges",
+    "Luke",
+    "Matthew",
+    "Micah",
+    "Nehemiah",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon",
+    "Zechariah",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 33,
+    "total_refs": 39,
+    "ot_refs": 37,
+    "nt_refs": 2,
+    "books_count": 18,
+    "top_books": [
+      "Judges",
+      "2 Chronicles",
+      "Isaiah",
+      "Ezekiel",
+      "Genesis",
+      "Song of Solomon",
+      "Psalms",
+      "Nehemiah",
+      "Jeremiah",
+      "Matthew"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "topic": "JESAIAH",
+  "slug": "jesaiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Grand",
+      "references": [
+        "1 Chronicles 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 25:3,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Grand",
+      "references": [
+        "1 Chronicles 26:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Jew of the family of Elam, who returned from exile",
+      "references": [
+        "Ezra 8:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Levite who joined Ezra to return to",
+      "references": [
+        "Ezra 8:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A Benjamite, chosen by lot to live in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "exile",
+      "references": [
+        "Nehemiah 11:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        3,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:3,15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 26:25"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:19"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

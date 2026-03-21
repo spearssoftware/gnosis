@@ -1,0 +1,73 @@
+{
+  "topic": "ZERAHIAH",
+  "slug": "zerahiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. An ancestor ofEzra",
+      "references": [
+        "1 Chronicles 6:6,51",
+        "Ezra 7:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Elihoenai",
+      "references": [
+        "Ezra 8:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        6,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:6,51"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:4"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezra",
+      "1 Chronicles"
+    ]
+  }
+}

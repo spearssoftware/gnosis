@@ -1,0 +1,91 @@
+{
+  "topic": "HEMORRHOIDS",
+  "slug": "hemorrhoids",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DISEASE",
+    "TUMOR"
+  ],
+  "aspects": [
+    {
+      "label": "A disease with which the Philistines were afflicted",
+      "references": [
+        "1 Samuel 5:6,12",
+        "1 Samuel 6:4",
+        "1 Samuel 5:11",
+        "Deuteronomy 28:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDISEASE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTUMOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "verses": [
+        6,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 5:6,12"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 6:4"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 5:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Samuel",
+      "Deuteronomy"
+    ]
+  }
+}

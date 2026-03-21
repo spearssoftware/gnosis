@@ -1,0 +1,87 @@
+{
+  "topic": "INSTINCT",
+  "slug": "instinct",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ANIMALS",
+    "BIRDS"
+  ],
+  "aspects": [
+    {
+      "label": "Of animals",
+      "references": [
+        "Proverbs 1:17",
+        "Isaiah 1:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of birds",
+      "references": [
+        "Jeremiah 8:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeANIMALS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBIRDS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:3"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 8:7"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Jeremiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Isaiah",
+      "Jeremiah"
+    ]
+  }
+}

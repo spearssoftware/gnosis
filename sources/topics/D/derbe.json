@@ -1,0 +1,82 @@
+{
+  "topic": "DERBE",
+  "slug": "derbe",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city in the region of Ly",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul flees to",
+      "references": [
+        "Acts 14:6,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Visited by Paul and Silas",
+      "references": [
+        "Acts 16:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gaius born in",
+      "references": [
+        "Acts 20:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        6,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 14:6,20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

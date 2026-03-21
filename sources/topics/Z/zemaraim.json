@@ -1,0 +1,61 @@
+{
+  "topic": "ZEMARAIM",
+  "slug": "zemaraim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city of the tribe of Benjamin",
+      "references": [
+        "Joshua 18:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A part of Mount Ephraim",
+      "references": [
+        "2 Chronicles 13:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 18:22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 13,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 13:4"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Joshua",
+      "2 Chronicles"
+    ]
+  }
+}

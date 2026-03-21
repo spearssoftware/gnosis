@@ -1,0 +1,2085 @@
+{
+  "topic": "HANDS, THE",
+  "slug": "hands__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Necessary members of the body",
+      "references": [
+        "1 Corinthians 12:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Parts of, mentioned: The palm",
+      "references": [
+        "Isaiah 49:16",
+        "Matthew 26:67"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Parts of, mentioned: The thumb",
+      "references": [
+        "Exodus 29:20",
+        "Leviticus 14:14,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Parts of, mentioned: The fingers",
+      "references": [
+        "2 Samuel 21:20",
+        "Daniel 5:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God strengthens",
+      "references": [
+        "Genesis 49:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God makes impotent",
+      "references": [
+        "Job 5:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Feeling",
+      "references": [
+        "Psalms 115:7",
+        "1 John 1:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Taking",
+      "references": [
+        "Genesis 3:22",
+        "Exodus 4:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Holding",
+      "references": [
+        "Judges 7:20",
+        "Revelation 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Working",
+      "references": [
+        "Proverbs 31:19",
+        "1 Thessalonians 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Writing",
+      "references": [
+        "Isaiah 44:5",
+        "Galatians 6:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Making signs",
+      "references": [
+        "Isaiah 13:2",
+        "Acts 12:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Operations of, mentioned: Striking",
+      "references": [
+        "Mark 14:65",
+        "John 19:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Distinguished as: The right",
+      "references": [
+        "Acts 3:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Distinguished as: The left",
+      "references": [
+        "Genesis 14:15",
+        "Acts 21:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many alike expert with both",
+      "references": [
+        "1 Chronicles 12:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many had more command of the left",
+      "references": [
+        "Judges 3:15,21",
+        "Judges 20:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Place of honour",
+      "references": [
+        "1 Kings 2:19",
+        "Psalms 45:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Place of power",
+      "references": [
+        "Psalms 110:1",
+        "Mark 14:62"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Signet worn on",
+      "references": [
+        "Jeremiah 22:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Given in token of friendship",
+      "references": [
+        "Galatians 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Used in embracing",
+      "references": [
+        "2 Samuel 20:9",
+        "Song of Solomon 2:6",
+        "Song of Solomon 8:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Sworn by",
+      "references": [
+        "Isaiah 62:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: The accuser stood at, of the accused",
+      "references": [
+        "Psalms 109:6",
+        "Zechariah 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Of priests touched with blood of consecration-ram",
+      "references": [
+        "Exodus 29:20",
+        "Leviticus 8:23,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Of healed leper touched with blood of his sacrifice",
+      "references": [
+        "Leviticus 14:14,17,25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The right hand: Of healed leper touched with oil",
+      "references": [
+        "Leviticus 14:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews carried a staff in, when walking",
+      "references": [
+        "Exodus 12:11",
+        "2 Kings 4:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews eat with",
+      "references": [
+        "Matthew 26:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were washed: Before eating",
+      "references": [
+        "Matthew 15:2",
+        "Mark 7:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were washed: After touching an unclean person",
+      "references": [
+        "Leviticus 15:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were washed: In token of innocency",
+      "references": [
+        "Deuteronomy 21:6,7",
+        "Matthew 27:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Custom of domestics pouring water upon, alluded to",
+      "references": [
+        "2 Kings 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Servants directed by movements of",
+      "references": [
+        "Psalms 123:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kissed in idolatrous worship",
+      "references": [
+        "Job 31:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Treaties made by joining",
+      "references": [
+        "2 Kings 10:15",
+        "Proverbs 11:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Suretiship entered into by striking",
+      "references": [
+        "Job 17:3",
+        "Proverbs 6:1",
+        "Proverbs 17:18",
+        "Proverbs 22:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were lifted up: In prayer",
+      "references": [
+        "Psalms 141:2",
+        "Lamentations 3:41"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were lifted up: In praise",
+      "references": [
+        "Psalms 134:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were lifted up: In taking an oath",
+      "references": [
+        "Genesis 14:22",
+        "Revelation 10:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were lifted up: In blessing",
+      "references": [
+        "Leviticus 9:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often spread out in prayer",
+      "references": [
+        "Psalms 68:31",
+        "Isaiah 1:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Placed under the thigh of a person to whom an oath was made",
+      "references": [
+        "Genesis 24:2,3",
+        "Genesis 47:29,31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Clapped together in joy",
+      "references": [
+        "2 Kings 11:12",
+        "Psalms 47:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Smitten together in extreme anger",
+      "references": [
+        "Numbers 24:10",
+        "Ezekiel 21:14,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Stretched out in derision",
+      "references": [
+        "Hosea 7:5",
+        "Zephaniah 2:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, used in: Transferring guilt of sacrifices",
+      "references": [
+        "Leviticus 1:4",
+        "Leviticus 3:2",
+        "Leviticus 16:21,22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, used in: Setting apart the Levites",
+      "references": [
+        "Numbers 8:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, used in: Conferring civil power",
+      "references": [
+        "Numbers 27:18",
+        "Deuteronomy 34:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, used in: Blessing",
+      "references": [
+        "Genesis 48:14",
+        "Mark 10:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, used in: Ordaining ministers",
+      "references": [
+        "Acts 6:6",
+        "1 Timothy 4:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, used in: Imparting the gifts of the Holy Spirit",
+      "references": [
+        "Acts 8:17",
+        "Acts 19:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imposition of, a first principle of the doctrine of Christ",
+      "references": [
+        "Hebrews 6:1,2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be employed: Industriously",
+      "references": [
+        "Ephesians 4:28",
+        "1 Thessalonians 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be employed: In God’s service",
+      "references": [
+        "Nehemiah 2:18",
+        "Zechariah 8:9,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be employed: In acts of benevolence",
+      "references": [
+        "Proverbs 3:27",
+        "Proverbs 31:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the wicked, described as: Bloody",
+      "references": [
+        "Isaiah 1:15",
+        "Isaiah 59:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the wicked, described as: Violent",
+      "references": [
+        "Psalms 58:2",
+        "Isaiah 59:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the wicked, described as: Mischievous",
+      "references": [
+        "Psalms 26:10",
+        "Micah 7:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the wicked, described as: Slothful",
+      "references": [
+        "Proverbs 6:10",
+        "Proverbs 21:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the wicked, described as: Ensnaring to themselves",
+      "references": [
+        "Psalms 9:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked recompensed for the work of",
+      "references": [
+        "Psalms 28:4",
+        "Proverbs 12:14",
+        "Isaiah 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints blessed in the work of",
+      "references": [
+        "Deuteronomy 2:7",
+        "Deuteronomy 30:9",
+        "Job 1:10",
+        "Psalms 90:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Criminals often: Bound by",
+      "references": [
+        "Matthew 22:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Criminals often: Deprived of",
+      "references": [
+        "Deuteronomy 25:12",
+        "2 Samuel 4:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Criminals often: Mutilated in",
+      "references": [
+        "Judges 1:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Criminals often: Hung by",
+      "references": [
+        "Lamentations 5:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of power",
+      "references": [
+        "1 Kings 18:46",
+        "2 Kings 13:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Lifted up against another,) of rebellion",
+      "references": [
+        "2 Samuel 20:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Opened,) of liberality",
+      "references": [
+        "Deuteronomy 15:8",
+        "Psalms 104:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Shut,) of illiberality",
+      "references": [
+        "Deuteronomy 15:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Right hand, illustrative: Of strength and power",
+      "references": [
+        "Exodus 15:6",
+        "Psalms 17:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Right hand, illustrative: (Holding by,) of support",
+      "references": [
+        "Psalms 73:23",
+        "Isaiah 41:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Right hand, illustrative: (Standing at,) of protection",
+      "references": [
+        "Psalms 16:8",
+        "Psalms 109:31",
+        "Psalms 110:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Right hand, illustrative: (Full of bribes,) of corruption",
+      "references": [
+        "Psalms 26:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Right hand, illustrative: (Full of falsehood,) of deceitfulness",
+      "references": [
+        "Psalms 144:8,11",
+        "Isaiah 44:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Right hand, illustrative: (Withdrawn,) of support withheld",
+      "references": [
+        "Psalms 74:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "(Cutting off,) of extreme self-denial",
+      "references": [
+        "Matthew 5:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 49,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 49:16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        67
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:67"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:20"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        14,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 14:14,17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:20"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 5:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:24"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 5:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 115,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 115:7"
+    },
+    {
+      "book": "1 John",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 1:1"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 4:4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 7:20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 10:2"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:19"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 4:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 44:5"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 12:17"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        65
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:65"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 3:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:2"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        15,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 3:15,21"
+    },
+    {
+      "book": "Judges",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 20:16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 2:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 45,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 45:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 110,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 110:1"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        62
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:62"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:24"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:9"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:6"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 8:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 62,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 62:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 109,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 109:6"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 3:1"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 8:23,24"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        14,
+        17,
+        25
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 14:14,17,25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 14:28"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:11"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 4:29"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:23"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:2"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 7:3"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 15:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:6,7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:24"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 3:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 123,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 123:2"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:27"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 10:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:21"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 17:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:26"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 141,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 141:2"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 3:41"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 134,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 134:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:22"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 10:5"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 9:22"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 24:2,3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 47,
+      "verses": [
+        29,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 47:29,31"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 11:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 47,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 47:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 21,
+      "verses": [
+        14,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 21:14,17"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 7,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 7:5"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 2:15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 1:4"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 3:2"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 16:21,22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 8:10"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 27:18"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 34,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 34:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 48,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 48:14"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 10:16"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 6:6"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 4:14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 8:17"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:6"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 6,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 6:1,2"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:28"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 2:18"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 8,
+      "verses": [
+        9,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Zechariah 8:9,13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 3:27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 58,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 58:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 26:10"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 7:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 21:25"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 9,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 9:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 28,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 28:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:7"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 30,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 30:9"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 90,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 90:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 22:13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:12"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 4:12"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 1:6,7"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 5:12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:46"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 13:5"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:21"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 15,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 15:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 104,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 104:28"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 15:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 15:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 17,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 17:7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 73,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 73:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 41:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 16,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 16:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 109,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 109:31"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 110,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 110:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 144,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 144:8,11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 44:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 74,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 74:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:30"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Corinthians",
+    "1 John",
+    "1 Kings",
+    "1 Thessalonians",
+    "1 Timothy",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Daniel",
+    "Deuteronomy",
+    "Ephesians",
+    "Exodus",
+    "Ezekiel",
+    "Galatians",
+    "Genesis",
+    "Hebrews",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Judges",
+    "Lamentations",
+    "Leviticus",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Nehemiah",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Revelation",
+    "Song of Solomon",
+    "Zechariah",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 78,
+    "total_refs": 132,
+    "ot_refs": 105,
+    "nt_refs": 27,
+    "books_count": 36,
+    "top_books": [
+      "Psalms",
+      "Isaiah",
+      "Proverbs",
+      "Leviticus",
+      "Genesis",
+      "Deuteronomy",
+      "Matthew",
+      "Acts",
+      "2 Kings",
+      "Exodus"
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "topic": "CONFESSION",
+  "slug": "confession",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SIN, CONFESSION OF",
+    "TESTIMONY, RELIGIOUS"
+  ],
+  "aspects": [
+    {
+      "label": "OF CHRIST",
+      "references": [
+        "Matthew 3:11",
+        "Matthew 7:21-23",
+        "Matthew 10:32,33",
+        "Luke 12:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "1:15-18;9:22-38;12:42,43;",
+      "references": [
+        "Acts 8:35-37",
+        "Acts 18:5",
+        "Acts 19:4,5",
+        "Romans 10:9-11",
+        "1 Corinthians 12:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Acts 1:6",
+        "Acts 2:4",
+        "Acts 4:2,3,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTESTIMONY, RELIGIOUS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "OF SIN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSIN, CONFESSION OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 3:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 7:21-23"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 10:32,33"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:8"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 1:15-18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "verse_count": 17,
+      "testament": "NT",
+      "raw": "Luke 9:22-38"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        42,
+        43
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 12:42,43"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        35,
+        36,
+        37
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 8:35-37"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 19:4,5"
+    },
+    {
+      "book": "Romans",
+      "chapter": 10,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Romans 10:9-11"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:3"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:6"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 2:4"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "verses": [
+        2,
+        3,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Corinthians 4:2,3,15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Luke",
+    "Matthew",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 15,
+    "ot_refs": 0,
+    "nt_refs": 15,
+    "books_count": 5,
+    "top_books": [
+      "Luke",
+      "1 Corinthians",
+      "Matthew",
+      "Acts",
+      "Romans"
+    ]
+  }
+}

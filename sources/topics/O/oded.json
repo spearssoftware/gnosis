@@ -1,0 +1,59 @@
+{
+  "topic": "ODED",
+  "slug": "oded",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A prophet in Samaria",
+      "references": [
+        "2 Chronicles 28:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of the prophetAzariah",
+      "references": [
+        "2 Chronicles 15:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Chronicles",
+      "chapter": 28,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 28:9"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 15:1"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Chronicles"
+    ]
+  }
+}

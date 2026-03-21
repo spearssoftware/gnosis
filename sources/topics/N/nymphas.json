@@ -1,0 +1,47 @@
+{
+  "topic": "NYMPHAS",
+  "slug": "nymphas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A Christian of Laodicea)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "House of, used as a place of worship",
+      "references": [
+        "Colossians 4:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:15"
+    }
+  ],
+  "books_mentioned": [
+    "Colossians"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Colossians"
+    ]
+  }
+}

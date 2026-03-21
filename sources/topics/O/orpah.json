@@ -1,0 +1,43 @@
+{
+  "topic": "ORPAH",
+  "slug": "orpah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The less famous daughter-in-law of Naomi",
+      "references": [
+        "Ruth 1:4,14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "verses": [
+        4,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 1:4,14"
+    }
+  ],
+  "books_mentioned": [
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ruth"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "topic": "FABLE",
+  "slug": "fable",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "1 Timothy 1:4",
+        "1 Timothy 4:7",
+        "2 Timothy 4:4",
+        "Titus 1:7,14",
+        "2 Peter 1:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 1:4"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 4:7"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:4"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        7,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Titus 1:7,14"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 1,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 1:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Timothy",
+    "2 Peter",
+    "2 Timothy",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 4,
+    "top_books": [
+      "1 Timothy",
+      "2 Timothy",
+      "Titus",
+      "2 Peter"
+    ]
+  }
+}

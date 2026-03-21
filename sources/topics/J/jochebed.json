@@ -1,0 +1,80 @@
+{
+  "topic": "JOCHEBED",
+  "slug": "jochebed",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Mother of Miriam, Aaron, and Moses",
+      "references": [
+        "Exodus 6:20",
+        "Numbers 26:59"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 2:1-9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:20"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        59
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:59"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Exodus 2:1-9"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Numbers"
+    ]
+  }
+}

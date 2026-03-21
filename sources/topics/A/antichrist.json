@@ -1,0 +1,228 @@
+{
+  "topic": "ANTICHRIST",
+  "slug": "antichrist",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Matthew 24:5,23,24,26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "13:6,21,22;",
+      "references": [
+        "Luke 21:8",
+        "2 Thessalonians 2:3-12",
+        "Job 2:18,22",
+        "Job 4:3",
+        "Job 1:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To be",
+      "references": [
+        "Revelation 19:20",
+        "Revelation 20:10,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Denies the Father and the Son",
+      "references": [
+        "1 John 2:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Denies the incarnation of Christ",
+      "references": [
+        "1 John 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Spirit of, prevalent in apostolic times",
+      "references": [
+        "1 John 2:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Deceit, a characteristic of",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        5,
+        23,
+        24,
+        26
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 24:5,23,24,26"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        6,
+        21,
+        22
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 13:6,21,22"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 21:8"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "2 Thessalonians 2:3-12"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        18,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 2:18,22"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 4:3"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:7"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 19:20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 20,
+      "verses": [
+        10,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 20:10,15"
+    },
+    {
+      "book": "1 John",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 2:22"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:3"
+    },
+    {
+      "book": "1 John",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 2:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 John",
+    "2 Thessalonians",
+    "Job",
+    "Luke",
+    "Matthew",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 12,
+    "ot_refs": 3,
+    "nt_refs": 9,
+    "books_count": 6,
+    "top_books": [
+      "Job",
+      "1 John",
+      "Matthew",
+      "Revelation",
+      "Luke",
+      "2 Thessalonians"
+    ]
+  }
+}

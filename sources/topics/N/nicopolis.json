@@ -1,0 +1,47 @@
+{
+  "topic": "NICOPOLIS",
+  "slug": "nicopolis",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of Thrace)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul lives in",
+      "references": [
+        "Titus 3:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:12"
+    }
+  ],
+  "books_mentioned": [
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Titus"
+    ]
+  }
+}

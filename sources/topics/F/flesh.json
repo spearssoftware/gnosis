@@ -1,0 +1,85 @@
+{
+  "topic": "FLESH",
+  "slug": "flesh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Fruits of",
+      "references": [
+        "Galatians 5:19-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMOLI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Body of Christ symbolized by the bread",
+      "references": [
+        "John 6:51-63"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        19,
+        20,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Galatians 5:19-21"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "John 6:51-63"
+    }
+  ],
+  "books_mentioned": [
+    "Galatians",
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Galatians",
+      "John"
+    ]
+  }
+}

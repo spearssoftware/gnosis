@@ -1,0 +1,175 @@
+{
+  "topic": "STEPHEN",
+  "slug": "stephen",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A Christian martyr)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Appointed one of the committee of seven to oversee the daily",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "ministration",
+      "references": [
+        "Acts 6:3,5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Faith and power of",
+      "references": [
+        "Acts 6:5,8-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "False charges against",
+      "references": [
+        "Acts 6:11-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Stoned",
+      "references": [
+        "Acts 7:54-60",
+        "Acts 8:1",
+        "Acts 22:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Burial of",
+      "references": [
+        "Acts 8:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gentle and forgiving spirit of",
+      "references": [
+        "Acts 7:59,60"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        3,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 6:3,5,6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        5,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 6:5,8-10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Acts 6:11-15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Acts 7:54-60"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 8:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 22:20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 8:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        59,
+        60
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 7:59,60"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 8,
+    "ot_refs": 0,
+    "nt_refs": 8,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "EUNICE",
+  "slug": "eunice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Timothy’s mother",
+      "references": [
+        "2 Timothy 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [
+        "Acts 16:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 1:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:1"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "2 Timothy",
+      "Acts"
+    ]
+  }
+}

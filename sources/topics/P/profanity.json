@@ -1,0 +1,55 @@
+{
+  "topic": "PROFANITY",
+  "slug": "profanity",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BLASPHEMY",
+    "GOD",
+    "OATH",
+    "SABBATH"
+  ],
+  "aspects": [
+    {
+      "label": "SeeBLASPHEMY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOATH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the name of God",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGOD, un",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the Sabbath",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSABBATH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "topic": "SERAIAH",
+  "slug": "seraiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".David’ s scribe",
+      "references": [
+        "2 Samuel 8:17",
+        "2 Samuel 20:25",
+        "1 Kings 4:3",
+        "1 Chronicles 18:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Chief priest at the time of collapse of",
+      "references": [
+        "2 Kings 25:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Father of Ezra",
+      "references": [
+        "Ezra 7:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Killed by Nebuchadnezzar",
+      "references": [
+        "2 Kings 25:18-21",
+        "Jeremiah 52:24-27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. An Israelite",
+      "references": [
+        "2 Kings 25:23",
+        "Jeremiah 40:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4.",
+      "references": [
+        "1 Chronicles 4:13,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Simeonite",
+      "references": [
+        "1 Chronicles 4:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A priest who returned from the Babylonian",
+      "references": [
+        "Ezra 2:2",
+        "Nehemiah 12:1,12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Nehemiah 7:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. One who sealed the covenant with Nehemiah",
+      "references": [
+        "Nehemiah 10:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Possibly i",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "8. A ruler of the temple after the",
+      "references": [
+        "Nehemiah 11:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "9.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Comman",
+      "references": [
+        "Jeremiah 36:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "10. A servant of Ze",
+      "references": [
+        "Jeremiah 51:59,61"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:25"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 18:16"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:18"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:1"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Kings 25:18-21"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 52,
+      "verses": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Jeremiah 52:24-27"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:23"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 40:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:13,14"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:35"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        1,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:1,12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:26"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verses": [
+        59,
+        61
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 51:59,61"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Kings",
+    "2 Samuel",
+    "Ezra",
+    "Jeremiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 19,
+    "ot_refs": 19,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "Jeremiah",
+      "Nehemiah",
+      "1 Chronicles",
+      "2 Kings",
+      "2 Samuel",
+      "Ezra",
+      "1 Kings"
+    ]
+  }
+}

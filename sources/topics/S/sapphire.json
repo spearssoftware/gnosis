@@ -1,0 +1,129 @@
+{
+  "topic": "SAPPHIRE",
+  "slug": "sapphire",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A precious stone",
+      "references": [
+        "Job 28:6,16",
+        "Isaiah 54:11",
+        "Ezekiel 28:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Set in the breastplate",
+      "references": [
+        "Exodus 28:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The color of the expanse",
+      "references": [
+        "Ezekiel 1:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Seen in the foundation of the New",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "vision",
+      "references": [
+        "Revelation 21:19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        6,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 28:6,16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 54,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 54:11"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:13"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:26"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:19"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Ezekiel",
+    "Isaiah",
+    "Job",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "Ezekiel",
+      "Job",
+      "Isaiah",
+      "Exodus",
+      "Revelation"
+    ]
+  }
+}

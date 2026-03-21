@@ -1,0 +1,1282 @@
+{
+  "topic": "DEAD, THE",
+  "slug": "dead__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "They who have departed this life",
+      "references": [
+        "Genesis 23:2",
+        "Genesis 25:8",
+        "Job 1:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Terms used to express: Corpses",
+      "references": [
+        "2 Kings 19:35",
+        "Nahum 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Terms used to express: Carcases",
+      "references": [
+        "Numbers 14:29,32,33",
+        "1 Kings 13:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Terms used to express: Those who are not",
+      "references": [
+        "Matthew 2:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Terms used to express: Deceased",
+      "references": [
+        "Isaiah 26:14",
+        "Matthew 22:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Being without the Spirit",
+      "references": [
+        "James 2:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Being incapable of motion",
+      "references": [
+        "Matthew 28:4",
+        "Revelation 1:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Ignorance of all human affairs",
+      "references": [
+        "Ecclesiastes 9:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Absence of all human passions",
+      "references": [
+        "Ecclesiastes 9:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Inability to glorify God",
+      "references": [
+        "Psalms 115:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Return not to this life",
+      "references": [
+        "Job 7:9,10",
+        "Job 14:10,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Eyes of, closed by nearest of kin",
+      "references": [
+        "Genesis 46:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were washed and laid out",
+      "references": [
+        "Acts 9:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were wrapped in lined with spices",
+      "references": [
+        "John 19:40"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Very great",
+      "references": [
+        "Genesis 27:35",
+        "Jeremiah 31:15",
+        "Matthew 2:18",
+        "John 11:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Loud and clamorous",
+      "references": [
+        "Jeremiah 16:6",
+        "Mark 5:38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: By hired mourners",
+      "references": [
+        "Jeremiah 9:17,18",
+        "Amos 5:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: With plaintive music",
+      "references": [
+        "Jeremiah 48:36",
+        "Matthew 9:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Testified by change of apparel",
+      "references": [
+        "2 Samuel 14:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Testified by taring the hair",
+      "references": [
+        "Jeremiah 16:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Testified by covering the head",
+      "references": [
+        "2 Samuel 19:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Testified by rending the garments",
+      "references": [
+        "Genesis 37:34",
+        "2 Samuel 3:31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mourning for, often: Lasted many days",
+      "references": [
+        "Genesis 37:34",
+        "Genesis 50:3,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Regard often shown to the memory of",
+      "references": [
+        "Ruth 1:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Too soon forgotten",
+      "references": [
+        "Psalms 31:12",
+        "Ecclesiastes 9:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Heathenish expressions of grief for, forbidden",
+      "references": [
+        "Leviticus 19:28",
+        "Deuteronomy 14:1,2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "All offerings to, forbidden",
+      "references": [
+        "Deuteronomy 26:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Touching of, caused uncleanness",
+      "references": [
+        "Numbers 19:11,13,16",
+        "Numbers 9:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In a house rendered it unclean",
+      "references": [
+        "Numbers 19:14,15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Even bones of, caused uncleanness",
+      "references": [
+        "Numbers 19:16",
+        "2 Chronicles 34:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A priest not to mourn for, except when near of kin",
+      "references": [
+        "Leviticus 21:1-3",
+        "Ezekiel 44:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "High priest in no case to mourn for",
+      "references": [
+        "Leviticus 21:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Nazarites not to touch or mourn for",
+      "references": [
+        "Numbers 6:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Those defiled by, removed from the camp",
+      "references": [
+        "Numbers 5:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Uncleanness contracted from, removed by the water separation",
+      "references": [
+        "Numbers 19:12,18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Idolaters: Tore themselves for",
+      "references": [
+        "Jeremiah 16:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Idolaters: Offered sacrifices for",
+      "references": [
+        "Psalms 106:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Idolaters: Invoked and consulted",
+      "references": [
+        "1 Samuel 28:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Idolaters: Consecrated part of their crops to",
+      "references": [
+        "Deuteronomy 26:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews looked for a resurrection from",
+      "references": [
+        "Isaiah 26:19",
+        "Acts 24:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instances of, restored to life before Christ",
+      "references": [
+        "1 Kings 17:22",
+        "2 Kings 4:34-36",
+        "2 Kings 13:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instances of, restored by Christ",
+      "references": [
+        "Matthew 9:25",
+        "Luke 7:15",
+        "John 11:44",
+        "Acts 9:40",
+        "Acts 20:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Man’s state by nature",
+      "references": [
+        "2 Corinthians 5:4",
+        "Ephesians 2:1,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: A state of deep affliction, &c",
+      "references": [
+        "Psalms 88:5,6",
+        "Psalms 143:3",
+        "Isaiah 59:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Freedom from the power of sin",
+      "references": [
+        "Romans 6:2,8,11",
+        "Colossians 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Freedom from the law",
+      "references": [
+        "Romans 7:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Faith without works",
+      "references": [
+        "1 Timothy 5:6",
+        "James 2:17,26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Diviners &c",
+      "references": [
+        "Isaiah 8:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Impotence",
+      "references": [
+        "Genesis 20:3",
+        "Romans 4:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 23:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:8"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:19"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:35"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "verses": [
+        29,
+        32,
+        33
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 14:29,32,33"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 13:24"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 2:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 26:14"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 22:25"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 2:26"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 28:4"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:17"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 9:5"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 9:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 115,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 115:17"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 7:9,10"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "verses": [
+        10,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 14:10,14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:37"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:40"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 27:35"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 31,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 31:15"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:33"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 16,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 16:6"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 5:38"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 9,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 9:17,18"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 5:16"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:36"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:23"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 14:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 16,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 16:7"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 19:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:34"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        3,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 50:3,10"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 1:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 31,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 31:12"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:28"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:1,2"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 26:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        11,
+        13,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 19:11,13,16"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 9:6,7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 19:14,15"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 19:16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 34,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 34:5"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 21:1-3"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 44,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 44:25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 21:10,11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 6:6,7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 5:2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        12,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 19:12,18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 106,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 106:28"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 28:7,8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 26,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 26:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:15"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 17:22"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verses": [
+        34,
+        35,
+        36
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 4:34-36"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 13:21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:25"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:15"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:44"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:40"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:12"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 5:4"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        1,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 2:1,5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 88,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 88:5,6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 143,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 143:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:10"
+    },
+    {
+      "book": "Romans",
+      "chapter": 6,
+      "verses": [
+        2,
+        8,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Romans 6:2,8,11"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 7:4"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 5:6"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "verses": [
+        17,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "James 2:17,26"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 8:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 20,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 20:3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 4:19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "1 Timothy",
+    "2 Chronicles",
+    "2 Corinthians",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Colossians",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Ephesians",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "James",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Leviticus",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Nahum",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Romans",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 49,
+    "total_refs": 77,
+    "ot_refs": 53,
+    "nt_refs": 24,
+    "books_count": 30,
+    "top_books": [
+      "Numbers",
+      "Genesis",
+      "Matthew",
+      "Psalms",
+      "Jeremiah",
+      "Isaiah",
+      "Acts",
+      "Job",
+      "2 Kings",
+      "John"
+    ]
+  }
+}

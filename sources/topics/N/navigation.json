@@ -1,0 +1,61 @@
+{
+  "topic": "NAVIGATION",
+  "slug": "navigation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMERCE",
+    "MARINER",
+    "NAVY"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Acts 27:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMMERCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMARINER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNAVY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:28"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

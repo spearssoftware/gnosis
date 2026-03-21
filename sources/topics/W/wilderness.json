@@ -1,0 +1,101 @@
+{
+  "topic": "WILDERNESS",
+  "slug": "wilderness",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DESERT",
+    "ISRAEL"
+  ],
+  "aspects": [
+    {
+      "label": "Wan",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Typi",
+      "references": [
+        "Deuteronomy 32:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus’ temptation in",
+      "references": [
+        "Matthew 4:1",
+        "Mark 1:12,13",
+        "Luke 4:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:1"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 1:12,13"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 4:1"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 1,
+    "nt_refs": 3,
+    "books_count": 4,
+    "top_books": [
+      "Deuteronomy",
+      "Matthew",
+      "Mark",
+      "Luke"
+    ]
+  }
+}

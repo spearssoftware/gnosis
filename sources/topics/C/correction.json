@@ -1,0 +1,57 @@
+{
+  "topic": "CORRECTION",
+  "slug": "correction",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "AFFLICTION, DESIGN OF",
+    "CHASTISEMENT",
+    "CHILDREN, CORRECTION OF",
+    "PARENTS",
+    "PUNISHMENT",
+    "SCOURGING"
+  ],
+  "aspects": [
+    {
+      "label": "SeeAFFLICTION,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHASTISEMENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHILDREN, CORRECTION OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePARENTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePUNISHMENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSCOURGING",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

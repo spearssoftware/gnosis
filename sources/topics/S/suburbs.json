@@ -1,0 +1,57 @@
+{
+  "topic": "SUBURBS",
+  "slug": "suburbs",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Numbers 35:3-5",
+        "Joshua 14:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 35:3-5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 14,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 14:4"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "Joshua"
+    ]
+  }
+}

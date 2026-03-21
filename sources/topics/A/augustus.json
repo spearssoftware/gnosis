@@ -1,0 +1,67 @@
+{
+  "topic": "AUGUSTUS",
+  "slug": "augustus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An important Roman emperor",
+      "references": [
+        "Luke 2:1",
+        "Acts 25:21,25",
+        "Acts 27:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 2:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "verses": [
+        21,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 25:21,25"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:1"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Luke"
+    ]
+  }
+}

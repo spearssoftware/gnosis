@@ -1,0 +1,418 @@
+{
+  "topic": "KNOWLEDGE",
+  "slug": "knowledge",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WISDOM"
+  ],
+  "aspects": [
+    {
+      "label": "Of good and evil",
+      "references": [
+        "Genesis 2:9,17",
+        "Genesis 3:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is power",
+      "references": [
+        "Proverbs 3:20",
+        "Proverbs 24:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "1 Kings 3:9",
+        "Psalms 119:66",
+        "Psalms 12:1",
+        "Psalms 15:14",
+        "Psalms 18:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Rejected",
+      "references": [
+        "Hosea 4:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Those who reject are",
+      "references": [
+        "Hosea 4:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fools hate",
+      "references": [
+        "Proverbs 1:22,29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A divine gift",
+      "references": [
+        "1 Corinthians 12:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is pleasant",
+      "references": [
+        "Proverbs 2:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Shall be increased",
+      "references": [
+        "Daniel 12:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The earth shall be full of",
+      "references": [
+        "Isaiah 11:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The fear (reverence) of the Lord is the beginning of",
+      "references": [
+        "Proverbs 1:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of more va",
+      "references": [
+        "Proverbs 8:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The priest’s lips should keep",
+      "references": [
+        "Malachi 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of salvation",
+      "references": [
+        "Luke 1:77"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Key of",
+      "references": [
+        "Luke 11:52"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "“Now we know in part”",
+      "references": [
+        "1 Corinthians 13:9-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of God more than burnt offering",
+      "references": [
+        "Hosea 6:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Christ",
+      "references": [
+        "Philippians 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWISDOM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        9,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 2:9,17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 3:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 24:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 3:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        66
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:66"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 12:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 15,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 15:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:15"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 4:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        22,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 1:22,29"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 2:10"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 12:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 8:10"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 2:7"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        77
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:77"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:52"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "verses": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "1 Corinthians 13:9-12"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 6,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 6:6"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Kings",
+    "Daniel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "Luke",
+    "Malachi",
+    "Philippians",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 23,
+    "ot_refs": 18,
+    "nt_refs": 5,
+    "books_count": 11,
+    "top_books": [
+      "Proverbs",
+      "Psalms",
+      "Genesis",
+      "Hosea",
+      "1 Corinthians",
+      "Luke",
+      "1 Kings",
+      "Daniel",
+      "Isaiah",
+      "Malachi"
+    ]
+  }
+}

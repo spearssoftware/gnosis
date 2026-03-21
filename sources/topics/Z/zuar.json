@@ -1,0 +1,76 @@
+{
+  "topic": "ZUAR",
+  "slug": "zuar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of Nethaneel",
+      "references": [
+        "Numbers 1:8",
+        "Numbers 2:5",
+        "Numbers 7:18,23",
+        "Numbers 10:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:8"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:5"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        18,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:18,23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:15"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

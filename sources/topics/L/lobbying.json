@@ -1,0 +1,56 @@
+{
+  "topic": "LOBBYING",
+  "slug": "lobbying",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DIPLOMACY",
+    "INFLUENCE, POLITICAL"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Ezra 4:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDIPLOMACY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 4:4,5"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

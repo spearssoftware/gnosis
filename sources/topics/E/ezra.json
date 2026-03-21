@@ -1,0 +1,275 @@
+{
+  "topic": "EZRA",
+  "slug": "ezra",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A famous scribe and priest",
+      "references": [
+        "Ezra 7:1-5,6,10,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Ezra 12:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Appoints a fast",
+      "references": [
+        "Ezra 8:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Commissioned by Artaxerxes, returns to",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "group of Jews",
+      "references": [
+        "Ezra 7:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His charge to the priests",
+      "references": [
+        "Ezra 8:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Exhorts people to put away their heathen wivesEzr",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "9;",
+      "references": [
+        "Ezra 10:1-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Reads the lawNe 8",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Reforms corruptionsEzr 10;Ne 13",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Nehemiah 12:27-43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A leading priest among the colonists un",
+      "references": [
+        "Nehemiah 12:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Probably i",
+      "references": [
+        "Nehemiah 10:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".An",
+      "references": [
+        "Ezra 7:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "1 Chronicles 4:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        21
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Ezra 7:1-5,6,10,21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 12,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 12:36"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:8"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:29"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "Ezra 10:1-17"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "Nehemiah 12:27-43"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:1"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:2"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Ezra",
+      "Nehemiah",
+      "1 Chronicles"
+    ]
+  }
+}

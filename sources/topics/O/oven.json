@@ -1,0 +1,168 @@
+{
+  "topic": "OVEN",
+  "slug": "oven",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BREAD"
+  ],
+  "aspects": [
+    {
+      "label": "For baking",
+      "references": [
+        "Exodus 8:3",
+        "Leviticus 2:4",
+        "Leviticus 7:9",
+        "Leviticus 11:35",
+        "Leviticus 26:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBREAD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 21:9",
+        "Hosea 7:4,6,7",
+        "Malachi 4:1",
+        "Matthew 6:30",
+        "Luke 12:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 8,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 8:3"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 2:4"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 7:9"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:35"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:26"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 21,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 21:9"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 7,
+      "verses": [
+        4,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Hosea 7:4,6,7"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 4:1"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:30"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:28"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Hosea",
+    "Leviticus",
+    "Luke",
+    "Malachi",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 10,
+    "ot_refs": 8,
+    "nt_refs": 2,
+    "books_count": 7,
+    "top_books": [
+      "Leviticus",
+      "Exodus",
+      "Psalms",
+      "Hosea",
+      "Malachi",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

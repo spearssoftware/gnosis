@@ -1,0 +1,75 @@
+{
+  "topic": "MOREH",
+  "slug": "moreh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A plain near Shechem and Gilgal",
+      "references": [
+        "Genesis 12:6",
+        "Deuteronomy 11:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A hill on the plain of Jezreel where the Midianites en",
+      "references": [
+        "Judges 7:1,12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 12:6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:30"
+    },
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        1,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 7:1,12"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Deuteronomy",
+      "Judges"
+    ]
+  }
+}

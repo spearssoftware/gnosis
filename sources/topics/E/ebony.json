@@ -1,0 +1,47 @@
+{
+  "topic": "EBONY",
+  "slug": "ebony",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A fossil)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Merchandise in",
+      "references": [
+        "Ezekiel 27:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:15"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezekiel"
+    ]
+  }
+}

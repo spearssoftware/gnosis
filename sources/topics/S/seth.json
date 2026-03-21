@@ -1,0 +1,103 @@
+{
+  "topic": "SETH",
+  "slug": "seth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The third",
+      "references": [
+        "Genesis 4:25,26",
+        "Genesis 5:3,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "1:1;",
+      "references": [
+        "Luke 3:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "1 Chronicles 1:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 4:25,26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        3,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 5:3,8"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 1:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:38"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Luke",
+      "1 Chronicles"
+    ]
+  }
+}

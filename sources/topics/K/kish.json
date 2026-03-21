@@ -1,0 +1,184 @@
+{
+  "topic": "KISH",
+  "slug": "kish",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father of Saul",
+      "references": [
+        "1 Samuel 9:1-3",
+        "1 Samuel 10:21",
+        "2 Samuel 21:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Acts 13:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Benjamite",
+      "references": [
+        "1 Chronicles 8:30",
+        "1 Chronicles 9:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Levite",
+      "references": [
+        "1 Chronicles 23:21,22",
+        "1 Chronicles 24:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Levite",
+      "references": [
+        "2 Chronicles 29:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Great grandfather of Mor",
+      "references": [
+        "Esther 2:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 9:1-3"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 10:21"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 13:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:30"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:36"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:21,22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:12"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Samuel",
+    "Acts",
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 10,
+    "ot_refs": 9,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "1 Chronicles",
+      "1 Samuel",
+      "2 Samuel",
+      "Acts",
+      "2 Chronicles",
+      "Esther"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "topic": "SHEALTIEL",
+  "slug": "shealtiel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Father of Zerubbabel and an ancestor of Jesus",
+      "references": [
+        "1 Chronicles 3:17",
+        "Ezra 3:2,8",
+        "Ezra 5:2",
+        "Nehemiah 12:1",
+        "Haggai 1:1,12,14",
+        "Haggai 2:2,23",
+        "Matthew 1:12",
+        "Luke 3:27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:17"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "verses": [
+        2,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 3:2,8"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 5:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:1"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 1,
+      "verses": [
+        1,
+        12,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Haggai 1:1,12,14"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 2,
+      "verses": [
+        2,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Haggai 2:2,23"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 1:12"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Haggai",
+    "Luke",
+    "Matthew",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 8,
+    "ot_refs": 6,
+    "nt_refs": 2,
+    "books_count": 6,
+    "top_books": [
+      "Ezra",
+      "Haggai",
+      "1 Chronicles",
+      "Nehemiah",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

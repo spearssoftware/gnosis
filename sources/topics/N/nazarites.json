@@ -1,0 +1,479 @@
+{
+  "topic": "NAZARITES",
+  "slug": "nazarites",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Persons separated to the service of God",
+      "references": [
+        "Numbers 6:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds of: From the womb",
+      "references": [
+        "Judges 13:5",
+        "Luke 1:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds of: By a particular vow",
+      "references": [
+        "Numbers 6:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required to be holy",
+      "references": [
+        "Numbers 6:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Esteemed pure",
+      "references": [
+        "Lamentations 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Wine or strong drink",
+      "references": [
+        "Numbers 6:3",
+        "Luke 1:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Grapes or anything made from the vine",
+      "references": [
+        "Numbers 6:3,4",
+        "Judges 13:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Cutting or shaving the head",
+      "references": [
+        "Numbers 6:5",
+        "Judges 13:5",
+        "Judges 16:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Defiling themselves by the dead",
+      "references": [
+        "Numbers 6:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Raised up for good of the nation",
+      "references": [
+        "Amos 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ungodly Jews tried to corrupt",
+      "references": [
+        "Amos 2:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defiled during vow: To shave the head the seventh day",
+      "references": [
+        "Numbers 6:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defiled during vow: To bring two turtle doves for a burnt offering",
+      "references": [
+        "Numbers 6:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defiled during vow: To recompense their vow with a trespass offering",
+      "references": [
+        "Numbers 6:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "On completion of vow: To be brought to tabernacle door",
+      "references": [
+        "Numbers 6:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "On completion of vow: To offer sacrifices",
+      "references": [
+        "Numbers 6:14-17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "On completion of vow: To shave their heads",
+      "references": [
+        "Numbers 6:18",
+        "Acts 18:18",
+        "Acts 21:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "On completion of vow: To have the left shoulder of the ram of the peace offering waved upon their hands by the priest",
+      "references": [
+        "Numbers 6:19,20",
+        "Leviticus 7:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Christ",
+      "references": [
+        "Hebrews 7:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Saints",
+      "references": [
+        "2 Corinthians 6:17",
+        "James 1:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:2"
+    },
+    {
+      "book": "Judges",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 13:5"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:15"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:8"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 4:7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 6:3,4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 13,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 13:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 6:6,7"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:11"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:9"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 6:10,11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 6:14-17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:24"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 6:19,20"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 7:32"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 7:26"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:17"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 1:27"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Acts",
+    "Amos",
+    "Hebrews",
+    "James",
+    "Judges",
+    "Lamentations",
+    "Leviticus",
+    "Luke",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 26,
+    "ot_refs": 20,
+    "nt_refs": 6,
+    "books_count": 10,
+    "top_books": [
+      "Numbers",
+      "Judges",
+      "Amos",
+      "Acts",
+      "Luke",
+      "Lamentations",
+      "Leviticus",
+      "Hebrews",
+      "2 Corinthians",
+      "James"
+    ]
+  }
+}

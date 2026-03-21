@@ -1,0 +1,198 @@
+{
+  "topic": "OPHIR",
+  "slug": "ophir",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:29",
+        "1 Chronicles 1:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A country celebrated for its gold and other va",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Products of, used by",
+      "references": [
+        "1 Kings 9:28",
+        "1 Kings 10:11",
+        "2 Chronicles 8:18",
+        "2 Chronicles 9:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jehoshaphat sends ships to, which are wrecked at sea",
+      "references": [
+        "1 Kings 22:48"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Gold of, proverbial for its fineness",
+      "references": [
+        "1 Chronicles 29:4",
+        "Job 22:24",
+        "Job 28:16",
+        "Psalms 45:9",
+        "Isaiah 13:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:23"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:28"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:11"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 8,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 8:18"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:48"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:4"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 22:24"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 45,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 45:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "1 Kings",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Job",
+      "Genesis",
+      "Psalms",
+      "Isaiah"
+    ]
+  }
+}

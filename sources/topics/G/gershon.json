@@ -1,0 +1,188 @@
+{
+  "topic": "GERSHON",
+  "slug": "gershon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 46:11",
+        "Exodus 6:16,17",
+        "Numbers 3:17-26",
+        "Numbers 4:22-28,38",
+        "Numbers 7:7",
+        "Numbers 10:17",
+        "Numbers 26:57",
+        "Joshua 21:6",
+        "1 Chronicles 6:1,16,17,20,43,62,71",
+        "1 Chronicles 15:7",
+        "1 Chronicles 23:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 6:16,17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Numbers 3:17-26"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        38
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Numbers 4:22-28,38"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 7:7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        57
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:57"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        1,
+        16,
+        17,
+        20,
+        43,
+        62,
+        71
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:1,16,17,20,43,62,71"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus",
+    "Genesis",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Numbers",
+      "1 Chronicles",
+      "Genesis",
+      "Exodus",
+      "Joshua"
+    ]
+  }
+}

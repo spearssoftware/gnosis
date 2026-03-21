@@ -1,0 +1,43 @@
+{
+  "topic": "ANNA",
+  "slug": "anna",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Luke 2:36,37"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 2:36,37"
+    }
+  ],
+  "books_mentioned": [
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Luke"
+    ]
+  }
+}

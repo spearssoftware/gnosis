@@ -1,0 +1,146 @@
+{
+  "topic": "RAVEN",
+  "slug": "raven",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A black",
+      "references": [
+        "Proverbs 30:17",
+        "Song of Solomon 5:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 11:15",
+        "Deuteronomy 14:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Preserved by Noah in the ark",
+      "references": [
+        "Genesis 8:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fed Elijah",
+      "references": [
+        "1 Kings 17:4-6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Luke 12:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:17"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:11"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verses": [
+        4,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 17:4-6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Deuteronomy",
+    "Genesis",
+    "Leviticus",
+    "Luke",
+    "Proverbs",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "Proverbs",
+      "Song of Solomon",
+      "Leviticus",
+      "Deuteronomy",
+      "Genesis",
+      "1 Kings",
+      "Luke"
+    ]
+  }
+}

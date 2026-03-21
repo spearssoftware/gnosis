@@ -1,0 +1,293 @@
+{
+  "topic": "CONSTANCY",
+  "slug": "constancy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHARACTER",
+    "STABILITY"
+  ],
+  "aspects": [
+    {
+      "label": "In obedience",
+      "references": [
+        "Psalms 119:31,33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In friendship",
+      "references": [
+        "Proverbs 27:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Un",
+      "references": [
+        "Matthew 5:12",
+        "Hebrews 12:5",
+        "1 Peter 4:12-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In prayer",
+      "references": [
+        "Luke 18:1",
+        "Romans 12:12",
+        "Ephesians 6:18",
+        "Colossians 4:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In beneficence",
+      "references": [
+        "Galatians 6:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In profession",
+      "references": [
+        "Hebrews 10:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [
+        "Ruth 1:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jonathan",
+      "references": [
+        "1 Samuel 18:1",
+        "1 Samuel 20:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Priscilla and Aquila",
+      "references": [
+        "Romans 16:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCHARACTER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSTABILITY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        31,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 119:31,33"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:12"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:5"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "1 Peter 4:12-16"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 18:1"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:12"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:18"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:2"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 5,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 5:17"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:9"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 10,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 10:23"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 1:14"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 18:1"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 20:16"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 16:3,4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "1 Samuel",
+    "Colossians",
+    "Ephesians",
+    "Galatians",
+    "Hebrews",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Romans",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 16,
+    "ot_refs": 5,
+    "nt_refs": 11,
+    "books_count": 12,
+    "top_books": [
+      "Hebrews",
+      "Romans",
+      "Colossians",
+      "1 Samuel",
+      "Psalms",
+      "Proverbs",
+      "Matthew",
+      "1 Peter",
+      "Luke",
+      "Ephesians"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "topic": "HELEM",
+  "slug": "helem",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A",
+      "references": [
+        "1 Chronicles 7:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Probably same as HELDAI",
+      "references": [
+        "Ecclesiastes 6:10,14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:35"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "verses": [
+        10,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 6:10,14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ecclesiastes"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Ecclesiastes"
+    ]
+  }
+}

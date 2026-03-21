@@ -1,0 +1,148 @@
+{
+  "topic": "HEZRON",
+  "slug": "hezron",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 46:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ancestor of the Hezronites",
+      "references": [
+        "Numbers 26:6,21",
+        "1 Chronicles 2:5,9,18,21,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "Genesis 46:9",
+        "Exodus 6:14",
+        "1 Chronicles 4:1",
+        "1 Chronicles 5:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Numbers 26:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        6,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 26:6,21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        5,
+        9,
+        18,
+        21,
+        24
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:5,9,18,21,24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:14"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Numbers",
+      "Exodus"
+    ]
+  }
+}

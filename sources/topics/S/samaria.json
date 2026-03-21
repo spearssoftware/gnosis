@@ -1,0 +1,574 @@
+{
+  "topic": "SAMARIA",
+  "slug": "samaria",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "AHAB",
+    "JEZEBEL"
+  ],
+  "aspects": [
+    {
+      "label": "1. City of, built by O",
+      "references": [
+        "1 Kings 16:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Kings 16:29",
+        "1 Kings 22:51",
+        "2 Kings 13:1,10",
+        "2 Kings 15:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Besieged by Ben-hadad",
+      "references": [
+        "2 Kings 6:24-33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The king of Syria is led into, by Elisha, who miraculously blinds",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "him and his army",
+      "references": [
+        "2 Kings 6:8-23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ahab ruled in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeAHAB",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJEZEBEL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Besieged by Shalmaneser, king of Assyria, for three years;",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "the people",
+      "references": [
+        "2 Kings 17:5,6",
+        "2 Kings 18:9-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Idolatry of",
+      "references": [
+        "1 Kings 16:32",
+        "2 Kings 13:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Temple of,",
+      "references": [
+        "2 Kings 10:17-28",
+        "2 Kings 23:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Paul and Barnabas preach in",
+      "references": [
+        "Acts 15:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Visited by Philip, Peter, and",
+      "references": [
+        "Acts 8:5-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Country of",
+      "references": [
+        "Isaiah 7:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Foreign colonies distributed among the cities of, by the king",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of Assyria",
+      "references": [
+        "2 Kings 17:24-41",
+        "Ezra 4:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Roads through, from",
+      "references": [
+        "Luke 17:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 4:3-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus travels through",
+      "references": [
+        "John 4:1-42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus heals lepers in",
+      "references": [
+        "Luke 17:11-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The Good Samaritan from",
+      "references": [
+        "Luke 10:33-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".No",
+      "references": [
+        "John 4:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Samaritans were expecting the M",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:51"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        1,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 13:1,10"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:8"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "2 Kings 6:24-33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "2 Kings 6:8-23"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 17:5,6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 18:9-11"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:32"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 13:6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "2 Kings 10:17-28"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_count": 21,
+      "testament": "NT",
+      "raw": "Acts 8:5-25"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 7:9"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 18,
+      "testament": "OT",
+      "raw": "2 Kings 17:24-41"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 4:9,10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 17:11"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Luke 4:3-8"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "verse_count": 42,
+      "testament": "NT",
+      "raw": "John 4:1-42"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Luke 17:11-19"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        33,
+        34,
+        35
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Luke 10:33-35"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "Acts",
+    "Ezra",
+    "Isaiah",
+    "John",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 24,
+    "total_refs": 24,
+    "ot_refs": 16,
+    "nt_refs": 8,
+    "books_count": 7,
+    "top_books": [
+      "2 Kings",
+      "1 Kings",
+      "Luke",
+      "Acts",
+      "John",
+      "Isaiah",
+      "Ezra"
+    ]
+  }
+}

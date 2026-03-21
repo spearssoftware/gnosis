@@ -1,0 +1,867 @@
+{
+  "topic": "DIVINATION",
+  "slug": "divination",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "SORCERY"
+  ],
+  "aspects": [
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "An abominable practice",
+      "references": [
+        "1 Samuel 15:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "All who practised it, abominable",
+      "references": [
+        "Deuteronomy 18:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Diviners",
+      "references": [
+        "Deuteronomy 18:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Enchanters",
+      "references": [
+        "Deuteronomy 18:10",
+        "Jeremiah 27:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Witches",
+      "references": [
+        "Exodus 22:18",
+        "Deuteronomy 18:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Charmers",
+      "references": [
+        "Deuteronomy 18:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Wizards",
+      "references": [
+        "Deuteronomy 18:11",
+        "1 Samuel 28:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Consulters of familiar spirits",
+      "references": [
+        "Deuteronomy 18:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Magicians",
+      "references": [
+        "Genesis 41:8",
+        "Daniel 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Astrologers",
+      "references": [
+        "Isaiah 47:13",
+        "Daniel 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Sorcerers",
+      "references": [
+        "Jeremiah 27:9",
+        "Acts 13:6,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Necromancers",
+      "references": [
+        "Deuteronomy 18:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: Soothsayers",
+      "references": [
+        "Isaiah 2:6",
+        "Daniel 2:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Practised by: False prophets",
+      "references": [
+        "Jeremiah 14:14",
+        "Ezekiel 13:3,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Enchantments",
+      "references": [
+        "Exodus 7:11",
+        "Numbers 24:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Sorcery",
+      "references": [
+        "Isaiah 47:12",
+        "Acts 8:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Observing times",
+      "references": [
+        "2 Kings 21:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Observing heavenly bodies",
+      "references": [
+        "Isaiah 37:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Raising the dead",
+      "references": [
+        "1 Samuel 28:11,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Inspecting the inside of beasts",
+      "references": [
+        "Ezekiel 21:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: The flight of arrows",
+      "references": [
+        "Ezekiel 21:21,22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Cups",
+      "references": [
+        "Genesis 44:2,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Rods",
+      "references": [
+        "Hosea 4:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Dreams",
+      "references": [
+        "Jeremiah 29:8",
+        "Zechariah 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Connected with idolatry",
+      "references": [
+        "2 Chronicles 33:5,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: Books of, numerous and expensive",
+      "references": [
+        "Acts 19:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effected through: A lucrative employment",
+      "references": [
+        "Numbers 22:7",
+        "Acts 16:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Those who practised: Regarded as wise men",
+      "references": [
+        "Daniel 2:12,27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Those who practised: Regarded with awe",
+      "references": [
+        "Acts 8:9,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Those who practised: Consulted in difficulties",
+      "references": [
+        "Daniel 2:2",
+        "Daniel 4:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Those who practised: Used mysterious words and gestures",
+      "references": [
+        "Isaiah 8:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A system of fraud",
+      "references": [
+        "Ezekiel 13:6,7",
+        "Jeremiah 29:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frustrated by God",
+      "references": [
+        "Isaiah 44:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Could not injure the Lord’s people",
+      "references": [
+        "Numbers 23:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The law: Forbade to the Israelites the practice of",
+      "references": [
+        "Leviticus 19:26",
+        "Deuteronomy 18:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The law: Forbade seeking to",
+      "references": [
+        "Leviticus 19:31",
+        "Deuteronomy 18:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The law: Punished with death those who used",
+      "references": [
+        "Exodus 22:18",
+        "Leviticus 20:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The law: Punished those who sought to",
+      "references": [
+        "Leviticus 20:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews prone to",
+      "references": [
+        "2 Kings 17:17",
+        "Isaiah 2:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 15:23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 18:12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 18,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 18:14"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 18,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 18:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 27,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 27:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:18"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 18,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 18:11"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 28:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:8"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 4:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 47,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 47:13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        6,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 13:6,8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:6"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:27"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 14,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 14:14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 13,
+      "verses": [
+        3,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 13:3,6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 7,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 7:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 47,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 47:12"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 8:11"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 21:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:13"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 28:11,12"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 21,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 21:21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 21,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 21:21,22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 44,
+      "verses": [
+        2,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 44:2,5"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 4:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 29:8"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 10:2"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 33,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 33:5,6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:19"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 22:7"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:16"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        12,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 2:12,27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        9,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 8:9,11"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:2"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 4:6,7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 8:19"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 13,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 13:6,7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 44:25"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 23:23"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:26"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 18,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 18:10,11"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:31"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 20:27"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 20:6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "Acts",
+    "Daniel",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Numbers",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 40,
+    "total_refs": 47,
+    "ot_refs": 42,
+    "nt_refs": 5,
+    "books_count": 15,
+    "top_books": [
+      "Isaiah",
+      "Deuteronomy",
+      "Daniel",
+      "Acts",
+      "Ezekiel",
+      "Leviticus",
+      "1 Samuel",
+      "Jeremiah",
+      "Numbers",
+      "Exodus"
+    ]
+  }
+}

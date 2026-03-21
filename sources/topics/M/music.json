@@ -1,0 +1,1592 @@
+{
+  "topic": "MUSIC",
+  "slug": "music",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "CYMBAL",
+    "HARP",
+    "PIPE",
+    "PRAISE",
+    "PSALMS",
+    "PSALTERY",
+    "TIMBREL",
+    "TRUMPET"
+  ],
+  "aspects": [
+    {
+      "label": "Teachers of",
+      "references": [
+        "1 Chronicles 15:22",
+        "1 Chronicles 25:7,8",
+        "2 Chronicles 23:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Physi",
+      "references": [
+        "1 Samuel 6:15,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Discoursed during the offering of sacrifices",
+      "references": [
+        "2 Chronicles 29:27,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Precentor",
+      "references": [
+        "Nehemiah 12:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Chief musician",
+      "references": [
+        "Nehemiah 12:42",
+        "Habakkuk 3:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Chambers for musicians in the temple, in Ezekiel’s vision",
+      "references": [
+        "Ezekiel 40:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In heaven",
+      "references": [
+        "Revelation 5:8,9",
+        "Revelation 14:2,3",
+        "Revelation 15:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTRUMENTS OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Invented by Jubal",
+      "references": [
+        "Genesis 4:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Invented by David",
+      "references": [
+        "1 Chronicles 23:5",
+        "2 Chronicles 7:6",
+        "2 Chronicles 29:26",
+        "Amos 6:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ma",
+      "references": [
+        "1 Kings 10:12",
+        "2 Chronicles 9:11",
+        "Ecclesiastes 2:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ma",
+      "references": [
+        "Ezekiel 28:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".CORNET",
+      "references": [
+        "Daniel 3:5,7,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTRUMPET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".CYMBAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCYMBAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".DULCIMER, a double pipe",
+      "references": [
+        "Daniel 3:5,10,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".F",
+      "references": [
+        "Daniel 3:5,7,10,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".GITTITH, a stringed instrumentPs 8;81;84",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".HARP",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHARP",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".ORGAN, probably composed of pipes furnishing a",
+      "references": [
+        "Genesis 4:21",
+        "Job 21:12",
+        "Job 30:31",
+        "Psalms 150:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".PIPE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePIPE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".PSALTERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePSALTERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SACKBUT, a harp",
+      "references": [
+        "Daniel 3:5,7,10,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".TABRET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTIMBREL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".TIMBREL, a tambourine",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTIMBREL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".TRUMPET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTRUMPET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".VIOL, a lyre",
+      "references": [
+        "Isaiah 5:12",
+        "Isaiah 14:11",
+        "Amos 5:23",
+        "Amos 6:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLS USED IN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "ALAMOTH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".(Literally virgins) .A mus",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Early invention of",
+      "references": [
+        "Genesis 4:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divided into: Vocal",
+      "references": [
+        "2 Samuel 19:35",
+        "Acts 16:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divided into: Instrumental",
+      "references": [
+        "Daniel 6:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Designed to promote joy",
+      "references": [
+        "Ecclesiastes 2:8,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Vanity of all unsanctified",
+      "references": [
+        "Ecclesiastes 2:8,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Considered efficacious in mental disorders",
+      "references": [
+        "1 Samuel 16:14-17,23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Effects produced on the prophets of old by",
+      "references": [
+        "1 Samuel 10:5,6",
+        "2 Kings 3:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Cymbals",
+      "references": [
+        "1 Chronicles 16:5",
+        "Psalms 150:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Cornet",
+      "references": [
+        "Psalms 98:6",
+        "Hosea 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Dulcimer",
+      "references": [
+        "Daniel 3:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Flute",
+      "references": [
+        "Daniel 3:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Harp",
+      "references": [
+        "Psalms 137:2",
+        "Ezekiel 26:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Organ",
+      "references": [
+        "Genesis 4:21",
+        "Job 21:12",
+        "Psalms 150:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Pipe",
+      "references": [
+        "1 Kings 1:40",
+        "Isaiah 5:12",
+        "Jeremiah 48:36"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Psaltery",
+      "references": [
+        "Psalms 33:2",
+        "Psalms 71:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Sackbut",
+      "references": [
+        "Daniel 3:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Tabret",
+      "references": [
+        "1 Samuel 10:5",
+        "Isaiah 24:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Timbrel",
+      "references": [
+        "Exodus 15:20",
+        "Psalms 68:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Trumpet",
+      "references": [
+        "2 Kings 11:14",
+        "2 Chronicles 29:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Viol",
+      "references": [
+        "Isaiah 14:11",
+        "Amos 5:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Made of fir wood",
+      "references": [
+        "2 Samuel 6:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Made of almug wood",
+      "references": [
+        "1 Kings 10:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Made of brass",
+      "references": [
+        "1 Corinthians 13:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Made of silver",
+      "references": [
+        "Numbers 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Made of horns of animals",
+      "references": [
+        "Joshua 6:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Many, with strings",
+      "references": [
+        "Psalms 33:2",
+        "Psalms 150:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Early invention of",
+      "references": [
+        "Genesis 4:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Invented by David",
+      "references": [
+        "1 Chronicles 23:5",
+        "2 Chronicles 7:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: The Jews celebrated for inventing",
+      "references": [
+        "Amos 6:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Often expensively ornamented",
+      "references": [
+        "Ezekiel 28:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Instruments of: Great diversity of",
+      "references": [
+        "Ecclesiastes 2:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Appointed to be used in the temple",
+      "references": [
+        "1 Chronicles 16:4-6",
+        "1 Chronicles 23:5,6",
+        "1 Chronicles 25:1",
+        "2 Chronicles 29:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Custom of sending away friends with",
+      "references": [
+        "Genesis 31:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: In sacred processions",
+      "references": [
+        "2 Samuel 6:4,5,15",
+        "1 Chronicles 13:6-8",
+        "1 Chronicles 15:27,28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: At laying foundation of temple",
+      "references": [
+        "Ezra 3:9,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: At consecration of temple",
+      "references": [
+        "2 Chronicles 5:11-13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: At coronation of kings",
+      "references": [
+        "2 Chronicles 23:11,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: At dedication of city walls",
+      "references": [
+        "Nehemiah 12:27,28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: To celebrate victories",
+      "references": [
+        "Exodus 15:20",
+        "1 Samuel 18:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: In religious feasts",
+      "references": [
+        "2 Chronicles 30:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: In private entertainments",
+      "references": [
+        "Isaiah 5:12",
+        "Amos 6:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: In dances",
+      "references": [
+        "Matthew 11:17",
+        "Luke 15:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: In funeral ceremonies",
+      "references": [
+        "Matthew 9:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews used: In commemorating great men",
+      "references": [
+        "2 Chronicles 35:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in idol worship",
+      "references": [
+        "Daniel 3:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The movements of armies regulated by",
+      "references": [
+        "Joshua 6:8",
+        "1 Corinthians 14:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Generally put aside in times of affliction",
+      "references": [
+        "Psalms 137:2-4",
+        "Daniel 6:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of joy and gladness",
+      "references": [
+        "Zephaniah 3:17",
+        "Ephesians 5:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of heavenly felicity",
+      "references": [
+        "Revelation 5:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Ceasing of,) of calamities",
+      "references": [
+        "Isaiah 24:8,9",
+        "Revelation 18:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:7,8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 23,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 23:13"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 6:15,16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:27,28"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:42"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:19"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 40,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 40:44"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 5,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 5:8,9"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 14:2,3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 15,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 15:2,3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:5"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 7:6"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:26"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 6:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:11"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:8"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        5,
+        7,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Daniel 3:5,7,10"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        5,
+        10,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Daniel 3:5,10,15"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        5,
+        7,
+        10,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Daniel 3:5,7,10,15"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 21:12"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 30:31"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 150,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 150:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 14,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 14:11"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 5:23"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 19:35"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:25"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:18"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        8,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:8,10"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:8,11"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        23
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Samuel 16:14-17,23"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 10:5,6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 3:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 150,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 150:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 98,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 98:6"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 5:8"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 3:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 137,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 137:2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 26:13"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:40"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:36"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 33,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 33:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 71,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 71:22"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 10:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 24:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 15:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:25"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 11:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:27"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:5"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 13:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 6,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 6:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        4,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:4-6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:5,6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:1"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:27"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        4,
+        5,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 6:4,5,15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "verses": [
+        6,
+        7,
+        8
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 13:6-8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:27,28"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 3:9,10"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 5,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Chronicles 5:11-13"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 23,
+      "verses": [
+        11,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 23:11,13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:27,28"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 18:6,7"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 30,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 30:21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:17"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:25"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 35,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 35:25"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 137,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Psalms 137:2-4"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 3:17"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 24:8,9"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:22"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Corinthians",
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Daniel",
+    "Ecclesiastes",
+    "Ephesians",
+    "Exodus",
+    "Ezekiel",
+    "Ezra",
+    "Genesis",
+    "Habakkuk",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Luke",
+    "Matthew",
+    "Nehemiah",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 87,
+    "total_refs": 82,
+    "ot_refs": 71,
+    "nt_refs": 11,
+    "books_count": 29,
+    "top_books": [
+      "2 Chronicles",
+      "1 Chronicles",
+      "Psalms",
+      "1 Samuel",
+      "Daniel",
+      "Revelation",
+      "Isaiah",
+      "Ezekiel",
+      "Ecclesiastes",
+      "2 Samuel"
+    ]
+  }
+}

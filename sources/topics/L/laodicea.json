@@ -1,0 +1,120 @@
+{
+  "topic": "LAODICEA",
+  "slug": "laodicea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A Phrygian city)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul’s concern for",
+      "references": [
+        "Colossians 2:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Epaphras’ zeal for",
+      "references": [
+        "Colossians 4:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Epistle to the Colossians to be read in",
+      "references": [
+        "Colossians 4:15,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Message to, through",
+      "references": [
+        "Revelation 1:11",
+        "Revelation 3:14-22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Colossians",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 2:1"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:13"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Colossians 4:15,16"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 3,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Revelation 3:14-22"
+    }
+  ],
+  "books_mentioned": [
+    "Colossians",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 2,
+    "top_books": [
+      "Colossians",
+      "Revelation"
+    ]
+  }
+}

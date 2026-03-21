@@ -1,0 +1,50 @@
+{
+  "topic": "COLLECTION",
+  "slug": "collection",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ALMS",
+    "BENEFICENCE",
+    "GIVING",
+    "LIBERALITY"
+  ],
+  "aspects": [
+    {
+      "label": "(Of money, for the poor people)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALMS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBENEFICENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGIVING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLIBERALITY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

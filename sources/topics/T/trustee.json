@@ -1,0 +1,134 @@
+{
+  "topic": "TRUSTEE",
+  "slug": "trustee",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "STEWARD"
+  ],
+  "aspects": [
+    {
+      "label": "Mosaic law concerning",
+      "references": [
+        "Exodus 22:7-13",
+        "Leviticus 6:2-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The parable of the pounds",
+      "references": [
+        "Matthew 25:14-28",
+        "Luke 19:12-27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSTEWARD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Exodus 22:7-13"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Leviticus 6:2-7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 15,
+      "testament": "NT",
+      "raw": "Matthew 25:14-28"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 16,
+      "testament": "NT",
+      "raw": "Luke 19:12-27"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Leviticus",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 2,
+    "nt_refs": 2,
+    "books_count": 4,
+    "top_books": [
+      "Exodus",
+      "Leviticus",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

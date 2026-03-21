@@ -1,0 +1,76 @@
+{
+  "topic": "ARARAT",
+  "slug": "ararat",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A district of Armenia",
+      "references": [
+        "Jeremiah 51:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The ark of Noah",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Assassins of Sennacherib take refuge in",
+      "references": [
+        "Isaiah 37:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 51:27"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 8:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:38"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Isaiah"
+    ]
+  }
+}

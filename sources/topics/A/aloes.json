@@ -1,0 +1,111 @@
+{
+  "topic": "ALOES",
+  "slug": "aloes",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used as perfume",
+      "references": [
+        "Psalms 45:8",
+        "Proverbs 7:17",
+        "Song of Solomon 4:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In embalming the",
+      "references": [
+        "John 19:39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Lign-aloes",
+      "references": [
+        "Numbers 2:1-6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 45,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 45:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 7:17"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:14"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:39"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 2:1-6"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Proverbs",
+      "Song of Solomon",
+      "John",
+      "Numbers"
+    ]
+  }
+}

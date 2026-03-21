@@ -1,0 +1,97 @@
+{
+  "topic": "DROSS",
+  "slug": "dross",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 119:119",
+        "Proverbs 25:4",
+        "Proverbs 26:23",
+        "Isaiah 1:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Psalms 22:18,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        119
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:119"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 22,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 22:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Isaiah",
+      "Psalms"
+    ]
+  }
+}

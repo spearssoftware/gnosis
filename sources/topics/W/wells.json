@@ -1,0 +1,1002 @@
+{
+  "topic": "WELLS",
+  "slug": "wells",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "GIHON",
+    "SPRING"
+  ],
+  "aspects": [
+    {
+      "label": "The oc",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Between Abraham and Abimelech",
+      "references": [
+        "Genesis 21:25-30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Between",
+      "references": [
+        "Genesis 26:15-22,32,33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Jacob",
+      "references": [
+        "John 4:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Ecclesiastes 2:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Uzziah",
+      "references": [
+        "2 Chronicles 26:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Hezekiah",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGIHON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "At Haran",
+      "references": [
+        "Genesis 24:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FlGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of salvation",
+      "references": [
+        "Isaiah 12:3",
+        "John 4:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Without water",
+      "references": [
+        "Jeremiah 15:18",
+        "2 Peter 2:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSPRING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "First mention of",
+      "references": [
+        "Genesis 16:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently made: Near encampments",
+      "references": [
+        "Genesis 21:30",
+        "Genesis 26:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently made: Outside cities",
+      "references": [
+        "Genesis 24:11",
+        "John 4:6,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently made: In the courts of houses",
+      "references": [
+        "2 Samuel 17:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently made: In the desert",
+      "references": [
+        "2 Chronicles 26:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Supplied by springs",
+      "references": [
+        "Proverbs 16:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Supplied by the rain",
+      "references": [
+        "Psalms 84:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Surrounded by trees",
+      "references": [
+        "Genesis 49:22",
+        "Exodus 15:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names often given to",
+      "references": [
+        "Genesis 16:14",
+        "Genesis 21:31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Canaan abounded with",
+      "references": [
+        "Deuteronomy 6:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many supplied from Lebanon",
+      "references": [
+        "Song of Solomon 4:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Beerlahairoi",
+      "references": [
+        "Genesis 16:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Bethlehem",
+      "references": [
+        "2 Samuel 23:15",
+        "1 Chronicles 11:17,18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Beer (east of Jordan)",
+      "references": [
+        "Numbers 21:16-18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Beer-sheba",
+      "references": [
+        "Genesis 21:30,31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Elim",
+      "references": [
+        "Exodus 15:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Esek",
+      "references": [
+        "Genesis 26:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Hagar",
+      "references": [
+        "Genesis 21:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Haran",
+      "references": [
+        "Genesis 29:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Jacob",
+      "references": [
+        "John 4:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Rehoboth",
+      "references": [
+        "Genesis 26:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Sitnah",
+      "references": [
+        "Genesis 26:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often deep and difficult to draw from",
+      "references": [
+        "John 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often covered to prevent their being filled with sand",
+      "references": [
+        "Genesis 29:2,3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Had troughs placed near for watering cattle",
+      "references": [
+        "Genesis 24:19,20",
+        "Exodus 2:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequented by: Women who came to draw water",
+      "references": [
+        "Genesis 24:13,14",
+        "John 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequented by: Travellers",
+      "references": [
+        "Genesis 24:11,13,42",
+        "John 4:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Strangers not to draw from, without permission",
+      "references": [
+        "Numbers 20:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Water of, frequently sold",
+      "references": [
+        "Numbers 20:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were a frequent cause of strife",
+      "references": [
+        "Genesis 21:25",
+        "Genesis 26:21,22",
+        "Exodus 2:16,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were often stopped up by enemies",
+      "references": [
+        "Genesis 26:15,18",
+        "2 Kings 3:19,25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often afforded no water",
+      "references": [
+        "Jeremiah 14:3",
+        "Zechariah 9:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the ordinances of the Church",
+      "references": [
+        "Isaiah 12:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the Holy Spirit in saints",
+      "references": [
+        "Song of Solomon 4:15",
+        "John 4:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the mouth of the righteous",
+      "references": [
+        "Proverbs 10:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of wisdom and understanding in man",
+      "references": [
+        "Proverbs 16:22",
+        "Proverbs 18:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (A fruitful bough by,) of Joseph’s numerous posterity",
+      "references": [
+        "Genesis 49:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Drinking from one’s own,) of enjoyment of domestic happiness",
+      "references": [
+        "Proverbs 5:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Without water,) of hypocrites",
+      "references": [
+        "2 Peter 2:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Genesis 21:25-30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        32,
+        33
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Genesis 26:15-22,32,33"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:6"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:6"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 12:3"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 15,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 15:18"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 2:17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 16:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:11"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        6,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 4:6,8"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 17:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:22"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 84,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 84:6"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 15:27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:31"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 6:11"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:15"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 23:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:17,18"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        16,
+        17,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 21:16-18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        30,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 21:30,31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 29:3,4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:21"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 29:2,3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 24:19,20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 2:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 24:13,14"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        11,
+        13,
+        42
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 24:11,13,42"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 20:17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 20:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 26:21,22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 2:16,17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        15,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 26:15,18"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        19,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 3:19,25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 14:3"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 9:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 5:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Peter",
+    "2 Samuel",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Exodus",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 52,
+    "total_refs": 51,
+    "ot_refs": 45,
+    "nt_refs": 6,
+    "books_count": 17,
+    "top_books": [
+      "Genesis",
+      "John",
+      "Proverbs",
+      "Exodus",
+      "Numbers",
+      "Jeremiah",
+      "2 Samuel",
+      "Ecclesiastes",
+      "2 Chronicles",
+      "Isaiah"
+    ]
+  }
+}

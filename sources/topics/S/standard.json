@@ -1,0 +1,210 @@
+{
+  "topic": "STANDARD",
+  "slug": "standard",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ARMIES",
+    "BANNER",
+    "ENSIGN"
+  ],
+  "aspects": [
+    {
+      "label": "An ensign used by each of the tribes of Israel in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "marching",
+      "references": [
+        "Numbers 1:52",
+        "Numbers 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Banners used as",
+      "references": [
+        "Psalms 20:5",
+        "Song of Solomon 6:4,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in war",
+      "references": [
+        "Jeremiah 4:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".To direct the route to cities which were well",
+      "references": [
+        "Jeremiah 4:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".To",
+      "references": [
+        "Jeremiah 50:2",
+        "Jeremiah 51:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARMIES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBANNER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeENSIGN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 49:22",
+        "Isaiah 62:10",
+        "Jeremiah 4:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:52"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 20,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 20:5"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "verses": [
+        4,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Song of Solomon 6:4,10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:21"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 50,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 50:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 51:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 49,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 49:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 62,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 62:10"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Jeremiah",
+    "Numbers",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Jeremiah",
+      "Numbers",
+      "Isaiah",
+      "Psalms",
+      "Song of Solomon"
+    ]
+  }
+}

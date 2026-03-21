@@ -1,0 +1,1082 @@
+{
+  "topic": "UPRIGHTNESS",
+  "slug": "uprightness",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "RIGHTEOUSNESS"
+  ],
+  "aspects": [
+    {
+      "label": "SeeRIGHTEOUSNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "God is perfect in",
+      "references": [
+        "Isaiah 26:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God has pleasure in",
+      "references": [
+        "1 Chronicles 29:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God created man in",
+      "references": [
+        "Ecclesiastes 7:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Man has deviated from",
+      "references": [
+        "Ecclesiastes 7:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be in: Heart",
+      "references": [
+        "2 Chronicles 29:34",
+        "Psalms 125:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be in: Speech",
+      "references": [
+        "Isaiah 33:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be in: Walk",
+      "references": [
+        "Proverbs 14:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be in: Judging",
+      "references": [
+        "Psalms 58:1",
+        "Psalms 75:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be in: Ruling",
+      "references": [
+        "Psalms 78:72"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The being kept from presumptuous sins is necessary to",
+      "references": [
+        "Psalms 19:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "With poverty, is better than sin with riches",
+      "references": [
+        "Proverbs 28:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "With poverty, is better than folly",
+      "references": [
+        "Proverbs 19:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Fear God",
+      "references": [
+        "Proverbs 14:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Love Christ",
+      "references": [
+        "Song of Solomon 1:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Countenanced by God",
+      "references": [
+        "Psalms 11:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Delighted in by God",
+      "references": [
+        "Proverbs 11:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Their prayer delighted in by God",
+      "references": [
+        "Proverbs 15:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Prospered by God",
+      "references": [
+        "Job 8:6",
+        "Proverbs 14:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Defended by God",
+      "references": [
+        "Proverbs 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Upheld in it by God",
+      "references": [
+        "Psalms 41:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Recompensed by God",
+      "references": [
+        "Psalms 18:23,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Find strengths in God’s way",
+      "references": [
+        "Proverbs 10:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Obtain good from God’s work",
+      "references": [
+        "Micah 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Obtain light in darkness",
+      "references": [
+        "Psalms 112:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Guided by integrity",
+      "references": [
+        "Proverbs 11:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Walk surely",
+      "references": [
+        "Proverbs 10:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Direct their way",
+      "references": [
+        "Proverbs 21:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Kept by righteousness",
+      "references": [
+        "Proverbs 13:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Scorned by the wicked",
+      "references": [
+        "Job 12:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Hated by the wicked",
+      "references": [
+        "Proverbs 29:10",
+        "Amos 5:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Abominated by the wicked",
+      "references": [
+        "Proverbs 29:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Persecuted by the wicked",
+      "references": [
+        "Psalms 37:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: Praise is comely for",
+      "references": [
+        "Psalms 33:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in: A blessing to others",
+      "references": [
+        "Proverbs 11:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The truly wise walk in",
+      "references": [
+        "Proverbs 15:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The way of, is to depart from evil",
+      "references": [
+        "Proverbs 16:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Possess good things",
+      "references": [
+        "Proverbs 28:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Have nothing good withheld",
+      "references": [
+        "Psalms 84:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Dwell in the land",
+      "references": [
+        "Proverbs 2:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Dwell on high and be provided for",
+      "references": [
+        "Isaiah 33:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Dwell with God",
+      "references": [
+        "Psalms 15:2",
+        "Psalms 140:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Be blessed",
+      "references": [
+        "Psalms 112:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Be delivered by righteousness",
+      "references": [
+        "Proverbs 11:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Be delivered by their wisdom",
+      "references": [
+        "Proverbs 12:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Be saved",
+      "references": [
+        "Proverbs 28:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Enter into peace",
+      "references": [
+        "Psalms 37:37",
+        "Isaiah 57:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Have dominion over the wicked",
+      "references": [
+        "Psalms 49:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who walk in, shall: Have inheritance for ever",
+      "references": [
+        "Psalms 37:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A characteristic of saints",
+      "references": [
+        "Psalms 111:1",
+        "Isaiah 26:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should resolve to walk in",
+      "references": [
+        "Psalms 26:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Have not, in heart",
+      "references": [
+        "Habakkuk 2:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Leave not the path of",
+      "references": [
+        "Proverbs 2:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Do not act with",
+      "references": [
+        "Micah 7:2,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Pray for those who walk in",
+      "references": [
+        "Psalms 125:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Reprove those who deviate from",
+      "references": [
+        "Galatians 2:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 26,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 26:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:17"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:34"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 125,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 125:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 33,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 33:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 58,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 58:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 75,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 75:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        72
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:72"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 19:13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 19:1"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 1:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 11:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:8"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 8:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 2:7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 41,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 41:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 18:23,24"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:29"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 2:7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 112,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 112:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 21:29"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 13:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 12:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:10"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 5:10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 37,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 37:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 33,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 33:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 84,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 84:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 2:21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 33,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 33:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 15:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 140,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 140:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 112,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 112:2"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 37,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 37:37"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 57,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 57:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 49,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 49:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 37,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 37:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 111,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 111:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 26,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 26:11"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 2:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 2:13"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "verses": [
+        2,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Micah 7:2,4"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Amos",
+    "Ecclesiastes",
+    "Galatians",
+    "Habakkuk",
+    "Isaiah",
+    "Job",
+    "Micah",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 56,
+    "total_refs": 58,
+    "ot_refs": 57,
+    "nt_refs": 1,
+    "books_count": 12,
+    "top_books": [
+      "Proverbs",
+      "Psalms",
+      "Isaiah",
+      "Job",
+      "Micah",
+      "1 Chronicles",
+      "Ecclesiastes",
+      "2 Chronicles",
+      "Song of Solomon",
+      "Amos"
+    ]
+  }
+}

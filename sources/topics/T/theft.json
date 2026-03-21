@@ -1,0 +1,776 @@
+{
+  "topic": "THEFT",
+  "slug": "theft",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Is an abomination",
+      "references": [
+        "Jeremiah 7:9,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Forbidden",
+      "references": [
+        "Exodus 20:15",
+        "Mark 10:19",
+        "Romans 13:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "From the poor specially forbidden",
+      "references": [
+        "Proverbs 22:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Includes fraud in general",
+      "references": [
+        "Leviticus 19:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Includes fraud concerning wages",
+      "references": [
+        "Leviticus 19:13",
+        "Malachi 3:5",
+        "James 5:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Proceeds from the heart",
+      "references": [
+        "Matthew 15:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defiles a man",
+      "references": [
+        "Matthew 15:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Addicted to",
+      "references": [
+        "Psalms 119:61"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Store up the fruits of",
+      "references": [
+        "Amos 3:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Lie in wait to commit",
+      "references": [
+        "Hosea 6:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Commit, under shelter of the night",
+      "references": [
+        "Job 24:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Consent to show who commit",
+      "references": [
+        "Psalms 50:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Associate with those who commit",
+      "references": [
+        "Isaiah 1:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: May, for a season, prosper in",
+      "references": [
+        "Job 12:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Plead excuses for",
+      "references": [
+        "Jeremiah 7:9,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Repent not of",
+      "references": [
+        "Revelation 9:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Destroy themselves by",
+      "references": [
+        "Proverbs 21:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Connected with murder",
+      "references": [
+        "Jeremiah 7:9",
+        "Hosea 4:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Shame follows the detection of",
+      "references": [
+        "Jeremiah 2:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brings a curse on those who commit it",
+      "references": [
+        "Hosea 4:2,3",
+        "Zechariah 5:3,4",
+        "Malachi 3:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brings the wrath of God upon those who commit it",
+      "references": [
+        "Ezekiel 22:29,31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Excludes from heaven",
+      "references": [
+        "1 Corinthians 6:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who connive at: Hate their own souls",
+      "references": [
+        "Proverbs 29:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who connive at: Shall be reproved of God",
+      "references": [
+        "Psalms 50:18,21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mosaic law respecting",
+      "references": [
+        "Exodus 22:1-8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints: Warned against",
+      "references": [
+        "Ephesians 4:28",
+        "1 Peter 4:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "All earthly treasure exposed to",
+      "references": [
+        "Matthew 6:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Heavenly treasure secure from",
+      "references": [
+        "Matthew 6:20",
+        "Luke 12:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Woe denounced against",
+      "references": [
+        "Isaiah 10:2",
+        "Nahum 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrates the guilt of false teachers",
+      "references": [
+        "Jeremiah 23:30",
+        "John 10:1,8,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Rachel",
+      "references": [
+        "Genesis 31:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Achan",
+      "references": [
+        "Joshua 7:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Shechemites",
+      "references": [
+        "Judges 9:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Micah",
+      "references": [
+        "Judges 17:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 7,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 7:9,10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 20:15"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 10:19"
+    },
+    {
+      "book": "Romans",
+      "chapter": 13,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 13:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:2"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:13"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:5"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 5:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:19"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        61
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:61"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 3:10"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 6:9"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 24:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 50,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 50:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:23"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 12:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 21:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 7:9"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 4:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:26"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Hosea 4:2,3"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 5,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Zechariah 5:3,4"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 22,
+      "verses": [
+        29,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 22:29,31"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 6:10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:24"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 50,
+      "verses": [
+        18,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 50:18,21"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Exodus 22:1-8"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:28"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 4:15"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:19"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:33"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:2"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:1"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 23,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 23:30"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "verses": [
+        1,
+        8,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 10:1,8,10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:19"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 7,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 7:21"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:25"
+    },
+    {
+      "book": "Judges",
+      "chapter": 17,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 17:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Peter",
+    "Amos",
+    "Ephesians",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "James",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Joshua",
+    "Judges",
+    "Leviticus",
+    "Luke",
+    "Malachi",
+    "Mark",
+    "Matthew",
+    "Nahum",
+    "Proverbs",
+    "Psalms",
+    "Revelation",
+    "Romans",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 34,
+    "total_refs": 42,
+    "ot_refs": 29,
+    "nt_refs": 13,
+    "books_count": 26,
+    "top_books": [
+      "Jeremiah",
+      "Matthew",
+      "Proverbs",
+      "Psalms",
+      "Hosea",
+      "Exodus",
+      "Job",
+      "Isaiah",
+      "Judges",
+      "Mark"
+    ]
+  }
+}

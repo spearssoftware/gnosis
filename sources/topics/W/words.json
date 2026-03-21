@@ -1,0 +1,520 @@
+{
+  "topic": "WORDS",
+  "slug": "words",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BUSYBODY",
+    "SLANDER",
+    "SPEAKING, EVIL",
+    "TALEBEARER"
+  ],
+  "aspects": [
+    {
+      "label": "Of Jesus",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Gracious",
+      "references": [
+        "Luke 4:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Are spirit and life",
+      "references": [
+        "John 6:63"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of eternal life",
+      "references": [
+        "John 6:68"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Will",
+      "references": [
+        "John 12:47,48"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the wise",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".As goads, and as well-fastened nails",
+      "references": [
+        "Ecclesiastes 12:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Gracious",
+      "references": [
+        "Ecclesiastes 10:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Spoken at the proper moment",
+      "references": [
+        "Proverbs 15:23",
+        "Isaiah 50:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Aptly spoken, like apples of gold in filigree of silver",
+      "references": [
+        "Proverbs 25:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the complete man, gentle",
+      "references": [
+        "James 3:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Should be acceptable to God",
+      "references": [
+        "Psalms 19:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the teacher, should be plain",
+      "references": [
+        "1 Corinthians 14:9,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Unprofitable, to be avoi",
+      "references": [
+        "2 Timothy 2:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Unspeakable, heard by Paul in Paradise",
+      "references": [
+        "2 Corinthians 12:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Vain, not to be regar",
+      "references": [
+        "Exodus 5:9",
+        "Ephesians 5:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Like a tempest",
+      "references": [
+        "Job 8:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Without knowledge, darken advice",
+      "references": [
+        "Job 38:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Idle, an account must be given for on the Day of",
+      "references": [
+        "Matthew 12:36,37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hasty, folly of",
+      "references": [
+        "Proverbs 29:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In a multitu",
+      "references": [
+        "Proverbs 10:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fool known by the multitu",
+      "references": [
+        "Ecclesiastes 5:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Will swallow himself",
+      "references": [
+        "Ecclesiastes 10:12-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Seditious,",
+      "references": [
+        "Romans 16:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Proverbs 6:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the hypocrite,",
+      "references": [
+        "Psalms 55:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the talebearer, wounds to the",
+      "references": [
+        "Proverbs 18:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Se",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 4:22"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        63
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 6:63"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        68
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 6:68"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        47,
+        48
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 12:47,48"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:11"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:12"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 50,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 50:4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:11"
+    },
+    {
+      "book": "James",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 3:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 19,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 19:14"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        9,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:9,19"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 2:14"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 5:9"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 8:2"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 12:36,37"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:19"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:3"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:12-14"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 55,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 55:21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "2 Corinthians",
+    "2 Timothy",
+    "Ecclesiastes",
+    "Ephesians",
+    "Exodus",
+    "Isaiah",
+    "James",
+    "Job",
+    "John",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 28,
+    "total_refs": 27,
+    "ot_refs": 16,
+    "nt_refs": 11,
+    "books_count": 15,
+    "top_books": [
+      "Proverbs",
+      "Ecclesiastes",
+      "John",
+      "Psalms",
+      "Job",
+      "Luke",
+      "Isaiah",
+      "James",
+      "1 Corinthians",
+      "2 Timothy"
+    ]
+  }
+}

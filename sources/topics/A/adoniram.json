@@ -1,0 +1,77 @@
+{
+  "topic": "ADONIRAM",
+  "slug": "adoniram",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [
+        "2 Samuel 20:24",
+        "1 Kings 4:6",
+        "1 Kings 5:14",
+        "1 Kings 12:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:6"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 5:14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "2 Samuel"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "topic": "SHILONITE",
+  "slug": "shilonite",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SHELAMITES"
+  ],
+  "aspects": [
+    {
+      "label": "1. A man of Shiloh",
+      "references": [
+        "1 Kings 11:29",
+        "1 Kings 12:15",
+        "1 Kings 15:29",
+        "2 Chronicles 9:29",
+        "2 Chronicles 10:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Used, apparently, to",
+      "references": [
+        "1 Chronicles 9:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSHELAMITES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 11:29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:15"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 15:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 10:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Kings",
+      "2 Chronicles",
+      "1 Chronicles"
+    ]
+  }
+}

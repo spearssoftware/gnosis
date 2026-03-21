@@ -1,0 +1,49 @@
+{
+  "topic": "GIN",
+  "slug": "gin",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SNARE"
+  ],
+  "aspects": [
+    {
+      "label": "A snare",
+      "references": [
+        "Amos 3:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSNARE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 3:5"
+    }
+  ],
+  "books_mentioned": [
+    "Amos"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Amos"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "topic": "SHAALBIM",
+  "slug": "shaalbim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city in the territory of the tribe of Dan",
+      "references": [
+        "Joshua 19:42",
+        "Judges 1:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "One of",
+      "references": [
+        "1 Kings 4:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 19:42"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:42"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:35"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "Judges",
+      "1 Kings"
+    ]
+  }
+}

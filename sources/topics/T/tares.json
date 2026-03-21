@@ -1,0 +1,53 @@
+{
+  "topic": "TARES",
+  "slug": "tares",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Parable of",
+      "references": [
+        "Matthew 13:24-30,38-42"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Matthew 13:24-30,38-42"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "topic": "GOLAN",
+  "slug": "golan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A town in Bashan)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Given to the tribe of Manasseh as a city of refuge",
+      "references": [
+        "Deuteronomy 4:43",
+        "Joshua 20:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A Leviti",
+      "references": [
+        "Joshua 21:27",
+        "1 Chronicles 6:71"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:43"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 20,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 20:8"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:27"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        71
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:71"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Deuteronomy",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "Deuteronomy",
+      "1 Chronicles"
+    ]
+  }
+}

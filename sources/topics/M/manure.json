@@ -1,0 +1,67 @@
+{
+  "topic": "MANURE",
+  "slug": "manure",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used as fertilizer",
+      "references": [
+        "Isaiah 25:10",
+        "Luke 13:8",
+        "Luke 14:34,35"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 25,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 25:10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:8"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "verses": [
+        34,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 14:34,35"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Luke",
+      "Isaiah"
+    ]
+  }
+}

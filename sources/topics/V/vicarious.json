@@ -1,0 +1,83 @@
+{
+  "topic": "VICARIOUS",
+  "slug": "vicarious",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ATONEMENT",
+    "JESUS, MISSION OF",
+    "JESUS, SAVIOUR",
+    "JESUS, SUFFERINGS OF",
+    "SUFFERINGS, VICARIOUS"
+  ],
+  "aspects": [
+    {
+      "label": ".The ram for",
+      "references": [
+        "Genesis 22:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus for sinners",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See, JESUS,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJESUS, MISSION OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJESUS, SUFFERINGS OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeATONEMENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSUFFERINGS, VI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJESUS, SAVIOUR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 22:13"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

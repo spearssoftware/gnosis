@@ -1,0 +1,103 @@
+{
+  "topic": "MESHA",
+  "slug": "mesha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. King of Moab",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Tributary to Ahab",
+      "references": [
+        "2 Kings 3:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 2:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A place in possession of the Joktanites",
+      "references": [
+        "Genesis 10:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Benjamite",
+      "references": [
+        "1 Chronicles 8:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 3:4,5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:42"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:30"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "2 Kings",
+      "Genesis"
+    ]
+  }
+}

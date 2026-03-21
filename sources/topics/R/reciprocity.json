@@ -1,0 +1,68 @@
+{
+  "topic": "RECIPROCITY",
+  "slug": "reciprocity",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Romans 15:27",
+        "1 Corinthians 9:11",
+        "Galatians 6:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 15:27"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:11"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Galatians",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Romans",
+      "1 Corinthians",
+      "Galatians"
+    ]
+  }
+}

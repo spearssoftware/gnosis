@@ -1,0 +1,198 @@
+{
+  "topic": "IDDO",
+  "slug": "iddo",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father of Ahinadab",
+      "references": [
+        "1 Kings 4:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "1 Chronicles 6:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "1 Chronicles 27:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A prophet",
+      "references": [
+        "2 Chronicles 9:29",
+        "2 Chronicles 12:15",
+        "2 Chronicles 13:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Ancestor of Zechariah",
+      "references": [
+        "Ezra 5:1",
+        "Ezra 6:14",
+        "Ecclesiastes 1:1,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A priest",
+      "references": [
+        "Nehemiah 12:4,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. The chief of the Jews established at",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:14"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:21"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 12:15"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 13,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 13:22"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 5:1"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 6:14"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verses": [
+        1,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 1:1,7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        4,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:4,16"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Ecclesiastes",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "2 Chronicles",
+      "1 Chronicles",
+      "Ezra",
+      "Nehemiah",
+      "1 Kings",
+      "Ecclesiastes"
+    ]
+  }
+}

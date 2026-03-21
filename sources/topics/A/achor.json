@@ -1,0 +1,83 @@
+{
+  "topic": "ACHOR",
+  "slug": "achor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A valley near",
+      "references": [
+        "Joshua 7:26",
+        "Joshua 15:7",
+        "Isaiah 65:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Jeremiah 2:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 7:26"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:15"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Joshua",
+      "Isaiah"
+    ]
+  }
+}

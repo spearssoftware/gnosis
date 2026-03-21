@@ -1,0 +1,91 @@
+{
+  "topic": "GRASSHOPPER",
+  "slug": "grasshopper",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LOCUST"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Numbers 13:33",
+        "Ecclesiastes 12:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "40:22;",
+      "references": [
+        "Nahum 3:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLOCUST",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 13:33"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:5"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 40,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 40:22"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:17"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Nahum",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Ecclesiastes",
+      "Numbers",
+      "Nahum"
+    ]
+  }
+}

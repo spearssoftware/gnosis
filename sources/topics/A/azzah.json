@@ -1,0 +1,32 @@
+{
+  "topic": "AZZAH",
+  "slug": "azzah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GAZA"
+  ],
+  "aspects": [
+    {
+      "label": "(A city of the Philistines)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGAZA",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

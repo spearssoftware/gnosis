@@ -1,0 +1,43 @@
+{
+  "topic": "DOMICILE",
+  "slug": "domicile",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "RIGHTS OF",
+      "references": [
+        "Deuteronomy 24:10,11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:10,11"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Deuteronomy"
+    ]
+  }
+}

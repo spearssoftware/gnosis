@@ -1,0 +1,182 @@
+{
+  "topic": "THIRST",
+  "slug": "thirst",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DESIRE, SPIRITUAL",
+    "DILIGENCE",
+    "HUNGER, SPIRITUAL",
+    "ZEAL"
+  ],
+  "aspects": [
+    {
+      "label": "Figurative of the ar",
+      "references": [
+        "Psalms 42:1-4",
+        "Psalms 63:1",
+        "Psalms 143:6",
+        "Isaiah 55:1",
+        "Amos 8:11-13",
+        "Matthew 5:6",
+        "John 4:14,15",
+        "John 7:37",
+        "Revelation 21:6",
+        "Revelation 22:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDILIGENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHUNGER, SPIRITUAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeZEAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 42,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 42:1-4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 63,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 63:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 143,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 143:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 55,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 55:1"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Amos 8:11-13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:6"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 4:14,15"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 7:37"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:17"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Isaiah",
+    "John",
+    "Matthew",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 10,
+    "ot_refs": 5,
+    "nt_refs": 5,
+    "books_count": 6,
+    "top_books": [
+      "Psalms",
+      "John",
+      "Revelation",
+      "Isaiah",
+      "Amos",
+      "Matthew"
+    ]
+  }
+}

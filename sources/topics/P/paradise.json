@@ -1,0 +1,75 @@
+{
+  "topic": "PARADISE",
+  "slug": "paradise",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EDEN"
+  ],
+  "aspects": [
+    {
+      "label": "The place of glorified spirits",
+      "references": [
+        "Luke 23:43",
+        "2 Corinthians 12:4",
+        "Revelation 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:43"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:4"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 2:7"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Luke",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Luke",
+      "2 Corinthians",
+      "Revelation"
+    ]
+  }
+}

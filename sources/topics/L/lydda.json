@@ -1,0 +1,82 @@
+{
+  "topic": "LYDDA",
+  "slug": "lydda",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "8:12;",
+      "references": [
+        "Ezra 2:33",
+        "Nehemiah 11:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Peter heals Aeneas in",
+      "references": [
+        "Acts 9:32-35"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:33"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:35"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 9:32-35"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Ezra",
+      "Nehemiah",
+      "Acts"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "topic": "URIEL",
+  "slug": "uriel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Levite",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Chronicles 6:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assisted in moving the ark of the covenant",
+      "references": [
+        "1 Chronicles 15:5,11,12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Grandfather of King Abijah",
+      "references": [
+        "2 Chronicles 13:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        5,
+        11,
+        12
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:5,11,12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 13,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 13:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "topic": "PILLARS",
+  "slug": "pillars",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The supports of a building",
+      "references": [
+        "Judges 16:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Things raised up as memorials",
+      "references": [
+        "Genesis 31:51"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Marble",
+      "references": [
+        "Esther 1:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Wood",
+      "references": [
+        "1 Kings 10:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Iron",
+      "references": [
+        "Jeremiah 1:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Brass",
+      "references": [
+        "1 Kings 7:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Silver",
+      "references": [
+        "Song of Solomon 3:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The vail and hangings of the tabernacle supported by",
+      "references": [
+        "Exodus 26:32,37",
+        "Exodus 36:36,38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Two, placed in the temple porch",
+      "references": [
+        "1 Kings 7:15-21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: Sometimes of a single stone",
+      "references": [
+        "Genesis 28:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: Sometimes of a heap of stones",
+      "references": [
+        "Joshua 4:8,9,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: To witness vows",
+      "references": [
+        "Genesis 28:18",
+        "Genesis 31:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: To witness covenants",
+      "references": [
+        "Genesis 31:52"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: To mark the graves of the dead",
+      "references": [
+        "Genesis 35:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: To commemorate remarkable events",
+      "references": [
+        "Exodus 24:4",
+        "Joshua 4:20,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: To perpetuate names",
+      "references": [
+        "2 Samuel 18:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: In honour of idols",
+      "references": [
+        "Leviticus 26:1",
+        "Deuteronomy 7:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: Often anointed",
+      "references": [
+        "Genesis 28:18",
+        "Genesis 31:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of memorial: Often had inscriptions",
+      "references": [
+        "Job 19:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The divine glory appeared to Israel in the form of",
+      "references": [
+        "Exodus 13:21,22",
+        "Numbers 12:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Lot’s wife became a pillar of salt",
+      "references": [
+        "Genesis 19:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Stability of the heavens",
+      "references": [
+        "Job 26:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Stability of the earth",
+      "references": [
+        "1 Samuel 2:8",
+        "Psalms 75:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The church",
+      "references": [
+        "1 Timothy 3:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Stability of Christ",
+      "references": [
+        "Song of Solomon 5:15",
+        "Revelation 10:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Ministers",
+      "references": [
+        "Jeremiah 1:18",
+        "Galatians 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Saints who overcome in Christ",
+      "references": [
+        "Revelation 3:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:29"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:51"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 1:6"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 1,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 1:18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:15"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 3:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        32,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 26:32,37"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 36,
+      "verses": [
+        36,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 36:36,38"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Kings 7:15-21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 28:18"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 4,
+      "verses": [
+        8,
+        9,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 4:8,9,20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:52"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 24,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 24:4"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 4,
+      "verses": [
+        20,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 4:20,24"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 18:18"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:1"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:5"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 19:24"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 13,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 13:21,22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 12:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 19,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 19:26"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 26:11"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 2:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 75,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 75:3"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 3:15"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:15"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 10:1"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:9"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 3:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "1 Timothy",
+    "2 Samuel",
+    "Deuteronomy",
+    "Esther",
+    "Exodus",
+    "Galatians",
+    "Genesis",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Judges",
+    "Leviticus",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 27,
+    "total_refs": 32,
+    "ot_refs": 28,
+    "nt_refs": 4,
+    "books_count": 18,
+    "top_books": [
+      "Genesis",
+      "Exodus",
+      "1 Kings",
+      "Song of Solomon",
+      "Joshua",
+      "Job",
+      "Revelation",
+      "Judges",
+      "Esther",
+      "Jeremiah"
+    ]
+  }
+}

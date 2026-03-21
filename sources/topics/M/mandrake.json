@@ -1,0 +1,57 @@
+{
+  "topic": "MANDRAKE",
+  "slug": "mandrake",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 30:14-16",
+        "Song of Solomon 7:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 30,
+      "verses": [
+        14,
+        15,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 30:14-16"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 7:13"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Song of Solomon"
+    ]
+  }
+}

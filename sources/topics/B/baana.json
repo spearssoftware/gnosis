@@ -1,0 +1,61 @@
+{
+  "topic": "BAANA",
+  "slug": "baana",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Kings 4:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Zadok",
+      "references": [
+        "Nehemiah 3:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "Nehemiah"
+    ]
+  }
+}

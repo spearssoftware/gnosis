@@ -1,0 +1,49 @@
+{
+  "topic": "ZEPHATH",
+  "slug": "zephath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HORMAH"
+  ],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Judges 1:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHORMAH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:17"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

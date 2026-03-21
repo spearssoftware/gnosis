@@ -1,0 +1,493 @@
+{
+  "topic": "WITNESS",
+  "slug": "witness",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COURTS",
+    "EVIDENCE",
+    "FALSE WITNESS",
+    "FALSEHOOD ",
+    "HOLY SPIRIT",
+    "TESTIMONY",
+    "TESTIMONY, RELIGIOUS"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Leviticus 5:1",
+        "Proverbs 18:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Qualified by oath",
+      "references": [
+        "Exodus 22:11",
+        "Numbers 5:19,21",
+        "1 Kings 8:31,32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By laying hands on the accused",
+      "references": [
+        "Leviticus 24:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Two necessary to establish a fact",
+      "references": [
+        "Numbers 35:30",
+        "Deuteronomy 17:6",
+        "Deuteronomy 19:15",
+        "Matthew 18:16",
+        "John 8:17",
+        "2 Corinthians 13:1",
+        "1 Timothy 5:19",
+        "Hebrews 10:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Required to throw the first stone in executing the sentence",
+      "references": [
+        "Deuteronomy 13:9",
+        "Deuteronomy 17:5-7",
+        "Acts 7:58"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To the transfer of land",
+      "references": [
+        "Genesis 21:25-30",
+        "Genesis 23:11,16-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4:1-9;",
+      "references": [
+        "Jeremiah 32:9-12,25,44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To marriage",
+      "references": [
+        "Ruth 4:10,11",
+        "Isaiah 8:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Incorruptible",
+      "references": [
+        "Psalms 15:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Corrupted by money",
+      "references": [
+        "Matthew 28:11-15",
+        "Acts 6:11,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of instruction in righteousness",
+      "references": [
+        "Revelation 11:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCOURTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeEVI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeFALSEHOOD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeFALSE WITNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHOLY SPIRIT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTESTIMONY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTESTIMONY, RELIGIOUS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 5:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "verses": [
+        19,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 5:19,21"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 8:31,32"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 24:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 35:30"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 19,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 19:15"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:16"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 8:17"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 13,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 13:1"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 5:19"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 10:28"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 13,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 13:9"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:5-7"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        58
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:58"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Genesis 21:25-30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        11,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 23:11,16-18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Genesis 4:1-9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        25,
+        44
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Jeremiah 32:9-12,25,44"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 4:10,11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 8:2,3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 15,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 15:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Matthew 28:11-15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        11,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 6:11,13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 11:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Timothy",
+    "2 Corinthians",
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Leviticus",
+    "Matthew",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Revelation",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 27,
+    "ot_refs": 18,
+    "nt_refs": 9,
+    "books_count": 18,
+    "top_books": [
+      "Deuteronomy",
+      "Genesis",
+      "Leviticus",
+      "Numbers",
+      "Matthew",
+      "Acts",
+      "Proverbs",
+      "Exodus",
+      "1 Kings",
+      "John"
+    ]
+  }
+}

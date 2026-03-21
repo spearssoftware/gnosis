@@ -1,0 +1,90 @@
+{
+  "topic": "FRONTLETS",
+  "slug": "frontlets",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PHYLACTERY"
+  ],
+  "aspects": [
+    {
+      "label": "A leather band worn on the forehead, containing certain commandments",
+      "references": [
+        "Exodus 13:6-16",
+        "Deuteronomy 6:1-8",
+        "Deuteronomy 11:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePHYLACTERY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 13,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Exodus 13:6-16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Deuteronomy 6:1-8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:18"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Deuteronomy",
+      "Exodus"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "QUAIL",
+  "slug": "quail",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The miracle of, in the Wil",
+      "references": [
+        "Exodus 16:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The miracle of, at Kibroth-hattaavah",
+      "references": [
+        "Numbers 11:31,32",
+        "Psalms 105:40"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 16,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 16:13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 11:31,32"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 105,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 105:40"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Numbers",
+      "Psalms"
+    ]
+  }
+}

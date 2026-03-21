@@ -1,0 +1,651 @@
+{
+  "topic": "PETER",
+  "slug": "peter",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MIRACLES"
+  ],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [
+        "Matthew 16:16-19",
+        "Mark 3:16",
+        "John 1:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A fisherman",
+      "references": [
+        "Matthew 4:18",
+        "Luke 5:1-7",
+        "John 21:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Matthew 4:18-20",
+        "Mark 1:16-18",
+        "Luke 5:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His mother-in-law healed",
+      "references": [
+        "Matthew 8:14",
+        "Mark 1:29,30",
+        "Luke 4:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An apostle",
+      "references": [
+        "Matthew 10:2",
+        "Matthew 16:18,19",
+        "Mark 3:16",
+        "Luke 6:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An evangelist",
+      "references": [
+        "Mark 1:36,37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Confesses Jesus to be the Messiah",
+      "references": [
+        "Matthew 16:16-19",
+        "Mark 8:29",
+        "Luke 9:20",
+        "John 6:68,69"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His presumption",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".In rebuking Jesus",
+      "references": [
+        "Matthew 16:22,23",
+        "Mark 8:32,33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".When the throng was pressing Jesus and the woman with the blood",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "di",
+      "references": [
+        "Luke 8:45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In refusing to let Jesus wash Peter’s feet",
+      "references": [
+        "John 13:6-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Present",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".At the healing of Jairus’ daughter",
+      "references": [
+        "Mark 5:37",
+        "Luke 8:51"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".At the transfiguration",
+      "references": [
+        "Matthew 17:1-4",
+        "Mark 9:2-6",
+        "Luke 9:28-33",
+        "2 Peter 1:16-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In the gar",
+      "references": [
+        "Matthew 26:36-46",
+        "Mark 14:33-42",
+        "Luke 22:40-46"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Seeks the interpretation -Of the parable of the steward",
+      "references": [
+        "Luke 12:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the law of forgiveness",
+      "references": [
+        "Matthew 18:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the law of",
+      "references": [
+        "Matthew 15:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the prophecy of Jesus concerning his second coming",
+      "references": [
+        "Mark 13:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Walks upon the water of Lake Galilee",
+      "references": [
+        "Matthew 14:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 16:16-19"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:16"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:42"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Luke 5:1-7"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 21:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        18,
+        19,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 4:18-20"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        16,
+        17,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Mark 1:16-18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Luke 5:1-11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 8:14"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        29,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 1:29,30"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 4:38"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 16:18,19"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:14"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:13"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 1:36,37"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 8:29"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 9:20"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        68,
+        69
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 6:68,69"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 16:22,23"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 8:32,33"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 8:45"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "John 13:6-11"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 5:37"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 8:51"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 17:1-4"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Mark 9:2-6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Luke 9:28-33"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 1,
+      "verses": [
+        16,
+        17,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "2 Peter 1:16-18"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Matthew 26:36-46"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Mark 14:33-42"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Luke 22:40-46"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:41"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:15"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 13:3,4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 14:28"
+    }
+  ],
+  "books_mentioned": [
+    "2 Peter",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 38,
+    "ot_refs": 0,
+    "nt_refs": 38,
+    "books_count": 5,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "Mark",
+      "John",
+      "2 Peter"
+    ]
+  }
+}

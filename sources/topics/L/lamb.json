@@ -1,0 +1,160 @@
+{
+  "topic": "LAMB",
+  "slug": "lamb",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Offering of",
+      "references": [
+        "Exodus 29:38-41",
+        "Leviticus 3:7",
+        "Leviticus 4:32",
+        "Leviticus 5:6",
+        "Leviticus 22:23",
+        "Leviticus 23:12",
+        "Numbers 6:12",
+        "Numbers 7:15,21",
+        "Numbers 28:3-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Not to be seethed (boiled) in its own mother’s milk",
+      "references": [
+        "Exodus 23:19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Exodus 29:38-41"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 3:7"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 4:32"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 5:6"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 22:23"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 23:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        15,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:15,21"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 28:3-8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:19"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Numbers",
+      "Exodus"
+    ]
+  }
+}

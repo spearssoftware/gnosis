@@ -1,0 +1,237 @@
+{
+  "topic": "HUNGER",
+  "slug": "hunger",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DESIRE, SPIRITUAL",
+    "FAMINE",
+    "THIRST"
+  ],
+  "aspects": [
+    {
+      "label": "Of Jesus",
+      "references": [
+        "Matthew 4:2-4",
+        "Matthew 21:18",
+        "Mark 11:12",
+        "Luke 4:2-4",
+        "John 4:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A stimu",
+      "references": [
+        "Proverbs 16:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "No hunger in heaven",
+      "references": [
+        "Revelation 7:16,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFAMINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SPIRITUAL",
+      "references": [
+        "Proverbs 2:3-5",
+        "Isaiah 55:1,2",
+        "Amos 8:11-13",
+        "Matthew 5:6",
+        "Luke 6:21",
+        "1 Peter 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTHIRST",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 4:2-4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:18"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 11:12"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Luke 4:2-4"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:26"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 7,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 7:16,17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 2:3-5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 55,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 55:1,2"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Amos 8:11-13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:21"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "Amos",
+    "Isaiah",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 13,
+    "ot_refs": 4,
+    "nt_refs": 9,
+    "books_count": 9,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "Proverbs",
+      "Mark",
+      "John",
+      "Revelation",
+      "Isaiah",
+      "Amos",
+      "1 Peter"
+    ]
+  }
+}

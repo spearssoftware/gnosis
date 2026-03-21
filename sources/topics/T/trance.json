@@ -1,0 +1,79 @@
+{
+  "topic": "TRANCE",
+  "slug": "trance",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of Balaam",
+      "references": [
+        "Numbers 24:4,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Peter",
+      "references": [
+        "Acts 10:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Paul",
+      "references": [
+        "Acts 22:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        4,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 24:4,16"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 22:17"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Numbers"
+    ]
+  }
+}

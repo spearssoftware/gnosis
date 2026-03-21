@@ -1,0 +1,108 @@
+{
+  "topic": "PIGEON",
+  "slug": "pigeon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DOVE"
+  ],
+  "aspects": [
+    {
+      "label": "Used as sacrifice",
+      "references": [
+        "Genesis 15:9",
+        "Leviticus 1:14",
+        "Leviticus 5:7",
+        "Leviticus 12:8",
+        "Leviticus 14:22",
+        "Luke 2:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDOVE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:9"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 1:14"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 5:7"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 12:8"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 14:22"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 2:24"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Leviticus",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Genesis",
+      "Luke"
+    ]
+  }
+}

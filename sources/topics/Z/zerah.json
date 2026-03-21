@@ -1,0 +1,185 @@
+{
+  "topic": "ZERAH",
+  "slug": "zerah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ZARAH"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 36:13,17",
+        "1 Chronicles 1:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Jobab",
+      "references": [
+        "Genesis 36:33",
+        "1 Chronicles 1:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. ZERAH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeZARAH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "4.",
+      "references": [
+        "Numbers 26:13",
+        "1 Chronicles 4:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Gershonite",
+      "references": [
+        "1 Chronicles 6:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A Levite",
+      "references": [
+        "1 Chronicles 6:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. King of Ethiopia",
+      "references": [
+        "2 Chronicles 14:9-15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        13,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 36:13,17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:37"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:33"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:44"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:13"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:41"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "2 Chronicles 14:9-15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Numbers",
+      "2 Chronicles"
+    ]
+  }
+}

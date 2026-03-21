@@ -1,0 +1,84 @@
+{
+  "topic": "GADARENES",
+  "slug": "gadarenes",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus visits and works miracles among, but is rejected",
+      "references": [
+        "Matthew 8:28-34",
+        "Mark 5:1-19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Matthew 8:28-34"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 19,
+      "testament": "NT",
+      "raw": "Mark 5:1-19"
+    }
+  ],
+  "books_mentioned": [
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Mark"
+    ]
+  }
+}

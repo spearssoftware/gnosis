@@ -1,0 +1,75 @@
+{
+  "topic": "BUKKI",
+  "slug": "bukki",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 6:5,51",
+        "Ezra 7:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A prince of Dan",
+      "references": [
+        "Numbers 34:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        5,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:5,51"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:4"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 34:22"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Ezra",
+      "Numbers"
+    ]
+  }
+}

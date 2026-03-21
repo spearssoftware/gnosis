@@ -1,0 +1,145 @@
+{
+  "topic": "JETHER",
+  "slug": "jether",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Judges 8:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An Ishmaelite who married David’s sister",
+      "references": [
+        "1 Kings 2:5,32",
+        "1 Chronicles 2:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "2 Samuel 17:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "1 Chronicles 2:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A",
+      "references": [
+        "1 Chronicles 4:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A chief of the line of Asher",
+      "references": [
+        "1 Chronicles 7:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 8:20"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        5,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 2:5,32"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 17:25"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:32"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:38"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Samuel",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Judges",
+      "1 Kings",
+      "2 Samuel"
+    ]
+  }
+}

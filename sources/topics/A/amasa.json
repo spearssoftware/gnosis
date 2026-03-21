@@ -1,0 +1,131 @@
+{
+  "topic": "AMASA",
+  "slug": "amasa",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Nephew of David",
+      "references": [
+        "2 Samuel 17:25",
+        "1 Chronicles 2:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joins Absalom",
+      "references": [
+        "2 Samuel 17:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Returns to David, and is ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sam",
+      "references": [
+        "2 Samuel 20:8-12",
+        "1 Kings 2:5,32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "2 Chronicles 28:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 17:25"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 19:13"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Samuel 20:8-12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        5,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 2:5,32"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 28,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 28:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles",
+      "1 Kings",
+      "2 Chronicles"
+    ]
+  }
+}

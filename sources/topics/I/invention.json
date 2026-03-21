@@ -1,0 +1,156 @@
+{
+  "topic": "INVENTION",
+  "slug": "invention",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Proverbs 8:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of musi",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Jubal",
+      "references": [
+        "Genesis 4:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By David",
+      "references": [
+        "1 Chronicles 23:5",
+        "2 Chronicles 7:6",
+        "2 Chronicles 29:26",
+        "Amos 6:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The use of metals",
+      "references": [
+        "Genesis 4:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The engines of war",
+      "references": [
+        "2 Chronicles 26:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 8:12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:5"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 7:6"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:26"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 6:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Amos",
+    "Genesis",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "2 Chronicles",
+      "Genesis",
+      "Proverbs",
+      "1 Chronicles",
+      "Amos"
+    ]
+  }
+}

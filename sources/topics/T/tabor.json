@@ -1,0 +1,158 @@
+{
+  "topic": "TABOR",
+  "slug": "tabor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHISLOTH-TABOR"
+  ],
+  "aspects": [
+    {
+      "label": "1. A mountain on the bor",
+      "references": [
+        "Joshua 19:22",
+        "Judges 8:18",
+        "Psalms 89:12",
+        "Jeremiah 46:18",
+        "Hosea 5:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The place for assembling Barak’ s army",
+      "references": [
+        "Judges 4:6,12,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A plain (R. V., “oak”) of unknown lo",
+      "references": [
+        "1 Samuel 10:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Leviti",
+      "references": [
+        "1 Chronicles 6:77"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCHISLOTH-TABOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:22"
+    },
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 8:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 89,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 89:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 46:18"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 5:1"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        6,
+        12,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 4:6,12,14"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 10:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        77
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:77"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "Hosea",
+    "Jeremiah",
+    "Joshua",
+    "Judges",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "Judges",
+      "Joshua",
+      "Psalms",
+      "Jeremiah",
+      "Hosea",
+      "1 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

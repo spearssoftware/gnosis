@@ -1,0 +1,434 @@
+{
+  "topic": "FLOWERS",
+  "slug": "flowers",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "BOTANY"
+  ],
+  "aspects": [
+    {
+      "label": "SeeBOTANY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Wild in fields",
+      "references": [
+        "Psalms 103:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Cultivated in gardens",
+      "references": [
+        "Song of Solomon 6:2,3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Beautiful",
+      "references": [
+        "Matthew 6:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Sweet",
+      "references": [
+        "Song of Solomon 5:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Evanescent",
+      "references": [
+        "Psalms 103:16",
+        "Isaiah 40:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Appear in spring",
+      "references": [
+        "Song of Solomon 2:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: The lily",
+      "references": [
+        "Hosea 14:5",
+        "Matthew 6:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: The lily of the valley",
+      "references": [
+        "Song of Solomon 2:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: The rose",
+      "references": [
+        "Isaiah 35:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: The rose of Sharon",
+      "references": [
+        "Song of Solomon 2:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Of the grass",
+      "references": [
+        "1 Peter 1:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Garlands of, used in worship of idols",
+      "references": [
+        "Acts 14:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, on the: Golden candlestick",
+      "references": [
+        "Exodus 25:31,33",
+        "2 Chronicles 4:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, on the: Sea of brass",
+      "references": [
+        "1 Kings 7:26",
+        "2 Chronicles 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, on the: Wood work of the temple",
+      "references": [
+        "1 Kings 6:18,29,33,35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The graces of Christ",
+      "references": [
+        "Song of Solomon 5:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Shortness of man’s life",
+      "references": [
+        "Job 14:2",
+        "Psalms 103:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Kingdom of Israel",
+      "references": [
+        "Isaiah 28:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Glory of man",
+      "references": [
+        "1 Peter 1:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Rich men",
+      "references": [
+        "James 1:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 103,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 103:15"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Song of Solomon 6:2,3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:29"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 103,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 103:16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 40:8"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:12"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 14:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:28"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 35,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 35:1"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 1:24"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 14:13"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        31,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 25:31,33"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:21"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:26"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        18,
+        29,
+        33,
+        35
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Kings 6:18,29,33,35"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 14:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 28:1"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "James 1:10,11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Peter",
+    "2 Chronicles",
+    "Acts",
+    "Exodus",
+    "Hosea",
+    "Isaiah",
+    "James",
+    "Job",
+    "Matthew",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 21,
+    "ot_refs": 16,
+    "nt_refs": 5,
+    "books_count": 12,
+    "top_books": [
+      "Song of Solomon",
+      "Isaiah",
+      "Psalms",
+      "Matthew",
+      "2 Chronicles",
+      "1 Kings",
+      "Hosea",
+      "1 Peter",
+      "Acts",
+      "Exodus"
+    ]
+  }
+}

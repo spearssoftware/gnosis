@@ -1,0 +1,744 @@
+{
+  "topic": "CONVERSION",
+  "slug": "conversion",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "CONVERTS",
+    "REGENERATION"
+  ],
+  "aspects": [
+    {
+      "label": "SeeREGENERATION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCONVERTS, below",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "By God",
+      "references": [
+        "1 Kings 18:37",
+        "John 6:44",
+        "Acts 21:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "By Christ",
+      "references": [
+        "Acts 3:26",
+        "Romans 15:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "By the power of the Holy Spirit",
+      "references": [
+        "Proverbs 1:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is of grace",
+      "references": [
+        "Acts 11:21,23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Follows repentance",
+      "references": [
+        "Acts 3:19",
+        "Acts 26:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is the result of faith",
+      "references": [
+        "Acts 11:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Through the instrumentality of: The scriptures",
+      "references": [
+        "Psalms 19:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Through the instrumentality of: Ministers",
+      "references": [
+        "Acts 26:18",
+        "1 Thessalonians 1:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Through the instrumentality of: Self-examination",
+      "references": [
+        "Psalms 119:59",
+        "Lamentations 3:40"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Through the instrumentality of: Affliction",
+      "references": [
+        "Psalms 78:34"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of sinners, a cause of joy: To God",
+      "references": [
+        "Ezekiel 18:23",
+        "Luke 15:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of sinners, a cause of joy: To saints",
+      "references": [
+        "Acts 15:3",
+        "Galatians 1:23,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is necessary",
+      "references": [
+        "Matthew 18:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Commanded",
+      "references": [
+        "Job 36:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhortations to",
+      "references": [
+        "Proverbs 1:23",
+        "Isaiah 31:6",
+        "Isaiah 55:7",
+        "Jeremiah 3:7",
+        "Ezekiel 33:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Promises connected with",
+      "references": [
+        "Nehemiah 1:9",
+        "Isaiah 1:27",
+        "Jeremiah 3:14",
+        "Ezekiel 18:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Pray for",
+      "references": [
+        "Psalms 80:7",
+        "Psalms 85:4",
+        "Jeremiah 31:18",
+        "Lamentations 5:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is accompanied by confession of sin, and prayer",
+      "references": [
+        "1 Kings 8:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Danger of neglecting",
+      "references": [
+        "Psalms 7:12",
+        "Jeremiah 44:5,11",
+        "Ezekiel 3:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of leading sinners to",
+      "references": [
+        "Psalms 51:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Encouragement for leading sinners to",
+      "references": [
+        "Daniel 12:3",
+        "James 5:19,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of Gentiles, predicted",
+      "references": [
+        "Isaiah 2:2",
+        "Isaiah 11:10",
+        "Isaiah 60:5",
+        "Isaiah 66:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of Israel, predicted",
+      "references": [
+        "Ezekiel 36:25-27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:37"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 6:44"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 3:26"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 15:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        21,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 11:21,23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 3:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 11:21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 19,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 19:7"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:18"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 1:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        59
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:59"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 3:40"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:34"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 18:23"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:32"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:3"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 1,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 1:23,24"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:3"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 36:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 31,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 31:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 55,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 55:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 3:7"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 33,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 33:11"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 1:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:27"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 3:14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 18:27"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 80:7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 85,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 85:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 31,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 31:18"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 5:21"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:35"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 7,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 7:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 44,
+      "verses": [
+        5,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 44:5,11"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 3:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 51,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 51:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 12:3"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "James 5:19,20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:12"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 36,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezekiel 36:25-27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Thessalonians",
+    "Acts",
+    "Daniel",
+    "Ezekiel",
+    "Galatians",
+    "Isaiah",
+    "James",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Lamentations",
+    "Luke",
+    "Matthew",
+    "Nehemiah",
+    "Proverbs",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 26,
+    "total_refs": 46,
+    "ot_refs": 31,
+    "nt_refs": 15,
+    "books_count": 18,
+    "top_books": [
+      "Acts",
+      "Psalms",
+      "Isaiah",
+      "Ezekiel",
+      "Jeremiah",
+      "1 Kings",
+      "Lamentations",
+      "John",
+      "Romans",
+      "Proverbs"
+    ]
+  }
+}

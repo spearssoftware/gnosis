@@ -1,0 +1,55 @@
+{
+  "topic": "CHIUN",
+  "slug": "chiun",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [
+        "Amos 5:26",
+        "Acts 7:43"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 5:26"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:43"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Amos"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Amos",
+      "Acts"
+    ]
+  }
+}

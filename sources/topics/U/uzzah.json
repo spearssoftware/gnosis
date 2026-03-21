@@ -1,0 +1,104 @@
+{
+  "topic": "UZZAH",
+  "slug": "uzzah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "UZZA"
+  ],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Driver of the",
+      "references": [
+        "2 Samuel 6:3",
+        "1 Chronicles 13:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Stricken",
+      "references": [
+        "2 Samuel 6:6-8",
+        "1 Chronicles 13:9-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. UZZAH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeUZZA,",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 13:7"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        6,
+        7,
+        8
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 6:6-8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 13:9-11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

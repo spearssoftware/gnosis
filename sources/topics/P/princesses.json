@@ -1,0 +1,43 @@
+{
+  "topic": "PRINCESSES",
+  "slug": "princesses",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Taught in household duties",
+      "references": [
+        "2 Samuel 13:8,9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 13:8,9"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Samuel"
+    ]
+  }
+}

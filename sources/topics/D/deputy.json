@@ -1,0 +1,83 @@
+{
+  "topic": "DEPUTY",
+  "slug": "deputy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An officer who administers the functions of a superior in his",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "absence",
+      "references": [
+        "1 Kings 22:47",
+        "Acts 13:7,8",
+        "Acts 18:12",
+        "Acts 19:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        47
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:47"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 13:7,8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:12"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:38"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 1,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "1 Kings"
+    ]
+  }
+}

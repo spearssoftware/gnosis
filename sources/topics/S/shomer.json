@@ -1,0 +1,38 @@
+{
+  "topic": "SHOMER",
+  "slug": "shomer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SHAMER",
+    "SHIMRITH"
+  ],
+  "aspects": [
+    {
+      "label": "1. SHOMER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSHAMER,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SeeSHI",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

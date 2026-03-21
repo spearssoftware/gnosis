@@ -1,0 +1,55 @@
+{
+  "topic": "LIZARD",
+  "slug": "lizard",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Leviticus 11:30",
+        "Proverbs 30:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:30"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:28"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Leviticus",
+      "Proverbs"
+    ]
+  }
+}

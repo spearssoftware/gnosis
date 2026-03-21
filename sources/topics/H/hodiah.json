@@ -1,0 +1,106 @@
+{
+  "topic": "HODIAH",
+  "slug": "hodiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "1. Wife ofEzra",
+      "references": [
+        "1 Chronicles 4:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite",
+      "references": [
+        "Nehemiah 8:7",
+        "Nehemiah 9:5",
+        "Nehemiah 10:10,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. An Israelitish chief",
+      "references": [
+        "Nehemiah 10:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:19"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 9:5"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        10,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 10:10,13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "1 Chronicles"
+    ]
+  }
+}

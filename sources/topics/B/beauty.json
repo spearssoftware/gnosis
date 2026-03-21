@@ -1,0 +1,452 @@
+{
+  "topic": "BEAUTY",
+  "slug": "beauty",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Vanity of",
+      "references": [
+        "Psalms 39:11",
+        "Proverbs 6:25",
+        "Proverbs 31:30",
+        "Isaiah 3:24",
+        "Ezekiel 16:14",
+        "Ezekiel 28:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Wastes away",
+      "references": [
+        "Psalms 39:11",
+        "Psalms 49:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sarah",
+      "references": [
+        "Genesis 12:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rebekah",
+      "references": [
+        "Genesis 24:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rachel",
+      "references": [
+        "Genesis 29:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joseph",
+      "references": [
+        "Genesis 39:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Moses",
+      "references": [
+        "Exodus 2:2",
+        "Hebrews 11:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".David",
+      "references": [
+        "1 Samuel 16:12,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Bath-sheba",
+      "references": [
+        "2 Samuel 11:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Tamar",
+      "references": [
+        "2 Samuel 13:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Absalom",
+      "references": [
+        "2 Samuel 14:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abishag",
+      "references": [
+        "1 Kings 1:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Vashti",
+      "references": [
+        "Esther 1:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Esther",
+      "references": [
+        "Esther 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SPIRITUAL",
+      "references": [
+        "1 Chronicles 16:29",
+        "Psalms 27:4",
+        "Psalms 29:2",
+        "Psalms 45:11",
+        "Psalms 90:17",
+        "Psalms 110:3",
+        "Isaiah 52:7",
+        "Ezekiel 16:14",
+        "Ecclesiastes 9:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 39,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 39:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:25"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:30"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:24"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:17"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 49,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 49:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 12:11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 29:17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 39:6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 2:2"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:23"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        12,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 16:12,18"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 11:2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 13:1"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 14:25"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:4"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 1:11"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:29"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 27,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 27:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 29,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 29:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 45,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 45:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 90,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 90:17"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 110,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 110:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 52,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 52:7"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 9:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Samuel",
+    "Ecclesiastes",
+    "Esther",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 28,
+    "ot_refs": 27,
+    "nt_refs": 1,
+    "books_count": 13,
+    "top_books": [
+      "Psalms",
+      "Genesis",
+      "2 Samuel",
+      "Proverbs",
+      "Isaiah",
+      "Ezekiel",
+      "Esther",
+      "Exodus",
+      "Hebrews",
+      "1 Samuel"
+    ]
+  }
+}

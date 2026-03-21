@@ -1,0 +1,543 @@
+{
+  "topic": "PROCRASTINATION",
+  "slug": "procrastination",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "EXCUSES"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Exodus 22:29",
+        "Proverbs 27:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "11:2,3;12:22,27,28;",
+      "references": [
+        "Matthew 8:21",
+        "Matthew 24:48-51",
+        "Matthew 25:2-13",
+        "Luke 9:59-62",
+        "Acts 24:25",
+        "1 Thessalonians 5:2,3",
+        "Hebrews 3:7-19",
+        "Hebrews 4:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEXCUSES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Pharaoh",
+      "references": [
+        "Exodus 8:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Elisha",
+      "references": [
+        "1 Kings 19:20,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Esther",
+      "references": [
+        "Esther 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Condemned by Christ",
+      "references": [
+        "Luke 9:59-62"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints avoid",
+      "references": [
+        "Psalms 27:8",
+        "Psalms 119:60"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be avoided in: Hearkening to God",
+      "references": [
+        "Psalms 95:7,8",
+        "Hebrews 3:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be avoided in: Seeking God",
+      "references": [
+        "Isaiah 55:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be avoided in: Glorifying God",
+      "references": [
+        "Jeremiah 13:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be avoided in: Keeping God’s commandments",
+      "references": [
+        "Psalms 119:60"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be avoided in: Making offerings to God",
+      "references": [
+        "Exodus 22:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be avoided in: Performance of vows",
+      "references": [
+        "Deuteronomy 23:21",
+        "Ecclesiastes 5:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Motives for avoiding: The present the accepted time",
+      "references": [
+        "2 Corinthians 6:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Motives for avoiding: The present the best time",
+      "references": [
+        "Ecclesiastes 12:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Motives for avoiding: The uncertainty of life",
+      "references": [
+        "Proverbs 27:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Danger of illustrated",
+      "references": [
+        "Matthew 5:25",
+        "Luke 13:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Lot",
+      "references": [
+        "Genesis 19:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Felix",
+      "references": [
+        "Acts 24:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:29"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 11:2,3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        22,
+        27,
+        28
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 12:22,27,28"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 8:21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 24:48-51"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Matthew 25:2-13"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 9:59-62"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:25"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:2,3"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 3,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Hebrews 3:7-19"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Hebrews 4:1-7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 8,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 8:10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 19:20,21"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 5:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 27,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 27:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        60
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:60"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 95,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 95:7,8"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 3,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 3:7,8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 55,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 55:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 13,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 13:16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 23:21"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:4"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:2"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:1"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:25"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 19,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 19:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Thessalonians",
+    "2 Corinthians",
+    "Acts",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Esther",
+    "Exodus",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 28,
+    "ot_refs": 16,
+    "nt_refs": 12,
+    "books_count": 16,
+    "top_books": [
+      "Matthew",
+      "Proverbs",
+      "Hebrews",
+      "Psalms",
+      "Exodus",
+      "Luke",
+      "Ecclesiastes",
+      "Acts",
+      "1 Thessalonians",
+      "1 Kings"
+    ]
+  }
+}

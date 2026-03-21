@@ -1,0 +1,66 @@
+{
+  "topic": "HAMMEDATHA",
+  "slug": "hammedatha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of Haman",
+      "references": [
+        "Esther 3:1,10",
+        "Esther 8:5",
+        "Esther 9:10,24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        1,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 3:1,10"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 8:5"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "verses": [
+        10,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 9:10,24"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

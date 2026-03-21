@@ -1,0 +1,105 @@
+{
+  "topic": "SHELAH",
+  "slug": "shelah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SALAH"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 38:5,11,14,26",
+        "Genesis 46:12",
+        "Numbers 26:20",
+        "1 Chronicles 2:3",
+        "1 Chronicles 4:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SHELAH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSALAH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 38,
+      "verses": [
+        5,
+        11,
+        14,
+        26
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 38:5,11,14,26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:20"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Numbers"
+    ]
+  }
+}

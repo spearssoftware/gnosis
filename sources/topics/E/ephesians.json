@@ -1,0 +1,37 @@
+{
+  "topic": "EPHESIANS",
+  "slug": "ephesians",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EPHESUS"
+  ],
+  "aspects": [
+    {
+      "label": "(Paul’s letter to)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEph 1",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See al",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

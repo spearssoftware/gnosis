@@ -1,0 +1,56 @@
+{
+  "topic": "COLLUSION",
+  "slug": "collusion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMPLICITY",
+    "CONNIVANCE"
+  ],
+  "aspects": [
+    {
+      "label": "IN SIN",
+      "references": [
+        "Leviticus 20:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCOMPLICITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCONNIVANCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 20:4,5"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

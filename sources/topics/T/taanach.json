@@ -1,0 +1,160 @@
+{
+  "topic": "TAANACH",
+  "slug": "taanach",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A city conquered by Joshua",
+      "references": [
+        "Joshua 12:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allotted to the tribe of Manasseh",
+      "references": [
+        "Joshua 17:11",
+        "1 Chronicles 7:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 17:12",
+        "Judges 1:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Assigned to the Levites",
+      "references": [
+        "Joshua 21:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The scene of Barak’ s victory",
+      "references": [
+        "Judges 5:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "One of",
+      "references": [
+        "1 Kings 4:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:21"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:29"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:12"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:27"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:25"
+    },
+    {
+      "book": "Judges",
+      "chapter": 5,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 5:19"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Joshua",
+      "Judges",
+      "1 Chronicles",
+      "1 Kings"
+    ]
+  }
+}

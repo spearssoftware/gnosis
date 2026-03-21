@@ -1,0 +1,421 @@
+{
+  "topic": "HEDGES",
+  "slug": "hedges",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Antiquity of",
+      "references": [
+        "1 Chronicles 4:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Designed for protection",
+      "references": [
+        "Isaiah 5:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often made of thorns",
+      "references": [
+        "Micah 7:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Placed around: Gardens",
+      "references": [
+        "Song of Solomon 4:12",
+        "Lamentations 2:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Placed around: Vineyards",
+      "references": [
+        "Matthew 21:33",
+        "Mark 12:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Difficulty of breaking through",
+      "references": [
+        "Proverbs 15:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Danger of breaking through",
+      "references": [
+        "Ecclesiastes 10:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Desolation caused by removing",
+      "references": [
+        "Psalms 80:12,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Filled with grasshoppers",
+      "references": [
+        "Nahum 3:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Poor travellers sought rest under",
+      "references": [
+        "Luke 14:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Afforded protection in danger",
+      "references": [
+        "Jeremiah 49:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Making up gaps in, alluded to",
+      "references": [
+        "Ezekiel 13:5",
+        "Ezekiel 22:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of God’s protection",
+      "references": [
+        "Job 1:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of numerous afflictions",
+      "references": [
+        "Job 3:23",
+        "Job 19:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of heavy judgments",
+      "references": [
+        "Lamentations 3:7",
+        "Hosea 2:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of holy ordinances",
+      "references": [
+        "Isaiah 5:2",
+        "Matthew 21:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the way of the slothful",
+      "references": [
+        "Proverbs 15:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Broken down,) of the taking away of protection",
+      "references": [
+        "Psalms 80:12",
+        "Isaiah 5:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:2"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 7:4"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:12"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 2:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:33"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 12:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:19"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 80:12,13"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:17"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 14:23"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:3"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 13:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 22,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 22:30"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:10"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 3:23"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 19:8"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 3:7"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 80:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ecclesiastes",
+    "Ezekiel",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Lamentations",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Nahum",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 18,
+    "total_refs": 22,
+    "ot_refs": 19,
+    "nt_refs": 3,
+    "books_count": 16,
+    "top_books": [
+      "Job",
+      "Isaiah",
+      "Lamentations",
+      "Psalms",
+      "Ezekiel",
+      "1 Chronicles",
+      "Micah",
+      "Song of Solomon",
+      "Matthew",
+      "Mark"
+    ]
+  }
+}

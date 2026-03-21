@@ -1,0 +1,140 @@
+{
+  "topic": "ASP",
+  "slug": "asp",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A venomous serpent",
+      "references": [
+        "Deuteronomy 32:33",
+        "Job 20:14,16",
+        "Isaiah 11:8",
+        "Romans 3:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Venom of, il",
+      "references": [
+        "Psalms 140:3",
+        "Romans 3:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Injurious effects of wine",
+      "references": [
+        "Deuteronomy 32:33",
+        "Proverbs 23:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Isaiah 11:8,9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:33"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "verses": [
+        14,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 20:14,16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:8"
+    },
+    {
+      "book": "Romans",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 3:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 140,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 140:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 23:32"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 11:8,9"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Isaiah",
+    "Job",
+    "Proverbs",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "Isaiah",
+      "Deuteronomy",
+      "Job",
+      "Romans",
+      "Psalms",
+      "Proverbs"
+    ]
+  }
+}

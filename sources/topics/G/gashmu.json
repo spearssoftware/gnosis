@@ -1,0 +1,43 @@
+{
+  "topic": "GASHMU",
+  "slug": "gashmu",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [
+        "Nehemiah 6:1,6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verses": [
+        1,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 6:1,6"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

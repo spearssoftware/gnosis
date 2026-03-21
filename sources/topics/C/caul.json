@@ -1,0 +1,128 @@
+{
+  "topic": "CAUL",
+  "slug": "caul",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Probably the upper lobe of the liver",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Burnt with sacrifice",
+      "references": [
+        "Exodus 29:13,22",
+        "Leviticus 3:4,10,15",
+        "Leviticus 4:9",
+        "Leviticus 7:4",
+        "Leviticus 8:16,25",
+        "Leviticus 9:10,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Netted",
+      "references": [
+        "Isaiah 3:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        13,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 29:13,22"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "verses": [
+        4,
+        10,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 3:4,10,15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 4:9"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 7:4"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        16,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 8:16,25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "verses": [
+        10,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 9:10,19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:18"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Isaiah",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Exodus",
+      "Isaiah"
+    ]
+  }
+}

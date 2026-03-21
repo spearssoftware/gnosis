@@ -1,0 +1,94 @@
+{
+  "topic": "BREECHES",
+  "slug": "breeches",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "For the priests",
+      "references": [
+        "Exodus 28:42",
+        "Exodus 39:28",
+        "Leviticus 6:10",
+        "Leviticus 16:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 44:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:42"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:28"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 6:10"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 16:4"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 44,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 44:18"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Leviticus",
+      "Exodus"
+    ]
+  }
+}

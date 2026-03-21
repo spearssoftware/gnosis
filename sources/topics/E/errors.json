@@ -1,0 +1,32 @@
+{
+  "topic": "ERRORS",
+  "slug": "errors",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TEACHERS, FALSE"
+  ],
+  "aspects": [
+    {
+      "label": "(In teachers and doctrines)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEACHERS, FALSE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "topic": "BOTANY",
+  "slug": "botany",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ALGUM",
+    "ALMOND",
+    "ALOE",
+    "ANISE",
+    "APPLE",
+    "ASH",
+    "BALM",
+    "BARLEY",
+    "BAY",
+    "BEAN",
+    "BOX",
+    "BRAMBLE",
+    "BULRUSH",
+    "CAMPHIRE",
+    "CANE",
+    "CASSIA",
+    "CEDAR",
+    "CHESTNUT",
+    "CINNAMON",
+    "COCKLE",
+    "CORIANDER",
+    "CORN",
+    "CUCUMBER",
+    "CUMMIN",
+    "CYPRESS",
+    "DATE",
+    "EBONY",
+    "ELM",
+    "FIG TREE",
+    "FIR TREE",
+    "FITCH",
+    "FLAG",
+    "FLAX",
+    "FRANKINCENSE",
+    "GALBANUM",
+    "GALL",
+    "GARLIC",
+    "GOPHERWOOD",
+    "GOURD",
+    "GRASS",
+    "HAZEL",
+    "HEATH",
+    "HEMLOCK",
+    "HUSK",
+    "HYSSOP",
+    "JUNIPER",
+    "LEEKS",
+    "LENTILE",
+    "LILY",
+    "MALLOW",
+    "MANDRAKE",
+    "MELON",
+    "MILLET",
+    "MINT",
+    "MULBERRY",
+    "MUSTARD",
+    "MYRRH",
+    "MYRTLE",
+    "NETTLE",
+    "NUT",
+    "OAK",
+    "OLIVE",
+    "ONION",
+    "PALM",
+    "PINE",
+    "POMEGRANATE",
+    "POPLAR",
+    "REED",
+    "ROSE",
+    "RUE",
+    "RYE",
+    "SHITTIM",
+    "SPIKENARD",
+    "STACTE",
+    "SYCAMINE",
+    "SYCAMORE",
+    "TARE",
+    "TEIL",
+    "THISTLE",
+    "THORN",
+    "THYINE",
+    "VINE",
+    "WHEAT",
+    "WILLOW",
+    "WORMWOOD"
+  ],
+  "aspects": [
+    {
+      "label": "Laws of nature in the vegetable kingdom uniform in action",
+      "references": [
+        "Matthew 7:16-18,20",
+        "Luke 6:43,44",
+        "1 Corinthians 15:36-38",
+        "Galatians 6:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Lily, beauty of",
+      "references": [
+        "Matthew 6:28,29",
+        "2 Corinthians 9:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALGUM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALMOND",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALOE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeANISE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeAPPLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeASH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBALM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBARLEY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBAY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBEAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBOX",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBRAMBLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBULRUSH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCEDAR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHEST",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCINNAMON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOCKLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCORIAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCORN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCUCUMBER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCUMMIN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCYPRESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDATE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEBONY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeELM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFIG TREE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFIR TREE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFITCH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFLAG",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFLAX",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFRANKINCENSE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGALBA",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGALL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGARLIC",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOPHERWOOD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOURD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGRASS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHAZEL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHEATH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHEMLOCK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHUSK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHYS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJUNIPER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLEEKS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLENTILE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLILY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMALLOW",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMANDRAKE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMELON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMILLET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMINT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMULBERRY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSTARD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMYRRH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMYRTLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNETTLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOAK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOLIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeONION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePALM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePOMEGRANATE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePOPLAR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeREED",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeROSE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeRUE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeRYE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See SAFFRON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSHITTIM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSPIKENARD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSTACTE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTARE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEIL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTHISTLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Se",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "verses": [
+        16,
+        17,
+        18,
+        20
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 7:16-18,20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        43,
+        44
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 6:43,44"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verses": [
+        36,
+        37,
+        38
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Corinthians 15:36-38"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 6:28,29"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 9:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "2 Corinthians",
+    "Galatians",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 83,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 5,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "1 Corinthians",
+      "Galatians",
+      "2 Corinthians"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "SHIGGAION",
+  "slug": "shiggaion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerningPs 7;",
+      "references": [
+        "Habakkuk 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSIC",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:1"
+    }
+  ],
+  "books_mentioned": [
+    "Habakkuk"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Habakkuk"
+    ]
+  }
+}

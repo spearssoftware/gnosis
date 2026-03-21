@@ -1,0 +1,69 @@
+{
+  "topic": "BILEAM",
+  "slug": "bileam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A town of the territory of the tribe of Manasseh1Ch",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "6:70",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 17:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "GATH-RIMMON",
+      "references": [
+        "Joshua 21:25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:25"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

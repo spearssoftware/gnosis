@@ -1,0 +1,205 @@
+{
+  "topic": "MULE",
+  "slug": "mule",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Uses of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".For royal ri",
+      "references": [
+        "2 Samuel 13:29",
+        "2 Samuel 18:9",
+        "1 Kings 1:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rid",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".As pack animals",
+      "references": [
+        "2 Kings 5:17",
+        "1 Chronicles 12:40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tribute paid in",
+      "references": [
+        "1 Kings 10:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in barter",
+      "references": [
+        "Ezekiel 27:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By the",
+      "references": [
+        "Ezra 2:66",
+        "Nehemiah 7:68"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In war",
+      "references": [
+        "Ecclesiastes 14:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 13:29"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 18:9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:33"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 66,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 66:20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 5:17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:40"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:25"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:14"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        66
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:66"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        68
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:68"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 14,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 14:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Kings",
+    "2 Samuel",
+    "Ecclesiastes",
+    "Ezekiel",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 8,
+    "top_books": [
+      "1 Kings",
+      "2 Samuel",
+      "2 Kings",
+      "1 Chronicles",
+      "Ezekiel",
+      "Ezra",
+      "Nehemiah",
+      "Ecclesiastes"
+    ]
+  }
+}

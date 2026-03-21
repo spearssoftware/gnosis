@@ -1,0 +1,103 @@
+{
+  "topic": "UR",
+  "slug": "ur",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Abraham’ s native place",
+      "references": [
+        "Genesis 11:27,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abraham leaves",
+      "references": [
+        "Genesis 11:31",
+        "Genesis 15:7",
+        "Nehemiah 9:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of one of David’ s mighty men",
+      "references": [
+        "1 Chronicles 11:35"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 11:27,28"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 9:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:35"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Nehemiah",
+      "1 Chronicles"
+    ]
+  }
+}

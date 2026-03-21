@@ -1,0 +1,139 @@
+{
+  "topic": "MEDES",
+  "slug": "medes",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Inhabitants of Media",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Israelites distributed among, when",
+      "references": [
+        "2 Kings 17:6",
+        "2 Kings 18:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Palace in the Bablonian province of",
+      "references": [
+        "Ezra 6:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An essential part of the Medo-Persian Empire",
+      "references": [
+        "Esther 1:1,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Supremacy of, in the Chal",
+      "references": [
+        "Daniel 5:28,31",
+        "Daniel 9:1",
+        "Daniel 11:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:11"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 6:2"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        1,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 1:1,19"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        28,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 5:28,31"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 9:1"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 11:1"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Daniel",
+    "Esther",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Daniel",
+      "2 Kings",
+      "Ezra",
+      "Esther"
+    ]
+  }
+}

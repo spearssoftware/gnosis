@@ -1,0 +1,115 @@
+{
+  "topic": "CHALDEA",
+  "slug": "chaldea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BABYLON",
+    "CHALDEANS"
+  ],
+  "aspects": [
+    {
+      "label": "(The",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "with Babylon, as the name of the empire foun",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Abraham a native of",
+      "references": [
+        "Genesis 11:28,31",
+        "Genesis 15:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Foun",
+      "references": [
+        "Isaiah 23:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Character of its people",
+      "references": [
+        "Habakkuk 1:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBABYLON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        28,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 11:28,31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 23,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 23:13"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 1:6"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Habakkuk",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Isaiah",
+      "Habakkuk"
+    ]
+  }
+}

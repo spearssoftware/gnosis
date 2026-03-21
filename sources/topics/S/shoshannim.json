@@ -1,0 +1,37 @@
+{
+  "topic": "SHOSHANNIM",
+  "slug": "shoshannim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC, INSTRUMENTS OF"
+  ],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A wind instrument, mentioned in the titles ofPs 45;60;69;80",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSIC, INSTRUMENTS OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

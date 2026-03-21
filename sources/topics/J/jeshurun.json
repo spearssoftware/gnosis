@@ -1,0 +1,67 @@
+{
+  "topic": "JESHURUN",
+  "slug": "jeshurun",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A name used poeti",
+      "references": [
+        "Deuteronomy 32:15",
+        "Deuteronomy 33:5,26",
+        "Isaiah 44:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        5,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:5,26"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 44:2"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Deuteronomy",
+      "Isaiah"
+    ]
+  }
+}

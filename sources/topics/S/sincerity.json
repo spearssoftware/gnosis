@@ -1,0 +1,770 @@
+{
+  "topic": "SINCERITY",
+  "slug": "sincerity",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "IGNORANCE, SINS OF"
+  ],
+  "aspects": [
+    {
+      "label": "Does not exempt from guiltGe 20",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIGNORANCE, SINS OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Forgiveness of enemies must be sincere",
+      "references": [
+        "Matthew 18:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Servants must ren",
+      "references": [
+        "Ephesians 6:5-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Whatever is done must be done with",
+      "references": [
+        "1 Corinthians 10:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus was an example of",
+      "references": [
+        "1 Peter 2:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Servants of should be examples of",
+      "references": [
+        "Titus 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Opposed to fleshly wisdom",
+      "references": [
+        "2 Corinthians 1:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Should characterize",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Our love toward God",
+      "references": [
+        "2 Corinthians 8:8,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Our love toward Jesus",
+      "references": [
+        "Ephesians 6:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Our service toward God",
+      "references": [
+        "Joshua 24:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Our faith",
+      "references": [
+        "1 Timothy 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Our love to one another",
+      "references": [
+        "Romans 12:9",
+        "1 Peter 1:22",
+        "Job 3:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Our whole conduct",
+      "references": [
+        "2 Corinthians 1:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The preaching of the gospel",
+      "references": [
+        "2 Corinthians 2:17",
+        "1 Thessalonians 2:3-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A characteristic of the doctrines of the gospel1Pe",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "The gospel",
+      "references": [
+        "Philippians 1:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Evil people are",
+      "references": [
+        "Psalms 5:9",
+        "Psalms 55:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Exhortations to",
+      "references": [
+        "1 Corinthians 5:8",
+        "1 Peter 2:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prayer for, on behalf of others",
+      "references": [
+        "Philippians 1:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Blessedness of",
+      "references": [
+        "Psalms 32:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "EXEMPLIFIED",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".By",
+      "references": [
+        "1 Chronicles 12:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Hezekiah",
+      "references": [
+        "Isaiah 38:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Nathanael",
+      "references": [
+        "John 1:47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Paul",
+      "references": [
+        "2 Corinthians 1:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Timothy",
+      "references": [
+        "2 Timothy 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Lois and Eunice",
+      "references": [
+        "2 Timothy 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Christ was an example of",
+      "references": [
+        "1 Peter 2:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ministers should be examples of",
+      "references": [
+        "Titus 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Opposed to fleshly wisdom",
+      "references": [
+        "2 Corinthians 1:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: Our love to God",
+      "references": [
+        "2 Corinthians 8:8,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: Our love to Christ",
+      "references": [
+        "Ephesians 6:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: Our service to God",
+      "references": [
+        "Joshua 24:14",
+        "John 4:23,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: Our faith",
+      "references": [
+        "1 Timothy 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: Our love to one another",
+      "references": [
+        "Romans 12:9",
+        "1 Peter 1:22",
+        "1 John 3:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: Our whole conduct",
+      "references": [
+        "2 Corinthians 1:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should characterise: The preaching of the gospel",
+      "references": [
+        "2 Corinthians 2:17",
+        "1 Thessalonians 2:3-5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A characteristic of the doctrines of the gospel",
+      "references": [
+        "1 Peter 2:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The gospel sometimes preached without",
+      "references": [
+        "Philippians 1:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked devoid of",
+      "references": [
+        "Psalms 5:9",
+        "Psalms 55:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhortations to",
+      "references": [
+        "Psalms 34:13",
+        "1 Corinthians 5:8",
+        "1 Peter 2:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Pray for, on behalf of others",
+      "references": [
+        "Philippians 1:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Blessedness of",
+      "references": [
+        "Psalms 32:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Men of Zebulun",
+      "references": [
+        "1 Chronicles 12:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Hezekiah",
+      "references": [
+        "Isaiah 38:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Nathanael",
+      "references": [
+        "John 1:47"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Paul",
+      "references": [
+        "2 Corinthians 1:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Timothy",
+      "references": [
+        "2 Timothy 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Lois and Eunice",
+      "references": [
+        "2 Timothy 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: The Redeemed",
+      "references": [
+        "Revelation 14:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:35"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Ephesians 6:5-7"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 10:31"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:22"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 2:7"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 1:12"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 8,
+      "verses": [
+        8,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Corinthians 8:8,24"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:24"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:14"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 1:5"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:9"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 1:22"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 3:18"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 2:17"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Thessalonians 2:3-5"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 2:2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 1:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 5:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 55,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 55:21"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:8"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:1"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 1:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 32,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 32:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:33"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 38,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 38:3"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        47
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:47"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 1:5"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 4:23,24"
+    },
+    {
+      "book": "1 John",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 3:18"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 34,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 34:13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 14:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Corinthians",
+    "1 John",
+    "1 Peter",
+    "1 Thessalonians",
+    "1 Timothy",
+    "2 Corinthians",
+    "2 Timothy",
+    "Ephesians",
+    "Isaiah",
+    "Job",
+    "John",
+    "Joshua",
+    "Matthew",
+    "Philippians",
+    "Psalms",
+    "Revelation",
+    "Romans",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 52,
+    "total_refs": 32,
+    "ot_refs": 8,
+    "nt_refs": 24,
+    "books_count": 19,
+    "top_books": [
+      "1 Peter",
+      "Psalms",
+      "2 Corinthians",
+      "Ephesians",
+      "1 Corinthians",
+      "1 Thessalonians",
+      "Philippians",
+      "John",
+      "Matthew",
+      "Titus"
+    ]
+  }
+}

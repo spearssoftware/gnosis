@@ -1,0 +1,85 @@
+{
+  "topic": "PHILANTHROPY",
+  "slug": "philanthropy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ALMS",
+    "BENEFICENCE",
+    "CHARITABLENESS",
+    "LIBERALITY",
+    "NEIGHBOR",
+    "POOR"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Isaiah 58:6-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALMS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBENEFICENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHARITABLENESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLIBERALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNEIGHBOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePOOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 58,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Isaiah 58:6-12"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

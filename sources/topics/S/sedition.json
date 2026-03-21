@@ -1,0 +1,60 @@
+{
+  "topic": "SEDITION",
+  "slug": "sedition",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Charged against Paul",
+      "references": [
+        "Acts 24:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "How punished",
+      "references": [
+        "Acts 5:36,37"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 5:36,37"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

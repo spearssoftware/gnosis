@@ -1,0 +1,75 @@
+{
+  "topic": "HAKKOZ",
+  "slug": "hakkoz",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A priest",
+      "references": [
+        "1 Chronicles 24:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Ezra 2:61",
+        "Nehemiah 3:4,21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:10"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        61
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:61"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        4,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 3:4,21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "topic": "PRAYERLESSNESS",
+  "slug": "prayerlessness",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Job 15:4",
+        "Job 21:14,15",
+        "Job 27:10",
+        "Psalms 14:4",
+        "Psalms 53:4",
+        "Psalms 79:6",
+        "Isaiah 43:22",
+        "Isaiah 64:7",
+        "Jeremiah 10:21,25",
+        "Daniel 9:13",
+        "Hosea 7:7",
+        "Jonah 1:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Job 1:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 15,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 15:4"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 21:14,15"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 27:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 14,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 14:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 53,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 53:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 79,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 79:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 43:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 64,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 64:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verses": [
+        21,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 10:21,25"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 9,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 9:13"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 7:7"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 1:6"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Jonah",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "Job",
+      "Psalms",
+      "Isaiah",
+      "Jeremiah",
+      "Daniel",
+      "Hosea",
+      "Jonah"
+    ]
+  }
+}

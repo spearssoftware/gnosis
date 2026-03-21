@@ -1,0 +1,61 @@
+{
+  "topic": "DAGON",
+  "slug": "dagon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An idol of the Philistines",
+      "references": [
+        "Judges 16:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Temple of",
+      "references": [
+        "1 Chronicles 10:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:23"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 10:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "1 Chronicles"
+    ]
+  }
+}

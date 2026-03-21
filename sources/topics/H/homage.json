@@ -1,0 +1,145 @@
+{
+  "topic": "HOMAGE",
+  "slug": "homage",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WORSHIP"
+  ],
+  "aspects": [
+    {
+      "label": "Refused by Peter",
+      "references": [
+        "Acts 10:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul and Barnabas",
+      "references": [
+        "Acts 14:11-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By the angel seen by",
+      "references": [
+        "Revelation 19:10",
+        "Revelation 22:8,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWORSHIP",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Ren",
+      "references": [
+        "1 Kings 1:16,23,31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Princes",
+      "references": [
+        "Esther 3:2,5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:26"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Acts 14:11-18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 19:10"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 22:8,9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        16,
+        23,
+        31
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 1:16,23,31"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        2,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 3:2,5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Acts",
+    "Esther",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 2,
+    "nt_refs": 4,
+    "books_count": 4,
+    "top_books": [
+      "Acts",
+      "Revelation",
+      "1 Kings",
+      "Esther"
+    ]
+  }
+}

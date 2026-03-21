@@ -1,0 +1,61 @@
+{
+  "topic": "SIGNAL",
+  "slug": "signal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ARMIES",
+    "ENSIGNS (BANNERS)",
+    "TRUMPETS"
+  ],
+  "aspects": [
+    {
+      "label": "Used in war",
+      "references": [
+        "Isaiah 18:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARMIES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeENSIGNS (banners)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTRUMPETS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 18,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 18:3"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "topic": "LEARNING",
+  "slug": "learning",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "INSTRUCTION",
+    "KNOWLEDGE"
+  ],
+  "aspects": [
+    {
+      "label": "SeeINSTRUCTION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeKNOWLEDGE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

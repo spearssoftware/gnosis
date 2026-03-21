@@ -1,0 +1,68 @@
+{
+  "topic": "REPHIDIM",
+  "slug": "rephidim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Exodus 17:1,8",
+        "Exodus 19:2",
+        "Numbers 33:14,15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 17,
+      "verses": [
+        1,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 17:1,8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 19,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 19:2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:14,15"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Numbers"
+    ]
+  }
+}

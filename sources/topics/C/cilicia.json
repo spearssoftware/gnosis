@@ -1,0 +1,95 @@
+{
+  "topic": "CILICIA",
+  "slug": "cilicia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A maritime province of Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Jews live in",
+      "references": [
+        "Acts 6:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The congregations of",
+      "references": [
+        "Acts 15:23,41",
+        "Galatians 1:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sea of",
+      "references": [
+        "Acts 27:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 6:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        23,
+        41
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 15:23,41"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 1,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 1:21"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:5"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Galatians"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Galatians"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "topic": "GIDEONI",
+  "slug": "gideoni",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of Abidan",
+      "references": [
+        "Numbers 1:11",
+        "Numbers 2:22",
+        "Numbers 7:60,65",
+        "Numbers 10:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        60,
+        65
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:60,65"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:24"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

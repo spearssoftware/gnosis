@@ -1,0 +1,699 @@
+{
+  "topic": "LAND",
+  "slug": "land",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CANAAN",
+    "MORTGAGE"
+  ],
+  "aspects": [
+    {
+      "label": "Appeared on the third creative day",
+      "references": [
+        "Genesis 1:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Original title to, from God",
+      "references": [
+        "Genesis 13:14-17",
+        "Genesis 15:7",
+        "Exodus 23:31",
+        "Leviticus 25:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bought and",
+      "references": [
+        "Genesis 23:3-18",
+        "Genesis 33:19",
+        "Acts 4:34",
+        "Acts 5:1-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sale and re",
+      "references": [
+        "Leviticus 25:15,16,23-33",
+        "Leviticus 27:17-24",
+        "Numbers 36:4",
+        "Jeremiah 32:7-16,25,44",
+        "Ezekiel 46:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conveyance of, by written",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "23:3-20;",
+      "references": [
+        "Ruth 4:3-8,11",
+        "Jeremiah 32:9-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Witnessed",
+      "references": [
+        "Genesis 23:10,11",
+        "Ruth 4:9-11",
+        "Jeremiah 32:9-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Nehemiah 5:3-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Rights in, alienated",
+      "references": [
+        "2 Kings 8:1-6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Leased",
+      "references": [
+        "Luke 20:9-16",
+        "Matthew 21:33-41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Priests’ part in",
+      "references": [
+        "Genesis 47:22",
+        "Ezekiel 48:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "King’s part in",
+      "references": [
+        "Ezekiel 48:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Widow’s dower in",
+      "references": [
+        "Ruth 4:3-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Unmarried woman’s rights in",
+      "references": [
+        "Numbers 27:1-11",
+        "Numbers 36:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To rest every seventh year for the benefit of the poor people",
+      "references": [
+        "Exodus 23:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Products of, for all",
+      "references": [
+        "Ecclesiastes 5:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Monopoly of",
+      "references": [
+        "Genesis 47:20-26",
+        "Isaiah 5:8",
+        "Micah 2:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMORTGAGE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Rules for apportioning",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See al",
+      "references": [
+        "Ezekiel 47:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 1:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verses": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 13:14-17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:31"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:23"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "Genesis 23:3-18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:34"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Acts 5:1-8"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        15,
+        16,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Leviticus 25:15,16,23-33"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Leviticus 27:17-24"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 36:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        25,
+        44
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Jeremiah 32:7-16,25,44"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 46,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 46:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 18,
+      "testament": "OT",
+      "raw": "Ezekiel 23:3-20"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Ruth 4:3-8,11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Jeremiah 32:9-14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 23:10,11"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ruth 4:9-11"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nehemiah 5:3-5"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "2 Kings 8:1-6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 20:9-16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Matthew 21:33-41"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 47,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 47:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 48,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 48:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 48,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 48:21"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Ruth 4:3-9"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Numbers 27:1-11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Numbers 36:1-11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:11"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 47,
+      "verses": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Genesis 47:20-26"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:8"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Micah 2:1,2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 47,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 47:22"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Acts",
+    "Ecclesiastes",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Micah",
+    "Nehemiah",
+    "Numbers",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 35,
+    "ot_refs": 31,
+    "nt_refs": 4,
+    "books_count": 15,
+    "top_books": [
+      "Genesis",
+      "Ezekiel",
+      "Leviticus",
+      "Numbers",
+      "Ruth",
+      "Exodus",
+      "Acts",
+      "Jeremiah",
+      "Nehemiah",
+      "2 Kings"
+    ]
+  }
+}

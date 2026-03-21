@@ -1,0 +1,564 @@
+{
+  "topic": "SERPENT",
+  "slug": "serpent",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Satan appears to Eve in the form of",
+      "references": [
+        "Genesis 3:1-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 11:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Subtlety of",
+      "references": [
+        "Genesis 3:1",
+        "Ecclesiastes 10:8",
+        "Matthew 10:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Curse upon",
+      "references": [
+        "Genesis 3:14,15",
+        "Genesis 49:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Feeds upon the dust",
+      "references": [
+        "Genesis 3:14",
+        "Isaiah 65:25",
+        "Micah 7:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Unfit for food",
+      "references": [
+        "Matthew 7:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Venom of",
+      "references": [
+        "Deuteronomy 32:24,33",
+        "Job 20:16",
+        "Psalms 58:4",
+        "Psalms 140:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "23:31,32;",
+      "references": [
+        "Acts 28:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The staff of Moses transformed into",
+      "references": [
+        "Exodus 4:3",
+        "Exodus 7:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fiery (poi",
+      "references": [
+        "Numbers 21:6,7",
+        "Deuteronomy 8:15",
+        "1 Corinthians 10:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The wound of, miraculously healed by looking upon the bronze",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "snake, erected by Moses",
+      "references": [
+        "Numbers 21:8,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The charming of",
+      "references": [
+        "Psalms 58:4,5",
+        "Ecclesiastes 10:11",
+        "Jeremiah 8:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mentioned in",
+      "references": [
+        "Proverbs 30:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Constriction of",
+      "references": [
+        "Revelation 9:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sea serpent",
+      "references": [
+        "Amos 9:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The seventy disciples (the best mss have “seventy-two”) endued",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "with power over",
+      "references": [
+        "Luke 10:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The apostles given power over",
+      "references": [
+        "Mark 16:18",
+        "Acts 28:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 14:29",
+        "Isaiah 30:6",
+        "Isaiah 65:25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Genesis 3:1-15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:1"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 3:14,15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:25"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 7:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 7:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        24,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:24,33"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 20:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 58,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 58:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 140,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 140:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 23,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 23:31,32"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 28:5,6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 4:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 7,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 7:15"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 21:6,7"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 8:15"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 10:9"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 21:8,9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 58,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 58:4,5"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 8:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:19"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:19"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 9:3"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:19"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 16:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 14,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 14:29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Amos",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Exodus",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 34,
+    "ot_refs": 26,
+    "nt_refs": 8,
+    "books_count": 18,
+    "top_books": [
+      "Genesis",
+      "Psalms",
+      "Isaiah",
+      "Ecclesiastes",
+      "Matthew",
+      "Deuteronomy",
+      "Acts",
+      "Exodus",
+      "Numbers",
+      "Micah"
+    ]
+  }
+}

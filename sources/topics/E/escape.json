@@ -1,0 +1,186 @@
+{
+  "topic": "ESCAPE",
+  "slug": "escape",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JUDGMENTS, NO ESCAPE FROM",
+    "SIN, FRUITS OF",
+    "SIN, PUNISHMENT OF"
+  ],
+  "aspects": [
+    {
+      "label": "NONE, FROM THE",
+      "references": [
+        "Genesis 3:7-11",
+        "Genesis 4:9-11",
+        "Job 34:21,22",
+        "Isaiah 10:3",
+        "Matthew 23:33",
+        "Romans 2:3",
+        "1 Thessalonians 5:2,3",
+        "Hebrews 2:2,3",
+        "Hebrews 12:25,26",
+        "Revelation 6:15-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSIN, FRUITS OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSIN, PUNISHMENT OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 3:7-11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 4:9-11"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 34:21,22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:33"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 2:3"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:2,3"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 2,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 2:2,3"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 12:25,26"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Revelation 6:15-17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Thessalonians",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Job",
+    "Matthew",
+    "Revelation",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 10,
+    "ot_refs": 4,
+    "nt_refs": 6,
+    "books_count": 8,
+    "top_books": [
+      "Genesis",
+      "Hebrews",
+      "Job",
+      "Isaiah",
+      "Matthew",
+      "Romans",
+      "1 Thessalonians",
+      "Revelation"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "topic": "CANKERWORM",
+  "slug": "cankerworm",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Sent as a",
+      "references": [
+        "Joel 1:4",
+        "Joel 2:25",
+        "Nahum 3:15,16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joel",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 1:4"
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 2:25"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nahum 3:15,16"
+    }
+  ],
+  "books_mentioned": [
+    "Joel",
+    "Nahum"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Joel",
+      "Nahum"
+    ]
+  }
+}

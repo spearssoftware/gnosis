@@ -1,0 +1,98 @@
+{
+  "topic": "MICAIAH",
+  "slug": "micaiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A prophet who reproved King Ahab",
+      "references": [
+        "1 Kings 22:8-28",
+        "2 Chronicles 18:4-27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 21,
+      "testament": "OT",
+      "raw": "1 Kings 22:8-28"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 18,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 24,
+      "testament": "OT",
+      "raw": "2 Chronicles 18:4-27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "2 Chronicles"
+    ]
+  }
+}

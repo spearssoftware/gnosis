@@ -1,0 +1,127 @@
+{
+  "topic": "JOBAB",
+  "slug": "jobab",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:29",
+        "1 Chronicles 1:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A king of Edom",
+      "references": [
+        "Genesis 36:33,34",
+        "1 Chronicles 1:44,45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A king of Madon",
+      "references": [
+        "Joshua 11:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Name of two Benjamites of whom little is known1Ch",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 8:9,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:23"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        33,
+        34
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 36:33,34"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        44,
+        45
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:44,45"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 11:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        9,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 8:9,18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Joshua"
+    ]
+  }
+}

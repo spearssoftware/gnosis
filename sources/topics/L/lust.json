@@ -1,0 +1,357 @@
+{
+  "topic": "LUST",
+  "slug": "lust",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADULTERY",
+    "COVETOUSNESS",
+    "INCEST",
+    "LASCIVIOUSNESS",
+    "SENSUALITY",
+    "SODOMY"
+  ],
+  "aspects": [
+    {
+      "label": "Evil",
+      "references": [
+        "Genesis 3:6",
+        "Exodus 20:17",
+        "Job 31:9-12",
+        "Psalms 81:12",
+        "Proverbs 6:24,25",
+        "Matthew 5:28",
+        "Mark 4:19",
+        "John 8:44",
+        "1 Corinthians 9:27",
+        "1 Corinthians 10:6,7",
+        "Ephesians 4:22",
+        "1 Timothy 6:9",
+        "2 Timothy 2:22",
+        "2 Timothy 4:3,4",
+        "Titus 2:12",
+        "James 1:14,15",
+        "James 4:1-3",
+        "1 Peter 2:11",
+        "1 Peter 4:3",
+        "2 Peter 2:18",
+        "2 Peter 3:3",
+        "Job 2:16,17",
+        "Deuteronomy 1:16,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeADULTERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOVETOUSNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINCEST",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLASCIVIOUSNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSENSUALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 20:17"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Job 31:9-12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 81,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 81:12"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 6:24,25"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:28"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 4:19"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 8:44"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:27"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 10:6,7"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:22"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 6:9"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 2:22"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Timothy 4:3,4"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 2:12"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "James 1:14,15"
+    },
+    {
+      "book": "James",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "James 4:1-3"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:11"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 4:3"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 2:18"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 3:3"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 2:16,17"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        16,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:16,18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Peter",
+    "1 Timothy",
+    "2 Peter",
+    "2 Timothy",
+    "Deuteronomy",
+    "Ephesians",
+    "Exodus",
+    "Genesis",
+    "James",
+    "Job",
+    "John",
+    "Mark",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 23,
+    "ot_refs": 7,
+    "nt_refs": 16,
+    "books_count": 17,
+    "top_books": [
+      "Job",
+      "1 Corinthians",
+      "2 Timothy",
+      "James",
+      "1 Peter",
+      "2 Peter",
+      "Genesis",
+      "Exodus",
+      "Psalms",
+      "Proverbs"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "topic": "TORMENTS",
+  "slug": "torments",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WICKED, PUNISMENT OF"
+  ],
+  "aspects": [
+    {
+      "label": "Of the wicked",
+      "references": [
+        "Luke 16:23-28",
+        "Revelation 14:10,11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWICKED, PUNISMENT OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Luke 16:23-28"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 14:10,11"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Luke",
+      "Revelation"
+    ]
+  }
+}

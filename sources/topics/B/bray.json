@@ -1,0 +1,42 @@
+{
+  "topic": "BRAY",
+  "slug": "bray",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "To pound",
+      "references": [
+        "Proverbs 27:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:22"
+    }
+  ],
+  "books_mentioned": [
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Proverbs"
+    ]
+  }
+}

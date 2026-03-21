@@ -1,0 +1,55 @@
+{
+  "topic": "BIER",
+  "slug": "bier",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A coffin)",
+      "references": [
+        "2 Samuel 3:31",
+        "Luke 7:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:31"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:14"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "2 Samuel",
+      "Luke"
+    ]
+  }
+}

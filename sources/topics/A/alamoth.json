@@ -1,0 +1,54 @@
+{
+  "topic": "ALAMOTH",
+  "slug": "alamoth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC"
+  ],
+  "aspects": [
+    {
+      "label": "A musi",
+      "references": [
+        "1 Chronicles 15:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Inscription toPs 46",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSIC",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:20"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Chronicles"
+    ]
+  }
+}

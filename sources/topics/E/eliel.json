@@ -1,0 +1,140 @@
+{
+  "topic": "ELIEL",
+  "slug": "eliel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A chief of Manasseh",
+      "references": [
+        "1 Chronicles 5:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 6:34"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Two Benjamite chiefs",
+      "references": [
+        "1 Chronicles 8:20,22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Three of David’s heroes, bearing the same name1Ch",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Chief of Levites",
+      "references": [
+        "1 Chronicles 15:9,11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A Levite, who had charge of the temple",
+      "references": [
+        "2 Chronicles 31:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:34"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        20,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:20,22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        46,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:46,47"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        9,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:9,11"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

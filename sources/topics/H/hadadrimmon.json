@@ -1,0 +1,42 @@
+{
+  "topic": "HADADRIMMON",
+  "slug": "hadadrimmon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A place in the valley of Megiddon",
+      "references": [
+        "Ecclesiastes 12:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:11"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ecclesiastes"
+    ]
+  }
+}

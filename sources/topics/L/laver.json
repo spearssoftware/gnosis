@@ -1,0 +1,247 @@
+{
+  "topic": "LAVER",
+  "slug": "laver",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Directions for making",
+      "references": [
+        "Exodus 30:18-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Situation of, in the tabernacle, tent of the congregation, and",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "the altar",
+      "references": [
+        "Exodus 40:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sanctifie",
+      "references": [
+        "Exodus 30:28",
+        "Exodus 40:11",
+        "Leviticus 8:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for washing",
+      "references": [
+        "Exodus 40:30-32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Brazen (bronze), ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "7",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Altered by Ahaz",
+      "references": [
+        "2 Kings 16:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Broken and",
+      "references": [
+        "2 Kings 25:13,16",
+        "Jeremiah 52:17,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Revelation 4:6",
+        "Revelation 15:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In connection with",
+      "references": [
+        "Exodus 38:8",
+        "1 Kings 7:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        18,
+        19,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 30:18-20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 40:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:28"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 40:11"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 8:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        30,
+        31,
+        32
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 40:30-32"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 16:17"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        13,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 25:13,16"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 52,
+      "verses": [
+        17,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 52:17,20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 4:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 15:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:8"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:23"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "Exodus",
+    "Jeremiah",
+    "Leviticus",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 13,
+    "ot_refs": 11,
+    "nt_refs": 2,
+    "books_count": 6,
+    "top_books": [
+      "Exodus",
+      "2 Kings",
+      "Revelation",
+      "Leviticus",
+      "Jeremiah",
+      "1 Kings"
+    ]
+  }
+}

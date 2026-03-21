@@ -1,0 +1,61 @@
+{
+  "topic": "PESTILENCE",
+  "slug": "pestilence",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EGYPT",
+    "PLAGUES"
+  ],
+  "aspects": [
+    {
+      "label": "Sent as a",
+      "references": [
+        "Leviticus 26:16,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sent upon the Egyptians",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeEGYPT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePLAGUES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        16,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 26:16,25"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

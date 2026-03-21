@@ -1,0 +1,50 @@
+{
+  "topic": "LYSIAS",
+  "slug": "lysias",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CLAUDIUS LYSIAS"
+  ],
+  "aspects": [
+    {
+      "label": "Chief",
+      "references": [
+        "Acts 24:7,22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCLAUDIUS LYSIAS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        7,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 24:7,22"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

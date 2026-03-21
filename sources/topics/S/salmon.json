@@ -1,0 +1,54 @@
+{
+  "topic": "SALMON",
+  "slug": "salmon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SALMA"
+  ],
+  "aspects": [
+    {
+      "label": "1. A hill",
+      "references": [
+        "Psalms 68:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SALMON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSALMA,",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:14"
+    }
+  ],
+  "books_mentioned": [
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Psalms"
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "topic": "HEROD",
+  "slug": "herod",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. King of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Tetrarch of Galilee (Herod Antipas)",
+      "references": [
+        "Luke 3:1",
+        "Luke 23:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Incest of",
+      "references": [
+        "Matthew 14:3,4",
+        "Mark 6:17-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Beheads",
+      "references": [
+        "Mark 6:16-28",
+        "Matthew 14:3-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Luke 9:7,9",
+        "Luke 23:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Tyranny of",
+      "references": [
+        "Luke 13:31,32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus tried by",
+      "references": [
+        "Luke 23:6-12,15",
+        "Acts 4:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "Acts 12:1-23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 14:3,4"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        17,
+        18,
+        19
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Mark 6:17-19"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Mark 6:16-28"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Matthew 14:3-11"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        7,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 9:7,9"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:8"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 13:31,32"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        15
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 23:6-12,15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 23,
+      "testament": "NT",
+      "raw": "Acts 12:1-23"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 12,
+    "ot_refs": 0,
+    "nt_refs": 12,
+    "books_count": 4,
+    "top_books": [
+      "Luke",
+      "Matthew",
+      "Mark",
+      "Acts"
+    ]
+  }
+}

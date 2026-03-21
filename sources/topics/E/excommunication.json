@@ -1,0 +1,33 @@
+{
+  "topic": "EXCOMMUNICATION",
+  "slug": "excommunication",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHURCH, GOVERNMENT OF",
+    "CHURCH, RULES OF DISCIPLINE IN"
+  ],
+  "aspects": [
+    {
+      "label": "SeeCHURCH, GOVERNMENT OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHURCH, RULES OF DISCIPLINE IN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

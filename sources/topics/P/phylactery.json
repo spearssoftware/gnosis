@@ -1,0 +1,96 @@
+{
+  "topic": "PHYLACTERY",
+  "slug": "phylactery",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A small box containing slips of parchment on which there were",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "written portions of the law",
+      "references": [
+        "Exodus 13:9,16",
+        "Deuteronomy 6:4-9",
+        "Deuteronomy 11:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worn ostentatiously by the Jews upon the head and left arm",
+      "references": [
+        "Matthew 23:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 13,
+      "verses": [
+        9,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 13:9,16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Deuteronomy 6:4-9"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:18"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:5"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 3,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Deuteronomy",
+      "Exodus",
+      "Matthew"
+    ]
+  }
+}

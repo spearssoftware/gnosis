@@ -1,0 +1,61 @@
+{
+  "topic": "KOLAIAH",
+  "slug": "kolaiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Benjamite and ancestor of Sal",
+      "references": [
+        "Nehemiah 11:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of the false prophet Ahab",
+      "references": [
+        "Jeremiah 29:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 29:21"
+    }
+  ],
+  "books_mentioned": [
+    "Jeremiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Jeremiah"
+    ]
+  }
+}

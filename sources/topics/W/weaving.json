@@ -1,0 +1,200 @@
+{
+  "topic": "WEAVING",
+  "slug": "weaving",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Isaiah 19:9",
+        "Isaiah 38:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bezaleel skilled in",
+      "references": [
+        "Exodus 35:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Performed by women",
+      "references": [
+        "2 Kings 23:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the epho",
+      "references": [
+        "Exodus 28:32",
+        "Exodus 39:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of coats",
+      "references": [
+        "Exodus 39:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Weaver’ s shuttle",
+      "references": [
+        "Job 7:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Beam",
+      "references": [
+        "Judges 16:14",
+        "2 Samuel 21:19",
+        "1 Chronicles 11:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 19,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 19:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 38,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 38:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 35,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 35:35"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:32"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:27"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 7:6"
+    },
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:23"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Exodus",
+    "Isaiah",
+    "Job",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "Exodus",
+      "Isaiah",
+      "2 Kings",
+      "Job",
+      "Judges",
+      "2 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

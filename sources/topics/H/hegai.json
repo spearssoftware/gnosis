@@ -1,0 +1,44 @@
+{
+  "topic": "HEGAI",
+  "slug": "hegai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Chamberlain of Ahasuerus",
+      "references": [
+        "Esther 2:3,8,15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        3,
+        8,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Esther 2:3,8,15"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "topic": "SHOES",
+  "slug": "shoes",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Early use of",
+      "references": [
+        "Genesis 14:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called sandals",
+      "references": [
+        "Mark 6:9",
+        "Acts 12:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Soles of, sometimes plated with brass or iron",
+      "references": [
+        "Deuteronomy 33:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bound round the feet with latchets or strings",
+      "references": [
+        "John 1:27",
+        "Acts 12:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of ladies of distinction: Often made of badgers’ skins",
+      "references": [
+        "Ezekiel 16:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of ladies of distinction: Often highly ornamental",
+      "references": [
+        "Song of Solomon 7:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of ladies of distinction: Probably often adorned with tinkling ornaments",
+      "references": [
+        "Isaiah 3:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Loosing of, for another a degrading office",
+      "references": [
+        "Mark 1:17",
+        "John 1:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bearing, for another a degrading office, only performed by slaves",
+      "references": [
+        "Matthew 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Put on, before beginning a journey",
+      "references": [
+        "Exodus 12:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Never wore, in mourning",
+      "references": [
+        "2 Samuel 15:30",
+        "Isaiah 20:2,3",
+        "Ezekiel 24:17,23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Put off, when they entered sacred places",
+      "references": [
+        "Exodus 3:5",
+        "Joshua 5:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Worn out by a long journey",
+      "references": [
+        "Joshua 9:5,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of Israel preserved for forty years, while journeying in the wilderness",
+      "references": [
+        "Deuteronomy 29:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often given as bribes",
+      "references": [
+        "Amos 2:6",
+        "Amos 8:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Customs connected with: A man who refused to marry a deceased brother’s wife disgraced by pulling off his shoes",
+      "references": [
+        "Deuteronomy 25:9,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Customs connected with: The right of redemption resigned by a man’s giving one of his shoes to the next of kin",
+      "references": [
+        "Ruth 4:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Apostles prohibited from taking for their journey more, than the pair they had on",
+      "references": [
+        "Matthew 10:10",
+        "Mark 6:9",
+        "Luke 10:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the preparation of the gospel",
+      "references": [
+        "Ephesians 6:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the beauty conferred on saints",
+      "references": [
+        "Song of Solomon 7:1",
+        "Luke 15:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Having blood on,) of being engaged in war and slaughter",
+      "references": [
+        "1 Kings 2:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Taken off,) of an ignominious and servile condition",
+      "references": [
+        "Isaiah 47:2",
+        "Jeremiah 2:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Thrown over a place,) of subjection",
+      "references": [
+        "Psalms 60:8",
+        "Psalms 108:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:23"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 6:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 12:8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:25"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:27"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:10"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 7:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:18"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 1:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 3:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:11"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 15:30"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 20,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 20:2,3"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 24,
+      "verses": [
+        17,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 24:17,23"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 3:5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:15"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        5,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 9:5,13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 29,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 29:5"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:6"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 8:6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:9,10"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 4:7,8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:4"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:15"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:22"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 2:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 47,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 47:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:25"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 60,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 60:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 108,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 108:9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Deuteronomy",
+    "Ephesians",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Joshua",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Psalms",
+    "Ruth",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 23,
+    "total_refs": 31,
+    "ot_refs": 22,
+    "nt_refs": 9,
+    "books_count": 19,
+    "top_books": [
+      "Deuteronomy",
+      "Isaiah",
+      "Mark",
+      "Ezekiel",
+      "Matthew",
+      "Exodus",
+      "Joshua",
+      "Amos",
+      "Luke",
+      "Psalms"
+    ]
+  }
+}

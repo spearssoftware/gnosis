@@ -1,0 +1,74 @@
+{
+  "topic": "DEMAS",
+  "slug": "demas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A companion of Paul",
+      "references": [
+        "Colossians 4:14",
+        "Philemon 1:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Timothy 4:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:14"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philemon 1:24"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:10"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Colossians",
+    "Philemon"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Colossians",
+      "Philemon",
+      "2 Timothy"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "topic": "MICHMASH",
+  "slug": "michmash",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of the tribe of Benjamin",
+      "references": [
+        "1 Samuel 13:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "People of the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2:27;",
+      "references": [
+        "Nehemiah 11:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophesy concerning the king of Assyria storing his baggage at",
+      "references": [
+        "Isaiah 10:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is garri",
+      "references": [
+        "1 Samuel 13:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Philistines killed at, by Jonathan",
+      "references": [
+        "1 Samuel 14:31"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 13:5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 2:27"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:28"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 13:2"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:31"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Isaiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Samuel",
+      "Nehemiah",
+      "Isaiah"
+    ]
+  }
+}

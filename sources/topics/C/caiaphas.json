@@ -1,0 +1,167 @@
+{
+  "topic": "CAIAPHAS",
+  "slug": "caiaphas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "High priest",
+      "references": [
+        "Luke 3:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "John 18:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophesies concerning Jesus",
+      "references": [
+        "John 11:49-51",
+        "John 18:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus tried before",
+      "references": [
+        "Matthew 26:2,3,57,63-65",
+        "John 18:24,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Peter and other disciples accused before",
+      "references": [
+        "Acts 4:1-22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:2"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 18:13"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        49,
+        50,
+        51
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 11:49-51"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 18:14"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        2,
+        3,
+        57,
+        63,
+        64,
+        65
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Matthew 26:2,3,57,63-65"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        24,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 18:24,28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 22,
+      "testament": "NT",
+      "raw": "Acts 4:1-22"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "John",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 0,
+    "nt_refs": 7,
+    "books_count": 4,
+    "top_books": [
+      "John",
+      "Luke",
+      "Matthew",
+      "Acts"
+    ]
+  }
+}

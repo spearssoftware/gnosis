@@ -1,0 +1,108 @@
+{
+  "topic": "GAIUS",
+  "slug": "gaius",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Macedonian, and a companion of Paul",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Seized at Ephesus",
+      "references": [
+        "Acts 19:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A man of",
+      "references": [
+        "Acts 20:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Corinthian, whom Paul baptized",
+      "references": [
+        "Romans 16:23",
+        "1 Corinthians 1:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Man to whom",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "John 1:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:29"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:23"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "Romans",
+      "1 Corinthians"
+    ]
+  }
+}

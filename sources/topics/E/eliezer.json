@@ -1,0 +1,234 @@
+{
+  "topic": "ELIEZER",
+  "slug": "eliezer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Abraham’s servant",
+      "references": [
+        "Genesis 15:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 7:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "Exodus 18:4",
+        "1 Chronicles 23:15,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A priest",
+      "references": [
+        "1 Chronicles 15:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5.",
+      "references": [
+        "1 Chronicles 27:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A prophet",
+      "references": [
+        "2 Chronicles 20:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7.",
+      "references": [
+        "Luke 3:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "8. A Jewish exile",
+      "references": [
+        "Ezra 8:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "9. A priest after the exile",
+      "references": [
+        "Ezra 10:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "10. A Levite",
+      "references": [
+        "Ezra 10:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "11. An Israelite after the exile",
+      "references": [
+        "Ezra 10:31"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 18,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 18:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        15,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:15,17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 20:37"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:29"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:16"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:18"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:23"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:31"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Exodus",
+    "Ezra",
+    "Genesis",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 12,
+    "ot_refs": 11,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "1 Chronicles",
+      "Ezra",
+      "Genesis",
+      "Exodus",
+      "2 Chronicles",
+      "Luke"
+    ]
+  }
+}

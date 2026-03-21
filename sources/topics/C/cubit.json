@@ -1,0 +1,124 @@
+{
+  "topic": "CUBIT",
+  "slug": "cubit",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A measure of distance",
+      "references": [
+        "Genesis 6:16",
+        "Deuteronomy 3:11",
+        "Ezekiel 40:5",
+        "Ezekiel 43:13",
+        "Revelation 21:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Who",
+      "references": [
+        "Matthew 6:27",
+        "Luke 12:25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 6,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 6:16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 3:11"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 40,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 40:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 43,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 43:13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:27"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:25"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Ezekiel",
+    "Genesis",
+    "Luke",
+    "Matthew",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 7,
+    "ot_refs": 4,
+    "nt_refs": 3,
+    "books_count": 6,
+    "top_books": [
+      "Ezekiel",
+      "Genesis",
+      "Deuteronomy",
+      "Revelation",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

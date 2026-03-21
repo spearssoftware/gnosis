@@ -15,6 +15,7 @@ from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
 from gnosis.parsers.strongs import parse_strongs
 from gnosis.parsers.theographic import parse_theographic
+from gnosis.parsers.topics import parse_topics
 from gnosis.sqlite_writer import write_sqlite
 from gnosis.validate.checks import print_results, validate
 
@@ -34,7 +35,8 @@ def _parse_all() -> tuple:
     strongs = parse_strongs(SOURCES_DIR)
     dictionary = parse_dictionaries(SOURCES_DIR)
     link_dictionary_entities(dictionary, people, places)
-    return people, places, events, groups, match_log, cross_refs, strongs, dictionary
+    topics = parse_topics(SOURCES_DIR)
+    return people, places, events, groups, match_log, cross_refs, strongs, dictionary, topics
 
 
 def _compact(data: dict) -> dict:
@@ -59,16 +61,16 @@ def cmd_build(strict: bool = False) -> bool:
         task = progress.add_task("Parsing sources...", total=3)
 
         (people, places, events, groups, match_log,
-         cross_refs, strongs, dictionary) = _parse_all()
+         cross_refs, strongs, dictionary, topics) = _parse_all()
         progress.update(task, advance=1, description="Building verse index...")
 
-        verse_index = build_verse_index(people, places, events)
+        verse_index = build_verse_index(people, places, events, topics)
         progress.update(task, advance=1, description="Validating...")
 
         results = validate(
             people, places, events, groups, match_log,
             cross_refs=cross_refs, strongs=strongs,
-            dictionary=dictionary, strict=strict,
+            dictionary=dictionary, topics=topics, strict=strict,
         )
         progress.update(task, advance=1, description="Done ✓")
 
@@ -113,10 +115,14 @@ def cmd_build(strict: bool = False) -> bool:
         {k: _compact(v.model_dump()) for k, v in sorted(dictionary.items())},
         "dictionary.json",
     )
+    _write_output(
+        {k: _compact(v.model_dump()) for k, v in sorted(topics.items())},
+        "topics.json",
+    )
 
     db_path = write_sqlite(
         people, places, events, groups, cross_refs, strongs, dictionary,
-        OUTPUT_DIR,
+        topics, OUTPUT_DIR,
     )
     console.print(f"  Wrote {db_path.name}")
 
@@ -129,11 +135,11 @@ def cmd_validate(strict: bool = False) -> bool:
     console.print("[bold]Gnosis Validation[/bold]\n")
 
     (people, places, events, groups, match_log,
-     cross_refs, strongs, dictionary) = _parse_all()
+     cross_refs, strongs, dictionary, topics) = _parse_all()
     results = validate(
         people, places, events, groups, match_log,
         cross_refs=cross_refs, strongs=strongs,
-        dictionary=dictionary, strict=strict,
+        dictionary=dictionary, topics=topics, strict=strict,
     )
     return print_results(results)
 

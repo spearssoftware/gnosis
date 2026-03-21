@@ -1,0 +1,152 @@
+{
+  "topic": "RING",
+  "slug": "ring",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of gold",
+      "references": [
+        "Numbers 31:50"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worn as a badge of office",
+      "references": [
+        "Genesis 41:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Given as a token",
+      "references": [
+        "Esther 3:10,12",
+        "Esther 8:2-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worn in the nose",
+      "references": [
+        "Proverbs 11:22",
+        "Isaiah 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offerings of, to the tabernacle",
+      "references": [
+        "Exodus 35:22",
+        "Numbers 31:50"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 31:50"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:42"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        10,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 3:10,12"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Esther 8:2-10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:21"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 35,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 35:22"
+    }
+  ],
+  "books_mentioned": [
+    "Esther",
+    "Exodus",
+    "Genesis",
+    "Isaiah",
+    "Numbers",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Esther",
+      "Numbers",
+      "Genesis",
+      "Proverbs",
+      "Isaiah",
+      "Exodus"
+    ]
+  }
+}

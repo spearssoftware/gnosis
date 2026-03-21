@@ -1,0 +1,76 @@
+{
+  "topic": "GABA",
+  "slug": "gaba",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A city of",
+      "references": [
+        "Joshua 18:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2:26;",
+      "references": [
+        "Nehemiah 7:30"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 18:24"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 2,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 2:26"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:30"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Joshua",
+      "Nehemiah"
+    ]
+  }
+}

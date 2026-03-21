@@ -1,0 +1,204 @@
+{
+  "topic": "PENTECOST",
+  "slug": "pentecost",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FEASTS"
+  ],
+  "aspects": [
+    {
+      "label": ".FEAST OF WEEKS",
+      "references": [
+        "Exodus 34:22",
+        "Deuteronomy 16:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".FEAST OF HARVEST",
+      "references": [
+        "Exodus 23:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".DAY OF FIRST FRUITS",
+      "references": [
+        "Numbers 28:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".DAY OF PENTECOST",
+      "references": [
+        "Acts 2:1",
+        "Acts 20:16",
+        "1 Corinthians 16:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Institution of",
+      "references": [
+        "Exodus 23:16",
+        "Exodus 34:22",
+        "Leviticus 23:15-21",
+        "Numbers 28:26-31",
+        "Deuteronomy 16:9-12,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Holy Spirit given to the apostles on the first day ofAc 2",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFEASTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:22"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 16:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:16"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 28:26"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:16"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:8"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Leviticus 23:15-21"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 28:26-31"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 16,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        16
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Deuteronomy 16:9-12,16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 10,
+    "ot_refs": 7,
+    "nt_refs": 3,
+    "books_count": 6,
+    "top_books": [
+      "Exodus",
+      "Deuteronomy",
+      "Numbers",
+      "Acts",
+      "1 Corinthians",
+      "Leviticus"
+    ]
+  }
+}

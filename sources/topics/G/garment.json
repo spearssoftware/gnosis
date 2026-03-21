@@ -1,0 +1,127 @@
+{
+  "topic": "GARMENT",
+  "slug": "garment",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DRESS",
+    "ROBE"
+  ],
+  "aspects": [
+    {
+      "label": "Of righteousness",
+      "references": [
+        "Isaiah 61:10",
+        "Matthew 22:11",
+        "2 Corinthians 5:3",
+        "Revelation 3:18",
+        "Revelation 7:14",
+        "Revelation 16:15",
+        "Revelation 19:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeROBE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 61,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 61:10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 22:11"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 5:3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 3:18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 7:14"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 16:15"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 19:8"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Isaiah",
+    "Matthew",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 1,
+    "nt_refs": 6,
+    "books_count": 4,
+    "top_books": [
+      "Revelation",
+      "Isaiah",
+      "Matthew",
+      "2 Corinthians"
+    ]
+  }
+}

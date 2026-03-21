@@ -11,6 +11,7 @@ from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
 from gnosis.types.strongs import StrongsEntry
+from gnosis.types.topic import Topic
 
 OSIS_PATTERN = re.compile(
     r"^[A-Z1-9][A-Za-z]+\.\d{1,3}\.\d{1,3}(-\d{1,3})?$"
@@ -34,6 +35,7 @@ def validate(
     cross_refs: dict[str, CrossReferenceEntry] | None = None,
     strongs: dict[str, StrongsEntry] | None = None,
     dictionary: dict[str, DictionaryEntry] | None = None,
+    topics: dict[str, Topic] | None = None,
     strict: bool = False,
 ) -> list[ValidationResult]:
     """Run all validation checks. Returns list of results."""
@@ -64,10 +66,15 @@ def validate(
     if dictionary is not None:
         results.append(_check_dictionary(dictionary))
 
-    # 8. Basic entity counts
+    # 8. Topics validation
+    if topics is not None:
+        results.append(_check_topics(topics))
+
+    # 9. Basic entity counts
     xref_count = sum(len(e.targets) for e in cross_refs.values()) if cross_refs else 0
     strongs_count = len(strongs) if strongs else 0
     dict_count = len(dictionary) if dictionary else 0
+    topics_count = len(topics) if topics else 0
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
@@ -75,7 +82,7 @@ def validate(
             f"{len(people)} people, {len(places)} places, "
             f"{len(events)} events, {len(groups)} groups, "
             f"{xref_count} cross-refs, {strongs_count} strongs, "
-            f"{dict_count} dictionary"
+            f"{dict_count} dictionary, {topics_count} topics"
         ),
     ))
 
@@ -355,4 +362,41 @@ def _check_dictionary(
         name="Dictionary",
         status="pass",
         message=f"{len(dictionary)} entries ({sources_str})",
+    )
+
+
+def _check_topics(topics: dict[str, Topic]) -> ValidationResult:
+    dangling_see_also: list[str] = []
+    source_counts: dict[str, int] = {}
+    total_aspects = 0
+
+    topic_slugs = set(topics.keys())
+    for slug, topic in topics.items():
+        for src in topic.sources:
+            source_counts[src] = source_counts.get(src, 0) + 1
+        total_aspects += len(topic.aspects)
+        for sa in topic.see_also:
+            if sa not in topic_slugs:
+                dangling_see_also.append(f"{slug} -> {sa}")
+
+    sources_str = ", ".join(
+        f"{k}:{v}" for k, v in sorted(source_counts.items())
+    )
+
+    if dangling_see_also:
+        return ValidationResult(
+            name="Topics",
+            status="warn",
+            message=(
+                f"{len(dangling_see_also)} dangling see_also "
+                f"in {len(topics)} topics"
+            ),
+            details=dangling_see_also[:5],
+        )
+    return ValidationResult(
+        name="Topics",
+        status="pass",
+        message=(
+            f"{len(topics)} topics, {total_aspects} aspects ({sources_str})"
+        ),
     )

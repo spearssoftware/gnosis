@@ -1,0 +1,43 @@
+{
+  "topic": "TEKEL",
+  "slug": "tekel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Daniel 5:25,27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        25,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 5:25,27"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Daniel"
+    ]
+  }
+}

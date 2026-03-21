@@ -1,0 +1,147 @@
+{
+  "topic": "CYPRUS",
+  "slug": "cyprus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An island",
+      "references": [
+        "Acts 21:3",
+        "Acts 27:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Barnabas born in",
+      "references": [
+        "Acts 4:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Preaching the gospel at",
+      "references": [
+        "Acts 11:19,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Visited by Barnabas and Saul",
+      "references": [
+        "Acts 13:4-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Barnabas and Mark visit",
+      "references": [
+        "Acts 15:39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mna",
+      "references": [
+        "Acts 21:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:36"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 11:19,20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Acts 13:4-12"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:39"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:16"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 0,
+    "nt_refs": 7,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "topic": "BETHANY",
+  "slug": "bethany",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A village on the eastem slope of the Mount of Olives",
+      "references": [
+        "John 11:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mary, Martha, and Lazarus dwell at",
+      "references": [
+        "Luke 10:38-41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Lazarus dies and is raised to life at",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus attends a feast in",
+      "references": [
+        "Matthew 26:6-13",
+        "John 12:1-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The colt of a donkey upon which Jesus ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "into",
+      "references": [
+        "Mark 11:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus",
+      "references": [
+        "Matthew 21:17",
+        "Mark 11:11,12,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 10:38-41"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Matthew 26:6-13"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "John 12:1-9"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Mark 11:1-11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:17"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "verses": [
+        11,
+        12,
+        19
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Mark 11:11,12,19"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 7,
+    "ot_refs": 0,
+    "nt_refs": 7,
+    "books_count": 4,
+    "top_books": [
+      "John",
+      "Matthew",
+      "Mark",
+      "Luke"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "topic": "WHALE",
+  "slug": "whale",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DRAGON"
+  ],
+  "aspects": [
+    {
+      "label": "Created",
+      "references": [
+        "Genesis 1:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Job 7:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRAGON",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 1:21"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 7:12"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Job"
+    ]
+  }
+}

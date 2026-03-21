@@ -1,0 +1,54 @@
+{
+  "topic": "PIRAM",
+  "slug": "piram",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A king of the Amorites)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Overcome and killed by Joshua",
+      "references": [
+        "Joshua 10:3,16-18,24-27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        3,
+        16,
+        17,
+        18,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Joshua 10:3,16-18,24-27"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

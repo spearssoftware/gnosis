@@ -1,0 +1,350 @@
+{
+  "topic": "SAMSON",
+  "slug": "samson",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Judges 16:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A Danite,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "his mother’ s womb; the mother forbid",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "any ceremonially unclean thing during gestation",
+      "references": [
+        "Judges 13:2-7,24,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 14:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His marriage feast and the riddle propoun",
+      "references": [
+        "Judges 14:8-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Kills thirty Philistines",
+      "references": [
+        "Judges 14:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Wife of, estranged",
+      "references": [
+        "Judges 14:20",
+        "Judges 15:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is avenged for the estrangement of his wife",
+      "references": [
+        "Judges 15:3-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His great strength",
+      "references": [
+        "Judges 15:7-14",
+        "Hebrews 11:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Kills one-thousand Philistines with the jawbone of a donkey",
+      "references": [
+        "Judges 15:13-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Miraculously supplied with water",
+      "references": [
+        "Judges 15:18,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Cohabits with",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Philistines to overcome him",
+      "references": [
+        "Judges 16:1-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is blin",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "pulls down the pillars of the temple, meets his",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "his enemies",
+      "references": [
+        "Judges 16:21-31",
+        "Hebrews 11:32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:31"
+    },
+    {
+      "book": "Judges",
+      "chapter": 13,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        24,
+        25
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Judges 13:2-7,24,25"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Judges 14:1-7"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Judges 14:8-19"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 14:19"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 14:20"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 15:1,2"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Judges 15:3-8"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Judges 15:7-14"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:32"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Judges 15:13-17"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 15:18,19"
+    },
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 20,
+      "testament": "OT",
+      "raw": "Judges 16:1-20"
+    },
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Judges 16:21-31"
+    }
+  ],
+  "books_mentioned": [
+    "Hebrews",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 17,
+    "total_refs": 14,
+    "ot_refs": 13,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "Hebrews"
+    ]
+  }
+}

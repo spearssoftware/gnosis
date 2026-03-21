@@ -1,0 +1,106 @@
+{
+  "topic": "ALPHA",
+  "slug": "alpha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A title of Christ",
+      "references": [
+        "Revelation 1:8,11",
+        "Revelation 21:6",
+        "Revelation 22:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Compare",
+      "references": [
+        "Isaiah 41:4",
+        "Isaiah 44:6",
+        "Isaiah 48:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 1:8,11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 41:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 44:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 48,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 48:12"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 6,
+    "ot_refs": 3,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Revelation",
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "topic": "APPEAL",
+  "slug": "appeal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHANGE, OF VENUE",
+    "COURTS, INFERIOR",
+    "COURTS, SUPERIOR"
+  ],
+  "aspects": [
+    {
+      "label": "Paul makes, to",
+      "references": [
+        "Acts 25:10,11,21-27",
+        "Acts 26:32",
+        "Acts 28:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHANGE, OF VE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOURTS, SUPERIOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOURTS, INFERIOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "verses": [
+        10,
+        11,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Acts 25:10,11,21-27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:32"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:19"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

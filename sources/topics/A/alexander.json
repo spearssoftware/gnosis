@@ -1,0 +1,115 @@
+{
+  "topic": "ALEXANDER",
+  "slug": "alexander",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Mark 15:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A relative of the high priest, present at the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "and",
+      "references": [
+        "Acts 4:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Jew of Ephesus",
+      "references": [
+        "Acts 19:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A copper-smith",
+      "references": [
+        "1 Timothy 1:20",
+        "2 Timothy 4:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:21"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:33"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 1:20"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Timothy",
+    "2 Timothy",
+    "Acts",
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 4,
+    "top_books": [
+      "Acts",
+      "Mark",
+      "1 Timothy",
+      "2 Timothy"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "topic": "CORMORANT",
+  "slug": "cormorant",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A bird forbid",
+      "references": [
+        "Leviticus 11:17",
+        "Deuteronomy 14:17",
+        "Isaiah 34:11",
+        "Zephaniah 2:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:17"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 34,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 34:11"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 2:14"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Isaiah",
+    "Leviticus",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Leviticus",
+      "Deuteronomy",
+      "Isaiah",
+      "Zephaniah"
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "topic": "BOTTLES",
+  "slug": "bottles",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "First mention of, in Scripture",
+      "references": [
+        "Genesis 21:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ancients often drank from",
+      "references": [
+        "Habakkuk 2:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for holding: Water",
+      "references": [
+        "Genesis 21:14,15,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for holding: Milk",
+      "references": [
+        "Judges 4:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for holding: Wine",
+      "references": [
+        "1 Samuel 1:24",
+        "1 Samuel 16:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Some, made of earthenware",
+      "references": [
+        "Jeremiah 19:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of skins: Shrivelled and dried by smoke",
+      "references": [
+        "Psalms 119:83"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of skins: Marred by age and use",
+      "references": [
+        "Joshua 9:14,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of skins: When old, unfit for holding new wine",
+      "references": [
+        "Matthew 9:17",
+        "Mark 2:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of skins: Sometimes probably of large dimensions",
+      "references": [
+        "1 Samuel 25:18",
+        "2 Samuel 16:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the clouds",
+      "references": [
+        "Job 38:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of God’s remembrance",
+      "references": [
+        "Psalms 56:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of sinners ripe for judgment",
+      "references": [
+        "Jeremiah 13:12-14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Dried up,) of the afflicted",
+      "references": [
+        "Psalms 119:83"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Ready to burst,) of the impatient",
+      "references": [
+        "Job 32:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Broken,) of severe judgments",
+      "references": [
+        "Isaiah 30:14",
+        "Jeremiah 19:10",
+        "Jeremiah 48:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:14"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 2:15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        14,
+        15,
+        19
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 21:14,15,19"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:19"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 1:24"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:20"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 19,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 19:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        83
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:83"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 9:14,13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:17"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 2:22"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 25:18"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 16:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:37"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 56,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 56:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 13,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 13:12-14"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 32:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 19,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 19:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Samuel",
+    "Genesis",
+    "Habakkuk",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Judges",
+    "Mark",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 20,
+    "ot_refs": 18,
+    "nt_refs": 2,
+    "books_count": 12,
+    "top_books": [
+      "Jeremiah",
+      "1 Samuel",
+      "Genesis",
+      "Psalms",
+      "Job",
+      "Habakkuk",
+      "Judges",
+      "Joshua",
+      "Matthew",
+      "Mark"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "topic": "MAGICIAN",
+  "slug": "magician",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A per",
+      "references": [
+        "Daniel 1:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Failed to interpret Pharaoh’s dreams",
+      "references": [
+        "Genesis 41:8,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Nebuchadnezzars",
+      "references": [
+        "Daniel 2:2-13",
+        "Daniel 4:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Wrought apparent miracles",
+      "references": [
+        "Exodus 7:11,12,22",
+        "Exodus 8:7,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 1,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 1:20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        8,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 41:8,24"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Daniel 2:2-13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 4:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 7,
+      "verses": [
+        11,
+        12,
+        22
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 7:11,12,22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 8,
+      "verses": [
+        7,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 8:7,18"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Exodus",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Daniel",
+      "Exodus",
+      "Genesis"
+    ]
+  }
+}

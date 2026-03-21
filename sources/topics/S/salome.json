@@ -1,0 +1,117 @@
+{
+  "topic": "SALOME",
+  "slug": "salome",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Mother of James and",
+      "references": [
+        "Matthew 27:56",
+        "Mark 15:40",
+        "Mark 16:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Asks Jesus to promote her",
+      "references": [
+        "Matthew 20:20,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Present at the crucifixion of Jesus of Nazareth",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Present at the gravesite of Jesus",
+      "references": [
+        "Mark 16:1,2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        56
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:56"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:40"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 16:1"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 20:20,21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:40"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 16:1,2"
+    }
+  ],
+  "books_mentioned": [
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Mark"
+    ]
+  }
+}

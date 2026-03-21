@@ -1,0 +1,117 @@
+{
+  "topic": "CHOICE",
+  "slug": "choice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BLESSINGS, CONTINGENT ON OBEDIENCE",
+    "CONTINGENCIES"
+  ],
+  "aspects": [
+    {
+      "label": "Between",
+      "references": [
+        "2 Samuel 24:12",
+        "1 Chronicles 21:11-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "THE SINNER’S",
+      "references": [
+        "Deuteronomy 30:19,20",
+        "Joshua 24:15,18",
+        "1 Kings 18:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCONTINGENCIES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBLESSINGS, CONTINGENT ON OBEDIENCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 24:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 21:11-13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 30,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 30:19,20"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        15,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 24:15,18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Samuel",
+    "Deuteronomy",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles",
+      "Deuteronomy",
+      "Joshua",
+      "1 Kings"
+    ]
+  }
+}

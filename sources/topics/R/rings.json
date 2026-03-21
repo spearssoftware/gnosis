@@ -1,0 +1,338 @@
+{
+  "topic": "RINGS",
+  "slug": "rings",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Antiquity of",
+      "references": [
+        "Genesis 24:22",
+        "Genesis 38:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of gold and set with precious stones",
+      "references": [
+        "Numbers 31:50,51",
+        "Song of Solomon 5:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were worn: On the hands",
+      "references": [
+        "Genesis 41:42"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were worn: On the arms",
+      "references": [
+        "2 Samuel 1:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were worn: In the ears",
+      "references": [
+        "Job 42:11",
+        "Hosea 2:13",
+        "Ezekiel 16:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were worn: In the nose",
+      "references": [
+        "Isaiah 3:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Rich men distinguished by",
+      "references": [
+        "James 2:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Women of rank adorned with",
+      "references": [
+        "Isaiah 3:16,21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of kings: Used for sealing decrees",
+      "references": [
+        "Esther 3:12",
+        "Esther 8:8,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of kings: Given to favourites as a mark of honour",
+      "references": [
+        "Genesis 41:42",
+        "Esther 3:10",
+        "Esther 8:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Numbers of, taken from Midianites",
+      "references": [
+        "Numbers 31:50"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the glory of Christ",
+      "references": [
+        "Song of Solomon 5:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Put on the hands,) of favour",
+      "references": [
+        "Luke 15:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 38,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 38:18"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        50,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 31:50,51"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:42"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 1:10"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 42:11"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:21"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 2:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        16,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 3:16,21"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 3:12"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        8,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 8:8,10"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 3:10"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 8:2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 31:50"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:22"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Esther",
+    "Ezekiel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "James",
+    "Job",
+    "Luke",
+    "Numbers",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 13,
+    "total_refs": 18,
+    "ot_refs": 16,
+    "nt_refs": 2,
+    "books_count": 11,
+    "top_books": [
+      "Esther",
+      "Genesis",
+      "Numbers",
+      "Isaiah",
+      "Song of Solomon",
+      "2 Samuel",
+      "Job",
+      "Hosea",
+      "Ezekiel",
+      "James"
+    ]
+  }
+}

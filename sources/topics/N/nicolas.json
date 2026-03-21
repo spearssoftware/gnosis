@@ -1,0 +1,48 @@
+{
+  "topic": "NICOLAS",
+  "slug": "nicolas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A proselyte of Antioch, and servant (Greek: diakonos) of the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "congregation at",
+      "references": [
+        "Acts 6:5,6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 6:5,6"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

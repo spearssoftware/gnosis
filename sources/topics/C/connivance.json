@@ -1,0 +1,76 @@
+{
+  "topic": "CONNIVANCE",
+  "slug": "connivance",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COLLUSION",
+    "COMPLICITY",
+    "CONSPIRACY"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Proverbs 10:10",
+        "1 Samuel 3:11-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMPLICITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCONSPIRACY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:10"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 3:11-13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Proverbs",
+      "1 Samuel"
+    ]
+  }
+}

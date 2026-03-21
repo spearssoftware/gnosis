@@ -1,0 +1,49 @@
+{
+  "topic": "CUSHAN",
+  "slug": "cushan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ETHIOPIA"
+  ],
+  "aspects": [
+    {
+      "label": "Poetic form of Cush",
+      "references": [
+        "Habakkuk 3:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeETHIOPIA",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:7"
+    }
+  ],
+  "books_mentioned": [
+    "Habakkuk"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Habakkuk"
+    ]
+  }
+}

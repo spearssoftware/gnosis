@@ -1,0 +1,55 @@
+{
+  "topic": "LIBYANS",
+  "slug": "libyans",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The inhabitants of Libya",
+      "references": [
+        "Jeremiah 46:9",
+        "Daniel 11:43"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 46:9"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 11:43"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Daniel"
+    ]
+  }
+}

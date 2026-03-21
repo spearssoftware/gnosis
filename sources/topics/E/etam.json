@@ -1,0 +1,105 @@
+{
+  "topic": "ETAM",
+  "slug": "etam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A village of Simeon",
+      "references": [
+        "1 Chronicles 4:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city in",
+      "references": [
+        "2 Chronicles 11:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A name on the list of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "to",
+      "references": [
+        "1 Chronicles 4:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A rock where Sam",
+      "references": [
+        "Judges 15:8,11-13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:32"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:3"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        8,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Judges 15:8,11-13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles",
+      "Judges"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "topic": "PHILETUS",
+  "slug": "philetus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An hereti",
+      "references": [
+        "2 Timothy 2:17,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Timothy 2:17,18"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "2 Timothy"
+    ]
+  }
+}

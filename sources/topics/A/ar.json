@@ -1,0 +1,92 @@
+{
+  "topic": "AR",
+  "slug": "ar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Moab",
+      "references": [
+        "Numbers 21:15",
+        "Deuteronomy 2:9,18,24,29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Numbers 21:26-30",
+        "Isaiah 15:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        9,
+        18,
+        24,
+        29
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:9,18,24,29"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Numbers 21:26-30"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 15:1"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Isaiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Numbers",
+      "Deuteronomy",
+      "Isaiah"
+    ]
+  }
+}

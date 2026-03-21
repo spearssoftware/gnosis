@@ -1,0 +1,70 @@
+{
+  "topic": "PELEG",
+  "slug": "peleg",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 10:25",
+        "Genesis 11:16-19",
+        "1 Chronicles 1:19,25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 11:16-19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        19,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:19,25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

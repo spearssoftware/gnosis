@@ -1,0 +1,96 @@
+{
+  "topic": "ZILPAH",
+  "slug": "zilpah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Leah’ s handmai",
+      "references": [
+        "Genesis 29:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mother of Gad and Asher by Jacob",
+      "references": [
+        "Genesis 30:9-13",
+        "Genesis 35:26",
+        "Genesis 37:2",
+        "Genesis 46:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 29:24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 30,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 30:9-13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:18"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

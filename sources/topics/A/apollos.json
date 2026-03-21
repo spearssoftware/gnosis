@@ -1,0 +1,120 @@
+{
+  "topic": "APOLLOS",
+  "slug": "apollos",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An eloquent, Christian convert at Corinth",
+      "references": [
+        "Acts 18:24-28",
+        "Acts 19:1",
+        "1 Corinthians 1:12",
+        "1 Corinthians 3:4-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Refuses to return to Rome",
+      "references": [
+        "1 Corinthians 16:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul writes Titus about",
+      "references": [
+        "Titus 3:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Acts 18:24-28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:1"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:12"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:4-7"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:12"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 3,
+    "top_books": [
+      "1 Corinthians",
+      "Acts",
+      "Titus"
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "topic": "ASHER",
+  "slug": "asher",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 30:13",
+        "Genesis 35:26",
+        "Genesis 49:20",
+        "Exodus 1:4",
+        "1 Chronicles 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 46:17",
+        "Numbers 26:44-47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Tribe of: Census of, by families",
+      "references": [
+        "Numbers 1:40,41",
+        "Numbers 26:44-47",
+        "1 Chronicles 7:40",
+        "1 Chronicles 12:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Station of, in",
+      "references": [
+        "Numbers 2:25,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prophecies concerning",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "By Moses",
+      "references": [
+        "Deuteronomy 33:24,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By",
+      "references": [
+        "Revelation 7:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Allotment to, of land in",
+      "references": [
+        "Joshua 19:24-31",
+        "Ezekiel 48:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Upbrai",
+      "references": [
+        "Judges 5:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Summoned by Gi",
+      "references": [
+        "Judges 6:35",
+        "Judges 7:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Join Hezekiah",
+      "references": [
+        "2 Chronicles 30:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city of Shechem",
+      "references": [
+        "Joshua 17:7",
+        "1 Kings 4:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 30,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 30:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 1:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 26:44-47"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        40,
+        41
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 1:40,41"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:40"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:36"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        25,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 2:25,27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:24,25"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 7:6"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Joshua 19:24-31"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 48,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 48:2"
+    },
+    {
+      "book": "Judges",
+      "chapter": 5,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 5:17"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 6:35"
+    },
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 7:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 30,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 30:11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Joshua",
+    "Judges",
+    "Numbers",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 21,
+    "ot_refs": 20,
+    "nt_refs": 1,
+    "books_count": 11,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Numbers",
+      "Judges",
+      "Joshua",
+      "Exodus",
+      "Deuteronomy",
+      "Revelation",
+      "Ezekiel",
+      "2 Chronicles"
+    ]
+  }
+}

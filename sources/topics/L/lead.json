@@ -1,0 +1,152 @@
+{
+  "topic": "LEAD",
+  "slug": "lead",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A mineral",
+      "references": [
+        "Exodus 15:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Purified by fire",
+      "references": [
+        "Numbers 31:22",
+        "Jeremiah 6:29",
+        "Ezekiel 22:18,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in making inscriptions on stone",
+      "references": [
+        "Job 19:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Lead foundry",
+      "references": [
+        "Jeremiah 6:29",
+        "Ezekiel 22:18,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tra",
+      "references": [
+        "Ezekiel 27:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for weighing",
+      "references": [
+        "Ecclesiastes 5:7,8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 15:10"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 31:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:29"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 22,
+      "verses": [
+        18,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 22:18,20"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 19:24"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:12"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:7,8"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Exodus",
+    "Ezekiel",
+    "Jeremiah",
+    "Job",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Ezekiel",
+      "Exodus",
+      "Numbers",
+      "Jeremiah",
+      "Job",
+      "Ecclesiastes"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "topic": "COUNSELLOR",
+  "slug": "counsellor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A wise man, versed in law and diplomacy",
+      "references": [
+        "1 Chronicles 27:32,33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ahithophel was",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".To David",
+      "references": [
+        "1 Chronicles 27:33",
+        "2 Samuel 16:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".To Absalom",
+      "references": [
+        "2 Samuel 16:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Was member of the Sanhedrin at",
+      "references": [
+        "Mark 15:43",
+        "Luke 23:50,51"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A title of Christ",
+      "references": [
+        "Isaiah 9:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:32,33"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:33"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 16:23"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:43"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        50,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 23:50,51"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 9:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Samuel",
+    "Isaiah",
+    "Luke",
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 4,
+    "nt_refs": 2,
+    "books_count": 5,
+    "top_books": [
+      "1 Chronicles",
+      "2 Samuel",
+      "Mark",
+      "Luke",
+      "Isaiah"
+    ]
+  }
+}

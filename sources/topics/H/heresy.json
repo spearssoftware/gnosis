@@ -1,0 +1,215 @@
+{
+  "topic": "HERESY",
+  "slug": "heresy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TEACHERS, FALSE"
+  ],
+  "aspects": [
+    {
+      "label": "The propagation of, forbid",
+      "references": [
+        "Titus 3:10,11",
+        "Job 1:10,11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Teachers of, among early Christians",
+      "references": [
+        "Acts 15:24",
+        "2 Corinthians 11:4",
+        "Galatians 1:7",
+        "Galatians 2:4",
+        "Deuteronomy 1:3-16",
+        "Revelation 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul and Silas accused of",
+      "references": [
+        "Acts 16:20,21,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul accused of",
+      "references": [
+        "Acts 18:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "D",
+      "references": [
+        "Acts 24:13-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEACHERS, FALSE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Titus 3:10,11"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 1:10,11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:24"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 11:4"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 1:7"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:4"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:3-16"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 2:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        20,
+        21,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 16:20,21,23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 24:13-16"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Acts",
+    "Deuteronomy",
+    "Galatians",
+    "Job",
+    "Revelation",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 11,
+    "ot_refs": 2,
+    "nt_refs": 9,
+    "books_count": 7,
+    "top_books": [
+      "Acts",
+      "Galatians",
+      "Titus",
+      "Job",
+      "2 Corinthians",
+      "Deuteronomy",
+      "Revelation"
+    ]
+  }
+}

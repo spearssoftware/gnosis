@@ -1,0 +1,174 @@
+{
+  "topic": "JEDAIAH",
+  "slug": "jedaiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 4:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A returned exile",
+      "references": [
+        "Nehemiah 3:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest of the",
+      "references": [
+        "1 Chronicles 9:10",
+        "1 Chronicles 24:7",
+        "Ezra 2:36",
+        "Nehemiah 7:39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A priest who lived in",
+      "references": [
+        "Nehemiah 11:10",
+        "Nehemiah 12:6,19",
+        "Ecclesiastes 6:10,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Another priest, who returned from Babylon with Nehemiah",
+      "references": [
+        "Nehemiah 12:7,21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:37"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:36"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:39"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:10"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        6,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:6,19"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "verses": [
+        10,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 6:10,14"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        7,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:7,21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ecclesiastes",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Nehemiah",
+      "1 Chronicles",
+      "Ezra",
+      "Ecclesiastes"
+    ]
+  }
+}

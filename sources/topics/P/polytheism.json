@@ -1,0 +1,167 @@
+{
+  "topic": "POLYTHEISM",
+  "slug": "polytheism",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 31:19",
+        "Genesis 35:2,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "24:2,23;",
+      "references": [
+        "Judges 2:13",
+        "Judges 3:7",
+        "Judges 10:16",
+        "Judges 17:5",
+        "Jeremiah 2:28",
+        "Jeremiah 11:13",
+        "Daniel 4:8",
+        "1 Corinthians 8:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        2,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 35:2,4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        2,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 24:2,23"
+    },
+    {
+      "book": "Judges",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 2:13"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 3:7"
+    },
+    {
+      "book": "Judges",
+      "chapter": 10,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 10:16"
+    },
+    {
+      "book": "Judges",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 17:5"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:28"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 11,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 11:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 4:8"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 8:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Daniel",
+    "Genesis",
+    "Jeremiah",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 11,
+    "ot_refs": 10,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "Judges",
+      "Genesis",
+      "Jeremiah",
+      "Daniel",
+      "1 Corinthians"
+    ]
+  }
+}

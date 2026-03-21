@@ -1,0 +1,74 @@
+{
+  "topic": "WRITING",
+  "slug": "writing",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BOOKS",
+    "ENGRAVING",
+    "INK",
+    "INKHORN",
+    "LETTERS",
+    "PEN",
+    "SCRIBES",
+    "TABLES OF STONE"
+  ],
+  "aspects": [
+    {
+      "label": "Copyists were",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSCRIBES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBOOKS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeENGRAVING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINKHORN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLETTERS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePEN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTABLES OF STONE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

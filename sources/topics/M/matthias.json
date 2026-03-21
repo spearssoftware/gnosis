@@ -1,0 +1,58 @@
+{
+  "topic": "MATTHIAS",
+  "slug": "matthias",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Surnamed JUSTUS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Chosen as an apostle in the place of",
+      "references": [
+        "Acts 1:15-26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Acts 1:15-26"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

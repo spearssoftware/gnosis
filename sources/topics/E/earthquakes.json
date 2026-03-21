@@ -1,0 +1,908 @@
+{
+  "topic": "EARTHQUAKES",
+  "slug": "earthquakes",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Job 9:6",
+        "Psalms 18:7",
+        "Psalms 46:2,3",
+        "Psalms 104:32",
+        "Jeremiah 4:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "As",
+      "references": [
+        "Psalms 18:15",
+        "Psalms 60:2",
+        "Isaiah 13:13,14",
+        "Isaiah 24:19,20",
+        "Isaiah 29:6",
+        "Nahum 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecies of",
+      "references": [
+        "Ezekiel 38:19",
+        "Ecclesiastes 14:4",
+        "Matthew 24:7",
+        "Mark 13:8",
+        "Luke 21:11",
+        "Revelation 11:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".At Sinai",
+      "references": [
+        "Exodus 19:18",
+        "Psalms 68:8",
+        "Psalms 77:18",
+        "Psalms 114:4-7",
+        "Hebrews 12:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".When Korah, Dathan, and Abiram were swallowed up",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".When Jonathan and his armor-bearer attacked the garri",
+      "references": [
+        "1 Samuel 14:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".When the Lord revealed himself to Elijah in the still small voice",
+      "references": [
+        "1 Kings 19:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "1:1;",
+      "references": [
+        "Ecclesiastes 14:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".At the crucifixion of Jesus",
+      "references": [
+        "Matthew 27:51"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".At the resurrection of Jesus",
+      "references": [
+        "Matthew 28:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".When Paul and Silas were in pri",
+      "references": [
+        "Acts 16:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 60:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Revelation 6:12-14",
+        "Revelation 11:13",
+        "Revelation 16:18,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Islands and mountainous districts liable to",
+      "references": [
+        "Psalms 114:4,6",
+        "Revelation 6:14",
+        "Revelation 16:18,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently accompanied by: Volcanic eruptions",
+      "references": [
+        "Psalms 104:32",
+        "Nahum 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently accompanied by: Convulsion and receding of the sea",
+      "references": [
+        "2 Samuel 22:8,16",
+        "Psalms 18:7,15",
+        "Psalms 46:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently accompanied by: Opening of the earth",
+      "references": [
+        "Numbers 16:31,32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently accompanied by: Overturning of mountains",
+      "references": [
+        "Psalms 46:2",
+        "Zechariah 14:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently accompanied by: Rending of rocks",
+      "references": [
+        "Matthew 27:51"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are visible tokens of: God’s power",
+      "references": [
+        "Job 9:6",
+        "Hebrews 12:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are visible tokens of: God’s presence",
+      "references": [
+        "Psalms 68:7,8",
+        "Psalms 114:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are visible tokens of: God’s anger",
+      "references": [
+        "Psalms 18:7",
+        "Psalms 60:2",
+        "Isaiah 13:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Men always terrified by",
+      "references": [
+        "Numbers 16:34",
+        "Zechariah 14:5",
+        "Matthew 27:54",
+        "Revelation 11:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: At mount Sinai",
+      "references": [
+        "Exodus 19:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: In the wilderness",
+      "references": [
+        "Numbers 16:31,32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: In strongholds of Philistines",
+      "references": [
+        "1 Samuel 14:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: When Elijah fled from Jezebel",
+      "references": [
+        "1 Kings 19:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: In Uzziah’s reign",
+      "references": [
+        "Amos 1:1",
+        "Zechariah 14:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: At our Lord’s death",
+      "references": [
+        "Matthew 27:51"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: At out Lord’s resurrection",
+      "references": [
+        "Matthew 28:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: At Philippi",
+      "references": [
+        "Acts 16:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Before destruction of Jerusalem, predicted",
+      "references": [
+        "Matthew 24:7",
+        "Luke 21:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: At Christ’s second coming, predicted",
+      "references": [
+        "Zechariah 14:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The judgments of God",
+      "references": [
+        "Isaiah 24:19,20",
+        "Isaiah 29:6",
+        "Jeremiah 4:24",
+        "Revelation 8:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The overthrow of kingdoms",
+      "references": [
+        "Haggai 2:6,22",
+        "Revelation 6:12,13",
+        "Revelation 16:18,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 9:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 46,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 46:2,3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 104,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 104:32"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:24"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 60,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 60:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 13:13,14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 24:19,20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 29,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 29:6"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 1:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 38:19"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 14,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 14:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 24:7"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 13:8"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 21:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 11:19"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 19,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 19:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 77,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 77:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 114,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 114:4-7"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:26"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 16,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 16:31,32"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:15"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 19:11"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:1"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 14:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:51"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 28:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:26"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Revelation 6:12-14"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 11:13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        18,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 16:18,20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 114,
+      "verses": [
+        4,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 114:4,6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 6:14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        8,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 22:8,16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        7,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 18:7,15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 46,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 46:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 16:31,32"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 46,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 46:2"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 14,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 14:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 68:7,8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 114,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 114:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 16:34"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 14:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        54
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:54"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 1:1"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 8:5"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 2,
+      "verses": [
+        6,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Haggai 2:6,22"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 6:12,13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 16:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Ecclesiastes",
+    "Exodus",
+    "Ezekiel",
+    "Haggai",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Nahum",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 37,
+    "total_refs": 52,
+    "ot_refs": 35,
+    "nt_refs": 17,
+    "books_count": 21,
+    "top_books": [
+      "Psalms",
+      "Revelation",
+      "Isaiah",
+      "Matthew",
+      "Ecclesiastes",
+      "Hebrews",
+      "1 Kings",
+      "Numbers",
+      "Zechariah",
+      "Job"
+    ]
+  }
+}

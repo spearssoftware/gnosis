@@ -1,0 +1,88 @@
+{
+  "topic": "MOB",
+  "slug": "mob",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "At Thessaloni",
+      "references": [
+        "Acts 17:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "At",
+      "references": [
+        "Acts 21:28,30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "At Ephesus",
+      "references": [
+        "Acts 19:29-40"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 17:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        28,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 21:28,30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Acts 19:29-40"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

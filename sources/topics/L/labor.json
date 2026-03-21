@@ -1,0 +1,325 @@
+{
+  "topic": "LABOR",
+  "slug": "labor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EMPLOYEE",
+    "EMPLOYER",
+    "IDLENESS",
+    "INDUSTRY",
+    "MASTER",
+    "SERVANT"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 3:19",
+        "Exodus 20:9-11",
+        "Exodus 23:12",
+        "Exodus 34:21",
+        "Leviticus 19:13",
+        "Deuteronomy 24:14,15",
+        "Deuteronomy 25:4",
+        "Ecclesiastes 5:12",
+        "Jeremiah 22:13",
+        "Malachi 3:5",
+        "Matthew 20:1-15",
+        "Luke 10:7",
+        "Acts 20:35",
+        "1 Corinthians 9:9",
+        "Ephesians 4:28",
+        "1 Thessalonians 4:11,12",
+        "2 Thessalonians 3:7-13",
+        "1 Timothy 5:18",
+        "James 5:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEMPLOYEE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEMPLOYER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIDLENESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINDUSTRY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMASTER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSERVANT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:19"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 20:9-11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:21"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:14,15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:4"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:13"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 15,
+      "testament": "NT",
+      "raw": "Matthew 20:1-15"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:7"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:35"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:9"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:28"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Thessalonians 4:11,12"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 3,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "2 Thessalonians 3:7-13"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 5:18"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 5:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Thessalonians",
+    "1 Timothy",
+    "2 Thessalonians",
+    "Acts",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Ephesians",
+    "Exodus",
+    "Genesis",
+    "James",
+    "Jeremiah",
+    "Leviticus",
+    "Luke",
+    "Malachi",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 19,
+    "ot_refs": 10,
+    "nt_refs": 9,
+    "books_count": 16,
+    "top_books": [
+      "Exodus",
+      "Deuteronomy",
+      "Genesis",
+      "Leviticus",
+      "Ecclesiastes",
+      "Jeremiah",
+      "Malachi",
+      "Matthew",
+      "Luke",
+      "Acts"
+    ]
+  }
+}

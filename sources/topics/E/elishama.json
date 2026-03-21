@@ -1,0 +1,231 @@
+{
+  "topic": "ELISHAMA",
+  "slug": "elishama",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Grandfather of Joshua",
+      "references": [
+        "Numbers 1:10",
+        "Numbers 2:18",
+        "Numbers 7:48,53",
+        "Numbers 10:22",
+        "1 Chronicles 7:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "2 Samuel 5:16",
+        "1 Chronicles 3:8",
+        "1 Chronicles 14:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Another",
+      "references": [
+        "1 Chronicles 3:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A",
+      "references": [
+        "1 Chronicles 2:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Probably i",
+      "references": [
+        "2 Kings 25:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A secretary to Jehoiakim",
+      "references": [
+        "Jeremiah 36:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. A priest sent by Jehoshaphat to teach the law",
+      "references": [
+        "2 Chronicles 17:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:10"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:18"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        48,
+        53
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:48,53"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:26"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 5:16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 14:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:41"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:25"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 41,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 41:1"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 17,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 17:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Jeremiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 14,
+    "ot_refs": 14,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "1 Chronicles",
+      "Numbers",
+      "2 Kings",
+      "2 Samuel",
+      "Jeremiah",
+      "2 Chronicles"
+    ]
+  }
+}

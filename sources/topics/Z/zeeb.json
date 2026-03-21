@@ -1,0 +1,66 @@
+{
+  "topic": "ZEEB",
+  "slug": "zeeb",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A prince of Midian",
+      "references": [
+        "Judges 7:25",
+        "Judges 8:3",
+        "Psalms 83:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 7:25"
+    },
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 8:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 83,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 83:11"
+    }
+  ],
+  "books_mentioned": [
+    "Judges",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "Psalms"
+    ]
+  }
+}

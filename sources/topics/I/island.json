@@ -1,0 +1,104 @@
+{
+  "topic": "ISLAND",
+  "slug": "island",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Prophecies concerning",
+      "references": [
+        "Psalms 97:1",
+        "Isaiah 11:11",
+        "Isaiah 41:1,5",
+        "Isaiah 49:1",
+        "Zephaniah 2:11",
+        "Revelation 16:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 97,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 97:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": [
+        1,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 41:1,5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 49,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 49:1"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 2:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 16:20"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Psalms",
+    "Revelation",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Isaiah",
+      "Psalms",
+      "Zephaniah",
+      "Revelation"
+    ]
+  }
+}

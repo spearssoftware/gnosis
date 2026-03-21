@@ -1,0 +1,81 @@
+{
+  "topic": "BETHABARA",
+  "slug": "bethabara",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city east of the Jordan",
+      "references": [
+        "Judges 7:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "John 1:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus at",
+      "references": [
+        "John 10:39-42"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 7:24"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:28"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "verses": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "John 10:39-42"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "John",
+      "Judges"
+    ]
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "topic": "COWARDICE",
+  "slug": "cowardice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COURAGE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Leviticus 26:36,37",
+        "Deuteronomy 20:8",
+        "Deuteronomy 32:30",
+        "Joshua 7:5",
+        "Joshua 23:10",
+        "Judges 7:3",
+        "Job 15:24",
+        "Job 18:11",
+        "Proverbs 28:1",
+        "Proverbs 29:25",
+        "Isaiah 51:12,13",
+        "Galatians 6:12",
+        "2 Timothy 4:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOURAGE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Adam, in attempting to shift responsibility for his sin upon",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Eve",
+      "references": [
+        "Genesis 3:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abraham, in",
+      "references": [
+        "Genesis 12:11-19",
+        "Genesis 20:2-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 26:7-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jacob, in flying from Laban",
+      "references": [
+        "Genesis 31:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Aaron, in yielding to the Israelites, when they",
+      "references": [
+        "Exodus 32:22-24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The ten spies",
+      "references": [
+        "Numbers 13:28,31-33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The Israelites",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "In fearing to attempt the conquest of",
+      "references": [
+        "Numbers 14:1-5",
+        "Deuteronomy 1:26-28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the battle with the people of Ai",
+      "references": [
+        "Joshua 7:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To meet Goliath",
+      "references": [
+        "1 Samuel 17:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To fight with the Philistines",
+      "references": [
+        "1 Samuel 13:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".20,000 Of Gi",
+      "references": [
+        "Judges 7:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ephraimites",
+      "references": [
+        "Psalms 78:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ephraimites and Manassehites",
+      "references": [
+        "Joshua 17:14-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Amoritish kings",
+      "references": [
+        "Joshua 10:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Joshua 2:11",
+        "Joshua 5:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Samuel, fearing to obey God’s command to anoint a king in Saul’s",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "place",
+      "references": [
+        "1 Samuel 16:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".David, in fleeing from Absalom",
+      "references": [
+        "2 Samuel 15:13-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Nico",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 26:36,37"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 20,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 20:8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:30"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 7,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 7:5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 23,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 23:10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 7:3"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 15:24"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 18:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:25"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 51,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 51:12,13"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:12"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Genesis 12:11-19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 20,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Genesis 20:2-12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        7,
+        8,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 26:7-9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:31"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": [
+        22,
+        23,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 32:22-24"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        28,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 13:28,31-33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Numbers 14:1-5"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        26,
+        27,
+        28
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:26-28"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:24"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 13:6,7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:9"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Joshua 17:14-18"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 10:16"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 2:11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:1"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Samuel 15:13-17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Samuel",
+    "2 Timothy",
+    "Deuteronomy",
+    "Exodus",
+    "Galatians",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "Joshua",
+    "Judges",
+    "Leviticus",
+    "Numbers",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 24,
+    "total_refs": 31,
+    "ot_refs": 29,
+    "nt_refs": 2,
+    "books_count": 15,
+    "top_books": [
+      "Joshua",
+      "Genesis",
+      "Deuteronomy",
+      "1 Samuel",
+      "Job",
+      "Proverbs",
+      "Numbers",
+      "Leviticus",
+      "Judges",
+      "Isaiah"
+    ]
+  }
+}

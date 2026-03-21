@@ -1,0 +1,39 @@
+{
+  "topic": "SWEARING",
+  "slug": "swearing",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BLASPHEMY",
+    "GOD, NAME OF NOT TO BE PROFANED",
+    "OATH"
+  ],
+  "aspects": [
+    {
+      "label": "SeeBLASPHEMY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOD, NAME OF NOT TO BE PROFANED",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOATH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

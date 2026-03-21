@@ -1,0 +1,47 @@
+{
+  "topic": "HIERAPOLIS",
+  "slug": "hierapolis",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Phrygia",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Christians in",
+      "references": [
+        "Colossians 4:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:13"
+    }
+  ],
+  "books_mentioned": [
+    "Colossians"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Colossians"
+    ]
+  }
+}

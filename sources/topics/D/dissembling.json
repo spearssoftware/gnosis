@@ -1,0 +1,113 @@
+{
+  "topic": "DISSEMBLING",
+  "slug": "dissembling",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DECEPTION",
+    "HYPOCRISY"
+  ],
+  "aspects": [
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joseph",
+      "references": [
+        "Genesis 42:7-20",
+        "Genesis 43:26-34"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".David",
+      "references": [
+        "1 Samuel 21:13-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHYPOCRISY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 42,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Genesis 42:7-20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 43,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Genesis 43:26-34"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "verses": [
+        13,
+        14,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 21:13-15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Samuel"
+    ]
+  }
+}

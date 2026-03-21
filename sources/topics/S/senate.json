@@ -1,0 +1,74 @@
+{
+  "topic": "SENATE",
+  "slug": "senate",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ELDER",
+    "GOVERNMENT"
+  ],
+  "aspects": [
+    {
+      "label": "The Sanhedrin",
+      "references": [
+        "Acts 5:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Senator (an el",
+      "references": [
+        "Psalms 105:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOVERNMENT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 5:21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 105,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 105:22"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Psalms"
+    ]
+  }
+}

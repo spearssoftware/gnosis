@@ -1,0 +1,44 @@
+{
+  "topic": "JOIAKIM",
+  "slug": "joiakim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A high priest",
+      "references": [
+        "Nehemiah 12:10,12,26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        10,
+        12,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nehemiah 12:10,12,26"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

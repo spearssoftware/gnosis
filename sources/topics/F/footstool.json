@@ -1,0 +1,84 @@
+{
+  "topic": "FOOTSTOOL",
+  "slug": "footstool",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The earth is God’s",
+      "references": [
+        "Isaiah 60:13",
+        "Isaiah 66:1",
+        "Lamentations 2:1",
+        "Acts 7:49"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:1"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 2:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:49"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Isaiah",
+    "Lamentations"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 3,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Isaiah",
+      "Lamentations",
+      "Acts"
+    ]
+  }
+}

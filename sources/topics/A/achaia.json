@@ -1,0 +1,112 @@
+{
+  "topic": "ACHAIA",
+  "slug": "achaia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A region of Greece)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visitsAc 18;19:21;",
+      "references": [
+        "Romans 16:5",
+        "1 Corinthians 16:15",
+        "2 Corinthians 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Benevolence of the Christians in",
+      "references": [
+        "Romans 15:26",
+        "2 Corinthians 9:2",
+        "2 Corinthians 11:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:5"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:15"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 1:1"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 15:26"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 9,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 9:2"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 11,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 11:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "2 Corinthians",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 3,
+    "top_books": [
+      "2 Corinthians",
+      "Romans",
+      "1 Corinthians"
+    ]
+  }
+}

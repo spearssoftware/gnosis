@@ -1,0 +1,149 @@
+{
+  "topic": "VINEGAR",
+  "slug": "vinegar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Forbid",
+      "references": [
+        "Numbers 6:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used with food",
+      "references": [
+        "Ruth 2:14",
+        "Psalms 69:21",
+        "Proverbs 10:26",
+        "Proverbs 25:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offered to Christ while on the cross",
+      "references": [
+        "Matthew 27:34,48",
+        "John 19:29",
+        "Mark 15:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:3"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 2:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 69,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 69:21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:26"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:20"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        34,
+        48
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 27:34,48"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:29"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:23"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Mark",
+    "Matthew",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 8,
+    "ot_refs": 5,
+    "nt_refs": 3,
+    "books_count": 7,
+    "top_books": [
+      "Proverbs",
+      "Numbers",
+      "Ruth",
+      "Psalms",
+      "Matthew",
+      "John",
+      "Mark"
+    ]
+  }
+}

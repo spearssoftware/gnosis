@@ -1,0 +1,83 @@
+{
+  "topic": "JESHIMON",
+  "slug": "jeshimon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A place in the Sinaitic peninsula, east of the Jordan River",
+      "references": [
+        "Numbers 21:20",
+        "Numbers 23:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A place in the",
+      "references": [
+        "1 Samuel 23:24",
+        "1 Samuel 26:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:20"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 23:28"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 23:24"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 26:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "1 Samuel"
+    ]
+  }
+}

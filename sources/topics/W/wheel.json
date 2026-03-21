@@ -1,0 +1,142 @@
+{
+  "topic": "WHEEL",
+  "slug": "wheel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Potter’ s",
+      "references": [
+        "Jeremiah 18:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Proverbs 20:26",
+        "Ecclesiastes 12:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Ezekiel 1:15-21",
+        "Ezekiel 3:13",
+        "Ezekiel 10:9-19",
+        "Ezekiel 11:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 18,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 18:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:26"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:6"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Ezekiel 1:15-21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 3:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Ezekiel 10:9-19"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 11,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 11:22"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Ezekiel",
+    "Jeremiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Ezekiel",
+      "Jeremiah",
+      "Proverbs",
+      "Ecclesiastes"
+    ]
+  }
+}

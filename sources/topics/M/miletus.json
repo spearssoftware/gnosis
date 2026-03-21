@@ -1,0 +1,114 @@
+{
+  "topic": "MILETUS",
+  "slug": "miletus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A seaport in Asia Minor",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits",
+      "references": [
+        "Acts 20:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "And sends to Ephesus for the el",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "addresses them at",
+      "references": [
+        "Acts 20:17-38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Trophimus left sick at",
+      "references": [
+        "2 Timothy 4:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "verse_count": 22,
+      "testament": "NT",
+      "raw": "Acts 20:17-38"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:20"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "2 Timothy"
+    ]
+  }
+}

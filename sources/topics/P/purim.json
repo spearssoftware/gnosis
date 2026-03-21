@@ -1,0 +1,59 @@
+{
+  "topic": "PURIM",
+  "slug": "purim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A feast instituted to commemorate the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "from the plot of Haman",
+      "references": [
+        "Esther 9:20-32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "verses": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Esther 9:20-32"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

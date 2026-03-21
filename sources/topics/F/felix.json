@@ -1,0 +1,104 @@
+{
+  "topic": "FELIX",
+  "slug": "felix",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(The Roman governor of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul tried before",
+      "references": [
+        "Acts 23:24-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Trembles un",
+      "references": [
+        "Acts 24:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Leaves Paul in bonds",
+      "references": [
+        "Acts 24:26,27",
+        "Acts 25:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Acts 23:24-35"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:25"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 24:26,27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 25:14"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

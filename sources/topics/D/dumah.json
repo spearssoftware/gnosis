@@ -1,0 +1,88 @@
+{
+  "topic": "DUMAH",
+  "slug": "dumah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 25:14",
+        "1 Chronicles 1:30",
+        "Isaiah 21:11,12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of",
+      "references": [
+        "Joshua 15:52"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:14"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:30"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 21:11,12"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:52"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Isaiah",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Isaiah",
+      "Joshua"
+    ]
+  }
+}

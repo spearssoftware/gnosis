@@ -1,0 +1,979 @@
+{
+  "topic": "COURT",
+  "slug": "court",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "APPEAL",
+    "BRIBERY",
+    "CHURCH, DISCIPLINE IN",
+    "JUDGE",
+    "JUSTICE",
+    "PRIEST, JUDICIAL FUNCTIONS OF",
+    "PUNISHMENT",
+    "WITNESS"
+  ],
+  "aspects": [
+    {
+      "label": "ECCLESIASTI",
+      "references": [
+        "1 Chronicles 26:29-32",
+        "2 Chronicles 19:8-11",
+        "Matthew 18:15-18",
+        "John 20:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCHURCH, DISCIPLINE IN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "CIVIL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Held at the tabernacle",
+      "references": [
+        "Numbers 27:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The gates of cities",
+      "references": [
+        "Deuteronomy 21:19",
+        "Deuteronomy 22:15",
+        "Deuteronomy 25:7",
+        "Joshua 20:4",
+        "Ruth 4:1",
+        "Ecclesiastes 8:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Un",
+      "references": [
+        "Judges 4:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".COMPOSITION OF, AND MO",
+      "references": [
+        "Exodus 18:25,26",
+        "Deuteronomy 1:15-17",
+        "Deuteronomy 17:9",
+        "Ruth 4:2-5",
+        "1 Chronicles 26:29-32",
+        "2 Chronicles 19:8-11",
+        "Matthew 26:54-71",
+        "Mark 14:53,55-65",
+        "Mark 15:1",
+        "Luke 22:50-71",
+        "John 18:13-28",
+        "Acts 5:17-21,25-28,34,38-41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJUSTICE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePRIEST,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "CIRCUIT",
+      "references": [
+        "1 Samuel 7:15-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SUPERIOR, AND INFERIOR",
+      "references": [
+        "Exodus 18:21-26",
+        "Deuteronomy 1:15-17",
+        "Deuteronomy 17:8-13",
+        "2 Chronicles 19:5-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "JUSTICE REQUIRED OF",
+      "references": [
+        "Exodus 23:2,3,6-8",
+        "Deuteronomy 1:16,17",
+        "Deuteronomy 25:1",
+        "2 Chronicles 19:5-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJUSTICE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SENTENCE OF, FINAL AND OBLIGATORY",
+      "references": [
+        "Deuteronomy 17:8-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "CONTEMPT OF",
+      "references": [
+        "Deuteronomy 17:8-13",
+        "Micah 5:1",
+        "Acts 23:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "CORRUPT",
+      "references": [
+        "Proverbs 17:15",
+        "Proverbs 29:26",
+        "Isaiah 1:23",
+        "Isaiah 5:23",
+        "Isaiah 10:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3:11;7:3;",
+      "references": [
+        "Zephaniah 3:3",
+        "Matthew 26:59-62",
+        "Matthew 27:18-26",
+        "Mark 14:53,55-65",
+        "Mark 15:10",
+        "Acts 4:15-18",
+        "Acts 6:11-14",
+        "Acts 24:26,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBRIBERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJUSTICE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "ACCUSED SPOKE IN HIS OWN",
+      "references": [
+        "Jeremiah 26:11-16",
+        "Mark 15:3-5",
+        "Acts 4:8-12,18-20",
+        "Acts 5:29-32",
+        "Acts 7:1-56",
+        "Acts 23:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "verses": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Chronicles 26:29-32"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 19,
+      "verses": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Chronicles 19:8-11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 18:15-18"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 20:23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 27:2"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:19"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 22,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 22:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 20:4"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 4:1"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 8:16"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 18,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 18:25,26"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:15-17"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:9"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ruth 4:2-5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "verse_count": 18,
+      "testament": "NT",
+      "raw": "Matthew 26:54-71"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        53,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Mark 14:53,55-65"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "verse_count": 22,
+      "testament": "NT",
+      "raw": "Luke 22:50-71"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 16,
+      "testament": "NT",
+      "raw": "John 18:13-28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        25,
+        26,
+        27,
+        28,
+        34,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 14,
+      "testament": "NT",
+      "raw": "Acts 5:17-21,25-28,34,38-41"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 7:15-17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 18,
+      "verses": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Exodus 18:21-26"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:8-13"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 19,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "2 Chronicles 19:5-10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Exodus 23:2,3,6-8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:16,17"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:1"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:8-12"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 5:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Acts 23:1-5"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:26"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 10:1,2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 7:3"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 3:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 26:59-62"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Matthew 27:18-26"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 4:15-18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 6:11-14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 24:26,27"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 26,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Jeremiah 26:11-16"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Mark 15:3-5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Acts 4:8-12,18-20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 5:29-32"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "verse_count": 56,
+      "testament": "NT",
+      "raw": "Acts 7:1-56"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 23:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Chronicles",
+    "Acts",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Exodus",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Joshua",
+    "Judges",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Numbers",
+    "Proverbs",
+    "Ruth",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 23,
+    "total_refs": 52,
+    "ot_refs": 32,
+    "nt_refs": 20,
+    "books_count": 20,
+    "top_books": [
+      "Deuteronomy",
+      "Acts",
+      "Isaiah",
+      "Matthew",
+      "Mark",
+      "Exodus",
+      "2 Chronicles",
+      "John",
+      "Ruth",
+      "Proverbs"
+    ]
+  }
+}

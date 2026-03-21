@@ -1,0 +1,55 @@
+{
+  "topic": "HAMMATH",
+  "slug": "hammath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HAMMON",
+    "HAMMOTH-DOR"
+  ],
+  "aspects": [
+    {
+      "label": "A fortified city of the tribe of Naphtali",
+      "references": [
+        "Joshua 19:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHAMMON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHAMMOTH-DOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:35"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

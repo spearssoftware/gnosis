@@ -1,0 +1,88 @@
+{
+  "topic": "DISCIPLESHIP",
+  "slug": "discipleship",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMANDMENTS"
+  ],
+  "aspects": [
+    {
+      "label": "Tests of",
+      "references": [
+        "Matthew 10:32-39",
+        "Luke 14:26,27,33",
+        "John 21:15-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMMANDMENTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Matthew 10:32-39"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "verses": [
+        26,
+        27,
+        33
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Luke 14:26,27,33"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "John 21:15-19"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "John"
+    ]
+  }
+}

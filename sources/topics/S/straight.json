@@ -1,0 +1,96 @@
+{
+  "topic": "STRAIGHT",
+  "slug": "straight",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Name of a street in Damascus",
+      "references": [
+        "Acts 9:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of righteousness, “straight paths,”",
+      "references": [
+        "Isaiah 40:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3:3;",
+      "references": [
+        "Hebrews 12:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 40:3,4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:3"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:13"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Hebrews",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 2,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "Isaiah",
+      "Acts",
+      "Hebrews"
+    ]
+  }
+}

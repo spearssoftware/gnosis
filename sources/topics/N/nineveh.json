@@ -1,0 +1,737 @@
+{
+  "topic": "NINEVEH",
+  "slug": "nineveh",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 10:11,12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Contained a population of upwards of one-hundred and twenty thousand",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "people, when Jonah preached",
+      "references": [
+        "Jonah 4:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Extent of",
+      "references": [
+        "Jonah 3:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sennacherib in",
+      "references": [
+        "2 Kings 19:36,37",
+        "Isaiah 37:37,38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jonah preaches to",
+      "references": [
+        "Jonah 1:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Nahum prophesies againstNa 1;2;3",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Zephaniah foretells the",
+      "references": [
+        "Zephaniah 2:13-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Origin and antiquity of",
+      "references": [
+        "Genesis 10:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Situated on the river Tigris",
+      "references": [
+        "Nahum 2:6,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ancient capital of Assyria",
+      "references": [
+        "2 Kings 19:36",
+        "Isaiah 37:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called the bloody city",
+      "references": [
+        "Nahum 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Great",
+      "references": [
+        "Jonah 1:2",
+        "Jonah 3:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Extensive",
+      "references": [
+        "Jonah 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Rich",
+      "references": [
+        "Nahum 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Strong",
+      "references": [
+        "Nahum 3:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Commercial",
+      "references": [
+        "Nahum 3:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Populous",
+      "references": [
+        "Jonah 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Vile",
+      "references": [
+        "Nahum 1:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Wicked",
+      "references": [
+        "Jonah 1:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Idolatrous",
+      "references": [
+        "Nahum 1:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Full of joy and carelessness",
+      "references": [
+        "Zephaniah 2:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Full of lies and robbery",
+      "references": [
+        "Nahum 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Full of witchcraft",
+      "references": [
+        "Nahum 3:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Jonah sent to proclaim the destruction of",
+      "references": [
+        "Jonah 1:2",
+        "Jonah 3:1,2,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Inhabitants of, repented at Jonah’s preaching",
+      "references": [
+        "Jonah 3:5-9",
+        "Matthew 12:41",
+        "Luke 11:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Destruction of, averted",
+      "references": [
+        "John 3:10",
+        "John 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Coming up of the Babylonish armies against",
+      "references": [
+        "Nahum 2:1-4",
+        "Nahum 3:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Destruction of its people",
+      "references": [
+        "Nahum 1:12",
+        "Nahum 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Spoiling of its treasures",
+      "references": [
+        "Nahum 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Destruction of its idols",
+      "references": [
+        "Nahum 1:14",
+        "Nahum 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Degradation and contempt put on",
+      "references": [
+        "Nahum 3:5-7",
+        "Zephaniah 2:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Utter destruction",
+      "references": [
+        "Nahum 1:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Complete desolation",
+      "references": [
+        "Zephaniah 2:13-15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Feebleness of its people",
+      "references": [
+        "Nahum 3:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Being taken while people were drunk",
+      "references": [
+        "Nahum 1:10",
+        "Nahum 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Predictions respecting: Captivity of its people",
+      "references": [
+        "Nahum 3:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:11,12"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 4:11"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 3:4"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 19:36,37"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        37,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 37:37,38"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jonah 1:1,2"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 2,
+      "verses": [
+        13,
+        14,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Zephaniah 2:13-15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:11"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        6,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nahum 2:6,8"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:36"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:37"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:1"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 1:2"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 3:2"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 3:3"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 2:9"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:12"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:16"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 1:14"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 2:15"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:4"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "verses": [
+        1,
+        2,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jonah 3:1,2,4"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Jonah 3:5-9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:41"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:32"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 3:10"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:11"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Nahum 2:1-4"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:2"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 1:12"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:3"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 2:7"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nahum 3:5-7"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nahum 1:8,9"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:13"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 1:10"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:11"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:10"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Genesis",
+    "Isaiah",
+    "John",
+    "Jonah",
+    "Luke",
+    "Matthew",
+    "Nahum",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 37,
+    "total_refs": 38,
+    "ot_refs": 34,
+    "nt_refs": 4,
+    "books_count": 9,
+    "top_books": [
+      "Nahum",
+      "Jonah",
+      "Genesis",
+      "2 Kings",
+      "Isaiah",
+      "Zephaniah",
+      "John",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

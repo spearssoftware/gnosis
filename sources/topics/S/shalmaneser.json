@@ -1,0 +1,63 @@
+{
+  "topic": "SHALMANESER",
+  "slug": "shalmaneser",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(King of Assyria)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Overthrows the kingdom of Israel",
+      "references": [
+        "2 Kings 17:3-6",
+        "2 Kings 18:9-11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Kings 17:3-6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 18:9-11"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Kings"
+    ]
+  }
+}

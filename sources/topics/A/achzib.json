@@ -1,0 +1,84 @@
+{
+  "topic": "ACHZIB",
+  "slug": "achzib",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city of Asher",
+      "references": [
+        "Joshua 19:29",
+        "Judges 1:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Al",
+      "references": [
+        "Genesis 38:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:29"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 38,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 38:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:44"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Joshua",
+      "Judges"
+    ]
+  }
+}

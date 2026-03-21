@@ -1,0 +1,78 @@
+{
+  "topic": "COMMUNISM",
+  "slug": "communism",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Acts 2:44,45",
+        "Acts 4:32,34-37",
+        "Acts 5:1-10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        44,
+        45
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 2:44,45"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        32,
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Acts 4:32,34-37"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Acts 5:1-10"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

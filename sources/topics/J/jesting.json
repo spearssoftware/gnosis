@@ -1,0 +1,61 @@
+{
+  "topic": "JESTING",
+  "slug": "jesting",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Foolish, forbid",
+      "references": [
+        "Ephesians 5:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [
+        "Matthew 12:36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:36"
+    }
+  ],
+  "books_mentioned": [
+    "Ephesians",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Ephesians",
+      "Matthew"
+    ]
+  }
+}

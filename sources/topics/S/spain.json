@@ -1,0 +1,43 @@
+{
+  "topic": "SPAIN",
+  "slug": "spain",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Paul plans to visit",
+      "references": [
+        "Romans 15:24,28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        24,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 15:24,28"
+    }
+  ],
+  "books_mentioned": [
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Romans"
+    ]
+  }
+}

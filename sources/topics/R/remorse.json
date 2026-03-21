@@ -1,0 +1,337 @@
+{
+  "topic": "REMORSE",
+  "slug": "remorse",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CONVICTION, OF SIN",
+    "PENITENTS",
+    "REPENTANCE",
+    "SIN, CONFESSION OF"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Psalms 31:10",
+        "Psalms 38:2-6",
+        "Psalms 51:1-4,7-17",
+        "Proverbs 1:25-27",
+        "Proverbs 5:7-13",
+        "Proverbs 28:1",
+        "Isaiah 2:19,21",
+        "Isaiah 6:5",
+        "Isaiah 48:22",
+        "Isaiah 57:20,21",
+        "Lamentations 1:20",
+        "Ezekiel 7:16-18,25,26",
+        "Ezekiel 33:10",
+        "Luke 13:28",
+        "Acts 2:37",
+        "Acts 9:6",
+        "Job 3:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".DavidPs 51",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Peter",
+      "references": [
+        "Matthew 26:75"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Matthew 27:3-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCONVICTION, OF SIN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePENITENTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeREPENTANCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSIN, CONFESSION OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 31,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 31:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 38,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Psalms 38:2-6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 51,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Psalms 51:1-4,7-17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 1:25-27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Proverbs 5:7-13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        19,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 2:19,21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 6:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 48,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 48:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 57,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 57:20,21"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 1:20"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 7,
+      "verses": [
+        16,
+        17,
+        18,
+        25,
+        26
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Ezekiel 7:16-18,25,26"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 33,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 33:10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:37"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 3:20"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        75
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:75"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 27:3-5"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezekiel",
+    "Isaiah",
+    "Job",
+    "Lamentations",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 19,
+    "ot_refs": 14,
+    "nt_refs": 5,
+    "books_count": 9,
+    "top_books": [
+      "Isaiah",
+      "Psalms",
+      "Proverbs",
+      "Ezekiel",
+      "Acts",
+      "Matthew",
+      "Lamentations",
+      "Luke",
+      "Job"
+    ]
+  }
+}

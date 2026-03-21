@@ -1,0 +1,179 @@
+{
+  "topic": "ARMOR",
+  "slug": "armor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BREASTPLATE",
+    "BRIGANDINE",
+    "COAT OF MAIL",
+    "GREAVE",
+    "HABERGEON",
+    "HELMET",
+    "SHIELD"
+  ],
+  "aspects": [
+    {
+      "label": "The equipment of a",
+      "references": [
+        "Jeremiah 46:3,4",
+        "Ephesians 6:14-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBREASTPLATE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBRIGANDINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOAT OF MAIL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGREAVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHABERGEON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHELMET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSHIELD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Romans 13:12",
+        "2 Corinthians 6:7",
+        "2 Corinthians 10:4",
+        "Ephesians 6:11-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Romans 5:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 46:3,4"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Ephesians 6:14-17"
+    },
+    {
+      "book": "Romans",
+      "chapter": 13,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 13:12"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:7"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 10:4"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Ephesians 6:11-17"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:8"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Ephesians",
+    "Jeremiah",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 7,
+    "ot_refs": 1,
+    "nt_refs": 6,
+    "books_count": 4,
+    "top_books": [
+      "Ephesians",
+      "2 Corinthians",
+      "Jeremiah",
+      "Romans"
+    ]
+  }
+}

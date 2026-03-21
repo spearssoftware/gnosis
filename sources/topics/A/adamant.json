@@ -1,0 +1,62 @@
+{
+  "topic": "ADAMANT",
+  "slug": "adamant",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DIAMOND"
+  ],
+  "aspects": [
+    {
+      "label": "A flint",
+      "references": [
+        "Ezekiel 3:9",
+        "Ecclesiastes 7:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDIAMOND",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 3:9"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:12"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezekiel",
+      "Ecclesiastes"
+    ]
+  }
+}

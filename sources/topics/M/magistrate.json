@@ -1,0 +1,117 @@
+{
+  "topic": "MAGISTRATE",
+  "slug": "magistrate",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GOVERNMENT",
+    "RULERS"
+  ],
+  "aspects": [
+    {
+      "label": "An officer of civil law",
+      "references": [
+        "Judges 18:7",
+        "Ezra 7:25",
+        "Luke 12:11,58",
+        "Acts 16:20,22,35,38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Obedience to, enjoined",
+      "references": [
+        "Titus 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOVERNMENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeRULERS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 18,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 18:7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:25"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        11,
+        58
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 12:11,58"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        20,
+        22,
+        35,
+        38
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 16:20,22,35,38"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:1"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezra",
+    "Judges",
+    "Luke",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 2,
+    "nt_refs": 3,
+    "books_count": 5,
+    "top_books": [
+      "Judges",
+      "Ezra",
+      "Luke",
+      "Acts",
+      "Titus"
+    ]
+  }
+}

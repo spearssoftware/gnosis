@@ -1,0 +1,77 @@
+{
+  "topic": "MOWING",
+  "slug": "mowing",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Psalms 72:6",
+        "Psalms 90:6",
+        "Psalms 129:7",
+        "Amos 7:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 72,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 72:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 90,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 90:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 129,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 129:7"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 7:1"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Psalms",
+      "Amos"
+    ]
+  }
+}

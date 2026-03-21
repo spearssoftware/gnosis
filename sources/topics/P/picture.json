@@ -1,0 +1,81 @@
+{
+  "topic": "PICTURE",
+  "slug": "picture",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Leviticus 26:1",
+        "Numbers 33:52",
+        "Proverbs 25:11",
+        "Isaiah 2:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 33:52"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:16"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Leviticus",
+    "Numbers",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Leviticus",
+      "Numbers",
+      "Proverbs",
+      "Isaiah"
+    ]
+  }
+}

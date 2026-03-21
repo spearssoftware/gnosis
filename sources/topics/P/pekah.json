@@ -1,0 +1,153 @@
+{
+  "topic": "PEKAH",
+  "slug": "pekah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "2 Kings 15:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conspires against and assassinates King Pekahiah",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Is ma",
+      "references": [
+        "2 Kings 15:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Victorious in war with",
+      "references": [
+        "2 Chronicles 28:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is plotted against and killed by Hoshea",
+      "references": [
+        "2 Kings 15:30,31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecies against",
+      "references": [
+        "Isaiah 7:1-16",
+        "Isaiah 8:4-10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:25"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:27"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 28,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 28:5,6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        30,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 15:30,31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "Isaiah 7:1-16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Isaiah 8:4-10"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "2 Kings",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "2 Kings",
+      "Isaiah",
+      "2 Chronicles"
+    ]
+  }
+}

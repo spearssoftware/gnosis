@@ -1,0 +1,49 @@
+{
+  "topic": "METAPHOR",
+  "slug": "metaphor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PARABLES"
+  ],
+  "aspects": [
+    {
+      "label": "Jesus spoke in",
+      "references": [
+        "Mark 4:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePARABLES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 4:11"
+    }
+  ],
+  "books_mentioned": [
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Mark"
+    ]
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "topic": "LAMPS",
+  "slug": "lamps",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Design of",
+      "references": [
+        "2 Peter 1:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Burning",
+      "references": [
+        "Genesis 15:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Shining",
+      "references": [
+        "John 5:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Lighted with oil",
+      "references": [
+        "Matthew 25:3,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Oil for, carried in vessels",
+      "references": [
+        "Matthew 25:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes supplied with oil form a bowl through pipes",
+      "references": [
+        "Zechariah 4:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required to be constantly trimmed",
+      "references": [
+        "Matthew 25:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for lighting: The tabernacle",
+      "references": [
+        "Exodus 25:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for lighting: Private apartments",
+      "references": [
+        "Acts 20:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for lighting: Chariots of war by night",
+      "references": [
+        "Nahum 2:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for lighting: Marriage processions",
+      "references": [
+        "Matthew 25:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for lighting: Persons going out at night",
+      "references": [
+        "John 18:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often kept lighting all night",
+      "references": [
+        "Proverbs 31:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Placed on a stand to give light to all in the house",
+      "references": [
+        "Matthew 5:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illumination of the tents of Arab chiefs by, alluded to",
+      "references": [
+        "Job 29:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Probable origin of dark lantern",
+      "references": [
+        "Judges 7:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the word of God",
+      "references": [
+        "Psalms 119:105",
+        "Proverbs 6:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of omniscience of Christ",
+      "references": [
+        "Daniel 10:6",
+        "Revelation 1:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of graces of the Holy Spirit",
+      "references": [
+        "Revelation 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of salvation of God",
+      "references": [
+        "Genesis 15:17",
+        "Isaiah 62:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of God’s guidance",
+      "references": [
+        "2 Samuel 22:29",
+        "Psalms 18:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of glory of the cherubim",
+      "references": [
+        "Ezekiel 1:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of spirit of man",
+      "references": [
+        "Proverbs 20:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of ministers",
+      "references": [
+        "John 5:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of wise rulers",
+      "references": [
+        "2 Samuel 21:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of severe judgments",
+      "references": [
+        "Revelation 8:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of a succession of heirs",
+      "references": [
+        "1 Kings 11:36",
+        "1 Kings 15:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Put out,) of destruction of the wicked",
+      "references": [
+        "Job 18:5,6",
+        "Job 21:17",
+        "Job 13:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Totally quenched,) of complete destruction of those who curse parents",
+      "references": [
+        "Proverbs 20:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Peter",
+      "chapter": 1,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 1:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:17"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 5:35"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        3,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 25:3,8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 25:4"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 4:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 25:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:37"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:8"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nahum 2:3,4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 25:1"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 18:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:18"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:15"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 29:3,4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 7,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 7:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        105
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:105"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:23"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 10,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 10:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:14"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 4:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 62,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 62:1"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 22:29"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:28"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:27"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:17"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 8:10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 11:36"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 15:4"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 18:5,6"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 21:17"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 13:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:20"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Peter",
+    "2 Samuel",
+    "Acts",
+    "Daniel",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "John",
+    "Judges",
+    "Matthew",
+    "Nahum",
+    "Proverbs",
+    "Psalms",
+    "Revelation",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 29,
+    "total_refs": 34,
+    "ot_refs": 22,
+    "nt_refs": 12,
+    "books_count": 18,
+    "top_books": [
+      "Matthew",
+      "Proverbs",
+      "Job",
+      "Revelation",
+      "John",
+      "Psalms",
+      "2 Samuel",
+      "1 Kings",
+      "2 Peter",
+      "Genesis"
+    ]
+  }
+}

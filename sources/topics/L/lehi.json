@@ -1,0 +1,57 @@
+{
+  "topic": "LEHI",
+  "slug": "lehi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A district of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "with the jawbone of a donkey",
+      "references": [
+        "Judges 15:9-19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Judges 15:9-19"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "topic": "INTERPRETATION",
+  "slug": "interpretation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DREAMS",
+    "TONGUES"
+  ],
+  "aspects": [
+    {
+      "label": "Of dreams",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeDREAMS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of foreign tongues",
+      "references": [
+        "1 Corinthians 14:9-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTONGUES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:9-19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "1 Corinthians"
+    ]
+  }
+}

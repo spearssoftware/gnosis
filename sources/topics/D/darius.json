@@ -1,0 +1,110 @@
+{
+  "topic": "DARIUS",
+  "slug": "darius",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The Me",
+      "references": [
+        "Daniel 5:31",
+        "Daniel 9:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. King of Persia",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Emancipates the JewsEzr 5;6;",
+      "references": [
+        "Haggai 1:1,15",
+        "Ecclesiastes 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. The Persian",
+      "references": [
+        "Nehemiah 12:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 5:31"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 9:1"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 1,
+      "verses": [
+        1,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Haggai 1:1,15"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 1:1"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:22"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Ecclesiastes",
+    "Haggai",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Daniel",
+      "Haggai",
+      "Ecclesiastes",
+      "Nehemiah"
+    ]
+  }
+}

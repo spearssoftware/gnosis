@@ -1,0 +1,42 @@
+{
+  "topic": "TRADE",
+  "slug": "trade",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMERCE"
+  ],
+  "aspects": [
+    {
+      "label": "1. Occupation",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See un",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Commerce",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCOMMERCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

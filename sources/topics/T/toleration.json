@@ -1,0 +1,120 @@
+{
+  "topic": "TOLERATION",
+  "slug": "toleration",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "INTOLERANCE"
+  ],
+  "aspects": [
+    {
+      "label": "Religions",
+      "references": [
+        "Micah 4:4,5",
+        "Mark 9:38-40",
+        "Luke 9:49,50",
+        "Acts 17:11",
+        "Acts 28:31",
+        "1 Corinthians 10:28-32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINTOLERANCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Micah 4:4,5"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "verses": [
+        38,
+        39,
+        40
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Mark 9:38-40"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        49,
+        50
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 9:49,50"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 17:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:31"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "1 Corinthians 10:28-32"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Luke",
+    "Mark",
+    "Micah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 6,
+    "ot_refs": 1,
+    "nt_refs": 5,
+    "books_count": 5,
+    "top_books": [
+      "Acts",
+      "Micah",
+      "Mark",
+      "Luke",
+      "1 Corinthians"
+    ]
+  }
+}

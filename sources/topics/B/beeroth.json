@@ -1,0 +1,118 @@
+{
+  "topic": "BEEROTH",
+  "slug": "beeroth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BENE-JAAKAN"
+  ],
+  "aspects": [
+    {
+      "label": "1. A station of the Israelites. Aaron died at",
+      "references": [
+        "Deuteronomy 10:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBENE-JAAKAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of the Hivites",
+      "references": [
+        "Joshua 9:17",
+        "Joshua 18:25",
+        "2 Samuel 4:2",
+        "Ezra 2:25",
+        "Nehemiah 7:29"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 10,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 10:6"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 9:17"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 18:25"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 4:2"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:25"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:29"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Deuteronomy",
+    "Ezra",
+    "Joshua",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Joshua",
+      "Deuteronomy",
+      "2 Samuel",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "topic": "APOTHECARY",
+  "slug": "apothecary",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A compoun",
+      "references": [
+        "Exodus 30:25,35",
+        "Exodus 37:29",
+        "2 Chronicles 16:14",
+        "Nehemiah 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ointment of",
+      "references": [
+        "Ecclesiastes 10:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        25,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 30:25,35"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 37:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 16:14"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:8"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:1"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "Ecclesiastes",
+    "Exodus",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Exodus",
+      "2 Chronicles",
+      "Nehemiah",
+      "Ecclesiastes"
+    ]
+  }
+}

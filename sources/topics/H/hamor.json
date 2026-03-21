@@ -1,0 +1,120 @@
+{
+  "topic": "HAMOR",
+  "slug": "hamor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(The father of Shechem)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Jacob buys a piece of property from",
+      "references": [
+        "Genesis 33:19",
+        "Joshua 24:32",
+        "Judges 9:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mur",
+      "references": [
+        "Genesis 34:26",
+        "Genesis 49:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Acts 7:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:19"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:32"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:28"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 34,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 34:26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:16"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Genesis",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "Joshua",
+      "Judges",
+      "Acts"
+    ]
+  }
+}

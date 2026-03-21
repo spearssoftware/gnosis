@@ -1,0 +1,216 @@
+{
+  "topic": "ASSASSINATION",
+  "slug": "assassination",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "David’s abhorrence of",
+      "references": [
+        "2 Samuel 4:9-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Laws prohibiting",
+      "references": [
+        "Deuteronomy 27:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Eglon, by Ehud",
+      "references": [
+        "Judges 3:15-22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abner, by Joab",
+      "references": [
+        "2 Samuel 3:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ish-bosheth, by the",
+      "references": [
+        "2 Samuel 4:5-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Amnon, by Absalom",
+      "references": [
+        "2 Samuel 13:28,29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Amasa, by Joab",
+      "references": [
+        "2 Samuel 20:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joash, by his servants",
+      "references": [
+        "2 Kings 12:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sennacherib, by his",
+      "references": [
+        "2 Kings 19:37",
+        "Isaiah 37:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "verses": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 4:9-12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:24"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Judges 3:15-22"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:27"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 4:5-7"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 13:28,29"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 20:9,10"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 12:20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:37"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:38"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "2 Samuel",
+    "Deuteronomy",
+    "Isaiah",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "2 Samuel",
+      "2 Kings",
+      "Deuteronomy",
+      "Judges",
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "topic": "CANA",
+  "slug": "cana",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Marriage at",
+      "references": [
+        "John 2:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Nobleman’s",
+      "references": [
+        "John 4:46,47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Nathanael’s home at",
+      "references": [
+        "John 21:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "John 2:1-11"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        46,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 4:46,47"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 21:2"
+    }
+  ],
+  "books_mentioned": [
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 1,
+    "top_books": [
+      "John"
+    ]
+  }
+}

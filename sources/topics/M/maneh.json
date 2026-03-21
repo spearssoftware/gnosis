@@ -1,0 +1,87 @@
+{
+  "topic": "MANEH",
+  "slug": "maneh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WEIGHTS"
+  ],
+  "aspects": [
+    {
+      "label": "(A weight)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Ren",
+      "references": [
+        "1 Kings 10:17",
+        "Ezra 2:69"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Equal to one-hundred shekels",
+      "references": [
+        "1 Kings 10:17",
+        "2 Chronicles 9:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWEIGHTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:17"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        69
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:69"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Kings",
+      "Ezra",
+      "2 Chronicles"
+    ]
+  }
+}

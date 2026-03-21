@@ -1,0 +1,111 @@
+{
+  "topic": "BELLY",
+  "slug": "belly",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used figuratively for the seat of the affectionsJob",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "15:2,35;20:20;",
+      "references": [
+        "Psalms 44:25",
+        "Proverbs 18:20",
+        "Proverbs 20:27,30",
+        "Habakkuk 3:16",
+        "John 7:38",
+        "Titus 1:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 44,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 44:25"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        27,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 20:27,30"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:16"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 7:38"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 1:12"
+    }
+  ],
+  "books_mentioned": [
+    "Habakkuk",
+    "John",
+    "Proverbs",
+    "Psalms",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 6,
+    "ot_refs": 4,
+    "nt_refs": 2,
+    "books_count": 5,
+    "top_books": [
+      "Proverbs",
+      "Psalms",
+      "Habakkuk",
+      "John",
+      "Titus"
+    ]
+  }
+}

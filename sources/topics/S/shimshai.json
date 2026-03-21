@@ -1,0 +1,45 @@
+{
+  "topic": "SHIMSHAI",
+  "slug": "shimshai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A scribe",
+      "references": [
+        "Ezra 4:8,9,17,23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        8,
+        9,
+        17,
+        23
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ezra 4:8,9,17,23"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

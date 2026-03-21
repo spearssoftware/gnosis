@@ -1,0 +1,296 @@
+{
+  "topic": "PALACE",
+  "slug": "palace",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "For kings",
+      "references": [
+        "1 Kings 21:1",
+        "2 Kings 15:25",
+        "Jeremiah 49:27",
+        "Amos 1:12",
+        "Nahum 2:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of David",
+      "references": [
+        "2 Samuel 7:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "1 Kings 7:1-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "At Babylon",
+      "references": [
+        "Daniel 4:29",
+        "Daniel 5:5",
+        "Daniel 6:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "At Shushan",
+      "references": [
+        "Nehemiah 1:1",
+        "Esther 1:2",
+        "Esther 7:7",
+        "Daniel 8:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Archives kept in",
+      "references": [
+        "Ezra 6:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Proclamations issued from",
+      "references": [
+        "Amos 3:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of a government",
+      "references": [
+        "Amos 1:12",
+        "Amos 2:2",
+        "Nahum 2:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 21:1"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:27"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 1:12"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 2:6"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 7:2"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "1 Kings 7:1-12"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 4:29"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 5:5"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:18"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 1:1"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 1:2"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 7:7"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 8:2"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 6:2"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 3:9"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "2 Samuel",
+    "Amos",
+    "Daniel",
+    "Esther",
+    "Ezra",
+    "Jeremiah",
+    "Nahum",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 17,
+    "ot_refs": 17,
+    "nt_refs": 0,
+    "books_count": 10,
+    "top_books": [
+      "Daniel",
+      "Amos",
+      "1 Kings",
+      "Esther",
+      "2 Kings",
+      "Jeremiah",
+      "Nahum",
+      "2 Samuel",
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

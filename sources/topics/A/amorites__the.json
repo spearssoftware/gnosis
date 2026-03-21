@@ -1,0 +1,701 @@
+{
+  "topic": "AMORITES, THE",
+  "slug": "amorites__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Descent of",
+      "references": [
+        "Genesis 10:15,16",
+        "1 Chronicles 1:13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "One of the seven nations of Canaan",
+      "references": [
+        "Genesis 15:21",
+        "Exodus 3:8,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Governed by many independent kings",
+      "references": [
+        "Joshua 5:1",
+        "Joshua 9:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kings of, great and powerful",
+      "references": [
+        "Psalms 136:18,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Originally inhabited a mountain district in the south",
+      "references": [
+        "Numbers 13:29",
+        "Deuteronomy 1:7,20",
+        "Judges 1:36"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Acquired an extensive territory from Moab east of Jordan",
+      "references": [
+        "Numbers 21:26,30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Had many and strong cities",
+      "references": [
+        "Numbers 32:17,33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of gigantic strength and stature",
+      "references": [
+        "Amos 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Character of: Profane and wicked",
+      "references": [
+        "Genesis 15:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Character of: Idolatrous",
+      "references": [
+        "Joshua 24:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defeated by Chedorlaomer, &c",
+      "references": [
+        "Genesis 14:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Joined Abraham against the kings",
+      "references": [
+        "Genesis 14:13,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Jacob took a portion from",
+      "references": [
+        "Genesis 48:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Forbearance of God towards",
+      "references": [
+        "Genesis 15:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Doomed to utter destruction",
+      "references": [
+        "Deuteronomy 20:17,18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Refused a passage to Israel",
+      "references": [
+        "Numbers 21:21-23",
+        "Deuteronomy 2:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Deprived of their eastern territory by Israel",
+      "references": [
+        "Numbers 21:24-35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Land of, given to Reubenites, &c",
+      "references": [
+        "Joshua 13:15-31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Western kings of, confederated against Israel",
+      "references": [
+        "Joshua 10:1-5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Miraculous overthrow of",
+      "references": [
+        "Joshua 10:11-14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kings of, degraded and slain",
+      "references": [
+        "Joshua 10:24-27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Gibeonites a tribe of, deceived Israel into a league",
+      "references": [
+        "2 Samuel 21:2",
+        "Joshua 9:3-16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Israelites unable to expel, but extracted tribute from",
+      "references": [
+        "Judges 1:34,35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Had peace with Israel in the days of Samuel",
+      "references": [
+        "1 Samuel 7:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brought into bondage by Solomon",
+      "references": [
+        "1 Kings 9:20,21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ahab followed the abominations of",
+      "references": [
+        "1 Kings 21:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Manasseh exceeded abominations of",
+      "references": [
+        "2 Kings 21:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews after the captivity condemned for intermarrying with",
+      "references": [
+        "Ezra 9:1,2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Descent from, illustrative of man’s natural state",
+      "references": [
+        "Ezekiel 16:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:15,16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:13,14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:21"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        8,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 3:8,17"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 9:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 136,
+      "verses": [
+        18,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 136:18,20"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 13:29"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        7,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:7,20"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:36"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        26,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 21:26,30"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        17,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 32:17,33"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:16"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        13,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 14:13,24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 48,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 48:22"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 20,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 20:17,18"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 21:21-23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:30"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Numbers 21:24-35"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "Joshua 13:15-31"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Joshua 10:1-5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joshua 10:11-14"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joshua 10:24-27"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Joshua 9:3-16"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        34,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 1:34,35"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 7:14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 9:20,21"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 21:26"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 21:11"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 9:1,2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "2 Samuel",
+    "Amos",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Ezra",
+    "Genesis",
+    "Joshua",
+    "Judges",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 29,
+    "total_refs": 35,
+    "ot_refs": 35,
+    "nt_refs": 0,
+    "books_count": 15,
+    "top_books": [
+      "Joshua",
+      "Genesis",
+      "Numbers",
+      "Deuteronomy",
+      "Judges",
+      "1 Kings",
+      "1 Chronicles",
+      "Exodus",
+      "Psalms",
+      "Amos"
+    ]
+  }
+}

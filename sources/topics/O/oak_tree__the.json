@@ -1,0 +1,372 @@
+{
+  "topic": "OAK TREE, THE",
+  "slug": "oak_tree__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The hill of Bashan celebrated for",
+      "references": [
+        "Isaiah 2:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Strong",
+      "references": [
+        "Amos 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Thick spreading",
+      "references": [
+        "2 Samuel 18:9",
+        "Ezekiel 6:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Casting its leaves in winter",
+      "references": [
+        "Isaiah 6:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The people of Tyre made oars of",
+      "references": [
+        "Ezekiel 27:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Idolaters often made idols of",
+      "references": [
+        "Isaiah 44:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ancients often: Rested under",
+      "references": [
+        "Judges 6:11,19",
+        "1 Kings 13:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ancients often: Buried their dead under",
+      "references": [
+        "Genesis 35:8",
+        "1 Chronicles 10:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ancients often: Erected monuments under",
+      "references": [
+        "Joshua 24:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ancients often: Performed idolatrous rites under",
+      "references": [
+        "Isaiah 1:29",
+        "Isaiah 57:5",
+        "Ezekiel 6:13",
+        "Hosea 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Absalom in his flight intercepted by, and suspended from",
+      "references": [
+        "2 Samuel 18:9,10,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Jacob buried his family idols under",
+      "references": [
+        "Genesis 35:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the church",
+      "references": [
+        "Isaiah 6:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of strong and powerful men",
+      "references": [
+        "Amos 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of wicked rulers",
+      "references": [
+        "Isaiah 2:13",
+        "Zechariah 11:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Fading,) of the wicked under judgments",
+      "references": [
+        "Isaiah 1:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:13"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 18:9"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 6,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 6:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 6:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 44:14"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        11,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 6:11,19"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 13:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 10:12"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:26"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 57,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 57:5"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 4:13"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        9,
+        10,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 18:9,10,14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:4"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 11:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:30"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Samuel",
+    "Amos",
+    "Ezekiel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "Joshua",
+    "Judges",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 19,
+    "ot_refs": 19,
+    "nt_refs": 0,
+    "books_count": 11,
+    "top_books": [
+      "Isaiah",
+      "2 Samuel",
+      "Ezekiel",
+      "Genesis",
+      "Amos",
+      "Judges",
+      "1 Kings",
+      "1 Chronicles",
+      "Joshua",
+      "Hosea"
+    ]
+  }
+}

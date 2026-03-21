@@ -1,0 +1,125 @@
+{
+  "topic": "RESPECT",
+  "slug": "respect",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "To the aged",
+      "references": [
+        "Leviticus 19:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To rulers",
+      "references": [
+        "Proverbs 25:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To an army",
+      "references": [
+        "Luke 14:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To one another",
+      "references": [
+        "Romans 12:10",
+        "Philippians 2:3",
+        "1 Peter 2:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:32"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 14:10"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:10"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 2:3"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "Leviticus",
+    "Luke",
+    "Philippians",
+    "Proverbs",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 2,
+    "nt_refs": 4,
+    "books_count": 6,
+    "top_books": [
+      "Leviticus",
+      "Proverbs",
+      "Luke",
+      "Romans",
+      "Philippians",
+      "1 Peter"
+    ]
+  }
+}

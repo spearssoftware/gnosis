@@ -1,0 +1,290 @@
+{
+  "topic": "ANTIOCH",
+  "slug": "antioch",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city of Syria",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Disciples first",
+      "references": [
+        "Acts 11:19-30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The congregation in",
+      "references": [
+        "Acts 13:1",
+        "Acts 14:26,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Barnabas and Paul make second visit to",
+      "references": [
+        "Acts 14:26-28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Dissension within the congregation of",
+      "references": [
+        "Acts 15:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Acts 15:1-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Paul and Peter’s controversy at",
+      "references": [
+        "Galatians 2:11-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of Pisidia. Persecutes Paul",
+      "references": [
+        "Acts 13:14-52",
+        "2 Timothy 3:11",
+        "Acts 14:19-22",
+        "Acts 18:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Acts 11:19-30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 13:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 14:26,27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        26,
+        27,
+        28
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 14:26-28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:22"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 35,
+      "testament": "NT",
+      "raw": "Acts 15:1-35"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Galatians 2:11-15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "verse_count": 39,
+      "testament": "NT",
+      "raw": "Acts 13:14-52"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 3:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 14:19-22"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:22"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts",
+    "Galatians"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 11,
+    "ot_refs": 0,
+    "nt_refs": 11,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "Galatians",
+      "2 Timothy"
+    ]
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "topic": "OLIVE TREE, THE",
+  "slug": "olive_tree__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Often grew wild",
+      "references": [
+        "Romans 11:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Cultivated: In olive yards",
+      "references": [
+        "1 Samuel 8:14",
+        "Nehemiah 5:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Cultivated: Among rocks",
+      "references": [
+        "Deuteronomy 32:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Cultivated: On the sides of mountains",
+      "references": [
+        "Matthew 21:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Canaan abounded in",
+      "references": [
+        "Deuteronomy 6:11",
+        "Deuteronomy 8:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Assyria abounded in",
+      "references": [
+        "2 Kings 18:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kings of Israel largely cultivated",
+      "references": [
+        "1 Chronicles 27:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Green",
+      "references": [
+        "Jeremiah 11:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Fair and beautiful",
+      "references": [
+        "Jeremiah 11:16",
+        "Hosea 14:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Fat and unctuous",
+      "references": [
+        "Judges 9:9",
+        "Romans 11:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Bearing goodly fruit",
+      "references": [
+        "Jeremiah 11:16",
+        "James 3:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Grafting of, alluded to",
+      "references": [
+        "Romans 11:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Pruning of, alluded to",
+      "references": [
+        "Romans 11:18,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often cast its flowers",
+      "references": [
+        "Job 15:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often cast its fruit",
+      "references": [
+        "Deuteronomy 28:40"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often suffered from caterpillars",
+      "references": [
+        "Amos 4:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good for the service of God and man",
+      "references": [
+        "Judges 9:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Oil procured from",
+      "references": [
+        "Exodus 27:20",
+        "Deuteronomy 8:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for making: The cherubim in the temple",
+      "references": [
+        "1 Kings 6:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for making: The doors and posts of the temple",
+      "references": [
+        "1 Kings 6:31-33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for making: Booths at feast of tabernacles",
+      "references": [
+        "Nehemiah 8:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Beaten to remove the fruit",
+      "references": [
+        "Deuteronomy 24:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Shaken when fully ripe",
+      "references": [
+        "Isaiah 17:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Gleaning of, left for the poor",
+      "references": [
+        "Deuteronomy 24:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Fruit of, during sabbatical year left for the poor, &c",
+      "references": [
+        "Exodus 23:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The fruit of, trodden in presses to extract the oil",
+      "references": [
+        "Micah 6:15",
+        "Haggai 2:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Failure of, a great calamity",
+      "references": [
+        "Habakkuk 3:17,18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of Christ",
+      "references": [
+        "Romans 11:17,24",
+        "Zechariah 4:3,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the Jewish church",
+      "references": [
+        "Jeremiah 11:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the righteous",
+      "references": [
+        "Psalms 52:8",
+        "Hosea 14:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of children of pious parents",
+      "references": [
+        "Psalms 128:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the two witnesses",
+      "references": [
+        "Revelation 11:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (When wild,) of the Gentiles",
+      "references": [
+        "Romans 11:17,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Gleaning of,) of the remnant of grace",
+      "references": [
+        "Isaiah 17:6",
+        "Isaiah 24:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Probably origin of its being the emblem of peace",
+      "references": [
+        "Genesis 8:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 11,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 11:17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 8:14"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 5:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:1"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 6:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 8,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 8:8"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:32"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:28"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 11,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 11:16"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 14,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 14:6"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:9"
+    },
+    {
+      "book": "James",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 3:12"
+    },
+    {
+      "book": "Romans",
+      "chapter": 11,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 11:24"
+    },
+    {
+      "book": "Romans",
+      "chapter": 11,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 11:18,19"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 15:33"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:40"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 4:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:20"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 6:23"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        31,
+        32,
+        33
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 6:31-33"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 17:6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:11"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 6:15"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Haggai 2:16"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Habakkuk 3:17,18"
+    },
+    {
+      "book": "Romans",
+      "chapter": 11,
+      "verses": [
+        17,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 11:17,24"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 4,
+      "verses": [
+        3,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Zechariah 4:3,12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 52,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 52:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 128,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 128:3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 11:3,4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 24:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "Amos",
+    "Deuteronomy",
+    "Exodus",
+    "Genesis",
+    "Habakkuk",
+    "Haggai",
+    "Hosea",
+    "Isaiah",
+    "James",
+    "Jeremiah",
+    "Job",
+    "Judges",
+    "Matthew",
+    "Micah",
+    "Nehemiah",
+    "Psalms",
+    "Revelation",
+    "Romans",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 35,
+    "total_refs": 35,
+    "ot_refs": 28,
+    "nt_refs": 7,
+    "books_count": 23,
+    "top_books": [
+      "Deuteronomy",
+      "Romans",
+      "Nehemiah",
+      "Exodus",
+      "1 Kings",
+      "Isaiah",
+      "Psalms",
+      "1 Samuel",
+      "Matthew",
+      "2 Kings"
+    ]
+  }
+}

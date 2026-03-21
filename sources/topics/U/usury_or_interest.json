@@ -1,0 +1,305 @@
+{
+  "topic": "USURY OR INTEREST",
+  "slug": "usury_or_interest",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The lending of money or other property for increase",
+      "references": [
+        "Leviticus 25:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Those enriched by unlawful, not allowed to enjoy their gain",
+      "references": [
+        "Psalms 28:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The curse attending the giving or receiving of unlawful, alluded to",
+      "references": [
+        "Jeremiah 15:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Forbidden to take, from brethren",
+      "references": [
+        "Deuteronomy 23:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Forbidden to take, from brethren specially when poor",
+      "references": [
+        "Exodus 22:25",
+        "Leviticus 25:35-37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Often guilty of taking",
+      "references": [
+        "Nehemiah 5:6,7",
+        "Ezekiel 22:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Required to restore",
+      "references": [
+        "Nehemiah 5:9-13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Allowed to take, from strangers",
+      "references": [
+        "Deuteronomy 23:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "True and faithful Israelites never took, from their brethren",
+      "references": [
+        "Psalms 15:5",
+        "Ezekiel 18:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Judgments denounced against those who exacted unlawful",
+      "references": [
+        "Isaiah 24:1,2",
+        "Ezekiel 18:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of the improvement of talents received from God",
+      "references": [
+        "Matthew 25:27",
+        "Luke 19:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:37"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 28,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 28:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 15:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 23:19"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        35,
+        36,
+        37
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 25:35-37"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 5:6,7"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 22,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 22:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Nehemiah 5:9-13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 23:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 15,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 15:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 18:8,9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 24:1,2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 18:13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 25:27"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:23"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Nehemiah",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 16,
+    "ot_refs": 14,
+    "nt_refs": 2,
+    "books_count": 10,
+    "top_books": [
+      "Ezekiel",
+      "Leviticus",
+      "Psalms",
+      "Deuteronomy",
+      "Nehemiah",
+      "Jeremiah",
+      "Exodus",
+      "Isaiah",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

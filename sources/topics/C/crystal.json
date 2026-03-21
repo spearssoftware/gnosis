@@ -1,0 +1,90 @@
+{
+  "topic": "CRYSTAL",
+  "slug": "crystal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A precious stone",
+      "references": [
+        "Job 28:17",
+        "Ezekiel 1:22",
+        "Revelation 4:6",
+        "Revelation 21:11",
+        "Revelation 22:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:17"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:22"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 4:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:1"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Job",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 2,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Revelation",
+      "Job",
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "topic": "JUSTUS",
+  "slug": "justus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A disciple nominated with Matthias to succeed",
+      "references": [
+        "Acts 1:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A believer in Corinth",
+      "references": [
+        "Acts 18:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".A disciple in Rome",
+      "references": [
+        "Colossians 4:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:7"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:11"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Colossians"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Colossians"
+    ]
+  }
+}

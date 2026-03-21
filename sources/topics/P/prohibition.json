@@ -1,0 +1,86 @@
+{
+  "topic": "PROHIBITION",
+  "slug": "prohibition",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABSTINENCE, TOTAL",
+    "COMMANDMENTS",
+    "DRUNKENNESS"
+  ],
+  "aspects": [
+    {
+      "label": "(Of the use of intoxi",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "To priests “on duty,”",
+      "references": [
+        "Leviticus 10:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To Nazarites",
+      "references": [
+        "Numbers 6:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeABSTINENCE, TOTAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMMANDMENTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRUNKENNESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 10:9"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 6:3,4"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Leviticus",
+      "Numbers"
+    ]
+  }
+}

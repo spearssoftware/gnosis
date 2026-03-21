@@ -1,0 +1,632 @@
+{
+  "topic": "HORNS",
+  "slug": "horns",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Natural weapons on heads of animals",
+      "references": [
+        "Daniel 7:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Animals with, mentioned: The ox",
+      "references": [
+        "Psalms 69:31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Animals with, mentioned: The ram",
+      "references": [
+        "Genesis 22:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Animals with, mentioned: The goat",
+      "references": [
+        "Daniel 8:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Animals with, mentioned: The unicorn",
+      "references": [
+        "Psalms 22:21",
+        "Psalms 92:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Tusks of the elephant so called",
+      "references": [
+        "Ezekiel 27:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used offensively",
+      "references": [
+        "Exodus 21:29",
+        "Ezekiel 34:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used: For holding oil",
+      "references": [
+        "1 Samuel 16:1",
+        "1 Kings 1:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used: As musical instruments",
+      "references": [
+        "Joshua 6:4,5",
+        "1 Chronicles 25:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, placed at the four corners of the altars",
+      "references": [
+        "Exodus 27:2",
+        "Exodus 30:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Wearing of, alluded to",
+      "references": [
+        "Psalms 75:5,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of power of God",
+      "references": [
+        "Psalms 18:2",
+        "Habakkuk 3:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of power of Christ",
+      "references": [
+        "Luke 1:69",
+        "Revelation 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of power of Ephraim & c",
+      "references": [
+        "Deuteronomy 33:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of power of the wicked",
+      "references": [
+        "Psalms 22:21",
+        "Psalms 75:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of kings",
+      "references": [
+        "Daniel 7:7,8,24",
+        "Daniel 8:3,5,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of antichristian powers",
+      "references": [
+        "Revelation 13:1",
+        "Revelation 17:3,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Budding of,) of the commencement or revival of a nation",
+      "references": [
+        "Psalms 132:17",
+        "Ezekiel 29:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Raising up,) of arrogance",
+      "references": [
+        "Psalms 75:4,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Exalting,) of increase of power and glory",
+      "references": [
+        "1 Samuel 2:1,10",
+        "Psalms 89:17,24",
+        "Psalms 92:10",
+        "Psalms 112:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Pushing with,) of conquests",
+      "references": [
+        "Deuteronomy 33:17",
+        "1 Kings 22:11",
+        "Micah 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Bringing down,) of degradation",
+      "references": [
+        "Job 16:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Cutting off,) of destruction of power",
+      "references": [
+        "Psalms 75:10",
+        "Jeremiah 48:25",
+        "Lamentations 2:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 7,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 7:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 69,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 69:31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 22:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 8:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 22,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 22:21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 92,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 92:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:15"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 21,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 21:29"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 34,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 34:21"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:39"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 6,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 6:4,5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 75,
+      "verses": [
+        5,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 75:5,10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:2"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        69
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:69"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 5:6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:17"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 75,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 75:10"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 7,
+      "verses": [
+        7,
+        8,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Daniel 7:7,8,24"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 8,
+      "verses": [
+        3,
+        5,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Daniel 8:3,5,20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 13,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 13:1"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 17,
+      "verses": [
+        3,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 17:3,7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 132,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 132:17"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 29,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 29:21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 75,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 75:4,5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        1,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 2:1,10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 89,
+      "verses": [
+        17,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 89:17,24"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 112,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 112:9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:11"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 4:13"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 16:15"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:25"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 2:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "Daniel",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Habakkuk",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Lamentations",
+    "Luke",
+    "Micah",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 23,
+    "total_refs": 37,
+    "ot_refs": 33,
+    "nt_refs": 4,
+    "books_count": 17,
+    "top_books": [
+      "Psalms",
+      "Daniel",
+      "Ezekiel",
+      "Exodus",
+      "Revelation",
+      "1 Samuel",
+      "1 Kings",
+      "Genesis",
+      "Joshua",
+      "1 Chronicles"
+    ]
+  }
+}

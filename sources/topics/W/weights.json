@@ -1,0 +1,520 @@
+{
+  "topic": "WEIGHTS",
+  "slug": "weights",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "MEASURE"
+  ],
+  "aspects": [
+    {
+      "label": "Must be just",
+      "references": [
+        "Leviticus 19:35,36",
+        "Deuteronomy 25:13-15",
+        "Proverbs 11:1",
+        "Proverbs 16:11",
+        "Proverbs 20:10,23",
+        "Micah 6:10,11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMEASURE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Generally regulated by the standard of the sanctuary",
+      "references": [
+        "Exodus 30:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes regulated by the king’s standard",
+      "references": [
+        "2 Samuel 14:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were frequently used in scales or balances",
+      "references": [
+        "Job 31:6",
+        "Isaiah 40:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Gerah",
+      "references": [
+        "Exodus 30:13",
+        "Ezekiel 45:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Bekah or half shekel",
+      "references": [
+        "Genesis 24:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Shekel",
+      "references": [
+        "Exodus 30:13",
+        "Ezekiel 45:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Dram",
+      "references": [
+        "Nehemiah 7:70,71"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Maneh or pound",
+      "references": [
+        "Nehemiah 7:71",
+        "Ezekiel 45:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Talent",
+      "references": [
+        "2 Samuel 12:30",
+        "Revelation 16:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Value of money estimated according to",
+      "references": [
+        "Genesis 23:16",
+        "Genesis 43:21",
+        "Jeremiah 32:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "All metals were given by",
+      "references": [
+        "Exodus 37:24",
+        "1 Chronicles 28:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Provisions were sold by, in times of scarcity",
+      "references": [
+        "Leviticus 26:26",
+        "Ezekiel 4:10,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Forbidden to have various",
+      "references": [
+        "Deuteronomy 25:13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Forbidden to have unjust",
+      "references": [
+        "Leviticus 19:35,36"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Frequently used unjust",
+      "references": [
+        "Micah 6:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of sins",
+      "references": [
+        "Hebrews 12:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the restraints put on the elements",
+      "references": [
+        "Job 28:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Heavy,) of the exceeding glory reserved for saints",
+      "references": [
+        "2 Corinthians 4:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        35,
+        36
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 19:35,36"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        13,
+        14,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:13-15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        10,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 20:10,23"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Micah 6:10,11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:24"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 14:26"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 40:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 45,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 45:12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:22"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        70,
+        71
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 7:70,71"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        71
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:71"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 12:30"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 16:21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 23:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 43,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 43:21"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 32:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 37:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 28:14"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:26"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verses": [
+        10,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 4:10,16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:13,14"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 6:11"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:25"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 4,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 4:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Corinthians",
+    "2 Samuel",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Leviticus",
+    "Micah",
+    "Nehemiah",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 29,
+    "ot_refs": 26,
+    "nt_refs": 3,
+    "books_count": 16,
+    "top_books": [
+      "Proverbs",
+      "Exodus",
+      "Genesis",
+      "Leviticus",
+      "Deuteronomy",
+      "Micah",
+      "2 Samuel",
+      "Job",
+      "Ezekiel",
+      "Nehemiah"
+    ]
+  }
+}

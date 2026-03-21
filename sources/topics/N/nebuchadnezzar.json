@@ -1,0 +1,318 @@
+{
+  "topic": "NEBUCHADNEZZAR",
+  "slug": "nebuchadnezzar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BABYLON"
+  ],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "King of Babylon",
+      "references": [
+        "Jeremiah 21:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Empire of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBABYLON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "His administrationDa 1;2;3;4",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Conquests",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of",
+      "references": [
+        "1 Chronicles 6:15",
+        "2 Chronicles 36:5-21",
+        "Ezra 1:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "39",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Egypt",
+      "references": [
+        "2 Kings 24:7",
+        "Jeremiah 46:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Tyre",
+      "references": [
+        "Ezekiel 29:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An instrument of God’s",
+      "references": [
+        "Jeremiah 27:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecies concerning",
+      "references": [
+        "Jeremiah 21:7,10",
+        "Jeremiah 22:25",
+        "Jeremiah 25:9",
+        "Jeremiah 27:6-9",
+        "Jeremiah 32:28",
+        "Jeremiah 43:10",
+        "Jeremiah 46:13",
+        "Jeremiah 49:30-33",
+        "Ezekiel 26:7-12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 21,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 21:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:15"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 36,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "2 Chronicles 36:5-21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 1:7"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 24:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 46:2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 29,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 29:18"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 27,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 27:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 21,
+      "verses": [
+        7,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 21:7,10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 25,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 25:9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 27,
+      "verses": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Jeremiah 27:6-9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 32:28"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 43,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 43:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 46:13"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Jeremiah 49:30-33"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Ezekiel 26:7-12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "Ezekiel",
+    "Ezra",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 17,
+    "ot_refs": 17,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Jeremiah",
+      "Ezekiel",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Ezra",
+      "2 Kings"
+    ]
+  }
+}

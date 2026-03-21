@@ -1,0 +1,146 @@
+{
+  "topic": "ASIA",
+  "slug": "asia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Inhabitants of, in",
+      "references": [
+        "Acts 2:9",
+        "Acts 21:27",
+        "Acts 24:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul and Silas forbid",
+      "references": [
+        "Acts 16:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gospel preached in, by PaulAc 19;",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul leaves",
+      "references": [
+        "Acts 20:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The congregations of",
+      "references": [
+        "1 Corinthians 16:19",
+        "Revelation 1:4,11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:16"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:19"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        4,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 1:4,11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 8,
+    "ot_refs": 0,
+    "nt_refs": 8,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "1 Corinthians",
+      "Revelation"
+    ]
+  }
+}

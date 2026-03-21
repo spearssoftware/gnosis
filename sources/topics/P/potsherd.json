@@ -1,0 +1,55 @@
+{
+  "topic": "POTSHERD",
+  "slug": "potsherd",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Fragment of earthenware",
+      "references": [
+        "Job 2:8",
+        "Isaiah 45:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 2:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 45,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 45:9"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Job",
+      "Isaiah"
+    ]
+  }
+}

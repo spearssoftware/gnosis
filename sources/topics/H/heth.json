@@ -1,0 +1,100 @@
+{
+  "topic": "HETH",
+  "slug": "heth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HITTITES"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 10:15",
+        "Genesis 23:3,5,7,10,16,18",
+        "Genesis 27:46",
+        "Genesis 49:32",
+        "1 Chronicles 1:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHITTITES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        3,
+        5,
+        7,
+        10,
+        16,
+        18
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Genesis 23:3,5,7,10,16,18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 27:46"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:32"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

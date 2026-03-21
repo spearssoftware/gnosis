@@ -1,0 +1,78 @@
+{
+  "topic": "ELEALEH",
+  "slug": "elealeh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of Moab)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Taken by the Israelites",
+      "references": [
+        "Numbers 32:3,37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Repossessed by the Moabites",
+      "references": [
+        "Isaiah 15:4",
+        "Isaiah 16:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        3,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 32:3,37"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 15,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 15:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 16:9"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Isaiah",
+      "Numbers"
+    ]
+  }
+}

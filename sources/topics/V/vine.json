@@ -1,0 +1,169 @@
+{
+  "topic": "VINE",
+  "slug": "vine",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "VINEYARD"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Jeremiah 2:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fable of",
+      "references": [
+        "Judges 9:12,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Pruned",
+      "references": [
+        "Isaiah 5:6",
+        "John 15:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Parables of",
+      "references": [
+        "Psalms 80:8-14",
+        "Ezekiel 17:6-10",
+        "Ezekiel 19:10-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "John 15:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeVINEYARD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:21"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 9:12,13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:6"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "John 15:1-5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Psalms 80:8-14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 17,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Ezekiel 17:6-10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 19,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Ezekiel 19:10-14"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Judges",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "Ezekiel",
+      "Jeremiah",
+      "Judges",
+      "Isaiah",
+      "John",
+      "Psalms"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "topic": "CENCHREA",
+  "slug": "cenchrea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Corinth",
+      "references": [
+        "Acts 18:18",
+        "Romans 16:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:18"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:1"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Romans"
+    ]
+  }
+}

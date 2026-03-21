@@ -1,0 +1,76 @@
+{
+  "topic": "ZARETAN",
+  "slug": "zaretan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Probably i",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A city of uncertain",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "lo",
+      "references": [
+        "Joshua 3:16",
+        "1 Kings 4:12",
+        "1 Kings 7:46"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 3:16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:46"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "Joshua"
+    ]
+  }
+}

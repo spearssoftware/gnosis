@@ -1,0 +1,55 @@
+{
+  "topic": "EVI",
+  "slug": "evi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Prince of Midian, killed",
+      "references": [
+        "Numbers 31:8",
+        "Joshua 13:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 31:8"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:21"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "Joshua"
+    ]
+  }
+}

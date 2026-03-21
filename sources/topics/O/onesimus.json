@@ -1,0 +1,47 @@
+{
+  "topic": "ONESIMUS",
+  "slug": "onesimus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A fugitive slave and subsequent convert of PaulCol",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "4:9;",
+      "references": [
+        "Philemon 1:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philemon 1:10"
+    }
+  ],
+  "books_mentioned": [
+    "Philemon"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Philemon"
+    ]
+  }
+}

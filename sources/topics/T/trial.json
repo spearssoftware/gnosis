@@ -1,0 +1,132 @@
+{
+  "topic": "TRIAL",
+  "slug": "trial",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COURT",
+    "FAITH",
+    "JUSTICE",
+    "PRISONERS",
+    "TEMPTATION"
+  ],
+  "aspects": [
+    {
+      "label": "Before court",
+      "references": [
+        "Leviticus 24:10-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The right of",
+      "references": [
+        "John 7:51",
+        "Acts 16:37-39",
+        "Acts 22:25-30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOURT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJUSTICE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePRI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "OF FAITH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeFAITH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTEMPTATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Leviticus 24:10-14"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 7:51"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        37,
+        38,
+        39
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 16:37-39"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Acts 22:25-30"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "John",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 4,
+    "ot_refs": 1,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "Leviticus",
+      "John"
+    ]
+  }
+}

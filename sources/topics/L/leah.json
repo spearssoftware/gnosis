@@ -1,0 +1,157 @@
+{
+  "topic": "LEAH",
+  "slug": "leah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The ol",
+      "references": [
+        "Genesis 29:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Married to Jacob",
+      "references": [
+        "Genesis 29:23-26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Children of",
+      "references": [
+        "Genesis 29:31-35",
+        "Genesis 30:9-13,17-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Flees with Jacob",
+      "references": [
+        "Genesis 31:4,14,17",
+        "Genesis 33:2-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "“The buil",
+      "references": [
+        "Ruth 4:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 29:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 29:23-26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 29:31-35"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 30,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Genesis 30:9-13,17-21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        4,
+        14,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 31:4,14,17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Genesis 33:2-7"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 4:11"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Ruth"
+    ]
+  }
+}

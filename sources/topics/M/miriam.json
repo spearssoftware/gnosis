@@ -1,0 +1,125 @@
+{
+  "topic": "MIRIAM",
+  "slug": "miriam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Sister of Moses",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Watched over Moses when he was in the little basket",
+      "references": [
+        "Exodus 2:4-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 15:20,21",
+        "Micah 6:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jealous of Moses, stricken with leprosy, healed on account of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "the intercession of Moses",
+      "references": [
+        "Deuteronomy 24:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Died and is buried at Ka",
+      "references": [
+        "Numbers 20:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Exodus 2:4-8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 15:20,21"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 6:4"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:9"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 20:1"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus",
+    "Micah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Exodus",
+      "Micah",
+      "Deuteronomy",
+      "Numbers"
+    ]
+  }
+}

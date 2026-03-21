@@ -1,0 +1,201 @@
+{
+  "topic": "ECLIPSE",
+  "slug": "eclipse",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MOON",
+    "SUN"
+  ],
+  "aspects": [
+    {
+      "label": "Of the sun and moon",
+      "references": [
+        "Isaiah 13:10",
+        "Ezekiel 32:7,8",
+        "Joel 2:10,31",
+        "Joel 3:15",
+        "Amos 8:9",
+        "Micah 3:6",
+        "Matthew 24:29",
+        "Mark 13:24",
+        "Acts 2:20",
+        "Revelation 6:12,13",
+        "Revelation 8:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSUN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMOON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 60:19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 32,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 32:7,8"
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "verses": [
+        10,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joel 2:10,31"
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 3:15"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 8:9"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 3:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 24:29"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 13:24"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 6:12,13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 8:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:19"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Amos",
+    "Ezekiel",
+    "Isaiah",
+    "Joel",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 12,
+    "ot_refs": 7,
+    "nt_refs": 5,
+    "books_count": 9,
+    "top_books": [
+      "Isaiah",
+      "Joel",
+      "Revelation",
+      "Ezekiel",
+      "Amos",
+      "Micah",
+      "Matthew",
+      "Mark",
+      "Acts"
+    ]
+  }
+}

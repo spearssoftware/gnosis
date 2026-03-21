@@ -1,0 +1,67 @@
+{
+  "topic": "SALLU",
+  "slug": "sallu",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SALLAI"
+  ],
+  "aspects": [
+    {
+      "label": "1. A Benjamite living in",
+      "references": [
+        "1 Chronicles 9:7",
+        "Nehemiah 11:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSALLAI,",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah"
+    ]
+  }
+}

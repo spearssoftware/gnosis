@@ -1,0 +1,54 @@
+{
+  "topic": "SION",
+  "slug": "sion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ZION"
+  ],
+  "aspects": [
+    {
+      "label": "1. A name of Mount Hermon",
+      "references": [
+        "Deuteronomy 4:48"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeZION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:48"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Deuteronomy"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "topic": "GIBBETHON",
+  "slug": "gibbethon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of the tribe of Dan",
+      "references": [
+        "Joshua 19:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allotted to the Levites",
+      "references": [
+        "Joshua 21:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Besieged by Israel, while in possession of Philistines",
+      "references": [
+        "1 Kings 15:27",
+        "1 Kings 16:15,17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:44"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:23"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 15:27"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        15,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 16:15,17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Joshua",
+      "1 Kings"
+    ]
+  }
+}

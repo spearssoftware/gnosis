@@ -1,0 +1,57 @@
+{
+  "topic": "NATHANAEL",
+  "slug": "nathanael",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Becomes a disciple of Jesus",
+      "references": [
+        "John 1:45-49",
+        "John 21:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "John 1:45-49"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 21:2"
+    }
+  ],
+  "books_mentioned": [
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "John"
+    ]
+  }
+}

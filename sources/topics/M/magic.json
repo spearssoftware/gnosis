@@ -1,0 +1,51 @@
+{
+  "topic": "MAGIC",
+  "slug": "magic",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ASTROLOGY",
+    "MAGICIAN",
+    "NECROMANCY",
+    "SORCERY",
+    "WITCHCRAFT"
+  ],
+  "aspects": [
+    {
+      "label": "SeeASTROLOGY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMAGICIAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNECROMANCY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWITCHCRAFT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

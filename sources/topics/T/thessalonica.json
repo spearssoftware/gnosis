@@ -1,0 +1,161 @@
+{
+  "topic": "THESSALONICA",
+  "slug": "thessalonica",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of the Macedonia area)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits",
+      "references": [
+        "Acts 17:1",
+        "Philippians 4:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "People of, persecute Paul",
+      "references": [
+        "Acts 17:5-8,11,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Men of, accompany Paul",
+      "references": [
+        "Acts 20:4",
+        "Acts 27:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul writes to Christians in",
+      "references": [
+        "1 Thessalonians 1:1",
+        "2 Thessalonians 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Timothy 4:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 17:1"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 4:16"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        11,
+        13
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Acts 17:5-8,11,13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:2"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 1:1"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Thessalonians 1:1"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Thessalonians",
+    "2 Thessalonians",
+    "2 Timothy",
+    "Acts",
+    "Philippians"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 8,
+    "ot_refs": 0,
+    "nt_refs": 8,
+    "books_count": 5,
+    "top_books": [
+      "Acts",
+      "Philippians",
+      "1 Thessalonians",
+      "2 Thessalonians",
+      "2 Timothy"
+    ]
+  }
+}

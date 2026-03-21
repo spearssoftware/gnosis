@@ -1,0 +1,71 @@
+{
+  "topic": "DECAPOLIS",
+  "slug": "decapolis",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Ten cities situated in one district on the east of the Sea of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Galilee",
+      "references": [
+        "Matthew 4:25",
+        "Mark 5:20",
+        "Mark 7:31"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:25"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 5:20"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 7:31"
+    }
+  ],
+  "books_mentioned": [
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Mark",
+      "Matthew"
+    ]
+  }
+}

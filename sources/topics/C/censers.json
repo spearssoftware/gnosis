@@ -1,0 +1,194 @@
+{
+  "topic": "CENSERS",
+  "slug": "censers",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "For burning incense",
+      "references": [
+        "Leviticus 10:1",
+        "2 Chronicles 26:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Brass",
+      "references": [
+        "Numbers 16:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Gold",
+      "references": [
+        "1 Kings 7:50"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "One of gold in the most holy place",
+      "references": [
+        "Hebrews 9:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Directions for removing",
+      "references": [
+        "Numbers 4:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often used in idolatrous worship",
+      "references": [
+        "Ezekiel 8:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of Korah, &c made into plates to cover the altar",
+      "references": [
+        "Numbers 16:18,39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Typical of Christ’s intercession",
+      "references": [
+        "Revelation 8:3,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 10:1"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:19"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 16:39"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:50"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 9,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 9:4"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 4:14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 8:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        18,
+        39
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 16:18,39"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        3,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 8:3,5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "Ezekiel",
+    "Hebrews",
+    "Leviticus",
+    "Numbers",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 9,
+    "ot_refs": 7,
+    "nt_refs": 2,
+    "books_count": 7,
+    "top_books": [
+      "Numbers",
+      "Leviticus",
+      "2 Chronicles",
+      "1 Kings",
+      "Hebrews",
+      "Ezekiel",
+      "Revelation"
+    ]
+  }
+}

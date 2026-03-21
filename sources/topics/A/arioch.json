@@ -1,0 +1,65 @@
+{
+  "topic": "ARIOCH",
+  "slug": "arioch",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. King of Ellasar",
+      "references": [
+        "Genesis 14:1,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "Daniel 2:14,15,24,25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        1,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 14:1,9"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        14,
+        15,
+        24,
+        25
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Daniel 2:14,15,24,25"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Daniel"
+    ]
+  }
+}

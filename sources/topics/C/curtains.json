@@ -1,0 +1,125 @@
+{
+  "topic": "CURTAINS",
+  "slug": "curtains",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TABERNACLE",
+    "TAPESTRY"
+  ],
+  "aspects": [
+    {
+      "label": "For the tabernacleEx 26;27:9-18;36:8-18",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "In the palace of Ahasuerus",
+      "references": [
+        "Esther 1:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTABERNACLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTAPESTRY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 40:22",
+        "Isaiah 54:2",
+        "Jeremiah 4:20",
+        "Jeremiah 10:20",
+        "Jeremiah 49:29"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 1:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 40:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 54,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 54:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:20"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 10:20"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:29"
+    }
+  ],
+  "books_mentioned": [
+    "Esther",
+    "Isaiah",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Jeremiah",
+      "Isaiah",
+      "Esther"
+    ]
+  }
+}

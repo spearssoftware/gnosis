@@ -1,0 +1,66 @@
+{
+  "topic": "JARMUTH",
+  "slug": "jarmuth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city in the territory of the tribe of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "10:3,5,23;12:11;15:35;",
+      "references": [
+        "Nehemiah 11:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Leviti",
+      "references": [
+        "Joshua 21:29"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:29"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:29"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Joshua"
+    ]
+  }
+}

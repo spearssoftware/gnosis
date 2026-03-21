@@ -1,0 +1,119 @@
+{
+  "topic": "BARABBAS",
+  "slug": "barabbas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A pri",
+      "references": [
+        "Matthew 27:16-26",
+        "Mark 15:7-15",
+        "Luke 23:18-25",
+        "John 18:40",
+        "Acts 3:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Matthew 27:16-26"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Mark 15:7-15"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 23:18-25"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 18:40"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 3:14"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 5,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John",
+      "Acts"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "SARDIS",
+  "slug": "sardis",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city in Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "One of the seven congregations in",
+      "references": [
+        "Revelation 1:11",
+        "Revelation 3:1-4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 3,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Revelation 3:1-4"
+    }
+  ],
+  "books_mentioned": [
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Revelation"
+    ]
+  }
+}

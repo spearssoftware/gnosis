@@ -1,0 +1,108 @@
+{
+  "topic": "MEDEBA",
+  "slug": "medeba",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Moab",
+      "references": [
+        "Numbers 21:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An idolatrous “high place,”",
+      "references": [
+        "Isaiah 15:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allotted to Reuben",
+      "references": [
+        "Joshua 13:9,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David",
+      "references": [
+        "1 Chronicles 19:7-15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:30"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 15:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        9,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 13:9,16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "1 Chronicles 19:7-15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Isaiah",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Numbers",
+      "Isaiah",
+      "Joshua",
+      "1 Chronicles"
+    ]
+  }
+}

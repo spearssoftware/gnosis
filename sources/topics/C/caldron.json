@@ -1,0 +1,102 @@
+{
+  "topic": "CALDRON",
+  "slug": "caldron",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "In the tabernacle",
+      "references": [
+        "1 Samuel 2:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the temple",
+      "references": [
+        "2 Chronicles 35:13",
+        "Jeremiah 52:18,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Ezekiel 11:3-11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 2:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 35,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 35:13"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 52,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 52:18,19"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 11,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Ezekiel 11:3-11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Chronicles",
+    "Ezekiel",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Samuel",
+      "2 Chronicles",
+      "Jeremiah",
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "topic": "GAASH",
+  "slug": "gaash",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A foothill of Mount Ephraim)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Joshua’s inheritance embraced",
+      "references": [
+        "Joshua 24:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Joshua buried on the north si",
+      "references": [
+        "Joshua 24:30",
+        "Judges 2:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Brooks of",
+      "references": [
+        "2 Samuel 23:30"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:30"
+    },
+    {
+      "book": "Judges",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 2:9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 23:30"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "Judges",
+      "2 Samuel"
+    ]
+  }
+}

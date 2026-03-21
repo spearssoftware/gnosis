@@ -1,0 +1,48 @@
+{
+  "topic": "MERCURIUS",
+  "slug": "mercurius",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A pagan god; Mercury (to the Romans); Hermes (to the Greeks))",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul taken for, in Ly",
+      "references": [
+        "Acts 14:11,12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 14:11,12"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

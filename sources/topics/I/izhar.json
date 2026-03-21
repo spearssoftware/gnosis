@@ -1,0 +1,70 @@
+{
+  "topic": "IZHAR",
+  "slug": "izhar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 6:18,21",
+        "1 Chronicles 6:2,18,38",
+        "1 Chronicles 23:12,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        18,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 6:18,21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        2,
+        18,
+        38
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:2,18,38"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        12,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:12,18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Exodus"
+    ]
+  }
+}

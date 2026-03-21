@@ -1,0 +1,47 @@
+{
+  "topic": "HANAMEL",
+  "slug": "hanamel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Cousin off",
+      "references": [
+        "Jeremiah 32:7-12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Jeremiah 32:7-12"
+    }
+  ],
+  "books_mentioned": [
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Jeremiah"
+    ]
+  }
+}

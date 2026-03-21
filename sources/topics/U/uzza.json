@@ -1,0 +1,128 @@
+{
+  "topic": "UZZA",
+  "slug": "uzza",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "UZZAH"
+  ],
+  "aspects": [
+    {
+      "label": "1. UZZA",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeUZZAH,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Proprietor of the burial place of kings (Manasseh and Amon)",
+      "references": [
+        "2 Kings 21:18,26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 6:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In R. V.,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "4.",
+      "references": [
+        "1 Chronicles 8:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. One of the Nethinim",
+      "references": [
+        "Ezra 2:49",
+        "Nehemiah 7:51"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "verses": [
+        18,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 21:18,26"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:49"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:51"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "2 Kings",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

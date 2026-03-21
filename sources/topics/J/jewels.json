@@ -1,0 +1,280 @@
+{
+  "topic": "JEWELS",
+  "slug": "jewels",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BRACELET",
+    "CHAINS",
+    "EARRINGS",
+    "MUFFLER",
+    "PEARL",
+    "RING",
+    "SEAL",
+    "STONE, PRECIOUS"
+  ],
+  "aspects": [
+    {
+      "label": "Betrothal presents of",
+      "references": [
+        "Genesis 24:53"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Borrowed from Egyptians by Israelites",
+      "references": [
+        "Exodus 3:22",
+        "Exodus 11:2",
+        "Exodus 12:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 35:22",
+        "Numbers 31:50-52"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Regar",
+      "references": [
+        "Genesis 35:4",
+        "Exodus 33:4-6",
+        "Isaiah 3:18-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tokens of love",
+      "references": [
+        "Ezekiel 16:11-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worn by men",
+      "references": [
+        "Ezekiel 23:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Proverbs 20:15",
+        "Malachi 3:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBRACELET",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCHAINS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeEARRINGS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeMUFFLER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePEARL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeRING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSEAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSTONE, PRECIOUS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        53
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:53"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 3:22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 11:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:35"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 35,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 35:22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        50,
+        51,
+        52
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 31:50-52"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 33,
+      "verses": [
+        4,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 33:4-6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Isaiah 3:18-21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezekiel 16:11-13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 23:42"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:15"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:17"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Malachi",
+    "Numbers",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 13,
+    "ot_refs": 13,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "Exodus",
+      "Genesis",
+      "Ezekiel",
+      "Numbers",
+      "Isaiah",
+      "Proverbs",
+      "Malachi"
+    ]
+  }
+}

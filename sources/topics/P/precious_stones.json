@@ -1,0 +1,1080 @@
+{
+  "topic": "PRECIOUS STONES",
+  "slug": "precious_stones",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "STONES"
+  ],
+  "aspects": [
+    {
+      "label": "SeeSTONES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Dug out of the earth",
+      "references": [
+        "Job 28:5,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brought from Ophir",
+      "references": [
+        "1 Kings 10:11",
+        "2 Chronicles 9:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brought from Sheba",
+      "references": [
+        "1 Kings 10:1,2",
+        "Ezekiel 27:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Stones of fire",
+      "references": [
+        "Ezekiel 28:14,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Stones to be set",
+      "references": [
+        "1 Chronicles 29:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Jewels",
+      "references": [
+        "Isaiah 61:10",
+        "Ezekiel 16:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Precious jewels",
+      "references": [
+        "2 Chronicles 20:25",
+        "Proverbs 20:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of great variety",
+      "references": [
+        "1 Chronicles 29:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of many colours",
+      "references": [
+        "1 Chronicles 29:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brilliant and glittering",
+      "references": [
+        "1 Chronicles 29:2",
+        "Revelation 21:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Agate",
+      "references": [
+        "Exodus 28:19",
+        "Isaiah 54:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Amethyst",
+      "references": [
+        "Exodus 28:19",
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Beryl",
+      "references": [
+        "Daniel 10:6",
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Carbuncle",
+      "references": [
+        "Exodus 28:17",
+        "Isaiah 54:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Coral",
+      "references": [
+        "Job 28:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Chalcedony",
+      "references": [
+        "Revelation 21:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Chrysolite",
+      "references": [
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Chrysoprasus",
+      "references": [
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Diamond",
+      "references": [
+        "Exodus 28:18",
+        "Jeremiah 17:1",
+        "Ezekiel 28:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Emerald",
+      "references": [
+        "Ezekiel 27:16",
+        "Revelation 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Jacinth",
+      "references": [
+        "Revelation 9:17",
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Jasper",
+      "references": [
+        "Revelation 4:3",
+        "Revelation 21:11,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Onyx",
+      "references": [
+        "Exodus 28:20",
+        "Job 28:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Pearl",
+      "references": [
+        "Job 28:18",
+        "Matthew 13:45,46",
+        "Revelation 21:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Ruby",
+      "references": [
+        "Job 28:18",
+        "Lamentations 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Sapphire",
+      "references": [
+        "Exodus 24:10",
+        "Ezekiel 1:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Sardine or Sardius",
+      "references": [
+        "Exodus 28:17",
+        "Revelation 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Sardonyx",
+      "references": [
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: Topaz",
+      "references": [
+        "Job 28:19",
+        "Revelation 21:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Highly prized by the ancients",
+      "references": [
+        "Proverbs 17:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Extensive commerce in",
+      "references": [
+        "Ezekiel 27:22",
+        "Revelation 18:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often given as presents",
+      "references": [
+        "1 Kings 10:2,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Art of engraving upon, early known to the Jews",
+      "references": [
+        "Exodus 28:9,11,21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Art of setting, known to the Jews",
+      "references": [
+        "Exodus 28:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Adorning the high priest’s ephod",
+      "references": [
+        "Exodus 28:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Adorning the breastplate of judgment",
+      "references": [
+        "Exodus 28:17-20",
+        "Exodus 39:10-14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Decorating the person",
+      "references": [
+        "Ezekiel 28:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Ornamenting royal crowns",
+      "references": [
+        "2 Samuel 12:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Setting in seals and rings",
+      "references": [
+        "Song of Solomon 5:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Adorning the temple",
+      "references": [
+        "2 Chronicles 3:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used for: Honouring idols",
+      "references": [
+        "Daniel 11:38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A part of the treasure of kings",
+      "references": [
+        "2 Chronicles 32:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given by the Jews for the tabernacle",
+      "references": [
+        "Exodus 25:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prepared by David for the temple",
+      "references": [
+        "1 Chronicles 29:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given by chief men for the temple",
+      "references": [
+        "1 Chronicles 29:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Preciousness of Christ",
+      "references": [
+        "Isaiah 28:16",
+        "1 Peter 2:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Beauty and stability of the church",
+      "references": [
+        "Isaiah 54:11,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Saints",
+      "references": [
+        "Malachi 3:17",
+        "1 Corinthians 3:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Seductive splendour and false glory of the apostasy",
+      "references": [
+        "Revelation 17:4",
+        "Revelation 18:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Worldly glory of nations",
+      "references": [
+        "Ezekiel 28:13-16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Glory of heavenly Jerusalem",
+      "references": [
+        "Revelation 21:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Stability of heavenly Jerusalem",
+      "references": [
+        "Revelation 21:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 28:5,6"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:11"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 10:1,2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        14,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 28:14,16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 61,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 61:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 20:25"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:15"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 54,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 54:12"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:20"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 10,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 10:6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:17"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:19"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:18"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 17,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 17:1"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:16"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 4:3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:17"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        11,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 21:11,19"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:20"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        45,
+        46
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 13:45,46"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:21"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 4:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 24:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:26"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:19"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:8"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        2,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 10:2,10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        9,
+        11,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 28:9,11,21"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Exodus 28:17-20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Exodus 39:10-14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 12:30"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 3:6"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 11:38"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 32,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 32:27"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 28:16"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 54,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 54:11,12"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:17"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:12"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 17,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 17:4"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ezekiel 28:13-16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Corinthians",
+    "1 Kings",
+    "1 Peter",
+    "2 Chronicles",
+    "2 Samuel",
+    "Daniel",
+    "Exodus",
+    "Ezekiel",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Lamentations",
+    "Malachi",
+    "Matthew",
+    "Proverbs",
+    "Revelation",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 53,
+    "total_refs": 56,
+    "ot_refs": 43,
+    "nt_refs": 13,
+    "books_count": 18,
+    "top_books": [
+      "Revelation",
+      "Exodus",
+      "Ezekiel",
+      "Job",
+      "2 Chronicles",
+      "Isaiah",
+      "1 Kings",
+      "1 Chronicles",
+      "Proverbs",
+      "Daniel"
+    ]
+  }
+}

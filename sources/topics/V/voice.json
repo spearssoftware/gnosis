@@ -1,0 +1,124 @@
+{
+  "topic": "VOICE",
+  "slug": "voice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ANTHROPOMORPHISMS"
+  ],
+  "aspects": [
+    {
+      "label": "OF GO",
+      "references": [
+        "Ezekiel 1:24,28",
+        "Ezekiel 10:5",
+        "John 5:37",
+        "John 12:28-30",
+        "Acts 7:31",
+        "Acts 9:4,7",
+        "Acts 26:14,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeANTHROPOMORPHISMS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        24,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 1:24,28"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 10:5"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 5:37"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        28,
+        29,
+        30
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 12:28-30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:31"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        4,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 9:4,7"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 26:14,15"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezekiel",
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 7,
+    "ot_refs": 2,
+    "nt_refs": 5,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "Ezekiel",
+      "John"
+    ]
+  }
+}

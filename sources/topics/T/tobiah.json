@@ -1,0 +1,159 @@
+{
+  "topic": "TOBIAH",
+  "slug": "tobiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Ancestor of a family of Babylonian",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2:60;",
+      "references": [
+        "Nehemiah 7:62"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An enemy of the Jews in the time of Nehemiah",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Opposes the rebuilding of the wall of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Jeremiah 2:10,19",
+        "Jeremiah 4:3,7,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Conspires to injure and intimidate Nehemiah",
+      "references": [
+        "Nehemiah 6:1-14,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Subverts nobles of",
+      "references": [
+        "Nehemiah 6:17,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Allies himself with Eliashib, the priest",
+      "references": [
+        "Nehemiah 13:4-9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        62
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:62"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verses": [
+        10,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 2:10,19"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 4,
+      "verses": [
+        3,
+        7,
+        8
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nehemiah 4:3,7,8"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        19
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Nehemiah 6:1-14,19"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 6:17,18"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 13,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Nehemiah 13:4-9"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

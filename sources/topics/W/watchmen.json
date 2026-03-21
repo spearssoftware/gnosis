@@ -1,0 +1,454 @@
+{
+  "topic": "WATCHMEN",
+  "slug": "watchmen",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Soldiers generally acted as",
+      "references": [
+        "Matthew 27:65,66"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Citizens sometimes acted as",
+      "references": [
+        "Nehemiah 7:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were stationed: On watch towers",
+      "references": [
+        "2 Kings 9:17",
+        "Isaiah 21:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were stationed: On the walls of cities",
+      "references": [
+        "Isaiah 62:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were stationed: In the streets of cities",
+      "references": [
+        "Psalms 127:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were stationed: Around the temple in Jerusalem on special occasions",
+      "references": [
+        "2 Kings 11:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Paraded the streets at night to preserve order",
+      "references": [
+        "Song of Solomon 3:3",
+        "Song of Solomon 5:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In time of danger: Increase in number",
+      "references": [
+        "Jeremiah 51:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In time of danger: Vigilant night and day",
+      "references": [
+        "Nehemiah 4:9",
+        "Isaiah 21:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In time of danger: Reported the approach of all strangers",
+      "references": [
+        "2 Samuel 18:24-27",
+        "2 Kings 9:18-20",
+        "Isaiah 21:6,7,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In time of danger: Sounded an alarm at the approach of enemies",
+      "references": [
+        "Ezekiel 33:2,3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Vigilance of, vain without God’s protection",
+      "references": [
+        "Psalms 127:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were relieved by turns",
+      "references": [
+        "Nehemiah 7:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Danger of sleeping on their posts, referred to",
+      "references": [
+        "Matthew 28:13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Neglecting to give warning punished with death",
+      "references": [
+        "Ezekiel 33:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often interrogated by passengers",
+      "references": [
+        "Isaiah 21:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of ministers",
+      "references": [
+        "Isaiah 5:28",
+        "Isaiah 62:6",
+        "Ezekiel 3:17",
+        "Hebrews 13:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Blind,) of careless ministers",
+      "references": [
+        "Isaiah 56:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Looking for the morning,) of anxious waiting for God",
+      "references": [
+        "Psalms 130:5,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        65,
+        66
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 27:65,66"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:3"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 9:17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 21:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 62,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 62:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 127,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 127:1"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 11:6"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 3:3"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 51:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 4:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 21:8"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 18:24-27"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verses": [
+        18,
+        19,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 9:18-20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        6,
+        7,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Isaiah 21:6,7,9"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 33,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 33:2,3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 28:13,14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 33,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 33:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 21:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:28"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 3:17"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 13,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 13:17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 56,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 56:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 130,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 130:5,6"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "2 Samuel",
+    "Ezekiel",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Matthew",
+    "Nehemiah",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 24,
+    "ot_refs": 21,
+    "nt_refs": 3,
+    "books_count": 10,
+    "top_books": [
+      "Isaiah",
+      "2 Kings",
+      "Ezekiel",
+      "Matthew",
+      "Nehemiah",
+      "Psalms",
+      "Song of Solomon",
+      "Jeremiah",
+      "2 Samuel",
+      "Hebrews"
+    ]
+  }
+}

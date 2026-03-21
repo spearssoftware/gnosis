@@ -1,0 +1,118 @@
+{
+  "topic": "BRIDLE",
+  "slug": "bridle",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BIT"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Psalms 32:9",
+        "Proverbs 26:3",
+        "Revelation 14:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "2 Kings 19:28",
+        "Psalms 39:1",
+        "James 1:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBIT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 32,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 32:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 14:20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:28"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 39,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 39:1"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 1:26"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "James",
+    "Proverbs",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 4,
+    "nt_refs": 2,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Proverbs",
+      "Revelation",
+      "2 Kings",
+      "James"
+    ]
+  }
+}

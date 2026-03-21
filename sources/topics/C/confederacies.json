@@ -1,0 +1,100 @@
+{
+  "topic": "CONFEDERACIES",
+  "slug": "confederacies",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ALLIANCES"
+  ],
+  "aspects": [
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of kings",
+      "references": [
+        "Genesis 14:1,2",
+        "Joshua 10:1-5",
+        "Joshua 11:1-5",
+        "1 Kings 20:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeALLIANCES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 14:1,2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Joshua 10:1-5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Joshua 11:1-5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 20:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Genesis",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "Genesis",
+      "1 Kings"
+    ]
+  }
+}

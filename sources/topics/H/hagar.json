@@ -1,0 +1,105 @@
+{
+  "topic": "HAGAR",
+  "slug": "hagar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A servant of Abraham and handmai",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Given by Sarah to Abraham to be his wifeGe 16",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 25:12-15",
+        "1 Chronicles 5:10,19-22",
+        "Psalms 83:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Galatians 4:24,25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 25:12-15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        10,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:10,19-22"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 83,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 83:6"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 4:24,25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Galatians",
+    "Genesis",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 3,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Psalms",
+      "Galatians"
+    ]
+  }
+}

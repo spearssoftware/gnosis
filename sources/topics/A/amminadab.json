@@ -1,0 +1,167 @@
+{
+  "topic": "AMMINADAB",
+  "slug": "amminadab",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father-in-law of Aaron",
+      "references": [
+        "Exodus 6:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Father of Nashon",
+      "references": [
+        "Numbers 1:7",
+        "Numbers 2:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Lineage of",
+      "references": [
+        "Ruth 4:18-20",
+        "1 Chronicles 2:10",
+        "Matthew 1:4",
+        "Luke 3:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "1 Chronicles 6:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "1 Chronicles 15:10,11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:9"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        18,
+        19,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ruth 4:18-20"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 1:4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:33"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:10,11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus",
+    "Luke",
+    "Matthew",
+    "Numbers",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 9,
+    "ot_refs": 7,
+    "nt_refs": 2,
+    "books_count": 6,
+    "top_books": [
+      "1 Chronicles",
+      "Numbers",
+      "Exodus",
+      "Ruth",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

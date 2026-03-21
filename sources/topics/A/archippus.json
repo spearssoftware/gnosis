@@ -1,0 +1,55 @@
+{
+  "topic": "ARCHIPPUS",
+  "slug": "archippus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A disciple at Colossae",
+      "references": [
+        "Colossians 4:17",
+        "Philemon 1:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:17"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philemon 1:2"
+    }
+  ],
+  "books_mentioned": [
+    "Colossians",
+    "Philemon"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Colossians",
+      "Philemon"
+    ]
+  }
+}

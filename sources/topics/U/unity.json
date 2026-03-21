@@ -1,0 +1,229 @@
+{
+  "topic": "UNITY",
+  "slug": "unity",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMUNION",
+    "FELLOWSHIP",
+    "GOD, UNITY OF"
+  ],
+  "aspects": [
+    {
+      "label": "OF THE GODHEAD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGOD, UNITY OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "OF THE RIGHTEOUS",
+      "references": [
+        "Psalms 133:1",
+        "Isaiah 52:8",
+        "Matthew 23:8",
+        "Acts 4:32",
+        "Romans 12:16",
+        "Romans 14:19",
+        "Romans 15:5,6",
+        "1 Corinthians 1:10",
+        "2 Corinthians 13:11",
+        "Ephesians 4:3",
+        "Philippians 1:27",
+        "Philippians 2:2",
+        "Philippians 3:16,17",
+        "1 Peter 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCOMMUNION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeFELLOWSHIP",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 133,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 133:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 52,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 52:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:32"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:16"
+    },
+    {
+      "book": "Romans",
+      "chapter": 14,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 14:19"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 15:5,6"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:10"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 13,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 13:11"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:3"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 1:27"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 2:2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Philippians 3:16,17"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 3:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Peter",
+    "2 Corinthians",
+    "Acts",
+    "Ephesians",
+    "Isaiah",
+    "Matthew",
+    "Philippians",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 14,
+    "ot_refs": 2,
+    "nt_refs": 12,
+    "books_count": 10,
+    "top_books": [
+      "Romans",
+      "Philippians",
+      "Psalms",
+      "Isaiah",
+      "Matthew",
+      "Acts",
+      "1 Corinthians",
+      "2 Corinthians",
+      "Ephesians",
+      "1 Peter"
+    ]
+  }
+}

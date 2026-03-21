@@ -1,0 +1,115 @@
+{
+  "topic": "PELATIAH",
+  "slug": "pelatiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A",
+      "references": [
+        "1 Chronicles 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Simeonite who was",
+      "references": [
+        "1 Chronicles 4:42,43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. One of those who signed the covenant with Nehemiah",
+      "references": [
+        "Nehemiah 10:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A prince against whom Ezekiel prophesied, and who fell",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "at the close of the prophecy",
+      "references": [
+        "Ezekiel 11:1-13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        42,
+        43
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:42,43"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Ezekiel 11:1-13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezekiel",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah",
+      "Ezekiel"
+    ]
+  }
+}

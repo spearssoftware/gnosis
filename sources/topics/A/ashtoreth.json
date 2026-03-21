@@ -1,0 +1,153 @@
+{
+  "topic": "ASHTORETH",
+  "slug": "ashtoreth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An idol of the Philistines, Zidonians, and Phenicians. Probably",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "i",
+      "references": [
+        "Jeremiah 7:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worshiped by Israelites",
+      "references": [
+        "Judges 2:13",
+        "Judges 10:6",
+        "1 Samuel 7:3,4",
+        "1 Samuel 12:10",
+        "1 Kings 11:5,33",
+        "2 Kings 23:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Temple of",
+      "references": [
+        "1 Samuel 31:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "High places of, at",
+      "references": [
+        "2 Kings 23:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 7,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 7:18"
+    },
+    {
+      "book": "Judges",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 2:13"
+    },
+    {
+      "book": "Judges",
+      "chapter": 10,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 10:6"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 7:3,4"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 12:10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        5,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 11:5,33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:13"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 31:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "Jeremiah",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Samuel",
+      "Judges",
+      "Jeremiah",
+      "1 Kings",
+      "2 Kings"
+    ]
+  }
+}

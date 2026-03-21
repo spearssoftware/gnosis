@@ -1,0 +1,356 @@
+{
+  "topic": "OLIVE",
+  "slug": "olive",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "OIL"
+  ],
+  "aspects": [
+    {
+      "label": "(A fruit tree)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Branch of, brought by the dove to Noah’s ark",
+      "references": [
+        "Genesis 8:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Common to the land of",
+      "references": [
+        "Exodus 23:11",
+        "Deuteronomy 6:11",
+        "Deuteronomy 8:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Israelites comman",
+      "references": [
+        "Deuteronomy 28:40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Branches of, used for booths (huts)",
+      "references": [
+        "Nehemiah 8:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bears flowers",
+      "references": [
+        "Job 15:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Precepts concerning gleaning the fruit of",
+      "references": [
+        "Deuteronomy 24:20",
+        "Isaiah 17:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The cherubs ma",
+      "references": [
+        "1 Kings 6:23,31-33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fable of",
+      "references": [
+        "Judges 9:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of prosperity",
+      "references": [
+        "Psalms 128:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The wild, a figure of the Gentiles; the cultivated, of the Jews",
+      "references": [
+        "Romans 11:17-21,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Ecclesiastes 4:2-12",
+        "Revelation 11:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FRUIT OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Oil extracted from, used as il",
+      "references": [
+        "Exodus 39:37",
+        "Leviticus 24:2",
+        "Ecclesiastes 4:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeOIL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 6:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 8,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 8:8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:40"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:15"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 15:33"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 17:6"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        23,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Kings 6:23,31-33"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 128,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 128:3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 11,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        24
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Romans 11:17-21,24"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Ecclesiastes 4:2-12"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 11:4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:37"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 24:2"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 4:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Exodus",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "Judges",
+    "Leviticus",
+    "Nehemiah",
+    "Psalms",
+    "Revelation",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 18,
+    "ot_refs": 16,
+    "nt_refs": 2,
+    "books_count": 13,
+    "top_books": [
+      "Deuteronomy",
+      "Exodus",
+      "Ecclesiastes",
+      "Genesis",
+      "Nehemiah",
+      "Job",
+      "Isaiah",
+      "1 Kings",
+      "Judges",
+      "Psalms"
+    ]
+  }
+}

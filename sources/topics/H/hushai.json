@@ -1,0 +1,74 @@
+{
+  "topic": "HUSHAI",
+  "slug": "hushai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "David’s friend",
+      "references": [
+        "2 Samuel 15:32-37",
+        "2 Samuel 16:16-19",
+        "1 Chronicles 27:33"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "2 Samuel 15:32-37"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 16:16-19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:33"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

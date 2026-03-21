@@ -1,0 +1,86 @@
+{
+  "topic": "EARNEST",
+  "slug": "earnest",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TOKEN"
+  ],
+  "aspects": [
+    {
+      "label": "A pledge or token",
+      "references": [
+        "Psalms 86:17",
+        "2 Corinthians 1:22",
+        "2 Corinthians 5:5",
+        "Ephesians 1:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTOKEN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 86,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 86:17"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 1:22"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 5:5"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 1:14"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Ephesians",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 1,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "2 Corinthians",
+      "Psalms",
+      "Ephesians"
+    ]
+  }
+}

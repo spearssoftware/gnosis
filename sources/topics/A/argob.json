@@ -1,0 +1,76 @@
+{
+  "topic": "ARGOB",
+  "slug": "argob",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A region east of the Jordan River",
+      "references": [
+        "Deuteronomy 3:4,13,14",
+        "1 Kings 4:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A courtier of Pekah",
+      "references": [
+        "2 Kings 15:25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 3,
+      "verses": [
+        4,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 3:4,13,14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:13"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Deuteronomy",
+      "1 Kings",
+      "2 Kings"
+    ]
+  }
+}

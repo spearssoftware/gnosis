@@ -1,0 +1,32 @@
+{
+  "topic": "KORHITES",
+  "slug": "korhites",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LEVITES"
+  ],
+  "aspects": [
+    {
+      "label": "(A division (shift) of the Levites)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLEVITES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

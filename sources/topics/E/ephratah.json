@@ -1,0 +1,129 @@
+{
+  "topic": "EPHRATAH",
+  "slug": "ephratah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The ancient name of Beth-lehem-",
+      "references": [
+        "Genesis 35:16,19",
+        "Genesis 48:7",
+        "Ruth 4:11",
+        "Psalms 132:6",
+        "Micah 5:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Second wife of",
+      "references": [
+        "1 Chronicles 2:19,50",
+        "1 Chronicles 4:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        16,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 35:16,19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 48,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 48:7"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 4:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 132,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 132:6"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 5:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        19,
+        50
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:19,50"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Micah",
+    "Psalms",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Ruth",
+      "Psalms",
+      "Micah"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "topic": "OBOTH",
+  "slug": "oboth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One",
+      "references": [
+        "Numbers 21:10,11",
+        "Numbers 33:43,44"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 21:10,11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        43,
+        44
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:43,44"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

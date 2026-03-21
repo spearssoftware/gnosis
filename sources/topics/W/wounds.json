@@ -1,0 +1,68 @@
+{
+  "topic": "WOUNDS",
+  "slug": "wounds",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Treatment of",
+      "references": [
+        "Proverbs 20:30",
+        "Isaiah 1:6",
+        "Luke 10:34"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:30"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:34"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Luke",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Isaiah",
+      "Luke"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "topic": "ZEBEDEE",
+  "slug": "zebedee",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of James and",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "4:21;20:20;27:56;",
+      "references": [
+        "Mark 1:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 1:20"
+    }
+  ],
+  "books_mentioned": [
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Mark"
+    ]
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "topic": "FLATTERY",
+  "slug": "flattery",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Job 17:5",
+        "Job 32:21,22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5:8,9;12:2,3;36:2;49:13,18;78:36;",
+      "references": [
+        "Proverbs 5:3",
+        "Proverbs 6:24",
+        "Proverbs 7:5,21",
+        "Proverbs 14:20",
+        "Proverbs 19:4,6",
+        "Proverbs 20:19",
+        "Proverbs 22:16",
+        "Proverbs 24:24",
+        "Proverbs 25:26",
+        "Proverbs 26:28",
+        "Proverbs 27:21",
+        "Proverbs 28:23",
+        "Proverbs 29:5",
+        "Daniel 11:21,34",
+        "Luke 6:26",
+        "Galatians 1:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2:4-6;",
+      "references": [
+        "Deuteronomy 1:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCE OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Jacob",
+      "references": [
+        "Genesis 33:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Gi",
+      "references": [
+        "Judges 8:1-3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Mephibosheth",
+      "references": [
+        "2 Samuel 9:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By the woman of Tekoah",
+      "references": [
+        "2 Samuel 14:17-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Absalom",
+      "references": [
+        "2 Samuel 15:2-6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Israel and",
+      "references": [
+        "2 Samuel 19:41-43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Adonijah",
+      "references": [
+        "1 Kings 1:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Ahab",
+      "references": [
+        "1 Kings 20:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By false prophets",
+      "references": [
+        "1 Kings 22:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Darius’s courtiers",
+      "references": [
+        "Daniel 6:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By the Herodians",
+      "references": [
+        "Luke 20:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Tyrians",
+      "references": [
+        "Acts 12:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Tertul",
+      "references": [
+        "Acts 24:2-4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Paul correctly informs Felix",
+      "references": [
+        "Acts 24:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Herod Agrippa II",
+      "references": [
+        "Acts 26:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Saints should not used",
+      "references": [
+        "Job 32:21,22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ministers should not use",
+      "references": [
+        "1 Thessalonians 2:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked use, to: Others",
+      "references": [
+        "Psalms 5:9",
+        "Psalms 12:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked use, to: Themselves",
+      "references": [
+        "Psalms 36:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Hypocrites use, to: God",
+      "references": [
+        "Psalms 78:36"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Hypocrites use, to: Those in authority",
+      "references": [
+        "Daniel 11:34"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "False prophets and teachers use",
+      "references": [
+        "Ezekiel 12:24",
+        "Romans 16:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Wisdom, a preservative against",
+      "references": [
+        "Proverbs 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Worldly advantage obtained by",
+      "references": [
+        "Daniel 11:21,22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Seldom gains respect",
+      "references": [
+        "Proverbs 28:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Avoid those given to",
+      "references": [
+        "Proverbs 20:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Danger of",
+      "references": [
+        "Proverbs 7:21-23",
+        "Proverbs 20:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Punishment of",
+      "references": [
+        "Job 17:5",
+        "Psalms 12:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Woman of Tekoah",
+      "references": [
+        "2 Samuel 14:17,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Absalom",
+      "references": [
+        "2 Samuel 15:2-6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: False prophets",
+      "references": [
+        "1 Kings 22:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Darius’s courtiers",
+      "references": [
+        "Daniel 6:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Pharisees, & c",
+      "references": [
+        "Matthew 12:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: People of Tyre, & c",
+      "references": [
+        "Acts 12:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 17:5"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 32:21,22"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 5:8,9"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 12:2,3"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 36:2"
+    },
+    {
+      "book": "Job",
+      "chapter": 49,
+      "verses": [
+        13,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 49:13,18"
+    },
+    {
+      "book": "Job",
+      "chapter": 78,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 78:36"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 5:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:24"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        5,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 7:5,21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verses": [
+        4,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 19:4,6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:19"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:16"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 24:24"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:26"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:28"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:23"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:5"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        21,
+        34
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 11:21,34"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:26"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 1:10"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        4,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Galatians 2:4-6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 8:1-3"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 9:8"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 14:17-20"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Samuel 15:2-6"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "verses": [
+        41,
+        42,
+        43
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 19:41-43"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:42"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 20:4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:7"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 20:21"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 12:22"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 24:2-4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 26:2,3"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 2:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 5:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 12:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 36,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 36:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:36"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 11:34"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 12:24"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 4:5"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 11:21,22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 7:21-23"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 12:3"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        17,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 14:17,20"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Thessalonians",
+    "2 Samuel",
+    "Acts",
+    "Daniel",
+    "Deuteronomy",
+    "Ezekiel",
+    "Galatians",
+    "Genesis",
+    "Job",
+    "Judges",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 38,
+    "total_refs": 55,
+    "ot_refs": 44,
+    "nt_refs": 11,
+    "books_count": 16,
+    "top_books": [
+      "Proverbs",
+      "Job",
+      "2 Samuel",
+      "Psalms",
+      "Daniel",
+      "Acts",
+      "1 Kings",
+      "Luke",
+      "Galatians",
+      "Deuteronomy"
+    ]
+  }
+}

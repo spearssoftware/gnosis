@@ -1,0 +1,92 @@
+{
+  "topic": "CHARITY",
+  "slug": "charity",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "ALMS",
+    "BENEFICENCE",
+    "LIBERALITY",
+    "LOVE"
+  ],
+  "aspects": [
+    {
+      "label": "SeeALMS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBENEFICENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLIBERALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLOVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Explained",
+      "references": [
+        "1 Corinthians 13:4-7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Enjoined — See “Love to man”",
+      "references": [
+        "Colossians 3:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "1 Corinthians 13:4-7"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Colossians"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "1 Corinthians",
+      "Colossians"
+    ]
+  }
+}

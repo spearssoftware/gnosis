@@ -1,0 +1,426 @@
+{
+  "topic": "SOBRIETY",
+  "slug": "sobriety",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "DRUNKENNESS",
+    "TEMPERANCE"
+  ],
+  "aspects": [
+    {
+      "label": "(Clear thinking)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Comman",
+      "references": [
+        "1 Peter 1:13",
+        "1 Peter 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The gospel",
+      "references": [
+        "Titus 2:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "With watchfulness",
+      "references": [
+        "1 Thessalonians 5:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "With prayer",
+      "references": [
+        "1 Peter 4:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Required in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".God’ s servants",
+      "references": [
+        "1 Timothy 3:2,3",
+        "Titus 1:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Wives of servants of God",
+      "references": [
+        "1 Timothy 3:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Aged men",
+      "references": [
+        "Titus 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Young men",
+      "references": [
+        "Titus 2:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Young women",
+      "references": [
+        "Titus 2:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".All saints",
+      "references": [
+        "1 Thessalonians 5:6,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Women should exhibit in dress",
+      "references": [
+        "1 Timothy 2:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "We should estimate our character and talents with",
+      "references": [
+        "Romans 12:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "We should live in",
+      "references": [
+        "Titus 2:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Motive for",
+      "references": [
+        "1 Peter 4:7",
+        "1 Peter 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEMPERANCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRUNKENNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Commanded",
+      "references": [
+        "1 Peter 1:13",
+        "1 Peter 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The gospel designed to teach",
+      "references": [
+        "Titus 2:11,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "With watchfulness",
+      "references": [
+        "1 Thessalonians 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "With prayer",
+      "references": [
+        "1 Peter 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in: Ministers",
+      "references": [
+        "1 Timothy 3:2,3",
+        "Titus 1:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in: Wives of ministers",
+      "references": [
+        "1 Timothy 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in: Aged men",
+      "references": [
+        "Titus 2:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in: Young men",
+      "references": [
+        "Titus 2:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in: Young women",
+      "references": [
+        "Titus 2:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in: All saints",
+      "references": [
+        "1 Thessalonians 5:6,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Women should exhibit, in dress",
+      "references": [
+        "1 Timothy 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "We should estimate our character and talents with",
+      "references": [
+        "Romans 12:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "We should live in",
+      "references": [
+        "Titus 2:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Motives to",
+      "references": [
+        "1 Peter 4:7",
+        "1 Peter 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 1:13"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 5:8"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 2:12"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:6"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 4:7"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Timothy 3:2,3"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 1:8"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 3:11"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 2:2"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 2:6"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 2:4"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        6,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:6,8"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 2:9"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:3"
+    },
+    {
+      "book": "Titus",
+      "chapter": 2,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Titus 2:11,12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "1 Thessalonians",
+    "1 Timothy",
+    "Romans",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 32,
+    "total_refs": 15,
+    "ot_refs": 0,
+    "nt_refs": 15,
+    "books_count": 5,
+    "top_books": [
+      "Titus",
+      "1 Peter",
+      "1 Timothy",
+      "1 Thessalonians",
+      "Romans"
+    ]
+  }
+}

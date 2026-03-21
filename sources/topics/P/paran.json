@@ -1,0 +1,167 @@
+{
+  "topic": "PARAN",
+  "slug": "paran",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 21:21",
+        "Numbers 10:12",
+        "Numbers 12:16",
+        "Numbers 13:3,26",
+        "Deuteronomy 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mountains of",
+      "references": [
+        "Deuteronomy 33:2",
+        "Habakkuk 3:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Israelites en",
+      "references": [
+        "Numbers 12:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David takes refuge in",
+      "references": [
+        "1 Samuel 25:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hadad flees to",
+      "references": [
+        "1 Kings 11:17,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:21"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 12:16"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        3,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 13:3,26"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:1"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:2"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:3"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 25:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 11:17,18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "Deuteronomy",
+    "Genesis",
+    "Habakkuk",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Numbers",
+      "Deuteronomy",
+      "Genesis",
+      "Habakkuk",
+      "1 Samuel",
+      "1 Kings"
+    ]
+  }
+}

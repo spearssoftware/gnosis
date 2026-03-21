@@ -1,0 +1,208 @@
+{
+  "topic": "STONING",
+  "slug": "stoning",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WITNESS"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 19:13",
+        "Deuteronomy 13:10",
+        "Deuteronomy 17:5",
+        "Deuteronomy 22:21",
+        "Hebrews 11:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Instances of stoning",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sabbath breaker",
+      "references": [
+        "Numbers 15:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Achan",
+      "references": [
+        "Joshua 7:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Naboth",
+      "references": [
+        "1 Kings 21:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Stephen",
+      "references": [
+        "Acts 7:59"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Paul",
+      "references": [
+        "Acts 14:19",
+        "2 Corinthians 11:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWITNESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 19:13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 13,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 13:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:5"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 22,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 22:21"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:37"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 15:36"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 7,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 7:25"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 21:13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        59
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:59"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 14:19"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 11,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 11:25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Corinthians",
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Hebrews",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 11,
+    "ot_refs": 7,
+    "nt_refs": 4,
+    "books_count": 8,
+    "top_books": [
+      "Deuteronomy",
+      "Acts",
+      "Exodus",
+      "Hebrews",
+      "Numbers",
+      "Joshua",
+      "1 Kings",
+      "2 Corinthians"
+    ]
+  }
+}

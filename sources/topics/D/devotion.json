@@ -1,0 +1,99 @@
+{
+  "topic": "DEVOTION",
+  "slug": "devotion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CONSECRATION",
+    "JOHN",
+    "LOVE OF MAN FOR GOD",
+    "MARY MAGDALENE",
+    "PAUL",
+    "PETER",
+    "RELIGION",
+    "ZEAL"
+  ],
+  "aspects": [
+    {
+      "label": "TO GOD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeRELIGION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".For conspicuous instances of, study: ENOCH, NOAH, ABRAHAM MOSES,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "DAVID’S later history,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "DANIEL, SHADRACH, MESHACH, and ABED-NEGO",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "TO JESUS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePETER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePAUL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeMARY MAGDALENE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".For elaborated topics covering the subject",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLOVE OF MAN FOR GOD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCONSECRATION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeZEAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 14,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

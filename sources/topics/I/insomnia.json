@@ -1,0 +1,66 @@
+{
+  "topic": "INSOMNIA",
+  "slug": "insomnia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ahasuerus",
+      "references": [
+        "Esther 6:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Nebuchadnezzar",
+      "references": [
+        "Daniel 6:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 6:1"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:18"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Esther",
+      "Daniel"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "topic": "HATACH",
+  "slug": "hatach",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A chamberlain in the court of Ahasuerus",
+      "references": [
+        "Esther 4:5,6,9,10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "verses": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Esther 4:5,6,9,10"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "topic": "CUSH",
+  "slug": "cush",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ETHIOPIA"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:6-8",
+        "1 Chronicles 1:8-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Benjamite, title ofPs 7",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Land of",
+      "references": [
+        "Genesis 2:13",
+        "Psalms 68:31",
+        "Isaiah 18:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeETHIOPIA",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        6,
+        7,
+        8
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 10:6-8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        8,
+        9,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:8-10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 2:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 18,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 18:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Isaiah",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Psalms",
+      "Isaiah"
+    ]
+  }
+}

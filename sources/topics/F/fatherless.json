@@ -1,0 +1,711 @@
+{
+  "topic": "FATHERLESS",
+  "slug": "fatherless",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "ORPHAN"
+  ],
+  "aspects": [
+    {
+      "label": "SeeORPHAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Find mercy in God",
+      "references": [
+        "Hosea 14:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God will: Be a father of",
+      "references": [
+        "Psalms 68:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God will: Be a helper of",
+      "references": [
+        "Psalms 10:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God will: Hear the cry of",
+      "references": [
+        "Exodus 22:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God will: Execute the judgment of",
+      "references": [
+        "Deuteronomy 10:18",
+        "Psalms 10:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God will: Punish those who oppress",
+      "references": [
+        "Exodus 22:24",
+        "Isaiah 10:1-3",
+        "Malachi 3:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God will: Punish those who judge not",
+      "references": [
+        "Jeremiah 5:28,29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Visit in affliction",
+      "references": [
+        "James 1:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Let them share in our blessings",
+      "references": [
+        "Deuteronomy 14:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defend",
+      "references": [
+        "Psalms 82:3",
+        "Isaiah 1:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Wrong not, in judgment",
+      "references": [
+        "Deuteronomy 24:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Defraud not",
+      "references": [
+        "Proverbs 23:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Afflict not",
+      "references": [
+        "Exodus 22:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Oppress not",
+      "references": [
+        "Zechariah 7:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Do no violence to",
+      "references": [
+        "Jeremiah 22:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Blessedness of taking care of",
+      "references": [
+        "Deuteronomy 14:29",
+        "Job 29:12,13",
+        "Jeremiah 7:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Rob",
+      "references": [
+        "Isaiah 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Overwhelm",
+      "references": [
+        "Job 6:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Vex",
+      "references": [
+        "Ezekiel 22:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Oppress",
+      "references": [
+        "Job 24:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Murder",
+      "references": [
+        "Psalms 94:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Judge not for",
+      "references": [
+        "Isaiah 1:23",
+        "Jeremiah 5:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A curse on those who oppress",
+      "references": [
+        "Deuteronomy 27:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Promises with respect to",
+      "references": [
+        "Jeremiah 49:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A type of Zion in affliction",
+      "references": [
+        "Lamentations 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Lot",
+      "references": [
+        "Genesis 11:27,28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Daughters of Zelophehad",
+      "references": [
+        "Numbers 27:1-5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Jotham",
+      "references": [
+        "Judges 9:16-21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Mephibosheth",
+      "references": [
+        "2 Samuel 9:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Joash",
+      "references": [
+        "2 Kings 11:1-12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Esther",
+      "references": [
+        "Esther 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hosea",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 14:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 10,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 10:14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 10:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 10:18"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:24"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Isaiah 10:1-3"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:5"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 5:28,29"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 1:27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:29"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 82,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 82:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:17"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 23:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:22"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 7,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 7:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:3"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 29:12,13"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 7,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 7:6,7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:2"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 6:27"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 22,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 22:7"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 24:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 94,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 94:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:23"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 5:28"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:19"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:11"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 5:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 11:27,28"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Numbers 27:1-5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Judges 9:16-21"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 9:3"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "2 Kings 11:1-12"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:7"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "2 Samuel",
+    "Deuteronomy",
+    "Esther",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "James",
+    "Jeremiah",
+    "Job",
+    "Judges",
+    "Lamentations",
+    "Malachi",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 32,
+    "total_refs": 37,
+    "ot_refs": 36,
+    "nt_refs": 1,
+    "books_count": 19,
+    "top_books": [
+      "Psalms",
+      "Jeremiah",
+      "Deuteronomy",
+      "Isaiah",
+      "Exodus",
+      "Job",
+      "Hosea",
+      "Malachi",
+      "James",
+      "Proverbs"
+    ]
+  }
+}

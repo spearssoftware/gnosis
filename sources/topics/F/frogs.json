@@ -1,0 +1,84 @@
+{
+  "topic": "FROGS",
+  "slug": "frogs",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Plague of",
+      "references": [
+        "Exodus 8:2-14",
+        "Exodus 105:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Revelation 16:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 8,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Exodus 8:2-14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 105,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 105:30"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 16:13"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Revelation"
+    ]
+  }
+}

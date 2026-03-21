@@ -1,0 +1,194 @@
+{
+  "topic": "MACEDONIA",
+  "slug": "macedonia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A country in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul has a vision concerning",
+      "references": [
+        "Acts 16:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Preaches in, at Philippi",
+      "references": [
+        "Acts 16:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Revisits",
+      "references": [
+        "Acts 20:1-6",
+        "2 Corinthians 2:13",
+        "2 Corinthians 7:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The congregation in, sends contributions to the poor saints in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Romans 15:26",
+        "2 Corinthians 8:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Timothy visits",
+      "references": [
+        "Acts 19:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Disciples in",
+      "references": [
+        "Acts 19:23",
+        "Acts 27:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:12"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Acts 20:1-6"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 2:13"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 7,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 7:5"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 15:26"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 8,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "2 Corinthians 8:1-5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:22"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:2"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Acts",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 10,
+    "ot_refs": 0,
+    "nt_refs": 10,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "2 Corinthians",
+      "Romans"
+    ]
+  }
+}

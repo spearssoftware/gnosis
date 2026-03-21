@@ -1,0 +1,88 @@
+{
+  "topic": "SILK",
+  "slug": "silk",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COTTON",
+    "LINEN"
+  ],
+  "aspects": [
+    {
+      "label": "Wearing apparel ma",
+      "references": [
+        "Proverbs 31:22",
+        "Ezekiel 16:10,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Merchandise of",
+      "references": [
+        "Revelation 18:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOTTON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLINEN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        10,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 16:10,13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:12"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Ezekiel",
+      "Revelation"
+    ]
+  }
+}

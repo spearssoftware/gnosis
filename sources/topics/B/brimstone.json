@@ -1,0 +1,179 @@
+{
+  "topic": "BRIMSTONE",
+  "slug": "brimstone",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Fire and, rained upon",
+      "references": [
+        "Genesis 19:24",
+        "Luke 17:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In Palestine",
+      "references": [
+        "Deuteronomy 29:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Job 18:15",
+        "Psalms 11:6",
+        "Isaiah 30:33",
+        "Ezekiel 38:22",
+        "Revelation 9:17,18",
+        "Revelation 14:10",
+        "Revelation 19:20",
+        "Revelation 21:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 19,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 19:24"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 17:29"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 29,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 29:23"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 18:15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 11,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 11:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:33"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 38:22"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 9:17,18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 14:10"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 19:20"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:8"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "Luke",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 11,
+    "ot_refs": 6,
+    "nt_refs": 5,
+    "books_count": 8,
+    "top_books": [
+      "Revelation",
+      "Genesis",
+      "Luke",
+      "Deuteronomy",
+      "Job",
+      "Psalms",
+      "Isaiah",
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "topic": "KADESH",
+  "slug": "kadesh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A city on the",
+      "references": [
+        "Joshua 15:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Struck down by Chedorlaomer",
+      "references": [
+        "Genesis 14:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Abraham lives besi",
+      "references": [
+        "Genesis 20:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Israel en",
+      "references": [
+        "Numbers 12:16",
+        "Numbers 13:26",
+        "Numbers 20:1",
+        "Numbers 33:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 10:41"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 20,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 20:1"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 16:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 12:16"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 13:26"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 20:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 33:36"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 10:41"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Numbers",
+      "Genesis",
+      "Joshua"
+    ]
+  }
+}
