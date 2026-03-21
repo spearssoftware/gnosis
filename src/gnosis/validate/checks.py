@@ -9,6 +9,7 @@ from rich.table import Table
 
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
+from gnosis.types.strongs import StrongsEntry
 
 OSIS_PATTERN = re.compile(
     r"^[A-Z1-9][A-Za-z]+\.\d{1,3}\.\d{1,3}(-\d{1,3})?$"
@@ -30,6 +31,7 @@ def validate(
     groups: dict[str, PeopleGroup],
     match_log: dict[str, str] | None = None,
     cross_refs: dict[str, CrossReferenceEntry] | None = None,
+    strongs: dict[str, StrongsEntry] | None = None,
     strict: bool = False,
 ) -> list[ValidationResult]:
     """Run all validation checks. Returns list of results."""
@@ -52,15 +54,20 @@ def validate(
     if cross_refs is not None:
         results.append(_check_cross_refs(cross_refs))
 
-    # 6. Basic entity counts
+    # 6. Strong's validation
+    if strongs is not None:
+        results.append(_check_strongs(strongs))
+
+    # 7. Basic entity counts
     xref_count = sum(len(e.targets) for e in cross_refs.values()) if cross_refs else 0
+    strongs_count = len(strongs) if strongs else 0
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
         message=(
             f"{len(people)} people, {len(places)} places, "
             f"{len(events)} events, {len(groups)} groups, "
-            f"{xref_count} cross-refs"
+            f"{xref_count} cross-refs, {strongs_count} strongs"
         ),
     ))
 
@@ -270,4 +277,34 @@ def _check_cross_refs(
         name="Cross-references",
         status="pass",
         message=f"{total} cross-refs across {len(cross_refs)} verses",
+    )
+
+
+_STRONGS_PATTERN = re.compile(r"^[HG]\d+$")
+
+
+def _check_strongs(strongs: dict[str, StrongsEntry]) -> ValidationResult:
+    invalid: list[str] = []
+    hebrew = 0
+    greek = 0
+
+    for number, entry in strongs.items():
+        if not _STRONGS_PATTERN.match(number):
+            invalid.append(number)
+        if entry.language == "hebrew":
+            hebrew += 1
+        elif entry.language == "greek":
+            greek += 1
+
+    if invalid:
+        return ValidationResult(
+            name="Strong's concordance",
+            status="warn",
+            message=f"{len(invalid)} invalid Strong's numbers",
+            details=invalid[:10],
+        )
+    return ValidationResult(
+        name="Strong's concordance",
+        status="pass",
+        message=f"{len(strongs)} entries (H:{hebrew}, G:{greek})",
     )

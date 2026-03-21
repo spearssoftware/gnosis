@@ -6,6 +6,7 @@ from pathlib import Path
 
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
+from gnosis.types.strongs import StrongsEntry
 
 _SCHEMA = """
 CREATE TABLE verse (
@@ -122,6 +123,18 @@ CREATE TABLE event_participant (
     PRIMARY KEY (event_id, person_id)
 );
 
+CREATE TABLE strongs (
+    id INTEGER PRIMARY KEY,
+    number TEXT NOT NULL UNIQUE,
+    uuid TEXT NOT NULL,
+    language TEXT NOT NULL,
+    lemma TEXT,
+    transliteration TEXT,
+    pronunciation TEXT,
+    definition TEXT,
+    kjv_usage TEXT
+);
+
 CREATE TABLE cross_reference (
     id INTEGER PRIMARY KEY,
     from_verse_id INTEGER NOT NULL REFERENCES verse(id),
@@ -149,6 +162,7 @@ CREATE INDEX idx_person_child_child_id ON person_child(child_id);
 CREATE INDEX idx_person_partner_partner_id ON person_partner(partner_id);
 CREATE INDEX idx_person_group_group_id ON person_group(group_id);
 CREATE INDEX idx_event_participant_person_id ON event_participant(person_id);
+CREATE INDEX idx_strongs_number ON strongs(number);
 CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
 CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
@@ -160,6 +174,7 @@ def write_sqlite(
     events: dict[str, Event],
     groups: dict[str, PeopleGroup],
     cross_refs: dict[str, CrossReferenceEntry],
+    strongs: dict[str, StrongsEntry],
     output_dir: Path,
 ) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
@@ -359,7 +374,19 @@ def write_sqlite(
         ),
     )
 
-    # 7. Cross-references
+    # 7. Strong's concordance
+    for i, (number, s) in enumerate(sorted(strongs.items()), start=1):
+        con.execute(
+            "INSERT INTO strongs (id, number, uuid, language, lemma, "
+            "transliteration, pronunciation, definition, kjv_usage) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                i, number, s.uuid, s.language, s.lemma,
+                s.transliteration, s.pronunciation, s.definition, s.kjv_usage,
+            ),
+        )
+
+    # 8. Cross-references
     xref_rows = []
     for from_v, entry in cross_refs.items():
         from_id = verse_to_id.get(from_v)
@@ -377,7 +404,7 @@ def write_sqlite(
         xref_rows,
     )
 
-    # 8. Metadata
+    # 9. Metadata
     con.execute(
         "INSERT INTO gnosis_meta (key, value) VALUES (?, ?)",
         ("version", "0.1.0"),
