@@ -11,6 +11,8 @@ from rich.progress import Progress
 from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
 from gnosis.parsers.dictionaries import link_dictionary_entities, parse_dictionaries
+from gnosis.parsers.hebrew_lexicon import parse_hebrew_lexicon
+from gnosis.parsers.morphhb import parse_morphhb
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
 from gnosis.parsers.strongs import parse_strongs
@@ -36,7 +38,10 @@ def _parse_all() -> tuple:
     dictionary = parse_dictionaries(SOURCES_DIR)
     link_dictionary_entities(dictionary, people, places)
     topics = parse_topics(SOURCES_DIR)
-    return people, places, events, groups, match_log, cross_refs, strongs, dictionary, topics
+    hebrew_verses = parse_morphhb(SOURCES_DIR)
+    lexicon = parse_hebrew_lexicon(SOURCES_DIR)
+    return (people, places, events, groups, match_log,
+            cross_refs, strongs, dictionary, topics, hebrew_verses, lexicon)
 
 
 def _compact(data: dict) -> dict:
@@ -61,7 +66,8 @@ def cmd_build(strict: bool = False) -> bool:
         task = progress.add_task("Parsing sources...", total=3)
 
         (people, places, events, groups, match_log,
-         cross_refs, strongs, dictionary, topics) = _parse_all()
+         cross_refs, strongs, dictionary, topics,
+         hebrew_verses, lexicon) = _parse_all()
         progress.update(task, advance=1, description="Building verse index...")
 
         verse_index = build_verse_index(people, places, events, topics)
@@ -70,7 +76,9 @@ def cmd_build(strict: bool = False) -> bool:
         results = validate(
             people, places, events, groups, match_log,
             cross_refs=cross_refs, strongs=strongs,
-            dictionary=dictionary, topics=topics, strict=strict,
+            dictionary=dictionary, topics=topics,
+            hebrew_verses=hebrew_verses, lexicon=lexicon,
+            strict=strict,
         )
         progress.update(task, advance=1, description="Done ✓")
 
@@ -119,10 +127,18 @@ def cmd_build(strict: bool = False) -> bool:
         {k: _compact(v.model_dump()) for k, v in sorted(topics.items())},
         "topics.json",
     )
+    _write_output(
+        {k: _compact(v.model_dump()) for k, v in sorted(hebrew_verses.items())},
+        "hebrew-words.json",
+    )
+    _write_output(
+        {k: _compact(v.model_dump()) for k, v in sorted(lexicon.items())},
+        "lexicon.json",
+    )
 
     db_path = write_sqlite(
         people, places, events, groups, cross_refs, strongs, dictionary,
-        topics, OUTPUT_DIR,
+        topics, hebrew_verses, lexicon, OUTPUT_DIR,
     )
     console.print(f"  Wrote {db_path.name}")
 
@@ -135,11 +151,14 @@ def cmd_validate(strict: bool = False) -> bool:
     console.print("[bold]Gnosis Validation[/bold]\n")
 
     (people, places, events, groups, match_log,
-     cross_refs, strongs, dictionary, topics) = _parse_all()
+     cross_refs, strongs, dictionary, topics,
+     hebrew_verses, lexicon) = _parse_all()
     results = validate(
         people, places, events, groups, match_log,
         cross_refs=cross_refs, strongs=strongs,
-        dictionary=dictionary, topics=topics, strict=strict,
+        dictionary=dictionary, topics=topics,
+        hebrew_verses=hebrew_verses, lexicon=lexicon,
+        strict=strict,
     )
     return print_results(results)
 

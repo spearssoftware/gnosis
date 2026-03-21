@@ -53,9 +53,11 @@ def db_path(tmp_path: Path) -> Path:
     strongs: dict = {}
     dictionary: dict = {}
     topics: dict = {}
+    hebrew_verses: dict = {}
+    lexicon: dict = {}
     return write_sqlite(
         people, places, events, groups, cross_refs, strongs, dictionary,
-        topics, tmp_path,
+        topics, hebrew_verses, lexicon, tmp_path,
     )
 
 

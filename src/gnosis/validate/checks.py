@@ -10,6 +10,7 @@ from rich.table import Table
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
+from gnosis.types.hebrew import HebrewVerse, LexiconEntry
 from gnosis.types.strongs import StrongsEntry
 from gnosis.types.topic import Topic
 
@@ -36,6 +37,8 @@ def validate(
     strongs: dict[str, StrongsEntry] | None = None,
     dictionary: dict[str, DictionaryEntry] | None = None,
     topics: dict[str, Topic] | None = None,
+    hebrew_verses: dict[str, HebrewVerse] | None = None,
+    lexicon: dict[str, LexiconEntry] | None = None,
     strict: bool = False,
 ) -> list[ValidationResult]:
     """Run all validation checks. Returns list of results."""
@@ -70,11 +73,17 @@ def validate(
     if topics is not None:
         results.append(_check_topics(topics))
 
-    # 9. Basic entity counts
+    # 9. Hebrew validation
+    if hebrew_verses is not None:
+        results.append(_check_hebrew(hebrew_verses, lexicon))
+
+    # 10. Basic entity counts
     xref_count = sum(len(e.targets) for e in cross_refs.values()) if cross_refs else 0
     strongs_count = len(strongs) if strongs else 0
     dict_count = len(dictionary) if dictionary else 0
     topics_count = len(topics) if topics else 0
+    hebrew_count = sum(len(v.words) for v in hebrew_verses.values()) if hebrew_verses else 0
+    lexicon_count = len(lexicon) if lexicon else 0
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
@@ -82,7 +91,8 @@ def validate(
             f"{len(people)} people, {len(places)} places, "
             f"{len(events)} events, {len(groups)} groups, "
             f"{xref_count} cross-refs, {strongs_count} strongs, "
-            f"{dict_count} dictionary, {topics_count} topics"
+            f"{dict_count} dictionary, {topics_count} topics, "
+            f"{hebrew_count} hebrew words, {lexicon_count} lexicon"
         ),
     ))
 
@@ -398,5 +408,27 @@ def _check_topics(topics: dict[str, Topic]) -> ValidationResult:
         status="pass",
         message=(
             f"{len(topics)} topics, {total_aspects} aspects ({sources_str})"
+        ),
+    )
+
+
+def _check_hebrew(
+    hebrew_verses: dict[str, HebrewVerse],
+    lexicon: dict[str, LexiconEntry] | None,
+) -> ValidationResult:
+    total_words = sum(len(v.words) for v in hebrew_verses.values())
+    words_with_strongs = sum(
+        1 for v in hebrew_verses.values()
+        for w in v.words if w.strongs_number
+    )
+    lex_count = len(lexicon) if lexicon else 0
+    pct = (words_with_strongs / total_words * 100) if total_words else 0
+
+    return ValidationResult(
+        name="Hebrew Bible",
+        status="pass",
+        message=(
+            f"{len(hebrew_verses)} verses, {total_words} words "
+            f"({pct:.0f}% with Strong's), {lex_count} lexicon entries"
         ),
     )

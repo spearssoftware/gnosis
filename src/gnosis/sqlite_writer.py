@@ -7,6 +7,7 @@ from pathlib import Path
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
+from gnosis.types.hebrew import HebrewVerse, LexiconEntry
 from gnosis.types.strongs import StrongsEntry
 from gnosis.types.topic import Topic
 
@@ -183,6 +184,29 @@ CREATE TABLE topic_see_also (
     PRIMARY KEY (topic_id, related_topic_id)
 );
 
+CREATE TABLE hebrew_word (
+    id INTEGER PRIMARY KEY,
+    word_id TEXT NOT NULL UNIQUE,
+    verse_id INTEGER NOT NULL REFERENCES verse(id),
+    position INTEGER NOT NULL,
+    text TEXT NOT NULL,
+    lemma_raw TEXT NOT NULL,
+    strongs_number TEXT,
+    morph TEXT NOT NULL
+);
+
+CREATE TABLE lexicon_entry (
+    id INTEGER PRIMARY KEY,
+    lexical_id TEXT NOT NULL UNIQUE,
+    uuid TEXT NOT NULL,
+    hebrew TEXT NOT NULL,
+    transliteration TEXT,
+    part_of_speech TEXT,
+    gloss TEXT,
+    strongs_number TEXT,
+    twot_number TEXT
+);
+
 CREATE TABLE cross_reference (
     id INTEGER PRIMARY KEY,
     from_verse_id INTEGER NOT NULL REFERENCES verse(id),
@@ -215,6 +239,9 @@ CREATE INDEX idx_dict_entry_name ON dictionary_entry(name);
 CREATE INDEX idx_dict_def_entry ON dictionary_definition(entry_id);
 CREATE INDEX idx_topic_name ON topic(name);
 CREATE INDEX idx_topic_aspect_topic ON topic_aspect(topic_id);
+CREATE INDEX idx_hebrew_word_verse ON hebrew_word(verse_id);
+CREATE INDEX idx_hebrew_word_strongs ON hebrew_word(strongs_number);
+CREATE INDEX idx_lexicon_strongs ON lexicon_entry(strongs_number);
 CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
 CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
@@ -229,6 +256,8 @@ def write_sqlite(
     strongs: dict[str, StrongsEntry],
     dictionary: dict[str, DictionaryEntry],
     topics: dict[str, Topic],
+    hebrew_verses: dict[str, HebrewVerse],
+    lexicon: dict[str, LexiconEntry],
     output_dir: Path,
 ) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
@@ -262,6 +291,8 @@ def write_sqlite(
     for t in topics.values():
         for asp in t.aspects:
             all_verses.update(asp.verses)
+    for hv in hebrew_verses.values():
+        all_verses.add(hv.osis_ref)
 
     verse_to_id: dict[str, int] = {}
     for i, ref in enumerate(sorted(all_verses), start=1):
@@ -511,7 +542,40 @@ def write_sqlite(
         ),
     )
 
-    # 10. Cross-references
+    # 10. Hebrew words
+    hw_id = 0
+    hw_rows = []
+    for osis_ref, hv in hebrew_verses.items():
+        vid = verse_to_id.get(osis_ref)
+        if vid is None:
+            continue
+        for pos, w in enumerate(hv.words):
+            hw_id += 1
+            hw_rows.append((
+                hw_id, w.word_id, vid, pos, w.text,
+                w.lemma_raw, w.strongs_number, w.morph,
+            ))
+    con.executemany(
+        "INSERT INTO hebrew_word "
+        "(id, word_id, verse_id, position, text, lemma_raw, strongs_number, morph) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+        hw_rows,
+    )
+
+    # 11. Lexicon entries
+    for i, (lex_id, le) in enumerate(sorted(lexicon.items()), start=1):
+        con.execute(
+            "INSERT INTO lexicon_entry "
+            "(id, lexical_id, uuid, hebrew, transliteration, "
+            "part_of_speech, gloss, strongs_number, twot_number) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                i, lex_id, le.uuid, le.hebrew, le.transliteration,
+                le.part_of_speech, le.gloss, le.strongs_number, le.twot_number,
+            ),
+        )
+
+    # 12. Cross-references
     xref_rows = []
     for from_v, entry in cross_refs.items():
         from_id = verse_to_id.get(from_v)
@@ -529,7 +593,7 @@ def write_sqlite(
         xref_rows,
     )
 
-    # 11. Metadata
+    # 13. Metadata
     con.execute(
         "INSERT INTO gnosis_meta (key, value) VALUES (?, ?)",
         ("version", "0.1.0"),

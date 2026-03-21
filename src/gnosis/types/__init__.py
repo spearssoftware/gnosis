@@ -1,6 +1,7 @@
 from gnosis.types.cross_reference import CrossReferenceEntry, CrossReferenceTarget
 from gnosis.types.dictionary import DictionaryDefinition, DictionaryEntry
 from gnosis.types.event import Event
+from gnosis.types.hebrew import HebrewVerse, HebrewWord, LexiconEntry
 from gnosis.types.people_group import PeopleGroup
 from gnosis.types.person import Person
 from gnosis.types.place import Place
@@ -14,6 +15,9 @@ __all__ = [
     "DictionaryDefinition",
     "DictionaryEntry",
     "Event",
+    "HebrewVerse",
+    "HebrewWord",
+    "LexiconEntry",
     "PeopleGroup",
     "Person",
     "Place",
