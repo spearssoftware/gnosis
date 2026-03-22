@@ -175,3 +175,142 @@ def test_validate_entity_counts_include_all():
     assert "topics" in counts_msg
     assert "hebrew words" in counts_msg
     assert "lexicon" in counts_msg
+
+
+# --- Verse existence ---
+
+
+def test_verse_existence_pass():
+    results = validate(_ctx())
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Verse existence"] == "pass"
+
+
+def test_verse_existence_invalid_verse():
+    ctx = _ctx()
+    ctx.people["moses"].verses = ["Gen.50.27"]  # Gen 50 has 26 verses
+    results = validate(ctx)
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Verse existence"] == "warn"
+
+
+def test_verse_existence_invalid_chapter():
+    ctx = _ctx()
+    ctx.places["sinai"].verses = ["Gen.51.1"]  # Gen has 50 chapters
+    results = validate(ctx)
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Verse existence"] == "warn"
+
+
+# --- Relationship symmetry ---
+
+
+def test_relationship_symmetry_pass():
+    results = validate(_ctx(people={
+        "parent": Person(
+            id="parent", uuid="u", name="Parent",
+            verses=["Gen.1.1"], children=["child"],
+        ),
+        "child": Person(
+            id="child", uuid="u", name="Child",
+            verses=["Gen.1.2"], father="parent",
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Relationship symmetry"] == "pass"
+
+
+def test_relationship_symmetry_father_missing_child():
+    results = validate(_ctx(people={
+        "parent": Person(
+            id="parent", uuid="u", name="Parent",
+            verses=["Gen.1.1"], children=[],
+        ),
+        "child": Person(
+            id="child", uuid="u", name="Child",
+            verses=["Gen.1.2"], father="parent",
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Relationship symmetry"] == "warn"
+
+
+def test_relationship_symmetry_siblings():
+    results = validate(_ctx(people={
+        "alice": Person(
+            id="alice", uuid="u", name="Alice",
+            verses=["Gen.1.1"], siblings=["bob"],
+        ),
+        "bob": Person(
+            id="bob", uuid="u", name="Bob",
+            verses=["Gen.1.2"], siblings=[],
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Relationship symmetry"] == "warn"
+
+
+def test_relationship_symmetry_partners():
+    results = validate(_ctx(people={
+        "adam": Person(
+            id="adam", uuid="u", name="Adam",
+            verses=["Gen.1.1"], partners=["eve"],
+        ),
+        "eve": Person(
+            id="eve", uuid="u", name="Eve",
+            verses=["Gen.1.2"], partners=[],
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Relationship symmetry"] == "warn"
+
+
+# --- Chronology ---
+
+
+def test_chronology_pass():
+    results = validate(_ctx(people={
+        "moses": Person(
+            id="moses", uuid="u", name="Moses",
+            verses=["Exod.3.1"], birth_year=-1526, death_year=-1406,
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Chronology"] == "pass"
+
+
+def test_chronology_birth_after_death():
+    results = validate(_ctx(people={
+        "moses": Person(
+            id="moses", uuid="u", name="Moses",
+            verses=["Exod.3.1"], birth_year=-1406, death_year=-1526,
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Chronology"] == "warn"
+
+
+def test_chronology_parent_after_child():
+    results = validate(_ctx(people={
+        "parent": Person(
+            id="parent", uuid="u", name="Parent",
+            verses=["Gen.1.1"], birth_year=-1400, children=["child"],
+        ),
+        "child": Person(
+            id="child", uuid="u", name="Child",
+            verses=["Gen.1.2"], birth_year=-1500, father="parent",
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Chronology"] == "warn"
+
+
+def test_chronology_event_out_of_range():
+    results = validate(_ctx(events={
+        "future": Event(
+            id="future", uuid="u", title="Future Event",
+            verses=["Rev.1.1"], start_year=5000,
+        ),
+    }))
+    statuses = {r.name: r.status for r in results}
+    assert statuses["Chronology"] == "warn"
