@@ -1,0 +1,139 @@
+{
+  "topic": "JUDAISM",
+  "slug": "judaism",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TEACHERS, FALSE"
+  ],
+  "aspects": [
+    {
+      "label": "1. The religion of the Jews",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".To make room for the Gospel",
+      "references": [
+        "Matthew 3:8,9",
+        "Matthew 5:17-19,21-44",
+        "Matthew 9:16,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "Acts 15:1",
+        "Acts 21:20-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTEACHERS, FALSE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 3:8,9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "verse_count": 27,
+      "testament": "NT",
+      "raw": "Matthew 5:17-19,21-44"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 9:16,17"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Acts 21:20-25"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Acts"
+    ]
+  }
+}

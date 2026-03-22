@@ -1,0 +1,334 @@
+{
+  "topic": "CEDAR",
+  "slug": "cedar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Va",
+      "references": [
+        "Isaiah 9:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David’s ample provision of, in",
+      "references": [
+        "2 Chronicles 1:15",
+        "2 Chronicles 2:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Furnished by Hiram, king of Tyre, for",
+      "references": [
+        "1 Kings 5:6-10",
+        "1 Kings 9:11",
+        "2 Chronicles 2:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".In rebuilding the temple",
+      "references": [
+        "Ezra 3:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In David’s palace",
+      "references": [
+        "2 Samuel 5:11",
+        "1 Chronicles 17:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In",
+      "references": [
+        "1 Kings 7:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".For masts of ships",
+      "references": [
+        "Ezekiel 27:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In purifi",
+      "references": [
+        "Leviticus 14:4,6,49-52",
+        "Numbers 19:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 72:16",
+        "Psalms 92:12",
+        "Isaiah 2:13",
+        "Isaiah 14:8",
+        "Jeremiah 22:7",
+        "Ezekiel 31:3",
+        "Ecclesiastes 11:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 9:10"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 1:15"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 2,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 2:3,4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Kings 5:6-10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:11"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 2:16"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 3:7"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 5:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 17:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:5"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        4,
+        6,
+        49,
+        50,
+        51,
+        52
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Leviticus 14:4,6,49-52"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 19:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 72,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 72:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 92,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 92:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 14,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 14:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:7"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 31,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 31:3"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 11:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "2 Samuel",
+    "Ecclesiastes",
+    "Ezekiel",
+    "Ezra",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 20,
+    "ot_refs": 20,
+    "nt_refs": 0,
+    "books_count": 12,
+    "top_books": [
+      "Isaiah",
+      "2 Chronicles",
+      "1 Kings",
+      "Ezekiel",
+      "Psalms",
+      "Ezra",
+      "2 Samuel",
+      "1 Chronicles",
+      "Leviticus",
+      "Numbers"
+    ]
+  }
+}

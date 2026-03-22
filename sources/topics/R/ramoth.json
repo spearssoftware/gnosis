@@ -1,0 +1,120 @@
+{
+  "topic": "RAMOTH",
+  "slug": "ramoth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "RAMOTH-GILEAD"
+  ],
+  "aspects": [
+    {
+      "label": "1. An Israelite at the time of Ezra",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Had taken a non-Israelite wife",
+      "references": [
+        "Ezra 10:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".A place probably in the",
+      "references": [
+        "Joshua 19:8",
+        "1 Samuel 30:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city of the territory of the tribe of Issachar, allotted",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "to the Levites",
+      "references": [
+        "1 Chronicles 6:73"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Ramoth in Gilead",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeRAMOTH-GILEAD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:29"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:8"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 30:27"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        73
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:73"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "Ezra",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Ezra",
+      "Joshua",
+      "1 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

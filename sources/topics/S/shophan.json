@@ -1,0 +1,47 @@
+{
+  "topic": "SHOPHAN",
+  "slug": "shophan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city in the territory of the tribe of Gad",
+      "references": [
+        "Numbers 32:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "R. V., spelled ATROTH-SHOPHAN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 32:35"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

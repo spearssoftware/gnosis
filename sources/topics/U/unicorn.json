@@ -1,0 +1,206 @@
+{
+  "topic": "UNICORN",
+  "slug": "unicorn",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Generally had a single horn",
+      "references": [
+        "Psalms 92:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes found with two horns",
+      "references": [
+        "Deuteronomy 33:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Intractable in disposition",
+      "references": [
+        "Job 39:9,10,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Of vast strength",
+      "references": [
+        "Job 39:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The young of, remarkable for agility",
+      "references": [
+        "Psalms 29:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of God as the strength of Israel",
+      "references": [
+        "Numbers 23:22",
+        "Numbers 24:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the wicked",
+      "references": [
+        "Isaiah 34:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Horns of,) of the strength of the descendants of Joseph",
+      "references": [
+        "Deuteronomy 33:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Horns of,) of the strength of powerful enemies",
+      "references": [
+        "Psalms 22:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (The position of its horns,) of the exaltation of saints",
+      "references": [
+        "Psalms 92:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 92,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 92:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:17"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "verses": [
+        9,
+        10,
+        12
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Job 39:9,10,12"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 39:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 29,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 29:6"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 23:22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 34,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 34:7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 22,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 22:21"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Isaiah",
+    "Job",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Job",
+      "Numbers",
+      "Deuteronomy",
+      "Isaiah"
+    ]
+  }
+}

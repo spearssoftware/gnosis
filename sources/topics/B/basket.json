@@ -1,0 +1,196 @@
+{
+  "topic": "BASKET",
+  "slug": "basket",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 40:16,17",
+        "Exodus 29:3,23,32",
+        "Leviticus 8:2",
+        "Numbers 6:15",
+        "Deuteronomy 26:2",
+        "Deuteronomy 28:5,17",
+        "2 Kings 10:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Received the fragments after the miracles of the loaves",
+      "references": [
+        "Matthew 14:20",
+        "Matthew 15:37",
+        "Matthew 16:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul lowered from the wall in",
+      "references": [
+        "Acts 9:25",
+        "2 Corinthians 11:33"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 40,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 40:16,17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        3,
+        23,
+        32
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 29:3,23,32"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 8:2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 6:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 26,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 26:2"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        5,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:5,17"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 10:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 14:20"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:37"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 16:9,10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:25"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 11,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 11:33"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "2 Kings",
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Genesis",
+    "Leviticus",
+    "Matthew",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 12,
+    "ot_refs": 7,
+    "nt_refs": 5,
+    "books_count": 9,
+    "top_books": [
+      "Matthew",
+      "Deuteronomy",
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers",
+      "2 Kings",
+      "Acts",
+      "2 Corinthians"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "topic": "FLAG",
+  "slug": "flag",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ENSIGN"
+  ],
+  "aspects": [
+    {
+      "label": "1. (R. V., bulrush.)",
+      "references": [
+        "Exodus 2:3,5",
+        "Job 8:11",
+        "Isaiah 19:6",
+        "Jonah 2:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An ensign",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeENSIGN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        3,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 2:3,5"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 8:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 19:6"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 2:5"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Isaiah",
+    "Job",
+    "Jonah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Exodus",
+      "Job",
+      "Isaiah",
+      "Jonah"
+    ]
+  }
+}

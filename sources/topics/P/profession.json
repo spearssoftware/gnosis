@@ -1,0 +1,73 @@
+{
+  "topic": "PROFESSION",
+  "slug": "profession",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CONFESSION",
+    "TESTIMONY, RELIGIOUS"
+  ],
+  "aspects": [
+    {
+      "label": "False",
+      "references": [
+        "Proverbs 20:6",
+        "Hosea 8:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of faith in Jesus",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCONFESSION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTESTIMONY, RELIGIOUS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:6"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 8:2"
+    }
+  ],
+  "books_mentioned": [
+    "Hosea",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Proverbs",
+      "Hosea"
+    ]
+  }
+}

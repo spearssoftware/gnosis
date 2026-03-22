@@ -1,0 +1,68 @@
+{
+  "topic": "ABBA",
+  "slug": "abba",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father",
+      "references": [
+        "Mark 14:36",
+        "Romans 8:15",
+        "Galatians 4:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:36"
+    },
+    {
+      "book": "Romans",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 8:15"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 4:6"
+    }
+  ],
+  "books_mentioned": [
+    "Galatians",
+    "Mark",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Mark",
+      "Romans",
+      "Galatians"
+    ]
+  }
+}

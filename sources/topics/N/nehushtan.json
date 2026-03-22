@@ -1,0 +1,42 @@
+{
+  "topic": "NEHUSHTAN",
+  "slug": "nehushtan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The brass (bronze) serpent",
+      "references": [
+        "2 Kings 18:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:4"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Kings"
+    ]
+  }
+}

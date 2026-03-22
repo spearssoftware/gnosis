@@ -1,0 +1,229 @@
+{
+  "topic": "RIMMON",
+  "slug": "rimmon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father of the mur",
+      "references": [
+        "2 Samuel 4:2,5,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city",
+      "references": [
+        "Ecclesiastes 14:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Allotted to the tribe of",
+      "references": [
+        "Joshua 15:32",
+        "Nehemiah 11:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Later alloted to the tribe of Simeon",
+      "references": [
+        "Joshua 19:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 4:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Joshua 19:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Al",
+      "references": [
+        "Nehemiah 11:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city of the tribe of Zebu",
+      "references": [
+        "1 Chronicles 6:77"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Joshua 19:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A rock in the territory of the tribe of Benjamin",
+      "references": [
+        "Judges 20:45,47",
+        "Judges 21:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Syrian idol",
+      "references": [
+        "2 Kings 5:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "verses": [
+        2,
+        5,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 4:2,5,9"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 14,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 14:10"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:32"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:29"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 4,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 4:32"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        77
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:77"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:13"
+    },
+    {
+      "book": "Judges",
+      "chapter": 20,
+      "verses": [
+        45,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 20:45,47"
+    },
+    {
+      "book": "Judges",
+      "chapter": 21,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 21:13"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 5:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Ecclesiastes",
+    "Joshua",
+    "Judges",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "Joshua",
+      "Judges",
+      "2 Samuel",
+      "Ecclesiastes",
+      "Nehemiah",
+      "1 Chronicles",
+      "2 Kings"
+    ]
+  }
+}

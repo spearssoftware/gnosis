@@ -1,0 +1,231 @@
+{
+  "topic": "TIRZAH",
+  "slug": "tirzah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A daughter of Zelophehad",
+      "references": [
+        "Numbers 26:33",
+        "Numbers 36:11",
+        "Joshua 17:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Special legislation in regard to the inheritance of",
+      "references": [
+        "Numbers 27:1-11",
+        "Joshua 17:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Joshua 12:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Becomes the resi",
+      "references": [
+        "1 Kings 14:17",
+        "1 Kings 15:21,33",
+        "1 Kings 16:6,8,9,15,17,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Royal resi",
+      "references": [
+        "1 Kings 16:23,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Base of military operations of Menahem",
+      "references": [
+        "2 Kings 15:14,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Beauty of",
+      "references": [
+        "Song of Solomon 6:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 36:11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Numbers 27:1-11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 17:3,4"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 14:17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "verses": [
+        21,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 15:21,33"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        6,
+        8,
+        9,
+        15,
+        17,
+        23
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "1 Kings 16:6,8,9,15,17,23"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 16:23,24"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        14,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 15:14,16"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 6:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "Joshua",
+    "Numbers",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Kings",
+      "Numbers",
+      "Joshua",
+      "2 Kings",
+      "Song of Solomon"
+    ]
+  }
+}

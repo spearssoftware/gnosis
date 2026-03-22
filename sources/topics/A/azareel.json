@@ -1,0 +1,142 @@
+{
+  "topic": "AZAREEL",
+  "slug": "azareel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. An Aaronite of the family of Korah",
+      "references": [
+        "1 Chronicles 12:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A musician in the temple",
+      "references": [
+        "1 Chronicles 25:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Chronicles 25:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Danite prince",
+      "references": [
+        "1 Chronicles 27:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A",
+      "references": [
+        "Ezra 10:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A priest",
+      "references": [
+        "Nehemiah 11:13",
+        "Nehemiah 12:36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:18"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:22"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:41"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:36"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

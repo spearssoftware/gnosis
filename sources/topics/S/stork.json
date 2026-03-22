@@ -1,0 +1,99 @@
+{
+  "topic": "STORK",
+  "slug": "stork",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 11:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Nest of, in fir trees",
+      "references": [
+        "Psalms 104:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Migratory",
+      "references": [
+        "Jeremiah 8:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Ecclesiastes 5:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 104,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 104:17"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 8:7"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:9"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Jeremiah",
+    "Leviticus",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Leviticus",
+      "Psalms",
+      "Jeremiah",
+      "Ecclesiastes"
+    ]
+  }
+}

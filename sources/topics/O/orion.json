@@ -1,0 +1,79 @@
+{
+  "topic": "ORION",
+  "slug": "orion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The constellation of",
+      "references": [
+        "Job 9:9",
+        "Job 38:31",
+        "Isaiah 13:10",
+        "Amos 5:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 9:9"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:10"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 5:8"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Isaiah",
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Job",
+      "Isaiah",
+      "Amos"
+    ]
+  }
+}

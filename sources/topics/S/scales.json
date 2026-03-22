@@ -1,0 +1,54 @@
+{
+  "topic": "SCALES",
+  "slug": "scales",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BALANCES"
+  ],
+  "aspects": [
+    {
+      "label": "Fell from Paul’ s eyes",
+      "references": [
+        "Acts 9:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "For measuring",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBALANCES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:18"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "CHRONOLOGY",
+  "slug": "chronology",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TIME"
+  ],
+  "aspects": [
+    {
+      "label": "Jewish year institute",
+      "references": [
+        "Exodus 12:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTIME",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:2"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

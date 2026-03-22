@@ -1,0 +1,98 @@
+{
+  "topic": "LAUGHTER",
+  "slug": "laughter",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HAPPINESS",
+    "JOY"
+  ],
+  "aspects": [
+    {
+      "label": "A time for",
+      "references": [
+        "Ecclesiastes 3:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Attributed to God",
+      "references": [
+        "Psalms 37:13",
+        "Psalms 59:8",
+        "Proverbs 1:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHAPPINESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJOY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 3:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 37,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 37:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 59,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 59:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:26"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Psalms",
+      "Ecclesiastes",
+      "Proverbs"
+    ]
+  }
+}

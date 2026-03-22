@@ -1,0 +1,137 @@
+{
+  "topic": "TYCHICUS",
+  "slug": "tychicus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(An Asian companion of Paul)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Accompanies Paul from Greece to Asia",
+      "references": [
+        "Acts 20:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "With Paul in Nicopolis",
+      "references": [
+        "Titus 3:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "With Paul in Rome, with postscripts to Ephesians and Colossians",
+      "references": [
+        "Ephesians 6:21,22",
+        "Colossians 4:7,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul’ s ama",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "see the postscripts to Ephesians and Colossians",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Sent to Ephesus",
+      "references": [
+        "Ephesians 6:21,22",
+        "2 Timothy 4:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sent to Colossae",
+      "references": [
+        "Colossians 4:7,8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:12"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 6:21,22"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Colossians 4:7,8"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:12"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts",
+    "Colossians",
+    "Ephesians",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 5,
+    "top_books": [
+      "Acts",
+      "Titus",
+      "Ephesians",
+      "Colossians",
+      "2 Timothy"
+    ]
+  }
+}

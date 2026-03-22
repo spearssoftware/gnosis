@@ -1,0 +1,39 @@
+{
+  "topic": "MORALITY",
+  "slug": "morality",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DUTY OF MAN TO MAN",
+    "INTEGRITY",
+    "NEIGHBOR"
+  ],
+  "aspects": [
+    {
+      "label": "SeeDUTY OF MAN TO MAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINTEGRITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNEIGHBOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

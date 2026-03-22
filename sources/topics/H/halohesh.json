@@ -1,0 +1,64 @@
+{
+  "topic": "HALOHESH",
+  "slug": "halohesh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Father of Shal",
+      "references": [
+        "Nehemiah 3:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sealed the covenant with Nehemiah",
+      "references": [
+        "Nehemiah 10:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:24"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "topic": "ESHTAOL",
+  "slug": "eshtaol",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A town of the tribe of",
+      "references": [
+        "Joshua 15:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allotted to Dan",
+      "references": [
+        "Joshua 19:41",
+        "Judges 18:2,8,11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sam",
+      "references": [
+        "Judges 13:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sam",
+      "references": [
+        "Judges 16:31"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:33"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:41"
+    },
+    {
+      "book": "Judges",
+      "chapter": 18,
+      "verses": [
+        2,
+        8,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 18:2,8,11"
+    },
+    {
+      "book": "Judges",
+      "chapter": 13,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 13:25"
+    },
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:31"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "Joshua"
+    ]
+  }
+}

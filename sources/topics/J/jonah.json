@@ -1,0 +1,180 @@
+{
+  "topic": "JONAH",
+  "slug": "jonah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A prophet of Israel",
+      "references": [
+        "2 Kings 14:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sent by God to warn the city of Nineveh",
+      "references": [
+        "Jonah 1:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Di",
+      "references": [
+        "Jonah 1:3-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Repentance and",
+      "references": [
+        "Matthew 12:40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Brought Ninevites to repentanceJon 3;",
+      "references": [
+        "Matthew 12:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Displeased with God’s mercy to Nineveh -ReprovedJon",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Is a sign",
+      "references": [
+        "Matthew 16:4",
+        "Luke 11:29,30"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 14:25"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jonah 1:1,2"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Jonah 1:3-17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:40"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:41"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 1:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 16:4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        29,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 11:29,30"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Jonah",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 8,
+    "ot_refs": 3,
+    "nt_refs": 5,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Jonah",
+      "2 Kings",
+      "Luke"
+    ]
+  }
+}

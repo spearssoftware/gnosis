@@ -1,0 +1,363 @@
+{
+  "topic": "CORD",
+  "slug": "cord",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Ancient uses of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".In",
+      "references": [
+        "Micah 2:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Fastening tents",
+      "references": [
+        "Exodus 35:18",
+        "Exodus 39:40",
+        "Isaiah 54:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Leading or binding animals",
+      "references": [
+        "Psalms 118:27",
+        "Hosea 11:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Hitching to",
+      "references": [
+        "Job 39:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Binding pri",
+      "references": [
+        "Judges 15:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Measuring ground",
+      "references": [
+        "2 Samuel 8:2",
+        "Joshua 17:14",
+        "Psalms 78:55",
+        "Amos 7:17",
+        "Ecclesiastes 2:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Worn on the head as a sign of submission",
+      "references": [
+        "1 Kings 20:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of spiritual blessings",
+      "references": [
+        "Psalms 16:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of sin",
+      "references": [
+        "Proverbs 5:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of life",
+      "references": [
+        "Ecclesiastes 12:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of friendship",
+      "references": [
+        "Ecclesiastes 4:12",
+        "Hosea 11:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Token in mourning",
+      "references": [
+        "1 Kings 20:31-33",
+        "Job 36:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Signifying an inheritance",
+      "references": [
+        "Joshua 17:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 2:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 35,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 35:18"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:40"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 54,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 54:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 118,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 118:27"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 11:4"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 39:10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 15:13"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        55
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:55"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 7:17"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 20:31"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 16,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 16:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 5:22"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:6"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 4:12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        31,
+        32,
+        33
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 20:31-33"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 36:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Amos",
+    "Ecclesiastes",
+    "Exodus",
+    "Hosea",
+    "Isaiah",
+    "Job",
+    "Joshua",
+    "Judges",
+    "Micah",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 20,
+    "ot_refs": 20,
+    "nt_refs": 0,
+    "books_count": 13,
+    "top_books": [
+      "Psalms",
+      "Ecclesiastes",
+      "Exodus",
+      "Job",
+      "1 Kings",
+      "Micah",
+      "Isaiah",
+      "Hosea",
+      "Judges",
+      "2 Samuel"
+    ]
+  }
+}

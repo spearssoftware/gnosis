@@ -1,0 +1,132 @@
+{
+  "topic": "MATTITHIAH",
+  "slug": "mattithiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1, A Levite who had charge of the baked offerings",
+      "references": [
+        "1 Chronicles 9:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite musician",
+      "references": [
+        "1 Chronicles 15:18,21",
+        "1 Chronicles 16:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A chief of the fourteenth division (shift) of temple musicians",
+      "references": [
+        "1 Chronicles 25:3,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. An Israelite who divorced his Gentile wife after the",
+      "references": [
+        "Ezra 10:43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A prince who stood besi",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "to the people",
+      "references": [
+        "Nehemiah 8:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        18,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:18,21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        3,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:3,21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:43"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

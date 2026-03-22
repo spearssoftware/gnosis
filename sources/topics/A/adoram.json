@@ -1,0 +1,49 @@
+{
+  "topic": "ADORAM",
+  "slug": "adoram",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADONIRAM"
+  ],
+  "aspects": [
+    {
+      "label": "1. Officer over the tribute",
+      "references": [
+        "2 Samuel 20:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SeeADONIRAM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:24"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Samuel"
+    ]
+  }
+}

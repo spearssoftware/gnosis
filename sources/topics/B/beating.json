@@ -1,0 +1,106 @@
+{
+  "topic": "BEATING",
+  "slug": "beating",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ASSAULT",
+    "PUNISHMENT"
+  ],
+  "aspects": [
+    {
+      "label": "As a punishment",
+      "references": [
+        "Exodus 5:14",
+        "Deuteronomy 25:3",
+        "Mark 13:9",
+        "Acts 5:40",
+        "Acts 16:22,37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeASSAULT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePUNISHMENT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 5,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 5:14"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 25:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 13:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 5:40"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        22,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 16:22,37"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 2,
+    "nt_refs": 3,
+    "books_count": 4,
+    "top_books": [
+      "Acts",
+      "Exodus",
+      "Deuteronomy",
+      "Mark"
+    ]
+  }
+}

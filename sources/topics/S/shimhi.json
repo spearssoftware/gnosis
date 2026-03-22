@@ -1,0 +1,47 @@
+{
+  "topic": "SHIMHI",
+  "slug": "shimhi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of a family in the tribe of Benjamin (in R. V.,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SHIMEI)",
+      "references": [
+        "1 Chronicles 8:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Chronicles"
+    ]
+  }
+}

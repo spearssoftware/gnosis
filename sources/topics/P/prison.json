@@ -1,0 +1,224 @@
+{
+  "topic": "PRISON",
+  "slug": "prison",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DUNGEON",
+    "IMPRISONMENT",
+    "PRISONERS"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 39:20",
+        "Genesis 42:16-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "24:12;",
+      "references": [
+        "Numbers 15:34",
+        "Ezra 7:26",
+        "Jeremiah 52:11",
+        "Luke 23:19",
+        "Acts 4:3",
+        "Acts 12:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Public ward of",
+      "references": [
+        "Acts 5:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Cells of",
+      "references": [
+        "Acts 16:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Court of",
+      "references": [
+        "Jeremiah 33:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Dungeon in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeDUNGEON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIMPRI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePRI",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 39:20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 42,
+      "verses": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 42:16-19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 15:34"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:26"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 52,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 52:11"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 12:4,5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 5:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:24"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 33,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 33:1"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezra",
+    "Genesis",
+    "Jeremiah",
+    "Luke",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 12,
+    "ot_refs": 7,
+    "nt_refs": 5,
+    "books_count": 6,
+    "top_books": [
+      "Acts",
+      "Genesis",
+      "Jeremiah",
+      "Numbers",
+      "Ezra",
+      "Luke"
+    ]
+  }
+}

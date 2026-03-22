@@ -1,0 +1,47 @@
+{
+  "topic": "SYRACUSE",
+  "slug": "syracuse",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of Sicily)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits",
+      "references": [
+        "Acts 28:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:12"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "topic": "PSALMS",
+  "slug": "psalms",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JESUS",
+    "MESSIAH",
+    "PRAYER, IMPRECATORY"
+  ],
+  "aspects": [
+    {
+      "label": "Of Moses, celebrating the",
+      "references": [
+        "Exodus 15:1-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Didactic",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "righteousness, and",
+      "references": [
+        "Deuteronomy 32:1-43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Hannah, in thankfulness for a",
+      "references": [
+        "1 Samuel 2:1-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of David",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".In celebrating his",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Upon the oc",
+      "references": [
+        "1 Chronicles 16:7-36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".At the close of his reign",
+      "references": [
+        "2 Samuel 23:2-7",
+        "1 Chronicles 29:10-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Hezekiah, celebrating",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Mary",
+      "references": [
+        "Luke 1:46-55"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "El",
+      "references": [
+        "Luke 1:42-45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Zacharias",
+      "references": [
+        "Luke 1:68-79"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "AFFLICTIONSPs 3;4;5;7;11;13;16;17;22;26;27;28;31;35;41;42;43;44;54;55;56;57;59;60;61;62;63;64;69;70;71;74;77;79;80;83;84;86;88;89;94;102;109;120;123;129;137;140;141;142;143",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "DIDACTICPs 1;5;7;9;10;11;12;14;15;17;24;25;32;34;36;37;39;49;50;52;53;58;73;75;82;84;90;91;92;94;101;112;119;121;125;127;128;131;133",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "HISTORI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "IMPRE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePRAYER, IMPRE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INTERCESSIONALPs 20;6",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 19,
+      "testament": "OT",
+      "raw": "Exodus 15:1-19"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "verse_count": 43,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:1-43"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "1 Samuel 2:1-10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "verse_count": 30,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:7-36"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "2 Samuel 23:2-7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:10-19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 38,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "1 Chronicles 38:9-20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Luke 1:46-55"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 1:42-45"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Luke 1:68-79"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Samuel",
+    "Deuteronomy",
+    "Exodus",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 10,
+    "ot_refs": 7,
+    "nt_refs": 3,
+    "books_count": 6,
+    "top_books": [
+      "1 Chronicles",
+      "Luke",
+      "Exodus",
+      "Deuteronomy",
+      "1 Samuel",
+      "2 Samuel"
+    ]
+  }
+}

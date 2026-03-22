@@ -1,0 +1,62 @@
+{
+  "topic": "VERMILION",
+  "slug": "vermilion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COLOR"
+  ],
+  "aspects": [
+    {
+      "label": "A color",
+      "references": [
+        "Jeremiah 22:14",
+        "Ezekiel 23:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOLOR",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 23:14"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Ezekiel"
+    ]
+  }
+}

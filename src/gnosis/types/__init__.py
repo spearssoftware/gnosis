@@ -1,7 +1,28 @@
+from gnosis.types.cross_reference import CrossReferenceEntry, CrossReferenceTarget
+from gnosis.types.dictionary import DictionaryDefinition, DictionaryEntry
 from gnosis.types.event import Event
+from gnosis.types.hebrew import HebrewVerse, HebrewWord, LexiconEntry
 from gnosis.types.people_group import PeopleGroup
 from gnosis.types.person import Person
 from gnosis.types.place import Place
+from gnosis.types.strongs import StrongsEntry
+from gnosis.types.topic import Topic, TopicAspect
 from gnosis.types.verse_index import VerseEntry
 
-__all__ = ["Event", "PeopleGroup", "Person", "Place", "VerseEntry"]
+__all__ = [
+    "CrossReferenceEntry",
+    "CrossReferenceTarget",
+    "DictionaryDefinition",
+    "DictionaryEntry",
+    "Event",
+    "HebrewVerse",
+    "HebrewWord",
+    "LexiconEntry",
+    "PeopleGroup",
+    "Person",
+    "Place",
+    "StrongsEntry",
+    "Topic",
+    "TopicAspect",
+    "VerseEntry",
+]

@@ -1,0 +1,91 @@
+{
+  "topic": "JOIARIB",
+  "slug": "joiarib",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JEHOIARIB"
+  ],
+  "aspects": [
+    {
+      "label": "1. A returned exile",
+      "references": [
+        "Ezra 8:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "Nehemiah 11:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest who returned from Babylon",
+      "references": [
+        "Nehemiah 12:6,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. JOIARIB",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJEHOIARIB",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:16"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:5"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        6,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:6,19"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

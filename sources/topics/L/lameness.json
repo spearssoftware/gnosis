@@ -1,0 +1,186 @@
+{
+  "topic": "LAMENESS",
+  "slug": "lameness",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Disqualified priests from exercising the priestly office",
+      "references": [
+        "Leviticus 21:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Disqualified animals for sacrificial uses",
+      "references": [
+        "Deuteronomy 15:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hated by David",
+      "references": [
+        "2 Samuel 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Healed by",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus",
+      "references": [
+        "Matthew 11:5",
+        "Matthew 15:31",
+        "Matthew 21:14",
+        "Luke 7:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Peter",
+      "references": [
+        "Acts 3:2-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Hebrews 12:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 21:18"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 15,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 15:21"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 5:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:31"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:14"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:22"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Acts 3:2-11"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:13"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Acts",
+    "Deuteronomy",
+    "Hebrews",
+    "Leviticus",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 9,
+    "ot_refs": 3,
+    "nt_refs": 6,
+    "books_count": 7,
+    "top_books": [
+      "Matthew",
+      "Leviticus",
+      "Deuteronomy",
+      "2 Samuel",
+      "Luke",
+      "Acts",
+      "Hebrews"
+    ]
+  }
+}

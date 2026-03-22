@@ -1,0 +1,42 @@
+{
+  "topic": "FORERUNNER",
+  "slug": "forerunner",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Figurative of Christ",
+      "references": [
+        "Hebrews 6:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hebrews",
+      "chapter": 6,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 6:20"
+    }
+  ],
+  "books_mentioned": [
+    "Hebrews"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Hebrews"
+    ]
+  }
+}

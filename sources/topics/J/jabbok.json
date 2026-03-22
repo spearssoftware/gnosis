@@ -1,0 +1,109 @@
+{
+  "topic": "JABBOK",
+  "slug": "jabbok",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A stream on the east of the Jordan River, the northern boundary",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of the possessions of the Ammonites",
+      "references": [
+        "Numbers 21:24",
+        "Judges 11:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the Reubenites and the Gadites",
+      "references": [
+        "Joshua 12:2",
+        "Deuteronomy 3:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The northern boundary of the Amorites",
+      "references": [
+        "Judges 11:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:24"
+    },
+    {
+      "book": "Judges",
+      "chapter": 11,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 11:13"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:2"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 3:16"
+    },
+    {
+      "book": "Judges",
+      "chapter": 11,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 11:22"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Joshua",
+    "Judges",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Judges",
+      "Numbers",
+      "Joshua",
+      "Deuteronomy"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "topic": "KIDNEY",
+  "slug": "kidney",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Burnt offering of the",
+      "references": [
+        "Exodus 29:13,22",
+        "Exodus 4:9,10",
+        "Exodus 7:4,5",
+        "Exodus 8:16",
+        "Exodus 9:10",
+        "Deuteronomy 32:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        13,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 29:13,22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 4:9,10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 7,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 7:4,5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 8:16"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 9:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:14"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Deuteronomy"
+    ]
+  }
+}

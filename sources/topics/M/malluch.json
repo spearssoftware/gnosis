@@ -1,0 +1,127 @@
+{
+  "topic": "MALLUCH",
+  "slug": "malluch",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Merarite Levite",
+      "references": [
+        "1 Chronicles 6:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "Ezra 10:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. One of the family of Harim, who divorced his Gentile wife",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "after the",
+      "references": [
+        "Ezra 10:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A priest who sealed the covenant with NehemiahNe",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A chief of the people who sealed the covenant with Nehemiah",
+      "references": [
+        "Nehemiah 10:27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:44"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:29"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:32"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:4"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 12:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Ezra",
+      "1 Chronicles",
+      "Nehemiah"
+    ]
+  }
+}

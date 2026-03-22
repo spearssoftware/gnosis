@@ -1,0 +1,163 @@
+{
+  "topic": "HYSSOP",
+  "slug": "hyssop",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An indigenous plant to western Asia and northern Afri",
+      "references": [
+        "1 Kings 4:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The Israelites used, in sprinkling the blood of the paschal lamb",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "upon the lintels of their doors",
+      "references": [
+        "Exodus 12:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In sprinkling blood in purifi",
+      "references": [
+        "Leviticus 14:4,6,51,52",
+        "Hebrews 9:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in the sacrifices of separation",
+      "references": [
+        "Numbers 19:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in giving Jesus vinegar on the cross",
+      "references": [
+        "John 19:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of spiritual cleansing",
+      "references": [
+        "Psalms 51:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:33"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:22"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        4,
+        6,
+        51,
+        52
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Leviticus 14:4,6,51,52"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 9,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 9:19"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 19:6"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:29"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 51,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 51:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Exodus",
+    "Hebrews",
+    "John",
+    "Leviticus",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 7,
+    "ot_refs": 5,
+    "nt_refs": 2,
+    "books_count": 7,
+    "top_books": [
+      "1 Kings",
+      "Exodus",
+      "Leviticus",
+      "Hebrews",
+      "Numbers",
+      "John",
+      "Psalms"
+    ]
+  }
+}

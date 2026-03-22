@@ -1,0 +1,624 @@
+{
+  "topic": "TENTS",
+  "slug": "tents",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Origin and antiquity of",
+      "references": [
+        "Genesis 4:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Tabernacles",
+      "references": [
+        "Numbers 24:5",
+        "Job 12:6",
+        "Hebrews 11:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Curtains",
+      "references": [
+        "Isaiah 54:2",
+        "Hebrews 3:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were spread out",
+      "references": [
+        "Isaiah 40:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Fastened by cords to stakes or nails",
+      "references": [
+        "Isaiah 54:2",
+        "Jeremiah 10:20",
+        "Judges 4:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: Patriarchs",
+      "references": [
+        "Genesis 13:5",
+        "Genesis 25:27",
+        "Hebrews 11:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: Israel in the desert",
+      "references": [
+        "Exodus 33:8",
+        "Numbers 24:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: The people of Israel in all their wars",
+      "references": [
+        "1 Samuel 4:3,10",
+        "1 Samuel 29:1",
+        "1 Kings 16:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: The Rechabites",
+      "references": [
+        "Jeremiah 35:7,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: The Arabs",
+      "references": [
+        "Isaiah 13:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: Shepherds while tending their flocks",
+      "references": [
+        "Song of Solomon 1:8",
+        "Isaiah 38:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were used by: All eastern nations",
+      "references": [
+        "Judges 6:5",
+        "1 Samuel 17:4",
+        "2 Kings 7:7",
+        "1 Chronicles 5:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Separate, for females of the family",
+      "references": [
+        "Genesis 24:67"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Separate, for the servants",
+      "references": [
+        "Genesis 31:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were pitched: With order and regularity",
+      "references": [
+        "Numbers 1:52"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were pitched: In the neighbourhood of wells, &c",
+      "references": [
+        "Genesis 13:10,12",
+        "Genesis 26:17,18",
+        "1 Samuel 29:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were pitched: Under trees",
+      "references": [
+        "Genesis 18:1,4",
+        "Judges 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were pitched: On the tops of houses",
+      "references": [
+        "2 Samuel 16:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sending persons to seek a convenient place for, alluded to",
+      "references": [
+        "Deuteronomy 1:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ease and rapidity of their removal, alluded to",
+      "references": [
+        "Isaiah 38:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the Jews contrasted with those of the Arabs",
+      "references": [
+        "Numbers 24:5",
+        "Song of Solomon 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Custom of sitting and standing at the door of",
+      "references": [
+        "Genesis 18:1",
+        "Judges 4:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Spread out,) of the heavens",
+      "references": [
+        "Isaiah 40:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Enlarging of,) of the great extension of the Church",
+      "references": [
+        "Isaiah 54:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:20"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:5"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 12:6"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 54,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 54:2"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 3:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 40:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 10:20"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 13:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:27"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 33,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 33:8"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:2"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "verses": [
+        3,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 4:3,10"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 29:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:16"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 35,
+      "verses": [
+        7,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 35:7,10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:20"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 1:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 38,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 38:12"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 6:5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:4"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 7:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        67
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:67"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:52"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verses": [
+        10,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 13:10,12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 26:17,18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        1,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 18:1,4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:5"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 16:22"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:33"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 1:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 18:1"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:20"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "2 Samuel",
+    "Deuteronomy",
+    "Exodus",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Judges",
+    "Numbers",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 24,
+    "total_refs": 36,
+    "ot_refs": 34,
+    "nt_refs": 2,
+    "books_count": 15,
+    "top_books": [
+      "Genesis",
+      "Isaiah",
+      "Judges",
+      "Numbers",
+      "1 Samuel",
+      "Hebrews",
+      "Jeremiah",
+      "Song of Solomon",
+      "Job",
+      "Exodus"
+    ]
+  }
+}

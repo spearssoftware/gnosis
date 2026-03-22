@@ -1,0 +1,239 @@
+{
+  "topic": "SHEM",
+  "slug": "shem",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Preserved in the ark (ship)",
+      "references": [
+        "Genesis 5:32",
+        "Genesis 6:10",
+        "Genesis 7:13",
+        "Genesis 9:18",
+        "1 Chronicles 1:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His filial conduct",
+      "references": [
+        "Genesis 9:23-27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 10:1,21-31",
+        "Genesis 11:10-29",
+        "1 Chronicles 1:17-54"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Luke 3:36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 5:32"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 6:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 7,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 7:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 9,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 9:18"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 9,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 9:23-27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        1,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Genesis 10:1,21-31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 20,
+      "testament": "OT",
+      "raw": "Genesis 11:10-29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "verse_count": 38,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:17-54"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:36"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 10,
+    "ot_refs": 9,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Luke"
+    ]
+  }
+}

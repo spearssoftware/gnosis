@@ -1,0 +1,48 @@
+{
+  "topic": "HAURAN",
+  "slug": "hauran",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A district probably",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "River",
+      "references": [
+        "Ezekiel 47:16,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 47,
+      "verses": [
+        16,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 47:16,18"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezekiel"
+    ]
+  }
+}

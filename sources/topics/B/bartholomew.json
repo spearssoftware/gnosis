@@ -1,0 +1,81 @@
+{
+  "topic": "BARTHOLOMEW",
+  "slug": "bartholomew",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One of the apostles",
+      "references": [
+        "Matthew 10:3",
+        "Mark 3:18",
+        "Luke 6:14",
+        "Acts 1:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:13"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "Acts"
+    ]
+  }
+}

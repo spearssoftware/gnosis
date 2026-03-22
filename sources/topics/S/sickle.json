@@ -1,0 +1,102 @@
+{
+  "topic": "SICKLE",
+  "slug": "sickle",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An agricultural implement used for cutting grain",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "23:25;",
+      "references": [
+        "Jeremiah 50:16",
+        "Mark 4:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the",
+      "references": [
+        "Joel 3:13",
+        "Revelation 14:14-19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 50,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 50:16"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 4:29"
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 3:13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Revelation 14:14-19"
+    }
+  ],
+  "books_mentioned": [
+    "Jeremiah",
+    "Joel",
+    "Mark",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 2,
+    "nt_refs": 2,
+    "books_count": 4,
+    "top_books": [
+      "Jeremiah",
+      "Mark",
+      "Joel",
+      "Revelation"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "topic": "HASHUM",
+  "slug": "hashum",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Ancestor of certain Jews who returned from the",
+      "references": [
+        "Ezra 2:19",
+        "Ezra 10:33",
+        "Nehemiah 7:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A priest",
+      "references": [
+        "Nehemiah 8:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A head of a family",
+      "references": [
+        "Nehemiah 10:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:19"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:33"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:22"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:4"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:18"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

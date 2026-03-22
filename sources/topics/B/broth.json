@@ -1,0 +1,88 @@
+{
+  "topic": "BROTH",
+  "slug": "broth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Judges 6:19,20",
+        "2 Kings 4:38",
+        "Isaiah 65:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Symboli",
+      "references": [
+        "Ezekiel 24:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 6:19,20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 4:38"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:4"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 24,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 24:5"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Ezekiel",
+    "Isaiah",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Judges",
+      "2 Kings",
+      "Isaiah",
+      "Ezekiel"
+    ]
+  }
+}

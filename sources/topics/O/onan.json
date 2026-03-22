@@ -1,0 +1,92 @@
+{
+  "topic": "ONAN",
+  "slug": "onan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Killed for his refusal to raise seed (offspring) for his",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "brother",
+      "references": [
+        "Genesis 38:4,8-10",
+        "Genesis 46:12",
+        "Numbers 26:19",
+        "1 Chronicles 2:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 38,
+      "verses": [
+        4,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 38:4,8-10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Numbers",
+      "1 Chronicles"
+    ]
+  }
+}

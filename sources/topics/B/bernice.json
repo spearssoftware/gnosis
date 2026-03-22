@@ -1,0 +1,55 @@
+{
+  "topic": "BERNICE",
+  "slug": "bernice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Daughter of Agrippa",
+      "references": [
+        "Acts 2:5,13,23",
+        "Acts 26:30"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        5,
+        13,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 2:5,13,23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:30"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

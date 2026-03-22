@@ -1,0 +1,55 @@
+{
+  "topic": "BDELLIUM",
+  "slug": "bdellium",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 2:12",
+        "Numbers 11:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 2:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 11:7"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Numbers"
+    ]
+  }
+}

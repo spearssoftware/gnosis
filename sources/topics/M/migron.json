@@ -1,0 +1,66 @@
+{
+  "topic": "MIGRON",
+  "slug": "migron",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city in territory of the tribe of Benjamin)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Saul en",
+      "references": [
+        "1 Samuel 14:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecy concerning",
+      "references": [
+        "Isaiah 10:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:28"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Samuel",
+      "Isaiah"
+    ]
+  }
+}

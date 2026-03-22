@@ -1,0 +1,55 @@
+{
+  "topic": "BELIAL",
+  "slug": "belial",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Lawlessness",
+      "references": [
+        "Deuteronomy 13:13",
+        "2 Corinthians 6:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 13,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 13:13"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:15"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Deuteronomy",
+      "2 Corinthians"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "topic": "AMAM",
+  "slug": "amam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of",
+      "references": [
+        "Joshua 15:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Within the district assigned to Simeon",
+      "references": [
+        "Joshua 19:1-9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:26"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Joshua 19:1-9"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

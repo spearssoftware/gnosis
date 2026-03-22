@@ -1,0 +1,54 @@
+{
+  "topic": "PHYSIOGNOMY",
+  "slug": "physiognomy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FACE"
+  ],
+  "aspects": [
+    {
+      "label": "(External aspect))",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Character revealed in",
+      "references": [
+        "Isaiah 3:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFACE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:9"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

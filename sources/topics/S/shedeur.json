@@ -1,0 +1,76 @@
+{
+  "topic": "SHEDEUR",
+  "slug": "shedeur",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of Elizur",
+      "references": [
+        "Numbers 1:5",
+        "Numbers 2:10",
+        "Numbers 7:30,35",
+        "Numbers 10:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:5"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:10"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        30,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:30,35"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:18"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

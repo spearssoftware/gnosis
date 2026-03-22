@@ -1,0 +1,138 @@
+{
+  "topic": "DEDAN",
+  "slug": "dedan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:7",
+        "1 Chronicles 1:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "Genesis 25:3",
+        "1 Chronicles 1:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A country, probably bor",
+      "references": [
+        "Jeremiah 49:8",
+        "Ezekiel 25:13",
+        "Ezekiel 27:15,20",
+        "Ezekiel 38:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:32"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:8"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 25,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 25:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        15,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 27:15,20"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 38:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezekiel",
+    "Genesis",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Ezekiel",
+      "Genesis",
+      "1 Chronicles",
+      "Jeremiah"
+    ]
+  }
+}

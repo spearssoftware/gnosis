@@ -1,0 +1,42 @@
+{
+  "topic": "ANISE",
+  "slug": "anise",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A seed, used as a condiment",
+      "references": [
+        "Matthew 23:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:23"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

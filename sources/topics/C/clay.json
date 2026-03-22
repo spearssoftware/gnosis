@@ -1,0 +1,214 @@
+{
+  "topic": "CLAY",
+  "slug": "clay",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Man formed from",
+      "references": [
+        "Job 33:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Seals ma",
+      "references": [
+        "Job 38:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used by potter",
+      "references": [
+        "Isaiah 29:16",
+        "Isaiah 41:25",
+        "Isaiah 45:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Blind man’s eyes anointed with",
+      "references": [
+        "John 9:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Job 4:19",
+        "Psalms 40:2",
+        "Isaiah 45:9",
+        "Isaiah 64:8",
+        "Jeremiah 18:6",
+        "Romans 9:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Daniel 2:33-41"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 33,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 33:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 29,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 29:16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 41:25"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 45,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 45:9"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 9:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 4:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 40,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 40:2"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 64,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 64:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 18,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 18:6"
+    },
+    {
+      "book": "Romans",
+      "chapter": 9,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 9:21"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Daniel 2:33-41"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 12,
+    "ot_refs": 10,
+    "nt_refs": 2,
+    "books_count": 7,
+    "top_books": [
+      "Isaiah",
+      "Job",
+      "John",
+      "Psalms",
+      "Jeremiah",
+      "Romans",
+      "Daniel"
+    ]
+  }
+}

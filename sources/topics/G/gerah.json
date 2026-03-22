@@ -1,0 +1,78 @@
+{
+  "topic": "GERAH",
+  "slug": "gerah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A weight equal to thirteen and seven-tenths grains, Paris",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "three half-pence English money",
+      "references": [
+        "Exodus 30:13",
+        "Leviticus 27:25",
+        "Numbers 3:47"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:13"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 27:25"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "verses": [
+        47
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 3:47"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Leviticus",
+      "Numbers"
+    ]
+  }
+}

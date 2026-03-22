@@ -1,0 +1,408 @@
+{
+  "topic": "IDOL",
+  "slug": "idol",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ICONOCLASM"
+  ],
+  "aspects": [
+    {
+      "label": "Ma",
+      "references": [
+        "Exodus 20:4",
+        "Exodus 32:4,20",
+        "Deuteronomy 4:23",
+        "Isaiah 40:19,20",
+        "Isaiah 44:9-12,17",
+        "Habakkuk 2:18",
+        "Acts 19:24,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "Exodus 20:4",
+        "Exodus 34:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Gol",
+      "references": [
+        "Exodus 32:3,4",
+        "Psalms 115:4-7",
+        "Psalms 135:15-17",
+        "Isaiah 2:20",
+        "Isaiah 30:22",
+        "Isaiah 31:7",
+        "Hosea 8:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Silver",
+      "references": [
+        "Isaiah 2:20",
+        "Isaiah 30:22",
+        "Isaiah 31:7",
+        "Hosea 8:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Wood and stone",
+      "references": [
+        "Leviticus 26:1",
+        "Deuteronomy 4:28",
+        "2 Kings 19:18",
+        "Isaiah 37:19",
+        "Isaiah 41:6",
+        "Isaiah 44:13-19",
+        "Ezekiel 20:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Coverings of",
+      "references": [
+        "Isaiah 30:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prayer to, unanswered",
+      "references": [
+        "1 Kings 18:25-29",
+        "Isaiah 16:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Things offered to, not to be eaten",
+      "references": [
+        "Exodus 34:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeICONOCLASM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 20:4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": [
+        4,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 32:4,20"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 40:19,20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        17
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Isaiah 44:9-12,17"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 2:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 19:24,25"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 32:3,4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 115,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 115:4-7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 135,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Psalms 135:15-17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 31,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 31:7"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 8:4"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:1"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:28"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 41:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 44,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Isaiah 44:13-19"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 20,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 20:32"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Kings 18:25-29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 16:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Habakkuk",
+    "Hosea",
+    "Isaiah",
+    "Leviticus",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 25,
+    "ot_refs": 24,
+    "nt_refs": 1,
+    "books_count": 11,
+    "top_books": [
+      "Isaiah",
+      "Exodus",
+      "Deuteronomy",
+      "Psalms",
+      "Habakkuk",
+      "Acts",
+      "Hosea",
+      "Leviticus",
+      "2 Kings",
+      "Ezekiel"
+    ]
+  }
+}

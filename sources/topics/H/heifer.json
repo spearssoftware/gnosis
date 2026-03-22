@@ -1,0 +1,198 @@
+{
+  "topic": "HEIFER",
+  "slug": "heifer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "KINE",
+    "OFFERING"
+  ],
+  "aspects": [
+    {
+      "label": "When used as sacrifice, must be without blemish and must not",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "have come un",
+      "references": [
+        "Numbers 19:2",
+        "Deuteronomy 21:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An atonement for mur",
+      "references": [
+        "Deuteronomy 21:1-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The red heifer used for the water of separation",
+      "references": [
+        "Hebrews 9:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for pulling",
+      "references": [
+        "Judges 14:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for treading out wheat",
+      "references": [
+        "Hosea 10:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tractable",
+      "references": [
+        "Hosea 10:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Intractable",
+      "references": [
+        "Hosea 4:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeKINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOFFERING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of backsli",
+      "references": [
+        "Hosea 4:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the obedient",
+      "references": [
+        "Hosea 10:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 19:2"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:3"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:1-9"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 9,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 9:13"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 14:18"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 10:11"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 4:16"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Hebrews",
+    "Hosea",
+    "Judges",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 13,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "Deuteronomy",
+      "Hosea",
+      "Numbers",
+      "Hebrews",
+      "Judges"
+    ]
+  }
+}

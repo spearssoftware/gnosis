@@ -1,0 +1,84 @@
+{
+  "topic": "DISHON",
+  "slug": "dishon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 36:21,30",
+        "1 Chronicles 1:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Grand",
+      "references": [
+        "Genesis 36:25",
+        "1 Chronicles 1:41"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        21,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 36:21,30"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:38"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:25"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:41"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

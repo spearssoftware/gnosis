@@ -1,0 +1,365 @@
+{
+  "topic": "ELIJAH",
+  "slug": "elijah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The Tishbite, a Gileadite and prophet,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "King James Version of the N. T.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Persecuted by Ahab",
+      "references": [
+        "1 Kings 17:2-7",
+        "1 Kings 18:7-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Es",
+      "references": [
+        "1 Kings 17:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By divine direction goes to Zarephath, where he is sustained",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "in the household of a widow, whose meal and oil are miraculousiy increased",
+      "references": [
+        "1 Kings 17:8-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Returns, and sends a message to Ahab",
+      "references": [
+        "1 Kings 18:1-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Meets Ahab and directs him to assemble the prophets of Baal",
+      "references": [
+        "1 Kings 18:17-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Kings 18:25-29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Kills the prophets of Baal",
+      "references": [
+        "1 Kings 18:40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Es",
+      "references": [
+        "1 Kings 19:1-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Fasts for forty days",
+      "references": [
+        "1 Kings 19:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Kings 19:10,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Con",
+      "references": [
+        "1 Kings 9:11-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Flees to the wil",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "king over Syria, Jehu king over Israel, and Elisha to be a prophet in his own place",
+      "references": [
+        "1 Kings 19:9-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Per",
+      "references": [
+        "2 Kings 1:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Piety of",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "1 Kings 17:2-7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Kings 18:7-10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Kings 17:1-7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "1 Kings 17:8-16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "1 Kings 18:1-16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Kings 18:17-20"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Kings 18:25-29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:40"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 18,
+      "testament": "OT",
+      "raw": "1 Kings 19:1-18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 19:8"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        10,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 19:10,14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "1 Kings 9:11-18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "1 Kings 19:9-21"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 1:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 18,
+    "total_refs": 14,
+    "ot_refs": 14,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "2 Kings"
+    ]
+  }
+}

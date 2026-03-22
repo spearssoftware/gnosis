@@ -1,0 +1,86 @@
+{
+  "topic": "ARIMATHEA",
+  "slug": "arimathea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A town five miles north of",
+      "references": [
+        "Matthew 27:57",
+        "Mark 15:43",
+        "Luke 23:51",
+        "John 19:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        57
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:57"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:43"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:51"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:38"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ]
+  }
+}

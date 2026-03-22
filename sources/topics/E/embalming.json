@@ -1,0 +1,235 @@
+{
+  "topic": "EMBALMING",
+  "slug": "embalming",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of Jacob",
+      "references": [
+        "Genesis 50:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Joseph",
+      "references": [
+        "Genesis 50:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Asa",
+      "references": [
+        "2 Chronicles 16:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Jesus",
+      "references": [
+        "Mark 15:46",
+        "Mark 16:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Unknown to early patriarchs",
+      "references": [
+        "Genesis 23:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Learned by the Jews in Egypt",
+      "references": [
+        "Genesis 50:2,26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Time required for",
+      "references": [
+        "Genesis 50:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "How performed by the Jews",
+      "references": [
+        "2 Chronicles 16:14",
+        "Luke 23:56",
+        "John 19:40"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not always practised by the Jews",
+      "references": [
+        "John 11:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "An attempt to defeat God’s purpose",
+      "references": [
+        "Genesis 3:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 50:2,3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 50:26"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 16:14"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:46"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 16:1"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 23:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        2,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 50:2,26"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 50:3"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        56
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:56"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:40"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:39"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:19"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "Genesis",
+    "John",
+    "Luke",
+    "Mark"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 12,
+    "ot_refs": 7,
+    "nt_refs": 5,
+    "books_count": 5,
+    "top_books": [
+      "Genesis",
+      "Mark",
+      "John",
+      "2 Chronicles",
+      "Luke"
+    ]
+  }
+}

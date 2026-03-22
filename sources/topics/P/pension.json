@@ -1,0 +1,44 @@
+{
+  "topic": "PENSION",
+  "slug": "pension",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of Levites",
+      "references": [
+        "2 Chronicles 31:16-18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        16,
+        17,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:16-18"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "GIBBAR",
+  "slug": "gibbar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GIBEON"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Ezra 2:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGIBEON",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:20"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

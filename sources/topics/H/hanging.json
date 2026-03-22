@@ -1,0 +1,124 @@
+{
+  "topic": "HANGING",
+  "slug": "hanging",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PUNISHMENT"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 40:19-22",
+        "Joshua 8:29",
+        "2 Samuel 4:12",
+        "Esther 7:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The curse of",
+      "references": [
+        "Deuteronomy 21:22,23",
+        "Galatians 3:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePUNISHMENT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 40,
+      "verses": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 40:19-22"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 8:29"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 4:12"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 7:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:22,23"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 3:13"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Deuteronomy",
+    "Esther",
+    "Galatians",
+    "Genesis",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "Genesis",
+      "Joshua",
+      "2 Samuel",
+      "Esther",
+      "Deuteronomy",
+      "Galatians"
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "topic": "EXAMPLE OF CHRIST, THE",
+  "slug": "example_of_christ__the",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Is perfect",
+      "references": [
+        "Hebrews 7:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Holiness",
+      "references": [
+        "1 Peter 1:15,16",
+        "Romans 1:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Righteousness",
+      "references": [
+        "1 John 2:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Purity",
+      "references": [
+        "1 John 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Love",
+      "references": [
+        "John 13:34",
+        "Ephesians 5:2",
+        "1 John 3:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Humility",
+      "references": [
+        "Luke 22:27",
+        "Philippians 2:5,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Meekness",
+      "references": [
+        "Matthew 11:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Obedience",
+      "references": [
+        "John 15:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Self-denial",
+      "references": [
+        "Matthew 16:24",
+        "Romans 15:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Ministering to others",
+      "references": [
+        "Matthew 20:28",
+        "John 13:14,15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Benevolence",
+      "references": [
+        "Acts 20:35",
+        "2 Corinthians 8:7,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Forgiving injuries",
+      "references": [
+        "Colossians 3:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Overcoming the world",
+      "references": [
+        "John 16:33",
+        "1 John 5:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Being not of the world",
+      "references": [
+        "John 17:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Being guileless",
+      "references": [
+        "1 Peter 2:21-22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Suffering wrongfully",
+      "references": [
+        "1 Peter 2:21-23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, required in: Suffering for righteousness",
+      "references": [
+        "Hebrews 12:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints predestinated to follow",
+      "references": [
+        "Romans 8:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Conformity to, progressive",
+      "references": [
+        "2 Corinthians 3:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hebrews",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 7:26"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Peter 1:15,16"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 1:6"
+    },
+    {
+      "book": "1 John",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 2:6"
+    },
+    {
+      "book": "1 John",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 3:3"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 13:34"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:2"
+    },
+    {
+      "book": "1 John",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 3:16"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 22:27"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "verses": [
+        5,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Philippians 2:5,7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:29"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 15:10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 16:24"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 15:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 20:28"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 13:14,15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:35"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 8,
+      "verses": [
+        7,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Corinthians 8:7,9"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:13"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 16:33"
+    },
+    {
+      "book": "1 John",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 5:4"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 17:16"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Peter 2:21-22"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Peter 2:21-23"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 12:3,4"
+    },
+    {
+      "book": "Romans",
+      "chapter": 8,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 8:29"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 3:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 John",
+    "1 Peter",
+    "2 Corinthians",
+    "Acts",
+    "Colossians",
+    "Ephesians",
+    "Hebrews",
+    "John",
+    "Luke",
+    "Matthew",
+    "Philippians",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 27,
+    "ot_refs": 0,
+    "nt_refs": 27,
+    "books_count": 12,
+    "top_books": [
+      "John",
+      "1 John",
+      "1 Peter",
+      "Romans",
+      "Matthew",
+      "Hebrews",
+      "2 Corinthians",
+      "Ephesians",
+      "Luke",
+      "Philippians"
+    ]
+  }
+}

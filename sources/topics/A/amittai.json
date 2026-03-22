@@ -1,0 +1,55 @@
+{
+  "topic": "AMITTAI",
+  "slug": "amittai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father ofJonah",
+      "references": [
+        "2 Kings 14:25",
+        "Jonah 1:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 14:25"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 1:1"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Jonah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Kings",
+      "Jonah"
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "topic": "JEROBOAM",
+  "slug": "jeroboam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. First king of Israel after the revolt",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Promoted by",
+      "references": [
+        "1 Kings 11:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ahijah’s prophecy concerning",
+      "references": [
+        "1 Kings 11:29-39",
+        "1 Kings 14:5-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Flees to Egypt to es",
+      "references": [
+        "1 Kings 11:26-40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Re",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "toward Rehoboam, and ma",
+      "references": [
+        "1 Kings 12:1-20",
+        "2 Chronicles 10:12-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Subverts the religion of Moses",
+      "references": [
+        "1 Kings 12:25-33",
+        "1 Kings 13:33,34",
+        "1 Kings 14:9,16",
+        "1 Kings 16:2,26,31",
+        "2 Chronicles 11:14",
+        "2 Chronicles 13:8,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Hand of, paralyzed",
+      "references": [
+        "1 Kings 13:1-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His wife sent to consult the prophet Ahijah concerning her child",
+      "references": [
+        "1 Kings 14:1-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His wars with Rehoboam",
+      "references": [
+        "1 Kings 14:19,30",
+        "1 Kings 15:6",
+        "2 Chronicles 11:1-4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His war with Abijah",
+      "references": [
+        "1 Kings 15:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Kings 14:20",
+        "2 Chronicles 13:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. King of Israel",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Succes",
+      "references": [
+        "2 Kings 14:16,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Makes conquest of Hamath and Damascus",
+      "references": [
+        "2 Kings 14:25-28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Wicked reign of",
+      "references": [
+        "2 Kings 14:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prophecies concerning",
+      "references": [
+        "Amos 7:7-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "2 Kings 14:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Genealogies written during his reign",
+      "references": [
+        "1 Chronicles 5:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 11:28"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "1 Kings 11:29-39"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "1 Kings 14:5-16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "1 Kings 11:26-40"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 20,
+      "testament": "OT",
+      "raw": "1 Kings 12:1-20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 10,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "2 Chronicles 10:12-19"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "1 Kings 12:25-33"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "verses": [
+        33,
+        34
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 13:33,34"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        9,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 14:9,16"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        2,
+        26,
+        31
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 16:2,26,31"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 13,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 13:8,9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "1 Kings 13:1-10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 18,
+      "testament": "OT",
+      "raw": "1 Kings 14:1-18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        19,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 14:19,30"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 15:6"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:1-4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 15:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 14:20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 13,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 13:20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        16,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 14:16,23"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Kings 14:25-28"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 14:24"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Amos 7:7-13"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 14:29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "2 Kings",
+    "Amos"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 26,
+    "ot_refs": 26,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Kings",
+      "2 Chronicles",
+      "2 Kings",
+      "Amos",
+      "1 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "topic": "KORAH",
+  "slug": "korah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Al",
+      "references": [
+        "Genesis 36:5,14,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Korhite Levite",
+      "references": [
+        "Exodus 6:18,21,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jealous of Moses, leads two-hundred and fifty princes in an insurrection,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "and is swallowed up in the earth",
+      "references": [
+        "Deuteronomy 11:6",
+        "Psalms 106:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 2:43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "among the Levites",
+      "references": [
+        "1 Chronicles 6:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See titles toPs 42;45;46;47;48;87;88",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        5,
+        14,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 36:5,14,18"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        18,
+        21,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 6:18,21,24"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 26:9,10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 106,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 106:17"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 1:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:43"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:22"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Deuteronomy",
+    "Exodus",
+    "Genesis",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Exodus",
+      "Psalms",
+      "1 Chronicles",
+      "Genesis",
+      "Deuteronomy"
+    ]
+  }
+}

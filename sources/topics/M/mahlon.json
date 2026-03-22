@@ -1,0 +1,55 @@
+{
+  "topic": "MAHLON",
+  "slug": "mahlon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Ruth 1:2,5",
+        "Ruth 4:9,10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "verses": [
+        2,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 1:2,5"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 4:9,10"
+    }
+  ],
+  "books_mentioned": [
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ruth"
+    ]
+  }
+}

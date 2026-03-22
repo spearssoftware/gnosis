@@ -1,0 +1,87 @@
+{
+  "topic": "BONES",
+  "slug": "bones",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Vision of the dry",
+      "references": [
+        "Ezekiel 37:1-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "None of Christ’s broken",
+      "references": [
+        "Psalms 34:20",
+        "John 19:36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Ezekiel 37:1-14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 34,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 34:20"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:36"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "John",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Ezekiel",
+      "Psalms",
+      "John"
+    ]
+  }
+}

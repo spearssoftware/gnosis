@@ -1,0 +1,57 @@
+{
+  "topic": "MIJAMIN",
+  "slug": "mijamin",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A priest during the time of David",
+      "references": [
+        "1 Chronicles 24:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A priest who sealed the covenant with NehemiahNe",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:9"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 10:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Chronicles"
+    ]
+  }
+}

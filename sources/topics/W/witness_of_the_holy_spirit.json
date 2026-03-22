@@ -1,0 +1,389 @@
+{
+  "topic": "WITNESS OF THE HOLY SPIRIT",
+  "slug": "witness_of_the_holy_spirit",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Is truth",
+      "references": [
+        "1 John 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To be implicitly received",
+      "references": [
+        "1 John 5:6,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: As Messiah",
+      "references": [
+        "Luke 3:22",
+        "John 1:32,33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: As coming to redeem and sanctify",
+      "references": [
+        "1 John 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: As exalted to be a Prince and Saviour to give repentance, &c",
+      "references": [
+        "Acts 5:31,32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: As perfecting saints",
+      "references": [
+        "Hebrews 10:14,15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: As foretold by himself",
+      "references": [
+        "John 15:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: In heaven",
+      "references": [
+        "1 John 5:7,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne to Christ: On earth",
+      "references": [
+        "1 John 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The first preaching of the gospel confirmed by",
+      "references": [
+        "Acts 14:3",
+        "Hebrews 2:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The faithful preaching of the Apostles accompanied by",
+      "references": [
+        "1 Corinthians 2:4",
+        "1 Thessalonians 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given to saints: On believing",
+      "references": [
+        "Acts 15:8",
+        "1 John 5:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given to saints: To testify to them of Christ",
+      "references": [
+        "John 15:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given to saints: As an evidence of adoption",
+      "references": [
+        "Romans 8:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given to saints: As an evidence of Christ in them",
+      "references": [
+        "1 John 3:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Given to saints: As an evidence of God in them",
+      "references": [
+        "1 John 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Borne against all unbelievers",
+      "references": [
+        "Nehemiah 9:30",
+        "Acts 28:25-27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 John",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 5:6"
+    },
+    {
+      "book": "1 John",
+      "chapter": 5,
+      "verses": [
+        6,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 John 5:6,9"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:22"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 1:32,33"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 5:31,32"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 10,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 10:14,15"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 15:26"
+    },
+    {
+      "book": "1 John",
+      "chapter": 5,
+      "verses": [
+        7,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 John 5:7,11"
+    },
+    {
+      "book": "1 John",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 5:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 14:3"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 2:4"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 2:4"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 1:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:8"
+    },
+    {
+      "book": "1 John",
+      "chapter": 5,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 5:10"
+    },
+    {
+      "book": "Romans",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 8:16"
+    },
+    {
+      "book": "1 John",
+      "chapter": 3,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 3:24"
+    },
+    {
+      "book": "1 John",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 John 4:13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 9:30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 28:25-27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 John",
+    "1 Thessalonians",
+    "Acts",
+    "Hebrews",
+    "John",
+    "Luke",
+    "Nehemiah",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 17,
+    "total_refs": 20,
+    "ot_refs": 1,
+    "nt_refs": 19,
+    "books_count": 9,
+    "top_books": [
+      "1 John",
+      "Acts",
+      "John",
+      "Hebrews",
+      "Luke",
+      "1 Corinthians",
+      "1 Thessalonians",
+      "Romans",
+      "Nehemiah"
+    ]
+  }
+}

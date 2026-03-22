@@ -1,0 +1,43 @@
+{
+  "topic": "EXALTATION",
+  "slug": "exaltation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JESUS, EXALTATION OF",
+    "SELF-EXALTATION"
+  ],
+  "aspects": [
+    {
+      "label": "OF CHRIST",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJESUS, EXALTATION OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "OF SELF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSELF-EXALTATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

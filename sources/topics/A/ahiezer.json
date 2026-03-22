@@ -1,0 +1,95 @@
+{
+  "topic": "AHIEZER",
+  "slug": "ahiezer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Numbers 1:12",
+        "Numbers 2:25,26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Contributes to the tabernacle",
+      "references": [
+        "Numbers 7:66-71"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. One of David’s valiant men",
+      "references": [
+        "1 Chronicles 12:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 2:25,26"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 7:66-71"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "1 Chronicles"
+    ]
+  }
+}

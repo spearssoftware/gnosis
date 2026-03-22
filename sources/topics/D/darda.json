@@ -1,0 +1,60 @@
+{
+  "topic": "DARDA",
+  "slug": "darda",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A famous wise man",
+      "references": [
+        "1 Kings 4:31",
+        "1 Chronicles 2:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "1 Chronicles"
+    ]
+  }
+}

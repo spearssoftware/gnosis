@@ -1,0 +1,62 @@
+{
+  "topic": "SHESHBAZZAR",
+  "slug": "sheshbazzar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ZERUBBABEL"
+  ],
+  "aspects": [
+    {
+      "label": "A name given, apparently, to Zerubbabel",
+      "references": [
+        "Ezra 1:8,11",
+        "Ezra 5:14,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeZERUBBABEL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 1:8,11"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "verses": [
+        14,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 5:14,16"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

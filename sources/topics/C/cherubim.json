@@ -1,0 +1,716 @@
+{
+  "topic": "CHERUBIM",
+  "slug": "cherubim",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Eastward of the gar",
+      "references": [
+        "Genesis 3:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the tabernacle",
+      "references": [
+        "Exodus 25:18-20",
+        "Exodus 37:7-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The ark of the covenant rested beneath the wings of",
+      "references": [
+        "1 Kings 8:6,7",
+        "2 Chronicles 5:7,8",
+        "Hebrews 9:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Figures of, embroi",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".On the walls of the tabernacle",
+      "references": [
+        "Exodus 26:1",
+        "Exodus 36:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".And on the curtain",
+      "references": [
+        "Exodus 26:31",
+        "Exodus 36:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the temple",
+      "references": [
+        "1 Kings 6:23-29",
+        "2 Chronicles 3:10-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Figures of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".On the curtain",
+      "references": [
+        "2 Chronicles 3:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".On the walls",
+      "references": [
+        "1 Kings 6:29-35",
+        "2 Chronicles 3:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".On the lavers",
+      "references": [
+        "1 Kings 7:29,36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In Ezekiel’s vision of the temple",
+      "references": [
+        "Ezekiel 41:18-20,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Ezekiel 28:14-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Form and appearance of",
+      "references": [
+        "Ezekiel 1:5-11,13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Animated by the Spirit of God",
+      "references": [
+        "Ezekiel 1:12,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Engaged in accomplishing the purposes of God",
+      "references": [
+        "Ezekiel 1:15,21",
+        "Ezekiel 10:9-11,16,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The glory of God exhibited upon",
+      "references": [
+        "Ezekiel 1:22,26-28",
+        "Ezekiel 10:4,18,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sound of their wings was as the voice of God",
+      "references": [
+        "Ezekiel 1:24",
+        "Ezekiel 10:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Placed at the entrance of Eden",
+      "references": [
+        "Genesis 3:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of gold: Formed out of, and at each end of the mercy seat",
+      "references": [
+        "Exodus 25:18-20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of gold: Placed over the ark of the covenant",
+      "references": [
+        "1 Samuel 4:4",
+        "1 Kings 8:6,7",
+        "2 Chronicles 5:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of gold: God’s presence manifested between",
+      "references": [
+        "2 Samuel 6:2",
+        "2 Kings 19:15",
+        "Psalms 80:1",
+        "Psalms 99:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of gold: The oracles or answers of God delivered from between",
+      "references": [
+        "Exodus 25:22",
+        "Numbers 7:89"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called the cherubim of glory",
+      "references": [
+        "Hebrews 9:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, made on the: Curtains of the tabernacle",
+      "references": [
+        "Exodus 26:1,31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, made on the: Vail of the tabernacle",
+      "references": [
+        "Exodus 26:31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, made on the: Vail of the temple",
+      "references": [
+        "2 Chronicles 3:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, made on the: Doors of the temple",
+      "references": [
+        "1 Kings 6:32,35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, made on the: Walls of the temple",
+      "references": [
+        "2 Chronicles 3:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Representations of, made on the: Bases of brazen lavers",
+      "references": [
+        "1 Kings 7:29,36"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Riding on, illustrative of majesty and power of God",
+      "references": [
+        "2 Samuel 22:11",
+        "Psalms 18:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:24"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        18,
+        19,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 25:18-20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        7,
+        8,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 37:7-9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 8:6,7"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 5,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 5:7,8"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 9:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 26:1"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 36,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 36:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 26:31"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 36,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 36:35"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Kings 6:23-29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 3,
+      "verses": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Chronicles 3:10-13"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 3:14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Kings 6:29-35"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 3:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        29,
+        36
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 7:29,36"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 41,
+      "verses": [
+        18,
+        19,
+        20,
+        25
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ezekiel 41:18-20,25"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        14,
+        15,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezekiel 28:14-16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Ezekiel 1:5-11,13,14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        12,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 1:12,20"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        15,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 1:15,21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verses": [
+        9,
+        10,
+        11,
+        16,
+        17
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Ezekiel 10:9-11,16,17"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        22,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ezekiel 1:22,26-28"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verses": [
+        4,
+        18,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezekiel 10:4,18,20"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:24"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 10:5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 4:4"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:2"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 80:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 99,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 99:1"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        89
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 7:89"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        1,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 26:1,31"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        32,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 6:32,35"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 22:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hebrews",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 32,
+    "total_refs": 37,
+    "ot_refs": 36,
+    "nt_refs": 1,
+    "books_count": 11,
+    "top_books": [
+      "Ezekiel",
+      "Exodus",
+      "1 Kings",
+      "2 Chronicles",
+      "Psalms",
+      "2 Samuel",
+      "Genesis",
+      "Hebrews",
+      "1 Samuel",
+      "2 Kings"
+    ]
+  }
+}

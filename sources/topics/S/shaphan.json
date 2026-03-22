@@ -1,0 +1,231 @@
+{
+  "topic": "SHAPHAN",
+  "slug": "shaphan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A scribe of King Josiah",
+      "references": [
+        "2 Kings 22:3-14",
+        "2 Chronicles 34:8-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Father of Gemariah",
+      "references": [
+        "Jeremiah 36:10-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. The father of Ahikam and the grandfather of Gedaliah",
+      "references": [
+        "2 Kings 22:12",
+        "2 Kings 25:22",
+        "2 Chronicles 34:20",
+        "Jeremiah 26:24",
+        "Jeremiah 39:14",
+        "Jeremiah 40:5,9,11",
+        "Jeremiah 41:2",
+        "Jeremiah 43:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Father of Elasah",
+      "references": [
+        "Jeremiah 29:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Father of Jaazaniah",
+      "references": [
+        "Ezekiel 8:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "2 Kings 22:3-14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 34,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "2 Chronicles 34:8-20"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        10,
+        11,
+        12
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 36:10-12"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 22:12"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 34,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 34:20"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 26,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 26:24"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 39,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 39:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        5,
+        9,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 40:5,9,11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 41:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 43,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 43:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 29:3"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 8:11"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "2 Kings",
+    "Ezekiel",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 13,
+    "ot_refs": 13,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Jeremiah",
+      "2 Kings",
+      "2 Chronicles",
+      "Ezekiel"
+    ]
+  }
+}

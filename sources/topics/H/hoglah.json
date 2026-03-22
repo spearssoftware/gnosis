@@ -1,0 +1,74 @@
+{
+  "topic": "HOGLAH",
+  "slug": "hoglah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A daughter of Zelophehad",
+      "references": [
+        "Numbers 26:33",
+        "Numbers 27:1",
+        "Numbers 36:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 27:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 36:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 17:3"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

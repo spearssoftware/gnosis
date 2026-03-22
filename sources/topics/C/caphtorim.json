@@ -1,0 +1,97 @@
+{
+  "topic": "CAPHTORIM",
+  "slug": "caphtorim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "People of",
+      "references": [
+        "Genesis 10:14",
+        "1 Chronicles 1:12",
+        "Deuteronomy 2:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "47:4;",
+      "references": [
+        "Amos 9:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:14"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 47,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 47:4"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 9:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Amos",
+    "Deuteronomy",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Deuteronomy",
+      "Genesis",
+      "1 Chronicles",
+      "Amos"
+    ]
+  }
+}

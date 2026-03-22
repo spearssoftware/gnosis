@@ -1,0 +1,61 @@
+{
+  "topic": "MANGER",
+  "slug": "manger",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A feeding box for",
+      "references": [
+        "Luke 2:7,12,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ren",
+      "references": [
+        "Luke 13:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "verses": [
+        7,
+        12,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Luke 2:7,12,16"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:15"
+    }
+  ],
+  "books_mentioned": [
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Luke"
+    ]
+  }
+}

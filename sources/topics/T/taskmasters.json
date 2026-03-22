@@ -1,0 +1,62 @@
+{
+  "topic": "TASKMASTERS",
+  "slug": "taskmasters",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MASTERS",
+    "OPPRESSION",
+    "SERVANTS"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Exodus 5:13,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMASTERS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOPPRESSION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSERVANTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 5,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 5:13,14"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

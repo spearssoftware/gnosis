@@ -1,0 +1,422 @@
+{
+  "topic": "SWINE",
+  "slug": "swine",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Pigs)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 11:7",
+        "Deuteronomy 14:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for food",
+      "references": [
+        "Isaiah 65:4",
+        "Isaiah 66:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "For sacrifice",
+      "references": [
+        "Isaiah 66:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Wild boar",
+      "references": [
+        "Psalms 80:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jewels in the nose of",
+      "references": [
+        "Proverbs 11:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Viciousness of",
+      "references": [
+        "Matthew 7:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus sends",
+      "references": [
+        "Matthew 8:28-32",
+        "Mark 5:11-14",
+        "Luke 8:32,33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Feeding of",
+      "references": [
+        "Luke 15:15,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Peter 2:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "When wild inhabited the woods",
+      "references": [
+        "Psalms 80:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Unclean and not to be eaten",
+      "references": [
+        "Leviticus 11:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described: Fierce and ungenerous",
+      "references": [
+        "Matthew 7:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described: Filthy in its habits",
+      "references": [
+        "2 Peter 2:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described: Destructive to agriculture",
+      "references": [
+        "Psalms 80:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Fed upon husks",
+      "references": [
+        "Luke 15:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sacrificing of, and abomination",
+      "references": [
+        "Isaiah 66:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kept in large herds",
+      "references": [
+        "Matthew 8:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Herding of, considered as the greatest degradation to a Jew",
+      "references": [
+        "Luke 15:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Gergesenes punished for having",
+      "references": [
+        "Matthew 8:31,32",
+        "Mark 5:11,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ungodly Jews condemned for eating",
+      "references": [
+        "Isaiah 65:4",
+        "Isaiah 66:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The wicked",
+      "references": [
+        "Matthew 7:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Hypocrites",
+      "references": [
+        "2 Peter 2:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:7"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:17"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 80,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 80:13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:22"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 7:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Matthew 8:28-32"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Mark 5:11-14"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 8:32,33"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 15:15,16"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 2:22"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 11:7,8"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 8:30"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:15"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 8:31,32"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        11,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 5:11,14"
+    }
+  ],
+  "books_mentioned": [
+    "2 Peter",
+    "Deuteronomy",
+    "Isaiah",
+    "Leviticus",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 23,
+    "total_refs": 19,
+    "ot_refs": 8,
+    "nt_refs": 11,
+    "books_count": 9,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "Isaiah",
+      "Leviticus",
+      "Mark",
+      "Deuteronomy",
+      "Psalms",
+      "Proverbs",
+      "2 Peter"
+    ]
+  }
+}

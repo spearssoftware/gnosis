@@ -1,0 +1,67 @@
+{
+  "topic": "ELUL",
+  "slug": "elul",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(The sixth month (September))",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "The Jews finish the wall of",
+      "references": [
+        "Nehemiah 6:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Zerubbabel builds the temple in the month of",
+      "references": [
+        "Haggai 1:14,15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 6:15"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 1,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Haggai 1:14,15"
+    }
+  ],
+  "books_mentioned": [
+    "Haggai",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Haggai"
+    ]
+  }
+}

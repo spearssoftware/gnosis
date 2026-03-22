@@ -1,0 +1,141 @@
+{
+  "topic": "DRUNKARD",
+  "slug": "drunkard",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DRUNKENNESS"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Deuteronomy 21:20,21",
+        "Psalms 69:12",
+        "Proverbs 23:21",
+        "Isaiah 28:1,3",
+        "Joel 1:5",
+        "Nahum 1:10",
+        "1 Corinthians 5:11",
+        "1 Corinthians 6:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRUNKENNESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:20,21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 69,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 69:12"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 23:21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        1,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 28:1,3"
+    },
+    {
+      "book": "Joel",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 1:5"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 1:10"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:11"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 6:9,10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Deuteronomy",
+    "Isaiah",
+    "Joel",
+    "Nahum",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 8,
+    "ot_refs": 6,
+    "nt_refs": 2,
+    "books_count": 7,
+    "top_books": [
+      "1 Corinthians",
+      "Deuteronomy",
+      "Psalms",
+      "Proverbs",
+      "Isaiah",
+      "Joel",
+      "Nahum"
+    ]
+  }
+}

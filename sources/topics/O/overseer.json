@@ -1,0 +1,50 @@
+{
+  "topic": "OVERSEER",
+  "slug": "overseer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BISHOP"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Matthew 24:48,49"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBISHOP",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        48,
+        49
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 24:48,49"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

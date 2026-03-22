@@ -1,0 +1,73 @@
+{
+  "topic": "JONAS",
+  "slug": "jonas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JONAH"
+  ],
+  "aspects": [
+    {
+      "label": "1. JONAS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJONAH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Peter",
+      "references": [
+        "John 21:15-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "John 1:42"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 21,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 21:15-17"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:42"
+    }
+  ],
+  "books_mentioned": [
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "John"
+    ]
+  }
+}

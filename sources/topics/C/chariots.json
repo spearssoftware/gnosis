@@ -1,0 +1,1111 @@
+{
+  "topic": "CHARIOTS",
+  "slug": "chariots",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Carriages for travelling, &c",
+      "references": [
+        "Genesis 46:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Carriages used in war",
+      "references": [
+        "1 Kings 20:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Wheels of, described",
+      "references": [
+        "1 Kings 7:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bound with traces",
+      "references": [
+        "Micah 1:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Drawn by: Horses",
+      "references": [
+        "2 Kings 10:2",
+        "Song of Solomon 1:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Drawn by: Asses and camels",
+      "references": [
+        "Isaiah 21:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Value of in Solomon’s time",
+      "references": [
+        "1 Kings 10:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Drivers generally employed for",
+      "references": [
+        "1 Kings 22:34",
+        "2 Chronicles 18:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes driven by the owners",
+      "references": [
+        "2 Kings 9:16,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes driven furiously",
+      "references": [
+        "2 Kings 9:20",
+        "Isaiah 5:28",
+        "Jeremiah 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bounding motion of, referred to",
+      "references": [
+        "Nahum 3:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Noise occasioned by, referred to",
+      "references": [
+        "2 Kings 7:6",
+        "Joel 2:5",
+        "Nahum 3:2",
+        "Revelation 9:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Introduced into Israel by David",
+      "references": [
+        "2 Samuel 8:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Multiplied by Solomon",
+      "references": [
+        "1 Kings 10:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Imported from Egypt",
+      "references": [
+        "1 Kings 10:28,29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Armed with iron",
+      "references": [
+        "Joshua 17:16",
+        "Judges 1:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Lighted by night with torches",
+      "references": [
+        "Nahum 2:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Commanded by captains",
+      "references": [
+        "Exodus 14:7",
+        "1 Kings 16:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Advantageously manoeuvred in a flat country",
+      "references": [
+        "Judges 1:19",
+        "1 Kings 20:23-25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Formed part of the line of battle",
+      "references": [
+        "1 Kings 20:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Used in pursuing enemies",
+      "references": [
+        "Exodus 14:9",
+        "2 Samuel 1:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For war: Kept in chariot cities",
+      "references": [
+        "1 Kings 9:19",
+        "1 Kings 10:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Egyptians",
+      "references": [
+        "Exodus 14:7",
+        "2 Kings 18:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Canaanites",
+      "references": [
+        "Joshua 17:16",
+        "Judges 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Philistines",
+      "references": [
+        "1 Samuel 13:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Syrians",
+      "references": [
+        "2 Samuel 10:18",
+        "1 Kings 20:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Assyrians",
+      "references": [
+        "2 Kings 19:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Ethiopians",
+      "references": [
+        "2 Chronicles 14:9",
+        "2 Chronicles 16:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Babylonians",
+      "references": [
+        "Ezekiel 23:23",
+        "Ezekiel 26:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in war by the: Jews",
+      "references": [
+        "2 Kings 8:21",
+        "2 Kings 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kings rode in, to battle",
+      "references": [
+        "1 Kings 22:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kings used, in common",
+      "references": [
+        "1 Kings 12:18",
+        "1 Kings 18:44"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Persons of distinction used",
+      "references": [
+        "Genesis 41:43",
+        "2 Kings 5:9,21",
+        "Jeremiah 17:25",
+        "Acts 8:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often attended by running footmen",
+      "references": [
+        "1 Samuel 8:11",
+        "2 Samuel 15:1",
+        "1 Kings 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Consecrated to the sun",
+      "references": [
+        "2 Kings 23:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews condemned for: Multiplying",
+      "references": [
+        "Isaiah 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews condemned for: Trusting to",
+      "references": [
+        "Isaiah 22:18",
+        "Isaiah 31:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews condemned for: Taken in war, often destroyed",
+      "references": [
+        "Joshua 11:6,9",
+        "Jeremiah 51:21",
+        "Micah 5:10",
+        "Nahum 2:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The clouds",
+      "references": [
+        "Psalms 104:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The judgments of God",
+      "references": [
+        "Isaiah 66:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Angels",
+      "references": [
+        "2 Kings 6:16,17",
+        "Psalms 68:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Prophets",
+      "references": [
+        "2 Kings 2:12",
+        "2 Kings 13:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Christ’s love to his church",
+      "references": [
+        "Song of Solomon 6:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Elijah taken to heaven in one of fire",
+      "references": [
+        "2 Kings 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 20:25"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:33"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 1:13"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 10:2"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 1:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 21:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:34"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 18,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 18:33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verses": [
+        16,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 9:16,20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 9:20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:28"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:13"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 3:2"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 7:6"
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 2:5"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:26"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 10:28,29"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:16"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:19"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 2:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 14:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        23,
+        24,
+        25
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 20:23-25"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 14,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 14:9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 1:6"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:19"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:24"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:3"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 13:5"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 10:18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 20:1"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 14:9"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 16,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 16:8"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 23:23"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 26:7"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 8:21"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:35"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:44"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:43"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verses": [
+        9,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 5:9,21"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 17,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 17:25"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 8:28"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 8:11"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 15:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 1:5"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 2:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 22,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 22:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 31,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 31:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        6,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 11:6,9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 51:21"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 5:10"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 2:13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 104,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 104:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:15"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 6:16,17"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:17"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 2:12"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 13:14"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 6:12"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 2:11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Joel",
+    "Joshua",
+    "Judges",
+    "Micah",
+    "Nahum",
+    "Psalms",
+    "Revelation",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 44,
+    "total_refs": 67,
+    "ot_refs": 65,
+    "nt_refs": 2,
+    "books_count": 19,
+    "top_books": [
+      "1 Kings",
+      "2 Kings",
+      "Isaiah",
+      "2 Samuel",
+      "2 Chronicles",
+      "Jeremiah",
+      "Nahum",
+      "Genesis",
+      "Micah",
+      "Song of Solomon"
+    ]
+  }
+}

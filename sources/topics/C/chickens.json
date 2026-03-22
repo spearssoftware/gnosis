@@ -1,0 +1,61 @@
+{
+  "topic": "CHICKENS",
+  "slug": "chickens",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Matthew 23:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Broods her young",
+      "references": [
+        "Luke 13:34"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:37"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:34"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

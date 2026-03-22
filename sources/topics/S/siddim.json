@@ -1,0 +1,49 @@
+{
+  "topic": "SIDDIM",
+  "slug": "siddim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Vale of, a valley of uncertain lo",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Scene of the",
+      "references": [
+        "Genesis 14:3,8,10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        3,
+        8,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 14:3,8,10"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

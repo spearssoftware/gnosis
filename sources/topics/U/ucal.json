@@ -1,0 +1,42 @@
+{
+  "topic": "UCAL",
+  "slug": "ucal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A man mentioned only in",
+      "references": [
+        "Proverbs 30:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:1"
+    }
+  ],
+  "books_mentioned": [
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Proverbs"
+    ]
+  }
+}

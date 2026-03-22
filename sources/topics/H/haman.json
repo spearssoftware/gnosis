@@ -1,0 +1,52 @@
+{
+  "topic": "HAMAN",
+  "slug": "haman",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Prime minister of Ahasuerus",
+      "references": [
+        "Esther 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Plotted against Esther and the Jews; thwarted by Esther and Mor",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Hange",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 3:1"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

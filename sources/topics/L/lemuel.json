@@ -1,0 +1,48 @@
+{
+  "topic": "LEMUEL",
+  "slug": "lemuel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A king)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Probably refers to",
+      "references": [
+        "Proverbs 31:1,4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        1,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 31:1,4"
+    }
+  ],
+  "books_mentioned": [
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Proverbs"
+    ]
+  }
+}

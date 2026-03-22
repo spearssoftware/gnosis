@@ -1,0 +1,350 @@
+{
+  "topic": "GIBEON",
+  "slug": "gibeon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city of the Hivites",
+      "references": [
+        "Joshua 9:3,17",
+        "2 Samuel 21:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The people of, adroitly draw Joshua into a treatyJos",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "9",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "discovered",
+      "references": [
+        "Joshua 9:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The sun stands still over, during Joshua’s battle with the five",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "confe",
+      "references": [
+        "Joshua 10:12-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Allotted to Benjamin",
+      "references": [
+        "Joshua 18:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assigned to the Aaronites",
+      "references": [
+        "Joshua 21:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The tabernacle lo",
+      "references": [
+        "1 Kings 3:4",
+        "1 Chronicles 16:39",
+        "1 Chronicles 21:29",
+        "2 Chronicles 1:2,3,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Smitten by David",
+      "references": [
+        "1 Chronicles 14:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Seven",
+      "references": [
+        "2 Samuel 21:1-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Kings 3:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Has the dream concerning righteousness",
+      "references": [
+        "1 Kings 3:5",
+        "1 Kings 9:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abner slays Asahel at",
+      "references": [
+        "2 Samuel 3:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ishmael, the",
+      "references": [
+        "Jeremiah 41:11-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Pool of",
+      "references": [
+        "2 Samuel 2:13",
+        "Jeremiah 41:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        3,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 9:3,17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 9,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 9:27"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 10:12-14"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 18:25"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 3:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:39"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 21:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 1,
+      "verses": [
+        2,
+        3,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Chronicles 1:2,3,13"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 14:16"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "2 Samuel 21:1-9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 3:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:30"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Jeremiah 41:11-16"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 2:13"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 41:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "2 Samuel",
+    "Jeremiah",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 17,
+    "total_refs": 18,
+    "ot_refs": 18,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Joshua",
+      "2 Samuel",
+      "1 Kings",
+      "1 Chronicles",
+      "Jeremiah",
+      "2 Chronicles"
+    ]
+  }
+}

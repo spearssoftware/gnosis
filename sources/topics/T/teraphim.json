@@ -1,0 +1,133 @@
+{
+  "topic": "TERAPHIM",
+  "slug": "teraphim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "IDOLS"
+  ],
+  "aspects": [
+    {
+      "label": "(Household idols)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Used by Laban, stolen by Rachael (equivalent to a",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of Laban’ s property, according to the",
+      "references": [
+        "Genesis 31:19,30-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used by Mi",
+      "references": [
+        "Judges 17:5",
+        "Judges 18:14,17-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Con",
+      "references": [
+        "Genesis 35:2-4",
+        "Genesis 31:35-39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeIDOLS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        19,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Genesis 31:19,30-35"
+    },
+    {
+      "book": "Judges",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 17:5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 18,
+      "verses": [
+        14,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Judges 18:14,17-20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 35:2-4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 31:35-39"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Judges"
+    ]
+  }
+}

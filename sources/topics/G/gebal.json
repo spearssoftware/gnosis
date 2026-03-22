@@ -1,0 +1,104 @@
+{
+  "topic": "GEBAL",
+  "slug": "gebal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Given to Reuben",
+      "references": [
+        "Joshua 13:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".People of, work for",
+      "references": [
+        "1 Kings 5:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Shipbuil",
+      "references": [
+        "Ezekiel 27:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A district near the",
+      "references": [
+        "Psalms 83:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 5:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 83,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 83:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Ezekiel",
+    "Joshua",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Joshua",
+      "1 Kings",
+      "Ezekiel",
+      "Psalms"
+    ]
+  }
+}

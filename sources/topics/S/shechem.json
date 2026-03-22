@@ -1,0 +1,468 @@
+{
+  "topic": "SHECHEM",
+  "slug": "shechem",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of the land of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abraham lives in",
+      "references": [
+        "Genesis 12:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The flocks and herds of Jacob kept in",
+      "references": [
+        "Genesis 37:12-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joseph buried in",
+      "references": [
+        "Joshua 24:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jacob buried in",
+      "references": [
+        "Acts 7:16",
+        "Genesis 50:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Al",
+      "references": [
+        "Joshua 20:7",
+        "Joshua 21:21",
+        "Judges 21:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joshua assembled the tribes of Israel at, with all their el",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "chiefs, and",
+      "references": [
+        "Joshua 24:1-28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joshua buried at",
+      "references": [
+        "Joshua 24:30-32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abimelech ma",
+      "references": [
+        "Judges 8:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rehoboam crowned at",
+      "references": [
+        "1 Kings 12:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Judges 9:45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rebuilt by",
+      "references": [
+        "1 Kings 12:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Men of, killed by Ishmael",
+      "references": [
+        "Jeremiah 41:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus visits; disciples ma",
+      "references": [
+        "John 4:1-42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 33:19",
+        "Joshua 24:32",
+        "Judges 9:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Acts 7:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Ancestor of the Shechemites",
+      "references": [
+        "Numbers 26:31",
+        "Joshua 17:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5.",
+      "references": [
+        "1 Chronicles 7:19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 12:6"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 37:12-14"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:32"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 50:13"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 20,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 20:7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:21"
+    },
+    {
+      "book": "Judges",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 21:19"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 28,
+      "testament": "OT",
+      "raw": "Joshua 24:1-28"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        30,
+        31,
+        32
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 24:30-32"
+    },
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 8:31"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:1"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:45"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 41:5"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "verse_count": 42,
+      "testament": "NT",
+      "raw": "John 4:1-42"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:19"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:28"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:31"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "Acts",
+    "Genesis",
+    "Jeremiah",
+    "John",
+    "Joshua",
+    "Judges",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 21,
+    "ot_refs": 19,
+    "nt_refs": 2,
+    "books_count": 9,
+    "top_books": [
+      "Joshua",
+      "Genesis",
+      "Judges",
+      "1 Kings",
+      "Acts",
+      "Jeremiah",
+      "John",
+      "Numbers",
+      "1 Chronicles"
+    ]
+  }
+}

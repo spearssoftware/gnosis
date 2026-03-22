@@ -1,0 +1,191 @@
+{
+  "topic": "IMPRISONMENT",
+  "slug": "imprisonment",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PRISON",
+    "PRISONERS",
+    "PUNISHMENTS"
+  ],
+  "aspects": [
+    {
+      "label": "Of Joseph",
+      "references": [
+        "Genesis 39:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Jeremiah 38:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Matthew 11:2",
+        "Matthew 14:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the Apostles",
+      "references": [
+        "Acts 5:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Paul and Silas",
+      "references": [
+        "Acts 16:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Peter",
+      "references": [
+        "Acts 12:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Matthew 5:26",
+        "Matthew 18:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePRI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePRI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePUNISHMENTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 39:20"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 38,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 38:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 14:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 5:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:24"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 12:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:26"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:30"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Genesis",
+    "Jeremiah",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 9,
+    "ot_refs": 2,
+    "nt_refs": 7,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Acts",
+      "Genesis",
+      "Jeremiah"
+    ]
+  }
+}

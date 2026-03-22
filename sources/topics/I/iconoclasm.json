@@ -1,0 +1,415 @@
+{
+  "topic": "ICONOCLASM",
+  "slug": "iconoclasm",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "IDOLATRY"
+  ],
+  "aspects": [
+    {
+      "label": "Idols to be",
+      "references": [
+        "Exodus 23:24",
+        "Exodus 34:13",
+        "Numbers 33:52"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7:5,25,26;12:1-4;",
+      "references": [
+        "Judges 2:2",
+        "Jeremiah 50:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jacob",
+      "references": [
+        "Genesis 35:2-4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Moses",
+      "references": [
+        "Exodus 32:19,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Gi",
+      "references": [
+        "Judges 6:28-32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".David",
+      "references": [
+        "2 Samuel 5:21",
+        "1 Chronicles 14:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jehu",
+      "references": [
+        "2 Kings 10:26-28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jehoiada",
+      "references": [
+        "2 Kings 11:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Hezekiah",
+      "references": [
+        "2 Kings 18:3-6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Josiah",
+      "references": [
+        "2 Kings 23:4-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Asa",
+      "references": [
+        "2 Chronicles 14:3-5",
+        "2 Chronicles 15:8-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jehoshaphat",
+      "references": [
+        "2 Chronicles 17:6",
+        "2 Chronicles 19:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jews",
+      "references": [
+        "2 Chronicles 30:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Manasseh",
+      "references": [
+        "2 Chronicles 33:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIDOLATRY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:24"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 33:52"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        5,
+        25,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 7:5,25,26"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 12:1-4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 2:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 50,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 50:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 35:2-4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 32:19,20"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Judges 6:28-32"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 5:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 14:12"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        26,
+        27,
+        28
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 10:26-28"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 11:18"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Kings 18:3-6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "2 Kings 23:4-20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Chronicles 14:3-5"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 15,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "2 Chronicles 15:8-16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 17:6"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 19,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 19:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 30,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 30:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 33,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 33:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Exodus",
+    "Genesis",
+    "Jeremiah",
+    "Judges",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 22,
+    "ot_refs": 22,
+    "nt_refs": 0,
+    "books_count": 9,
+    "top_books": [
+      "2 Chronicles",
+      "2 Kings",
+      "Exodus",
+      "Numbers",
+      "Judges",
+      "Jeremiah",
+      "Genesis",
+      "2 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

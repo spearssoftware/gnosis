@@ -1,0 +1,352 @@
+{
+  "topic": "LINEN",
+  "slug": "linen",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Exported",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".From Egypt",
+      "references": [
+        "1 Kings 10:28",
+        "Ezekiel 27:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".From Syria",
+      "references": [
+        "Ezekiel 27:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Curtains of the tabernacle ma",
+      "references": [
+        "Exodus 26:1",
+        "Exodus 27:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Vestments of priests ma",
+      "references": [
+        "Exodus 28:5-8,15,39-42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Livery of royal households ma",
+      "references": [
+        "Genesis 41:42",
+        "Esther 8:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Garments",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".For men ma",
+      "references": [
+        "Genesis 41:42",
+        "Ezekiel 9:2",
+        "Luke 16:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".For women ma",
+      "references": [
+        "Isaiah 3:23",
+        "Ezekiel 16:10-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bedding ma",
+      "references": [
+        "Proverbs 7:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mosaic law forba",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "19:19;",
+      "references": [
+        "Deuteronomy 22:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The corpse of Jesus was wrapped in",
+      "references": [
+        "Mark 15:46",
+        "John 20:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Pure and white, of righteousness",
+      "references": [
+        "Revelation 15:6",
+        "Revelation 19:8,14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:28"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:7"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:16"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 26:1"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        15,
+        39,
+        40,
+        41,
+        42
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Exodus 28:5-8,15,39-42"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:42"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 8:15"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 9,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 9:2"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 16:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:23"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Ezekiel 16:10-13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 7:16"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 19:19"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 22:11"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:46"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 20:5"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 15,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 15:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": [
+        8,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 19:8,14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Deuteronomy",
+    "Esther",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "John",
+    "Luke",
+    "Mark",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 19,
+    "ot_refs": 14,
+    "nt_refs": 5,
+    "books_count": 12,
+    "top_books": [
+      "Ezekiel",
+      "Exodus",
+      "Proverbs",
+      "Revelation",
+      "1 Kings",
+      "Genesis",
+      "Esther",
+      "Luke",
+      "Isaiah",
+      "Deuteronomy"
+    ]
+  }
+}

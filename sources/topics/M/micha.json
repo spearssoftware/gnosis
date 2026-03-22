@@ -1,0 +1,61 @@
+{
+  "topic": "MICHA",
+  "slug": "micha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MICAH"
+  ],
+  "aspects": [
+    {
+      "label": "SeeMI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite",
+      "references": [
+        "Nehemiah 10:11",
+        "Nehemiah 11:17,22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:11"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        17,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 11:17,22"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

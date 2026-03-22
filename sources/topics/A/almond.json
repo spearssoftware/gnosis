@@ -1,0 +1,108 @@
+{
+  "topic": "ALMOND",
+  "slug": "almond",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A tree)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Fruit of",
+      "references": [
+        "Genesis 43:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Aaron’s rod of the",
+      "references": [
+        "Numbers 11:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bowls of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of the",
+      "references": [
+        "Exodus 25:33,34",
+        "Exodus 37:19,20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE USE OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 43,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 43:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 11:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        33,
+        34
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 25:33,34"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 37:19,20"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Genesis",
+      "Numbers"
+    ]
+  }
+}

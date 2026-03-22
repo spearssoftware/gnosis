@@ -1,0 +1,260 @@
+{
+  "topic": "WHEAT",
+  "slug": "wheat",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Revelation 6:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Grown in Palestine",
+      "references": [
+        "1 Kings 5:11",
+        "Psalms 81:16",
+        "Psalms 147:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offering of",
+      "references": [
+        "Numbers 18:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecy of the sale of a measure of, for a penny",
+      "references": [
+        "Revelation 6:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Parables of",
+      "references": [
+        "Matthew 13:25",
+        "Luke 16:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Winnowing of",
+      "references": [
+        "Matthew 3:12",
+        "Luke 3:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ground in a mortar",
+      "references": [
+        "Proverbs 27:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Chaff of",
+      "references": [
+        "Jeremiah 23:28",
+        "Matthew 3:12",
+        "Luke 3:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Growth of, figurative of vi",
+      "references": [
+        "John 12:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of God’ s mercy",
+      "references": [
+        "Psalms 81:16",
+        "Psalms 147:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of self-rigteousness",
+      "references": [
+        "Jeremiah 12:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 6:6"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 5:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 81,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 81:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 147,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 147:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 18:12"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 13:25"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 16:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 3:12"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 23,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 23:28"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 12:24"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 12:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Jeremiah",
+    "John",
+    "Luke",
+    "Matthew",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 13,
+    "ot_refs": 7,
+    "nt_refs": 6,
+    "books_count": 9,
+    "top_books": [
+      "Psalms",
+      "Matthew",
+      "Luke",
+      "Jeremiah",
+      "Revelation",
+      "1 Kings",
+      "Numbers",
+      "Proverbs",
+      "John"
+    ]
+  }
+}

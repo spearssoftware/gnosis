@@ -1,0 +1,42 @@
+{
+  "topic": "GIDOM",
+  "slug": "gidom",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Limit of pursuit after battle of Gibeah",
+      "references": [
+        "Judges 20:45"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 20,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 20:45"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

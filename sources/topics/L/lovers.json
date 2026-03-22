@@ -1,0 +1,88 @@
+{
+  "topic": "LOVERS",
+  "slug": "lovers",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 24:67"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jacob for Rachel",
+      "references": [
+        "Genesis 29:20,30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Shechem for Dinah",
+      "references": [
+        "Genesis 34:3,12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Boaz for RuthRu 2;3;4",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        67
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:67"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        20,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 29:20,30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 34,
+      "verses": [
+        3,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 34:3,12"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

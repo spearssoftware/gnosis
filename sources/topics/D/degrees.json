@@ -1,0 +1,44 @@
+{
+  "topic": "DEGREES",
+  "slug": "degrees",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Or steps in the dial of Ahaz",
+      "references": [
+        "2 Kings 20:9-11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 20:9-11"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Kings"
+    ]
+  }
+}

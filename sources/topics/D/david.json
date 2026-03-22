@@ -1,0 +1,460 @@
+{
+  "topic": "DAVID",
+  "slug": "david",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CABINET",
+    "PSALMS OF DAVID"
+  ],
+  "aspects": [
+    {
+      "label": "1. King of Israel",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Genealogy of",
+      "references": [
+        "Ruth 4:18-22",
+        "1 Samuel 16:11",
+        "1 Samuel 17:12",
+        "1 Chronicles 2:3-15",
+        "Matthew 1:1-6",
+        "Luke 3:31-38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".A shepherd",
+      "references": [
+        "1 Samuel 16:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Kills a lion and a bear",
+      "references": [
+        "1 Samuel 17:34-36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Anointed king, while a youth, by the prophet Samuel, and inspired",
+      "references": [
+        "1 Samuel 16:1,13",
+        "Psalms 89:19-37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Chosen of God",
+      "references": [
+        "Psalms 78:70"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Samuel 16:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Samuel 16:21-23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Kills Goliath1Sa 17",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The love of Jonathan for",
+      "references": [
+        "1 Samuel 18:1-4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Popularity and discreetness of1Sa 18",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Saul’s jealousy of",
+      "references": [
+        "1 Samuel 18:8-30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jonathan interce",
+      "references": [
+        "1 Samuel 19:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Probably writes Psalms Eleven at this period of his lifePs 17;35;52;58;64;109;142",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Conducts a",
+      "references": [
+        "1 Samuel 19:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Saul attempts to kill him; he es",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Naioth, where Saul pursues him",
+      "references": [
+        "1 Samuel 19:9-24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".About this time writesPs 59",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Returns, and Jonathan makes covenant with him1Sa 20",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Es",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Ruth 4:18-22"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:11"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:3-15"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Matthew 1:1-6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 3:31-38"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        34,
+        35,
+        36
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 17:34-36"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        1,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 16:1,13"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 89,
+      "verses": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_count": 19,
+      "testament": "OT",
+      "raw": "Psalms 89:19-37"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        70
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:70"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:18"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 16:21-23"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Samuel 18:1-4"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 23,
+      "testament": "OT",
+      "raw": "1 Samuel 18:8-30"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "1 Samuel 18:17-27"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Samuel 19:1-7"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 19:8"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "1 Samuel 19:9-24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "Luke",
+    "Matthew",
+    "Psalms",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 18,
+    "ot_refs": 16,
+    "nt_refs": 2,
+    "books_count": 6,
+    "top_books": [
+      "1 Samuel",
+      "Psalms",
+      "Ruth",
+      "1 Chronicles",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

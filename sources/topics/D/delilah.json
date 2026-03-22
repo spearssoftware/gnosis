@@ -1,0 +1,56 @@
+{
+  "topic": "DELILAH",
+  "slug": "delilah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Sam",
+      "references": [
+        "Judges 16:4-18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Judges 16:4-18"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

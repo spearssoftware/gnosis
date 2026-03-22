@@ -1,0 +1,47 @@
+{
+  "topic": "SUKKIIMS",
+  "slug": "sukkiims",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(An Afri",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Inva",
+      "references": [
+        "2 Chronicles 12:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Chronicles",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 12:3"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Chronicles"
+    ]
+  }
+}

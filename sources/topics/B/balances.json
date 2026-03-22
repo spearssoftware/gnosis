@@ -1,0 +1,209 @@
+{
+  "topic": "BALANCES",
+  "slug": "balances",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used for weighing",
+      "references": [
+        "Job 31:6",
+        "Isaiah 40:12,15",
+        "Ezekiel 5:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Money weighed with",
+      "references": [
+        "Isaiah 46:6",
+        "Jeremiah 32:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Must be just",
+      "references": [
+        "Leviticus 19:36",
+        "Proverbs 16:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "False balance used",
+      "references": [
+        "Hosea 12:7",
+        "Amos 8:5",
+        "Micah 6:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An abomination",
+      "references": [
+        "Proverbs 11:1",
+        "Proverbs 20:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 40,
+      "verses": [
+        12,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 40:12,15"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 5:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 46,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 46:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 32:10"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:36"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:11"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 12,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 12:7"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 8:5"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 6:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:23"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Ezekiel",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Leviticus",
+    "Micah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 9,
+    "top_books": [
+      "Proverbs",
+      "Isaiah",
+      "Job",
+      "Ezekiel",
+      "Jeremiah",
+      "Leviticus",
+      "Hosea",
+      "Amos",
+      "Micah"
+    ]
+  }
+}

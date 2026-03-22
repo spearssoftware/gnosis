@@ -1,0 +1,674 @@
+{
+  "topic": "WEEPING",
+  "slug": "weeping",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Romans 12:15",
+        "1 Corinthians 7:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In",
+      "references": [
+        "Matthew 8:12",
+        "Matthew 22:13",
+        "Matthew 24:51",
+        "Matthew 25:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "None in heaven",
+      "references": [
+        "Revelation 7:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Penitential",
+      "references": [
+        "Jeremiah 50:4",
+        "Joel 2:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Instances of penitential",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The Israelites",
+      "references": [
+        "Judges 2:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Peter",
+      "references": [
+        "Matthew 26:75",
+        "Mark 14:72",
+        "Luke 22:62"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "While doing good",
+      "references": [
+        "Psalms 126:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "For others",
+      "references": [
+        "Jeremiah 9:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "On account of tribulation",
+      "references": [
+        "Jeremiah 22:10",
+        "Amos 5:16,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Abraham for Sarah",
+      "references": [
+        "Genesis 23:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Esau",
+      "references": [
+        "Genesis 27:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Jacob and Esau",
+      "references": [
+        "Genesis 33:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Jacob",
+      "references": [
+        "Genesis 37:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Joseph",
+      "references": [
+        "Genesis 42:24",
+        "Genesis 43:30",
+        "Genesis 45:2,14",
+        "Genesis 46:29",
+        "Genesis 50:1,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Hannah",
+      "references": [
+        "1 Samuel 1:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Jonathan and David",
+      "references": [
+        "1 Samuel 20:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of David",
+      "references": [
+        "2 Samuel 1:17",
+        "2 Samuel 3:32",
+        "2 Samuel 13:36",
+        "2 Samuel 15:23,30",
+        "2 Samuel 18:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Hezekiah",
+      "references": [
+        "2 Kings 20:3",
+        "Isaiah 38:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Jesus",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Over",
+      "references": [
+        "Luke 19:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".At the grave of Lazarus",
+      "references": [
+        "John 11:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Mary, when she washed the feet of Jesus",
+      "references": [
+        "Luke 7:38",
+        "John 11:2,33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Mary Magdalene",
+      "references": [
+        "John 20:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Paul",
+      "references": [
+        "Acts 20:19",
+        "Philippians 3:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:15"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 7:30"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 8:12"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 22:13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 24:51"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 25:30"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 7:17"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 50,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 50:4"
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 2:12"
+    },
+    {
+      "book": "Judges",
+      "chapter": 2,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 2:4,5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        75
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:75"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        72
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:72"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        62
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 22:62"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 126,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 126:5,6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 9:1"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:10"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Amos 5:16,17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 23:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 27:38"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:35"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 42,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 42:24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 43,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 43:30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 45,
+      "verses": [
+        2,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 45:2,14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:29"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        1,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 50:1,17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 1:17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 20:41"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 1:17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:32"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 13:36"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        23,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 15:23,30"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 18:33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 20:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 38,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 38:3"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:41"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:35"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:38"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        2,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 11:2,33"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 20:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:19"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Samuel",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Joel",
+    "John",
+    "Judges",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Philippians",
+    "Psalms",
+    "Revelation",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 26,
+    "total_refs": 42,
+    "ot_refs": 25,
+    "nt_refs": 17,
+    "books_count": 19,
+    "top_books": [
+      "Genesis",
+      "Matthew",
+      "2 Samuel",
+      "Jeremiah",
+      "Luke",
+      "John",
+      "1 Samuel",
+      "Romans",
+      "1 Corinthians",
+      "Revelation"
+    ]
+  }
+}

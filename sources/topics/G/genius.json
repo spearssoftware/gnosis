@@ -1,0 +1,89 @@
+{
+  "topic": "GENIUS",
+  "slug": "genius",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Mechani",
+      "references": [
+        "Exodus 28:3",
+        "Exodus 31:2-11",
+        "Exodus 35:30-35",
+        "Exodus 36:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 31,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Exodus 31:2-11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 35,
+      "verses": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Exodus 35:30-35"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 36,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 36:1"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

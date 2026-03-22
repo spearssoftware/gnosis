@@ -1,0 +1,112 @@
+{
+  "topic": "SALMA",
+  "slug": "salma",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 2:51,54"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Father of Boaz",
+      "references": [
+        "Ruth 4:20,21",
+        "1 Chronicles 2:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".In the lineage of Joseph",
+      "references": [
+        "Matthew 1:4,5",
+        "Luke 3:32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        51,
+        54
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:51,54"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 4:20,21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 1:4,5"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:32"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Luke",
+    "Matthew",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 3,
+    "nt_refs": 2,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Ruth",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

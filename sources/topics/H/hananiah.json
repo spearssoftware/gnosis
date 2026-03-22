@@ -1,0 +1,257 @@
+{
+  "topic": "HANANIAH",
+  "slug": "hananiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SHADRACH"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 25:4,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "2 Chronicles 26:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Father of Ze",
+      "references": [
+        "Jeremiah 36:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A prophet of Gibeon who uttered false prophecies in the temple",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "during the reign of Ze",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Grandfather of Irijah",
+      "references": [
+        "Jeremiah 37:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6.",
+      "references": [
+        "1 Chronicles 8:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. Hebrew name ofSHADRACH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "8.",
+      "references": [
+        "1 Chronicles 3:19,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "9.",
+      "references": [
+        "Ezra 10:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "10. An apothe",
+      "references": [
+        "Nehemiah 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "11.",
+      "references": [
+        "Nehemiah 3:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "12. A keeper of the gates of",
+      "references": [
+        "Nehemiah 7:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "13. One who sealed the covenant",
+      "references": [
+        "Nehemiah 10:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "14. A priest during the time of Jehoiakim",
+      "references": [
+        "Nehemiah 12:12,41"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        4,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:4,23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 37,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 37:13"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        19,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:19,21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:28"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:8"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:30"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:23"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        12,
+        41
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:12,41"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra",
+    "Jeremiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Nehemiah",
+      "1 Chronicles",
+      "Jeremiah",
+      "2 Chronicles",
+      "Ezra"
+    ]
+  }
+}

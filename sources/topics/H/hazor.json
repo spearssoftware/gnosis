@@ -1,0 +1,157 @@
+{
+  "topic": "HAZOR",
+  "slug": "hazor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A fortified city of Naphtali",
+      "references": [
+        "Joshua 11:1,10,11,13",
+        "Joshua 12:19",
+        "Joshua 19:36",
+        "Judges 4:2,17",
+        "1 Samuel 12:9",
+        "2 Kings 15:29",
+        "Nehemiah 11:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city in the",
+      "references": [
+        "Joshua 15:23",
+        "1 Kings 9:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A place north of",
+      "references": [
+        "Nehemiah 11:33"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        1,
+        10,
+        11,
+        13
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joshua 11:1,10,11,13"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:19"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:36"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        2,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 4:2,17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 12:9"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:29"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:33"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:23"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "Joshua",
+    "Judges",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Joshua",
+      "Judges",
+      "1 Samuel",
+      "2 Kings",
+      "Nehemiah",
+      "1 Kings"
+    ]
+  }
+}

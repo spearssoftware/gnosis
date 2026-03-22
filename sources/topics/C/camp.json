@@ -1,0 +1,32 @@
+{
+  "topic": "CAMP",
+  "slug": "camp",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ITINERARY"
+  ],
+  "aspects": [
+    {
+      "label": "Of the Israelites around the tabernacle",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeITINERARY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

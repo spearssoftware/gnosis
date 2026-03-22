@@ -1,0 +1,964 @@
+{
+  "topic": "VISIONS",
+  "slug": "visions",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "God often made known his will by",
+      "references": [
+        "Psalms 89:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God especially made himself known to prophets by",
+      "references": [
+        "Numbers 12:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often accompanied: A representative of the divine person and glory",
+      "references": [
+        "Isaiah 6:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often accompanied: An audible voice from heaven",
+      "references": [
+        "Genesis 15:1",
+        "1 Samuel 3:4,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often accompanied: An appearance of angels",
+      "references": [
+        "Luke 1:22,11",
+        "Luke 24:23",
+        "Acts 10:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often accompanied: An appearance of human beings",
+      "references": [
+        "Acts 9:12",
+        "Acts 16:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently difficult and perplexing to those who received them",
+      "references": [
+        "Daniel 7:15",
+        "Daniel 8:15",
+        "Acts 10:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often communicated: In the night season",
+      "references": [
+        "Genesis 46:2",
+        "Daniel 2:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often communicated: In a trance",
+      "references": [
+        "Numbers 24:16",
+        "Acts 11:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often recorded for the benefit of the people",
+      "references": [
+        "Habakkuk 2:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often multiplied for the benefit of the people",
+      "references": [
+        "Hosea 12:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Abraham",
+      "references": [
+        "Genesis 15:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Jacob",
+      "references": [
+        "Genesis 46:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Moses",
+      "references": [
+        "Exodus 3:2,3",
+        "Acts 7:30-32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Samuel",
+      "references": [
+        "1 Samuel 3:2-15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Nathan",
+      "references": [
+        "2 Samuel 7:4,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Eliphaz",
+      "references": [
+        "Job 4:13-16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Isaiah",
+      "references": [
+        "Isaiah 6:1-8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Ezekiel (See chapters 10, 40-48 of Ezekiel)",
+      "references": [
+        "Ezekiel 1:4-14",
+        "Ezekiel 8:2-14",
+        "Ezekiel 11:24,25",
+        "Ezekiel 37:1-10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Nebuchadnezzar",
+      "references": [
+        "Daniel 2:28",
+        "Daniel 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Daniel (See chapters 7, 8, and 10 of Daniel)",
+      "references": [
+        "Daniel 2:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Amos",
+      "references": [
+        "Amos 7:1-9",
+        "Amos 8:1-6",
+        "Amos 9:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Zechariah",
+      "references": [
+        "Zechariah 1:8",
+        "Zechariah 3:1",
+        "Zechariah 4:2",
+        "Zechariah 5:2",
+        "Zechariah 6:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Paul",
+      "references": [
+        "Acts 9:3,6",
+        "Acts 16:9",
+        "Acts 18:9",
+        "Acts 22:18",
+        "Acts 27:23",
+        "2 Chronicles 12:1-4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Ananias",
+      "references": [
+        "Acts 9:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Cornelius",
+      "references": [
+        "Acts 10:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To Peter",
+      "references": [
+        "Acts 10:9-17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Mentioned in scripture: To John (See also Rev chapters 4 - 22)",
+      "references": [
+        "Revelation 1:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes withheld for a long season",
+      "references": [
+        "1 Samuel 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The withholding of a great calamity",
+      "references": [
+        "Proverbs 29:18",
+        "Lamentations 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "False prophets pretended to have seen",
+      "references": [
+        "Jeremiah 14:14",
+        "Jeremiah 23:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The prophets of God skilled in interpreting",
+      "references": [
+        "2 Chronicles 26:5",
+        "Daniel 1:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 89,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 89:19"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 12:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 6:1"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:1"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 3:4,5"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        11,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 1:22,11"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 24:23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:12"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:9"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 7,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 7:15"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 8:15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:17"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:2"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:19"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:16"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 11:5"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 2:2"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 12:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 3:2,3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        30,
+        31,
+        32
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 7:30-32"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "1 Samuel 3:2-15"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "verses": [
+        4,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 7:4,17"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "verses": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Job 4:13-16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Isaiah 6:1-8"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Ezekiel 1:4-14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Ezekiel 8:2-14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 11,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 11:24,25"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Ezekiel 37:1-10"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:28"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 4:5"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Amos 7:1-9"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Amos 8:1-6"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 9:1"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 1:8"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 3:1"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 4:2"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 5:2"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 6:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        3,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 9:3,6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 22:18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Chronicles 12:1-4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 9:10,11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Acts 10:9-17"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:12"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 3:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:18"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 2:9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 14,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 14:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 23,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 23:16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:5"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 1:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Daniel",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Habakkuk",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Lamentations",
+    "Luke",
+    "Numbers",
+    "Proverbs",
+    "Psalms",
+    "Revelation",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 32,
+    "total_refs": 54,
+    "ot_refs": 39,
+    "nt_refs": 15,
+    "books_count": 21,
+    "top_books": [
+      "Acts",
+      "Daniel",
+      "Zechariah",
+      "Ezekiel",
+      "1 Samuel",
+      "Amos",
+      "Numbers",
+      "Isaiah",
+      "Genesis",
+      "Luke"
+    ]
+  }
+}

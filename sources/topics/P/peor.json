@@ -1,0 +1,49 @@
+{
+  "topic": "PEOR",
+  "slug": "peor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A mountain in Moab)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Balak builds altars on",
+      "references": [
+        "Numbers 23:28-30"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "verses": [
+        28,
+        29,
+        30
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 23:28-30"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

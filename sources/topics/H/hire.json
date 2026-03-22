@@ -1,0 +1,68 @@
+{
+  "topic": "HIRE",
+  "slug": "hire",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EMPLOYER",
+    "MASTER",
+    "SERVANT",
+    "WAGES"
+  ],
+  "aspects": [
+    {
+      "label": "Law concerning hired property",
+      "references": [
+        "Exodus 22:14,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWAGES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEMPLOYER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMASTER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSERVANT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 22:14,15"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

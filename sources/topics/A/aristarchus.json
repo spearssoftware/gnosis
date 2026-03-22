@@ -1,0 +1,90 @@
+{
+  "topic": "ARISTARCHUS",
+  "slug": "aristarchus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A companion of Paul",
+      "references": [
+        "Acts 19:29",
+        "Acts 20:4",
+        "Acts 27:2",
+        "Colossians 4:10",
+        "Philemon 1:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:29"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:2"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:10"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philemon 1:24"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Colossians",
+    "Philemon"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "Colossians",
+      "Philemon"
+    ]
+  }
+}

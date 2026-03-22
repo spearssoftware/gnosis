@@ -1,0 +1,221 @@
+{
+  "topic": "SENSUALITY",
+  "slug": "sensuality",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABSTINENCE, TOTAL",
+    "ADULTERY",
+    "CONTINENCE",
+    "DRUNKENNESS",
+    "FORNICATION",
+    "GLUTTONY",
+    "LASCIVIOUSNESS",
+    "SELF-DENIAL",
+    "SELF-INDULGENCE",
+    "SODOMY",
+    "TEMPERANCE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Ecclesiastes 2:24",
+        "Ecclesiastes 8:15",
+        "Ecclesiastes 11:9",
+        "Isaiah 22:13",
+        "Isaiah 56:12",
+        "Luke 12:19,20",
+        "Luke 16:25",
+        "1 Corinthians 15:32,33",
+        "James 5:5",
+        "Deuteronomy 1:18,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeADULTERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRUNKENNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFORNI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeG",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLASCIVIOUSNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSELF-INDULGENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCONTINENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSELF-",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEMPERANCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:24"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 8:15"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 11:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 22:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 56,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 56:12"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 12:19,20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 16:25"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 15:32,33"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 5:5"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 1,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 1:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Isaiah",
+    "James",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 10,
+    "ot_refs": 6,
+    "nt_refs": 4,
+    "books_count": 6,
+    "top_books": [
+      "Ecclesiastes",
+      "Isaiah",
+      "Luke",
+      "1 Corinthians",
+      "James",
+      "Deuteronomy"
+    ]
+  }
+}

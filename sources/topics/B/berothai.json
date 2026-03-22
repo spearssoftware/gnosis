@@ -1,0 +1,42 @@
+{
+  "topic": "BEROTHAI",
+  "slug": "berothai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Zobah",
+      "references": [
+        "2 Samuel 8:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:8"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Samuel"
+    ]
+  }
+}

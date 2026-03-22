@@ -1,0 +1,103 @@
+{
+  "topic": "OAK",
+  "slug": "oak",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A tree)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Grew in Palestine",
+      "references": [
+        "Genesis 35:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Absalom hung in the boughs of",
+      "references": [
+        "2 Samuel 18:9,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 35:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Amos 2:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:4"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        9,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 18:9,14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:8"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:9"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Amos",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "2 Samuel",
+      "Amos"
+    ]
+  }
+}

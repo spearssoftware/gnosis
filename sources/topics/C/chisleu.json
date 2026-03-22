@@ -1,0 +1,71 @@
+{
+  "topic": "CHISLEU",
+  "slug": "chisleu",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Ninth month in the Israelitish",
+      "references": [
+        "Ezra 10:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "1:1;",
+      "references": [
+        "Jeremiah 36:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:9"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 1:1"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:22"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezra",
+      "Jeremiah"
+    ]
+  }
+}

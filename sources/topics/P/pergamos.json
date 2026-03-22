@@ -1,0 +1,63 @@
+{
+  "topic": "PERGAMOS",
+  "slug": "pergamos",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of Mysia)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "One of the “seven congregations” in",
+      "references": [
+        "Revelation 1:11",
+        "Revelation 2:12-17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 2,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Revelation 2:12-17"
+    }
+  ],
+  "books_mentioned": [
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Revelation"
+    ]
+  }
+}

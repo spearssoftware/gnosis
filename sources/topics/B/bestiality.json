@@ -1,0 +1,73 @@
+{
+  "topic": "BESTIALITY",
+  "slug": "bestiality",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SODOMY"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Exodus 22:19",
+        "Leviticus 18:23",
+        "Leviticus 20:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:19"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 18:23"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 20:16"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Leviticus",
+      "Exodus"
+    ]
+  }
+}

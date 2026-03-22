@@ -1,0 +1,74 @@
+{
+  "topic": "KEDEMOTH",
+  "slug": "kedemoth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Moab, allotted to Reuben and the Merarite Levites",
+      "references": [
+        "Joshua 13:18",
+        "1 Chronicles 6:79"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Encircled by a wil",
+      "references": [
+        "Deuteronomy 2:26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:18"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        79
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:79"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:26"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Deuteronomy",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "1 Chronicles",
+      "Deuteronomy"
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "topic": "HEIR",
+  "slug": "heir",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADOPTION",
+    "BIRTHRIGHT",
+    "FIRSTBORN",
+    "INHERITANCE",
+    "ORPHAN",
+    "WILL"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Galatians 4:1,2",
+        "Genesis 15:3",
+        "Genesis 21:10",
+        "Genesis 25:5,6",
+        "Leviticus 25:45,46",
+        "Numbers 27:8-11",
+        "Numbers 36:1-8",
+        "Deuteronomy 21:15-17",
+        "Joshua 17:3-6",
+        "Ruth 4:1-12",
+        "Ecclesiastes 2:18,19",
+        "Galatians 4:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINHERITANCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBIRTHRIGHT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFIRSTBORN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeORPHAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWILL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Romans 8:14-17",
+        "Galatians 3:29",
+        "Galatians 4:6,7",
+        "Titus 3:7",
+        "James 2:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeADOPTION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 4:1,2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 25:5,6"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        45,
+        46
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 25:45,46"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 27:8-11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Numbers 36:1-8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:15-17"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joshua 17:3-6"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Ruth 4:1-12"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:18,19"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 4:30"
+    },
+    {
+      "book": "Romans",
+      "chapter": 8,
+      "verses": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Romans 8:14-17"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 3,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 3:29"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 4:6,7"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:7"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 2:5"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Galatians",
+    "Genesis",
+    "James",
+    "Joshua",
+    "Leviticus",
+    "Numbers",
+    "Romans",
+    "Ruth",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 17,
+    "ot_refs": 10,
+    "nt_refs": 7,
+    "books_count": 11,
+    "top_books": [
+      "Galatians",
+      "Genesis",
+      "Numbers",
+      "Leviticus",
+      "Deuteronomy",
+      "Joshua",
+      "Ruth",
+      "Ecclesiastes",
+      "Romans",
+      "Titus"
+    ]
+  }
+}

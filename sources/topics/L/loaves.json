@@ -1,0 +1,116 @@
+{
+  "topic": "LOAVES",
+  "slug": "loaves",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BREAD"
+  ],
+  "aspects": [
+    {
+      "label": "Miracle of the five",
+      "references": [
+        "Matthew 14:15-21",
+        "Matthew 16:9",
+        "Luke 9:12-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Miracle of the seven",
+      "references": [
+        "Matthew 15:34-38",
+        "Matthew 16:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBREAD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Matthew 14:15-21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 16:9"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Luke 9:12-17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Matthew 15:34-38"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 16:10"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

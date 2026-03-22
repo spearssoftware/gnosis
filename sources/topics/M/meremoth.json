@@ -1,0 +1,101 @@
+{
+  "topic": "MEREMOTH",
+  "slug": "meremoth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A priest who was appointed to weigh and register gold and",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "silver vessels brought to",
+      "references": [
+        "Ezra 8:33",
+        "Nehemiah 3:4,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Jew who divorced his Gentile wife after the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest who sealed the covenant with NehemiahNe",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:33"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        4,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 3:4,21"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:36"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:5"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:3"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

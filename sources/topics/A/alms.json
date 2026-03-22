@@ -1,0 +1,478 @@
+{
+  "topic": "ALMS",
+  "slug": "alms",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BENEFICENCE",
+    "GIVING",
+    "LIBERALITY",
+    "POOR"
+  ],
+  "aspects": [
+    {
+      "label": "Asking",
+      "references": [
+        "John 9:8",
+        "Acts 3:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "COMMANDMENTS AND PRACTICES CONCERNING",
+      "references": [
+        "Leviticus 25:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "14:28,29;15:7-11;",
+      "references": [
+        "Isaiah 58:6,7",
+        "Matthew 5:42",
+        "Matthew 6:1-4",
+        "Matthew 19:21",
+        "Luke 11:41",
+        "Luke 12:33",
+        "Romans 12:8",
+        "2 Corinthians 9:5-7",
+        "Galatians 2:10",
+        "1 Timothy 6:18",
+        "Hebrews 13:16",
+        "Job 3:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeBENEFICENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See GIFTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGIVING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeLIBERALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePOOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF GIVING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Zaccheus",
+      "references": [
+        "Luke 19:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Dor",
+      "references": [
+        "Acts 9:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Cornelius",
+      "references": [
+        "Acts 10:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The early Christians",
+      "references": [
+        "Acts 2:44,45",
+        "Acts 4:34-37",
+        "Acts 6:1-3",
+        "Acts 11:29,30",
+        "Acts 24:17",
+        "Romans 15:25-28",
+        "1 Corinthians 16:1-4",
+        "2 Corinthians 8:1-4",
+        "2 Corinthians 9:1",
+        "Hebrews 6:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 9,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 9:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 3:2"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:35"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 14:28,29"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Leviticus 15:7-11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 58,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 58:6,7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:42"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 6:1-4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 19:21"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:41"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:33"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:8"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 9,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "2 Corinthians 9:5-7"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:10"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 6:18"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 13,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 13:16"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 3:17"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:36"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        44,
+        45
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 2:44,45"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 4:34-37"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 6:1-3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        29,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 11:29,30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 24:17"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Romans 15:25-28"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:1-4"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 8,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "2 Corinthians 8:1-4"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 9:1"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 6:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Timothy",
+    "2 Corinthians",
+    "Acts",
+    "Galatians",
+    "Hebrews",
+    "Isaiah",
+    "Job",
+    "John",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 13,
+    "total_refs": 30,
+    "ot_refs": 5,
+    "nt_refs": 25,
+    "books_count": 13,
+    "top_books": [
+      "Acts",
+      "Leviticus",
+      "Matthew",
+      "Luke",
+      "2 Corinthians",
+      "Romans",
+      "Hebrews",
+      "John",
+      "Isaiah",
+      "Galatians"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "topic": "MAGNIFICAT",
+  "slug": "magnificat",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of Mary",
+      "references": [
+        "Luke 1:46-55"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Luke 1:46-55"
+    }
+  ],
+  "books_mentioned": [
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Luke"
+    ]
+  }
+}

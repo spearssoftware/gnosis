@@ -1,0 +1,189 @@
+{
+  "topic": "CORNERSTONE",
+  "slug": "cornerstone",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "STONE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Job 38:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSTONE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 144:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Christ",
+      "references": [
+        "Psalms 118:22",
+        "Isaiah 28:16",
+        "Matthew 21:42",
+        "Mark 12:10",
+        "Luke 20:17",
+        "Acts 4:11",
+        "1 Corinthians 3:11",
+        "Ephesians 2:20",
+        "1 Peter 2:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 144,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 144:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 118,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 118:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 28:16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:42"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 12:10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 20:17"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:11"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:11"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 2:20"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Peter",
+    "Acts",
+    "Ephesians",
+    "Isaiah",
+    "Job",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 11,
+    "ot_refs": 4,
+    "nt_refs": 7,
+    "books_count": 10,
+    "top_books": [
+      "Psalms",
+      "Job",
+      "Isaiah",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "Acts",
+      "1 Corinthians",
+      "Ephesians",
+      "1 Peter"
+    ]
+  }
+}

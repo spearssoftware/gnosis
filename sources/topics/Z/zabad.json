@@ -1,0 +1,148 @@
+{
+  "topic": "ZABAD",
+  "slug": "zabad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 2:36,37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An Ephraimite",
+      "references": [
+        "1 Chronicles 7:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. One of David’ s valiant men",
+      "references": [
+        "1 Chronicles 11:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. An assassin of King Joash",
+      "references": [
+        "2 Chronicles 24:26",
+        "2 Chronicles 25:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "2 Kings 12:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Three Israelites who divorced their Gentile wives",
+      "references": [
+        "Ezra 10:27,33,43"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:36,37"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:41"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 24,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 24:26"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 25,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 25:3,4"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 12:21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        27,
+        33,
+        43
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezra 10:27,33,43"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles",
+      "2 Kings",
+      "Ezra"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "topic": "AMOS",
+  "slug": "amos",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A prophet",
+      "references": [
+        "Amos 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Forbid",
+      "references": [
+        "Lamentations 7:10-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Vision of",
+      "references": [
+        "Amos 8:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 1:1"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 7,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Lamentations 7:10-17"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 8:2"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Lamentations"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Amos",
+      "Lamentations"
+    ]
+  }
+}

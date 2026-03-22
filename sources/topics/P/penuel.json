@@ -1,0 +1,111 @@
+{
+  "topic": "PENUEL",
+  "slug": "penuel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".City built where Jacob wrestled with the angel",
+      "references": [
+        "Genesis 32:31",
+        "Judges 8:8,9,17",
+        "1 Kings 12:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Chief of Gedor",
+      "references": [
+        "1 Chronicles 4:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Benjamite",
+      "references": [
+        "1 Chronicles 8:25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 32,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 32:31"
+    },
+    {
+      "book": "Judges",
+      "chapter": 8,
+      "verses": [
+        8,
+        9,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 8:8,9,17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:25"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Judges",
+      "1 Kings"
+    ]
+  }
+}

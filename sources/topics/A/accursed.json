@@ -1,0 +1,108 @@
+{
+  "topic": "ACCURSED",
+  "slug": "accursed",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "What",
+      "references": [
+        "Deuteronomy 21:23",
+        "Joshua 6:17",
+        "Joshua 7:1",
+        "1 Chronicles 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "65:20;",
+      "references": [
+        "Galatians 1:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:23"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 6,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 6:17"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 7:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 65,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 65:20"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 1:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Deuteronomy",
+    "Galatians",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Joshua",
+      "1 Chronicles",
+      "Deuteronomy",
+      "Galatians"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "AZUBAH",
+  "slug": "azubah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Mother of Jehoshaphat",
+      "references": [
+        "1 Kings 22:41",
+        "2 Chronicles 20:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Wife of",
+      "references": [
+        "1 Chronicles 2:18,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:41"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 20:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Kings",
+      "2 Chronicles",
+      "1 Chronicles"
+    ]
+  }
+}

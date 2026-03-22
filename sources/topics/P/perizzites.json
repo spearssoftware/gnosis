@@ -1,0 +1,144 @@
+{
+  "topic": "PERIZZITES",
+  "slug": "perizzites",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CANAANITES"
+  ],
+  "aspects": [
+    {
+      "label": "One of the seven nations in the land of",
+      "references": [
+        "Genesis 13:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Territory of, given to Abraham",
+      "references": [
+        "Genesis 15:20",
+        "Exodus 3:8",
+        "Exodus 23:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Doomed to",
+      "references": [
+        "Deuteronomy 20:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Not all",
+      "references": [
+        "Judges 3:5-7",
+        "Ezra 9:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 13:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 3:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 20,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 20:17"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 3:5-7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 9:1,2"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus",
+    "Ezra",
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Genesis",
+      "Exodus",
+      "Deuteronomy",
+      "Judges",
+      "Ezra"
+    ]
+  }
+}

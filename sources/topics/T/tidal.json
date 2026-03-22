@@ -1,0 +1,43 @@
+{
+  "topic": "TIDAL",
+  "slug": "tidal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "King of nations (R. V., Goiim)",
+      "references": [
+        "Genesis 14:1,9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        1,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 14:1,9"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

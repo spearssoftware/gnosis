@@ -1,0 +1,122 @@
+{
+  "topic": "FLESHHOOK",
+  "slug": "fleshhook",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used in the tabernacle",
+      "references": [
+        "Exodus 27:3",
+        "Exodus 38:3",
+        "Numbers 4:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 2:13,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "1 Chronicles 28:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "2 Chronicles 4:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 4:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 2:13,14"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 28:17"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Exodus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Exodus",
+      "Numbers",
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

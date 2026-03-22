@@ -1,0 +1,55 @@
+{
+  "topic": "ZEBUL",
+  "slug": "zebul",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An officer of Abimelech",
+      "references": [
+        "Judges 9:28-41"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Judges 9:28-41"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

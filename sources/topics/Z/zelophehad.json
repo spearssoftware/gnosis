@@ -1,0 +1,86 @@
+{
+  "topic": "ZELOPHEHAD",
+  "slug": "zelophehad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Grand",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "His daughters petition for his inheritance",
+      "references": [
+        "Numbers 27:1-11",
+        "Joshua 17:3-6",
+        "1 Chronicles 7:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Numbers 27:1-11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joshua 17:3-6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Numbers",
+      "Joshua",
+      "1 Chronicles"
+    ]
+  }
+}

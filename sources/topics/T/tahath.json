@@ -1,0 +1,80 @@
+{
+  "topic": "TAHATH",
+  "slug": "tahath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A",
+      "references": [
+        "Numbers 33:26,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Kohathite",
+      "references": [
+        "1 Chronicles 6:24,37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. The name of two Ephraimites",
+      "references": [
+        "1 Chronicles 7:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:26,27"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        24,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:24,37"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:20"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Numbers"
+    ]
+  }
+}

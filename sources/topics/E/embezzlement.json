@@ -1,0 +1,61 @@
+{
+  "topic": "EMBEZZLEMENT",
+  "slug": "embezzlement",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DISHONESTY",
+    "FRAUD"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Luke 16:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDISHONESTY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFRAUD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Luke 16:1-7"
+    }
+  ],
+  "books_mentioned": [
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Luke"
+    ]
+  }
+}

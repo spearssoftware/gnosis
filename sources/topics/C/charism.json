@@ -1,0 +1,123 @@
+{
+  "topic": "CHARISM",
+  "slug": "charism",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MIRACLES",
+    "TONGUES"
+  ],
+  "aspects": [
+    {
+      "label": "An inspired gift, bestowed on the apostles and early Christians",
+      "references": [
+        "Matthew 10:1,8",
+        "Mark 16:17,18",
+        "Luke 10:1,9,17,19",
+        "Acts 2:4",
+        "Acts 10:44-46",
+        "Acts 19:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMIRACLES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTONGUES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        1,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 10:1,8"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 16:17,18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        1,
+        9,
+        17,
+        19
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 10:1,9,17,19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        44,
+        45,
+        46
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 10:44-46"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:6"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 4,
+    "top_books": [
+      "Acts",
+      "Matthew",
+      "Mark",
+      "Luke"
+    ]
+  }
+}

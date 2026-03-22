@@ -1,0 +1,79 @@
+{
+  "topic": "SHUA",
+  "slug": "shua",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A",
+      "references": [
+        "Genesis 38:2,12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".R. V., A. V. SHUAH)",
+      "references": [
+        "1 Chronicles 2:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Daughter of Heber",
+      "references": [
+        "1 Chronicles 7:32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 38,
+      "verses": [
+        2,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 38:2,12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:32"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis"
+    ]
+  }
+}

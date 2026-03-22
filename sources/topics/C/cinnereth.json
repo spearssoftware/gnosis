@@ -1,0 +1,33 @@
+{
+  "topic": "CINNERETH",
+  "slug": "cinnereth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHINNERETH",
+    "GALILEE, SEA OF"
+  ],
+  "aspects": [
+    {
+      "label": "SeeCHINNERETH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGALILEE, SEA OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

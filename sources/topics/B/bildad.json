@@ -1,0 +1,75 @@
+{
+  "topic": "BILDAD",
+  "slug": "bildad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One of Job’s friends",
+      "references": [
+        "Job 2:11",
+        "Job 8:1",
+        "Job 18:1",
+        "Job 25:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 2:11"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 8:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 18:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 25:1"
+    }
+  ],
+  "books_mentioned": [
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Job"
+    ]
+  }
+}

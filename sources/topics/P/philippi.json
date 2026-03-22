@@ -1,0 +1,160 @@
+{
+  "topic": "PHILIPPI",
+  "slug": "philippi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of Macedonia) -Paul preaches in",
+      "references": [
+        "Acts 16:12-40",
+        "Acts 20:1-6",
+        "1 Thessalonians 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Contributes to the maintenance of Paul",
+      "references": [
+        "Philippians 4:10-18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul sends Epaphroditus to",
+      "references": [
+        "Philippians 2:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul writes a letter to the Christians of",
+      "references": [
+        "Philippians 1:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "verse_count": 29,
+      "testament": "NT",
+      "raw": "Acts 16:12-40"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Acts 20:1-6"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 2:2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Philippians 4:10-18"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 2:25"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 1:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Thessalonians",
+    "Acts",
+    "Philippians"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 3,
+    "top_books": [
+      "Philippians",
+      "Acts",
+      "1 Thessalonians"
+    ]
+  }
+}

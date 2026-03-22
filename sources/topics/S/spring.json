@@ -1,0 +1,140 @@
+{
+  "topic": "SPRING",
+  "slug": "spring",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WELLS"
+  ],
+  "aspects": [
+    {
+      "label": "1. Sea",
+      "references": [
+        "Genesis 8:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Proverbs 27:25",
+        "Song of Solomon 2:11-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Of water",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Hot",
+      "references": [
+        "Genesis 36:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Corrupt",
+      "references": [
+        "Proverbs 25:26",
+        "James 3:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeWELLS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:25"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Song of Solomon 2:11-13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:24"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:26"
+    },
+    {
+      "book": "James",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 3:11"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "James",
+    "Proverbs",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "Proverbs",
+      "Song of Solomon",
+      "James"
+    ]
+  }
+}

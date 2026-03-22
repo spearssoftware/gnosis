@@ -1,0 +1,87 @@
+{
+  "topic": "ITTAI",
+  "slug": "ittai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A chief of David",
+      "references": [
+        "2 Samuel 18:2",
+        "1 Chronicles 11:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Supports David against Absalom",
+      "references": [
+        "2 Samuel 15:19-22",
+        "2 Samuel 18:2,5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 18:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:31"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 15:19-22"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "verses": [
+        2,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 18:2,5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "topic": "LYDIA",
+  "slug": "lydia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A woman of Thyatira, who with her household was converted",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "through the preaching of Paul",
+      "references": [
+        "Acts 16:14,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Entertains Paul and Silas",
+      "references": [
+        "Acts 16:15,40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Incorrectly put for",
+      "references": [
+        "Ezekiel 30:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 16:14,15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        15,
+        40
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 16:15,40"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 30,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 30:5"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Ezekiel"
+    ]
+  }
+}

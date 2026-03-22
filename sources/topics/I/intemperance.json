@@ -1,0 +1,51 @@
+{
+  "topic": "INTEMPERANCE",
+  "slug": "intemperance",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABSTINENCE",
+    "DRUNKARDS",
+    "DRUNKENNESS",
+    "TEMPERANCE",
+    "WINE"
+  ],
+  "aspects": [
+    {
+      "label": "SeeDRUNKARDS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRUNKENNESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeABSTINENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEMPERANCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

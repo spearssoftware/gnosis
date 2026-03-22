@@ -1,0 +1,97 @@
+{
+  "topic": "HOR",
+  "slug": "hor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The mountain upon which Aaron died",
+      "references": [
+        "Numbers 20:22-29",
+        "Numbers 21:4",
+        "Numbers 33:38,39",
+        "Numbers 34:7,8",
+        "Deuteronomy 32:50"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "verses": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Numbers 20:22-29"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:4"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        38,
+        39
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:38,39"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 34:7,8"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:50"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "Deuteronomy"
+    ]
+  }
+}

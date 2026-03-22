@@ -1,0 +1,101 @@
+{
+  "topic": "PASEAH",
+  "slug": "paseah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".A",
+      "references": [
+        "1 Chronicles 4:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Ancestor of a family which returned to",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "in Babylon",
+      "references": [
+        "Ezra 2:49",
+        "Nehemiah 7:51"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Father of Jehoiada, probably i",
+      "references": [
+        "Nehemiah 3:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:12"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:49"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:51"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Nehemiah",
+      "1 Chronicles",
+      "Ezra"
+    ]
+  }
+}

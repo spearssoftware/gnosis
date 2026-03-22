@@ -1,0 +1,86 @@
+{
+  "topic": "TROPHIMUS",
+  "slug": "trophimus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(From Ephesus, a companion of Paul)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Accompanies Paul from Greece to Asia",
+      "references": [
+        "Acts 20:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "With Paul in",
+      "references": [
+        "Acts 21:27-30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Left ill at Miletus",
+      "references": [
+        "2 Timothy 4:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 21:27-30"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:20"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "2 Timothy"
+    ]
+  }
+}

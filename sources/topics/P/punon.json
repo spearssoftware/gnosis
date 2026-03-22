@@ -1,0 +1,48 @@
+{
+  "topic": "PUNON",
+  "slug": "punon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city of Edom)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A",
+      "references": [
+        "Numbers 33:42,43"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        42,
+        43
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:42,43"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

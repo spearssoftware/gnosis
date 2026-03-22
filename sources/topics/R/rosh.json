@@ -1,0 +1,79 @@
+{
+  "topic": "ROSH",
+  "slug": "rosh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 46:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An ancient people",
+      "references": [
+        "Ezekiel 38:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".R. V.)",
+      "references": [
+        "Ezekiel 39:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 38:2,3"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 39,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 39:1"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezekiel",
+      "Genesis"
+    ]
+  }
+}

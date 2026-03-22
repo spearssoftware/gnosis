@@ -1,0 +1,51 @@
+{
+  "topic": "BENEVOLENCE",
+  "slug": "benevolence",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ALMS",
+    "BENEVOLENCE",
+    "CHARITABLENESS",
+    "LIBERALITY",
+    "LOVE"
+  ],
+  "aspects": [
+    {
+      "label": "SeeALMS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBENEVOLENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHARITABLENESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLIBERALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLOVE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

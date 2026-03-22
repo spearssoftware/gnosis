@@ -1,0 +1,104 @@
+{
+  "topic": "MERAIOTH",
+  "slug": "meraioth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A high priest of the line of Eleazar",
+      "references": [
+        "1 Chronicles 6:6,7,52",
+        "Ezra 7:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Probably i",
+      "references": [
+        "1 Chronicles 9:11",
+        "Nehemiah 11:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A priest in the time of Joiakim",
+      "references": [
+        "Nehemiah 12:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        6,
+        7,
+        52
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:6,7,52"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:11"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:11"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

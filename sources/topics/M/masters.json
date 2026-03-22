@@ -1,0 +1,550 @@
+{
+  "topic": "MASTERS",
+  "slug": "masters",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Authority of, established",
+      "references": [
+        "Colossians 3:22",
+        "1 Peter 2:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should, with their households: Worship God",
+      "references": [
+        "Genesis 35:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should, with their households: Fear God",
+      "references": [
+        "Acts 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should, with their households: Serve God",
+      "references": [
+        "Joshua 24:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should, with their households: Observe the Sabbath",
+      "references": [
+        "Exodus 20:10",
+        "Deuteronomy 5:12-14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should, with their households: Put away idols",
+      "references": [
+        "Genesis 35:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should select faithful servants",
+      "references": [
+        "Genesis 24:2",
+        "Psalms 101:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should receive faithful advice from servants",
+      "references": [
+        "2 Kings 5:13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: To act justly",
+      "references": [
+        "Job 31:13,15",
+        "Colossians 4:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: To deal with them in the fear of God",
+      "references": [
+        "Ephesians 6:9",
+        "Colossians 4:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: To esteem them highly, if saints",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: To take care of them in sickness",
+      "references": [
+        "Luke 7:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: To forbear threatening them",
+      "references": [
+        "Ephesians 6:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: Not to defraud them",
+      "references": [
+        "Genesis 31:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: Not to keep back their wages",
+      "references": [
+        "Leviticus 19:13",
+        "Deuteronomy 24:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Duty of, toward servants: Not to rule over them with rigour",
+      "references": [
+        "Leviticus 25:43",
+        "Deuteronomy 24:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Benevolent, blessed",
+      "references": [
+        "Deuteronomy 15:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Unjust, denounced",
+      "references": [
+        "Jeremiah 22:13",
+        "James 5:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Abraham",
+      "references": [
+        "Genesis 18:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Jacob",
+      "references": [
+        "Genesis 35:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Joshua",
+      "references": [
+        "Joshua 24:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Centurion",
+      "references": [
+        "Luke 7:2,3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Cornelius",
+      "references": [
+        "Acts 10:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bad — Exemplified: Egyptians",
+      "references": [
+        "Exodus 1:13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bad — Exemplified: Nabal",
+      "references": [
+        "1 Samuel 25:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Bad — Exemplified: Amalekite",
+      "references": [
+        "1 Samuel 30:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:22"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:15"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 20:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 5,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 5:12-14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 101,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 101:6,7"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 5:13,14"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        13,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 31:13,15"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:1"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:9"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:7"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:13"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:43"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:14"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 15,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 15:18"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 22:13"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 5:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 18:19"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 7:2,3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 1,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 1:13,14"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 25:17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 30:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "1 Samuel",
+    "2 Kings",
+    "Acts",
+    "Colossians",
+    "Deuteronomy",
+    "Ephesians",
+    "Exodus",
+    "Genesis",
+    "James",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Leviticus",
+    "Luke",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 26,
+    "total_refs": 28,
+    "ot_refs": 20,
+    "nt_refs": 8,
+    "books_count": 16,
+    "top_books": [
+      "Genesis",
+      "Deuteronomy",
+      "Colossians",
+      "Exodus",
+      "Luke",
+      "Leviticus",
+      "1 Samuel",
+      "1 Peter",
+      "Acts",
+      "Joshua"
+    ]
+  }
+}

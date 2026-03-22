@@ -1,0 +1,253 @@
+{
+  "topic": "CAPERNAUM",
+  "slug": "capernaum",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city on the shore of the Sea of Galilee)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus chose, as the place of his abo",
+      "references": [
+        "Matthew 4:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Miracles of Jesus performed at",
+      "references": [
+        "Matthew 9:1-26",
+        "Matthew 17:24",
+        "Mark 1:21-45",
+        "Mark 3:1-6",
+        "Luke 7:1-10",
+        "John 4:46-53",
+        "John 6:17-25,59"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His prophecy against",
+      "references": [
+        "Matthew 11:23",
+        "Luke 10:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:31"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 26,
+      "testament": "NT",
+      "raw": "Matthew 9:1-26"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 17:24"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "verse_count": 25,
+      "testament": "NT",
+      "raw": "Mark 1:21-45"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Mark 3:1-6"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Luke 7:1-10"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "John 4:46-53"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        59
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "John 6:17-25,59"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:23"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:15"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 11,
+    "ot_refs": 0,
+    "nt_refs": 11,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ]
+  }
+}

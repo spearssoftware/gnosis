@@ -1,0 +1,55 @@
+{
+  "topic": "HIDDEKEL",
+  "slug": "hiddekel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Ancient name of the Tigris River",
+      "references": [
+        "Genesis 2:14",
+        "Daniel 10:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 2:14"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 10:4"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Daniel"
+    ]
+  }
+}

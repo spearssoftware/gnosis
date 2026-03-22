@@ -1,0 +1,72 @@
+{
+  "topic": "SON",
+  "slug": "son",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADOPTION",
+    "GOD, FATHERHOOD OF",
+    "JESUS, SON OF GOD",
+    "JESUS, SON OF MAN"
+  ],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of a per",
+      "references": [
+        "Exodus 4:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeADOPTION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGOD, FATHERHOOD OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJESUS,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJESUS,",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 4:22"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

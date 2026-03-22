@@ -1,0 +1,56 @@
+{
+  "topic": "MINORS",
+  "slug": "minors",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ORPHAN",
+    "YOUNG MEN"
+  ],
+  "aspects": [
+    {
+      "label": "Legal status of",
+      "references": [
+        "Galatians 4:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeORPHAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeYOUNG MEN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 4:1,2"
+    }
+  ],
+  "books_mentioned": [
+    "Galatians"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Galatians"
+    ]
+  }
+}

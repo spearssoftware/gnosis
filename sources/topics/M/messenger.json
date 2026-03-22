@@ -1,0 +1,136 @@
+{
+  "topic": "MESSENGER",
+  "slug": "messenger",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Haggai 1:13",
+        "Malachi 2:7",
+        "Malachi 3:1",
+        "Malachi 4:5,6",
+        "Matthew 11:10",
+        "Mark 1:2",
+        "Luke 7:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Satan",
+      "references": [
+        "2 Corinthians 12:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Haggai",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Haggai 1:13"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 2:7"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:1"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 4,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Malachi 4:5,6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:10"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 1:2"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:27"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:7"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Haggai",
+    "Luke",
+    "Malachi",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 8,
+    "ot_refs": 4,
+    "nt_refs": 4,
+    "books_count": 6,
+    "top_books": [
+      "Malachi",
+      "Haggai",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "2 Corinthians"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "topic": "HEPHER",
+  "slug": "hepher",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Numbers 26:32,33",
+        "Numbers 27:1",
+        "Joshua 17:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 4:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. One of David’s heroes",
+      "references": [
+        "1 Chronicles 11:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A city west of the Jordan River",
+      "references": [
+        "Joshua 12:17",
+        "1 Kings 4:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 26:32,33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 27:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 17:2,3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:36"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Numbers",
+      "Joshua",
+      "1 Chronicles",
+      "1 Kings"
+    ]
+  }
+}

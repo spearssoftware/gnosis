@@ -1,0 +1,89 @@
+{
+  "topic": "BATH",
+  "slug": "bath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A Hebrew measure for liquids containing about eight gallons,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "three quarts",
+      "references": [
+        "1 Kings 7:26,38",
+        "Ezra 7:22",
+        "Isaiah 5:10",
+        "Ezekiel 45:10,11,14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        26,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 7:26,38"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:10"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 45,
+      "verses": [
+        10,
+        11,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezekiel 45:10,11,14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Ezekiel",
+    "Ezra",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Kings",
+      "Ezra",
+      "Isaiah",
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "topic": "ATAROTH",
+  "slug": "ataroth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "1. A city east of the Jordan River",
+      "references": [
+        "Numbers 32:3,34"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city, or possibly two different cities, of Ephraim",
+      "references": [
+        "Joshua 16:2,5,7",
+        "Joshua 18:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city of",
+      "references": [
+        "1 Chronicles 2:54"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A city of Gad",
+      "references": [
+        "Numbers 32:35"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        3,
+        34
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 32:3,34"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 16,
+      "verses": [
+        2,
+        5,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 16:2,5,7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 18:13"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        54
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:54"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 32:35"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Numbers",
+      "Joshua",
+      "1 Chronicles"
+    ]
+  }
+}

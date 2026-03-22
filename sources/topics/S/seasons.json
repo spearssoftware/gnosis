@@ -1,0 +1,155 @@
+{
+  "topic": "SEASONS",
+  "slug": "seasons",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 1:14",
+        "Genesis 8:22",
+        "Psalms 104:19",
+        "Jeremiah 33:20",
+        "Daniel 2:21",
+        "Matthew 21:41",
+        "Matthew 24:32",
+        "Mark 12:2",
+        "Acts 1:7",
+        "1 Thessalonians 5:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 1:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:22"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 104,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 104:19"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 33,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 33:20"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:41"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 24:32"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 12:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:7"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Thessalonians",
+    "Acts",
+    "Daniel",
+    "Genesis",
+    "Jeremiah",
+    "Mark",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 10,
+    "ot_refs": 5,
+    "nt_refs": 5,
+    "books_count": 8,
+    "top_books": [
+      "Genesis",
+      "Matthew",
+      "Psalms",
+      "Jeremiah",
+      "Daniel",
+      "Mark",
+      "Acts",
+      "1 Thessalonians"
+    ]
+  }
+}

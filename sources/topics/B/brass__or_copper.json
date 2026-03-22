@@ -1,0 +1,1072 @@
+{
+  "topic": "BRASS, OR COPPER",
+  "slug": "brass__or_copper",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Dug out of the mountains",
+      "references": [
+        "Deuteronomy 8:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Purified by smelting",
+      "references": [
+        "Job 28:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Strength",
+      "references": [
+        "Job 40:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Hardness",
+      "references": [
+        "Leviticus 26:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Yellow colour",
+      "references": [
+        "Ezra 8:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Fusibility",
+      "references": [
+        "Ezekiel 22:18,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Characterised by: Sonorousness",
+      "references": [
+        "1 Corinthians 13:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Takes a high polish",
+      "references": [
+        "2 Chronicles 4:16",
+        "Ezekiel 1:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Inferior in value to gold and silver",
+      "references": [
+        "Isaiah 60:17",
+        "Daniel 2:32,39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Antiquity of working in",
+      "references": [
+        "Genesis 4:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Extensive commerce in",
+      "references": [
+        "Ezekiel 27:13",
+        "Revelation 18:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Working in, a trade",
+      "references": [
+        "Genesis 4:22",
+        "1 Kings 7:14",
+        "2 Chronicles 24:12",
+        "2 Timothy 4:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Canaan abounded in",
+      "references": [
+        "Deuteronomy 8:9",
+        "Deuteronomy 33:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Taken in war: Often in great quantities",
+      "references": [
+        "Joshua 22:8",
+        "2 Samuel 8:8",
+        "2 Kings 25:13-16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Taken in war: Cleansed by fire",
+      "references": [
+        "Numbers 31:21-23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Taken in war: Generally consecrated to God",
+      "references": [
+        "Joshua 6:19,24",
+        "2 Samuel 8:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offerings of, for the tabernacle",
+      "references": [
+        "Exodus 38:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Collected by David for the temple",
+      "references": [
+        "1 Chronicles 22:3,14,16",
+        "1 Chronicles 29:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offerings of, for the temple",
+      "references": [
+        "1 Chronicles 29:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Coined for money",
+      "references": [
+        "Matthew 10:9",
+        "Mark 12:41"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Mirrors",
+      "references": [
+        "Exodus 38:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Gates",
+      "references": [
+        "Psalms 107:16",
+        "Isaiah 45:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Bars for gates",
+      "references": [
+        "1 Kings 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Fetters",
+      "references": [
+        "Judges 16:21",
+        "2 Kings 25:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Shields",
+      "references": [
+        "1 Kings 14:27",
+        "2 Chronicles 12:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Helmets",
+      "references": [
+        "1 Samuel 17:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Greaves for the legs",
+      "references": [
+        "1 Samuel 17:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Household vessels",
+      "references": [
+        "Mark 7:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Sacred vessels",
+      "references": [
+        "Exodus 27:3",
+        "1 Kings 7:45"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Altars",
+      "references": [
+        "Exodus 27:2",
+        "Exodus 39:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Sockets for pillars",
+      "references": [
+        "Exodus 38:10,11,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Lavers",
+      "references": [
+        "Exodus 30:18",
+        "1 Kings 7:38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Pillars",
+      "references": [
+        "1 Kings 7:15,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Idols",
+      "references": [
+        "Daniel 5:4",
+        "Revelation 9:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Instruments of music",
+      "references": [
+        "1 Chronicles 15:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Moses made the serpent of",
+      "references": [
+        "Numbers 21:9",
+        "2 Kings 18:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Obstinate sinners",
+      "references": [
+        "Isaiah 48:4",
+        "Jeremiah 6:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The decrees of God",
+      "references": [
+        "Zechariah 6:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The strength and firmness of Christ",
+      "references": [
+        "Daniel 10:6",
+        "Revelation 1:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Strength given to saints",
+      "references": [
+        "Jeremiah 15:20",
+        "Micah 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Macedonian empire",
+      "references": [
+        "Daniel 2:39"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Extreme drought",
+      "references": [
+        "Deuteronomy 28:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The earth made barren",
+      "references": [
+        "Leviticus 26:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 8,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 8:9"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:2"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 40:18"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 26:19"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:27"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 22,
+      "verses": [
+        18,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 22:18,20"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 13:1"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:17"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        32,
+        39
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 2:32,39"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:13"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 24,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 24:12"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:14"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:25"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 22,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 22:8"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:8"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Kings 25:13-16"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 31:21-23"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 6,
+      "verses": [
+        19,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 6:19,24"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 8:10,11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "verses": [
+        3,
+        14,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 22:3,14,16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:6,7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:9"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 12:41"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 107,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 107:16"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 45,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 45:2"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:13"
+    },
+    {
+      "book": "Judges",
+      "chapter": 16,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 16:21"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 14:27"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 12:10"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:6"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 7:4"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:3"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:45"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:39"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        10,
+        11,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 38:10,11,17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:38"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 7:15,16"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 5:4"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:20"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:19"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:9"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 48,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 48:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:28"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 6:1"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 10,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 10:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:15"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 15:20"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 4:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:39"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:23"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Corinthians",
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "2 Timothy",
+    "Daniel",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Ezra",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Judges",
+    "Leviticus",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 43,
+    "total_refs": 63,
+    "ot_refs": 55,
+    "nt_refs": 8,
+    "books_count": 27,
+    "top_books": [
+      "Exodus",
+      "1 Kings",
+      "Daniel",
+      "1 Chronicles",
+      "Deuteronomy",
+      "Ezekiel",
+      "2 Chronicles",
+      "Isaiah",
+      "Revelation",
+      "2 Kings"
+    ]
+  }
+}

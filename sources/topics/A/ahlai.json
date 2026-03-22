@@ -1,0 +1,61 @@
+{
+  "topic": "AHLAI",
+  "slug": "ahlai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Daughter of Sheshan",
+      "references": [
+        "1 Chronicles 2:31,34,35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Zabad",
+      "references": [
+        "1 Chronicles 11:41"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        31,
+        34,
+        35
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:31,34,35"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:41"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Chronicles"
+    ]
+  }
+}

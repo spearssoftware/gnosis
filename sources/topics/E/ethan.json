@@ -1,0 +1,97 @@
+{
+  "topic": "ETHAN",
+  "slug": "ethan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A renowned sage",
+      "references": [
+        "1 Kings 4:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See titlePs 89",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 2:6,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Two Levites",
+      "references": [
+        "1 Chronicles 6:42,44",
+        "1 Chronicles 15:17,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        6,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:6,8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        42,
+        44
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:42,44"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        17,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:17,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "1 Kings"
+    ]
+  }
+}

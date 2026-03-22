@@ -1,0 +1,47 @@
+{
+  "topic": "LEBBAEUS",
+  "slug": "lebbaeus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Surnamed THADDAEUS)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "One of the twelve apostles",
+      "references": [
+        "Matthew 10:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:3"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

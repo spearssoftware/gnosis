@@ -1,0 +1,153 @@
+{
+  "topic": "MOTH",
+  "slug": "moth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An insect",
+      "references": [
+        "Job 4:19",
+        "Job 27:18",
+        "Psalms 39:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Job 13:28",
+        "Isaiah 50:9",
+        "Isaiah 51:8",
+        "Hosea 5:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Matthew 6:19,20",
+        "James 5:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 4:19"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 27:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 39,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 39:11"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 13:28"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 50,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 50:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 51,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 51:8"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 5:12"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 6:19,20"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 5:2"
+    }
+  ],
+  "books_mentioned": [
+    "Hosea",
+    "Isaiah",
+    "James",
+    "Job",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 9,
+    "ot_refs": 7,
+    "nt_refs": 2,
+    "books_count": 6,
+    "top_books": [
+      "Job",
+      "Isaiah",
+      "Psalms",
+      "Hosea",
+      "Matthew",
+      "James"
+    ]
+  }
+}

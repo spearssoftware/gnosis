@@ -1,0 +1,431 @@
+{
+  "topic": "PUBLICANS",
+  "slug": "publicans",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Tax collectors for the Romans)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Disreputable",
+      "references": [
+        "Matthew 5:46,47",
+        "Matthew 9:11",
+        "Matthew 11:19",
+        "Matthew 18:17",
+        "Matthew 21:31",
+        "Luke 18:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Change their ways be",
+      "references": [
+        "Matthew 21:32",
+        "Luke 3:12",
+        "Luke 7:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Matthew, the tax collector of",
+      "references": [
+        "Matthew 9:9",
+        "Matthew 10:3",
+        "Mark 2:14",
+        "Luke 5:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Parable concerning",
+      "references": [
+        "Luke 18:9-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Zacchaeus, chief among, receives Jesus into his house",
+      "references": [
+        "Luke 19:2-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The collectors of the public taxes",
+      "references": [
+        "Luke 5:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Suspected of extortion",
+      "references": [
+        "Luke 3:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often guilty of extortion",
+      "references": [
+        "Luke 19:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Chiefs of, were very rich",
+      "references": [
+        "Luke 19:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Despised",
+      "references": [
+        "Luke 18:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Classed with the most infamous characters",
+      "references": [
+        "Matthew 11:19",
+        "Matthew 21:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Despised our Lord for associating with",
+      "references": [
+        "Matthew 9:11",
+        "Matthew 11:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often kind to their friends",
+      "references": [
+        "Matthew 5:46,47"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often hospitable",
+      "references": [
+        "Luke 5:29",
+        "Luke 19:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many of: Believed the preaching of John",
+      "references": [
+        "Matthew 21:32"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many of: Received John’s baptism",
+      "references": [
+        "Luke 3:12",
+        "Luke 7:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many of: Attended the preaching of Christ",
+      "references": [
+        "Mark 2:15",
+        "Luke 15:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many of: Embraced the gospel",
+      "references": [
+        "Matthew 21:31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Matthew the apostle was of",
+      "references": [
+        "Matthew 10:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        46,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 5:46,47"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:19"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:31"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 18:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:32"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:12"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:29"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 2:14"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 5:27"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Luke 18:9-14"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Luke 19:2-10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:13"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:8"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:2"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 5:29"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:6"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 2:15"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:1"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 22,
+    "ot_refs": 0,
+    "nt_refs": 22,
+    "books_count": 3,
+    "top_books": [
+      "Luke",
+      "Matthew",
+      "Mark"
+    ]
+  }
+}

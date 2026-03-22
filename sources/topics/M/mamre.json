@@ -1,0 +1,119 @@
+{
+  "topic": "MAMRE",
+  "slug": "mamre",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A plain near Hebron .Abraham resi",
+      "references": [
+        "Genesis 13:18",
+        "Genesis 14:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Entertains three angels, and is promised a",
+      "references": [
+        "Genesis 18:1-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 35:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An Amorite and confe",
+      "references": [
+        "Genesis 14:13,24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 13:18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Genesis 18:1-15"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        13,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 14:13,24"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

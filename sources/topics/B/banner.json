@@ -1,0 +1,38 @@
+{
+  "topic": "BANNER",
+  "slug": "banner",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ENSIGN",
+    "STANDARD"
+  ],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeENSIGN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSTANDARD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

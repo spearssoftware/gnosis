@@ -1,0 +1,193 @@
+{
+  "topic": "SPIES",
+  "slug": "spies",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 42:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sent to investigate",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jaazer",
+      "references": [
+        "Numbers 21:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Joshua 2:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used by David",
+      "references": [
+        "1 Samuel 26:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used at the court of Absalom",
+      "references": [
+        "2 Samuel 15:10",
+        "2 Samuel 17:1-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Pharisees acted as",
+      "references": [
+        "Luke 20:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the congregation of Galatia",
+      "references": [
+        "Galatians 2:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 42,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 42:9"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:32"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 2:1"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 26:4"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 15:10"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "2 Samuel 17:1-17"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 20:20"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Samuel",
+    "Galatians",
+    "Genesis",
+    "Joshua",
+    "Luke",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 8,
+    "ot_refs": 6,
+    "nt_refs": 2,
+    "books_count": 7,
+    "top_books": [
+      "2 Samuel",
+      "Genesis",
+      "Numbers",
+      "Joshua",
+      "1 Samuel",
+      "Luke",
+      "Galatians"
+    ]
+  }
+}

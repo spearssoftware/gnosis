@@ -1,0 +1,1428 @@
+{
+  "topic": "TRUTH",
+  "slug": "truth",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Saints should worship God in",
+      "references": [
+        "John 4:24",
+        "Psalms 145:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Serve God in",
+      "references": [
+        "Joshua 24:14",
+        "1 Samuel 12:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Walk in the presence of God in",
+      "references": [
+        "1 Kings 2:4",
+        "2 Kings 20:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Keep religious feasts with",
+      "references": [
+        "1 Corinthians 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Esteem, as inestimable",
+      "references": [
+        "Proverbs 23:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Love",
+      "references": [
+        "Ecclesiastes 8:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Rejoice in",
+      "references": [
+        "1 Corinthians 13:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Speak, to one another",
+      "references": [
+        "Ecclesiastes 8:16",
+        "Ephesians 4:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Execute",
+      "references": [
+        "Ecclesiastes 8:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Meditate upon",
+      "references": [
+        "Philippians 4:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bind, around the neck",
+      "references": [
+        "Proverbs 3:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Write, upon the tables of the heart",
+      "references": [
+        "Proverbs 3:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The fruit of the Spirit is in",
+      "references": [
+        "Ephesians 5:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "God’ s servants should speak",
+      "references": [
+        "2 Corinthians 12:6",
+        "Galatians 4:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Teach in",
+      "references": [
+        "1 Timothy 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Approve themselves by",
+      "references": [
+        "2 Corinthians 6:7,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Magistrates should be men of",
+      "references": [
+        "Exodus 18:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Kings are preserved by",
+      "references": [
+        "Proverbs 20:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "They who speak, show forth righteousness",
+      "references": [
+        "Proverbs 12:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Those who speak, are the",
+      "references": [
+        "Proverbs 12:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The evil people",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Are",
+      "references": [
+        "Hosea 4:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Speak not",
+      "references": [
+        "Jeremiah 9:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Uphold not",
+      "references": [
+        "Isaiah 59:14,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Plead not for",
+      "references": [
+        "Isaiah 59:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Are not valiant for",
+      "references": [
+        "Jeremiah 9:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Punished for want of",
+      "references": [
+        "Jeremiah 9:5,9",
+        "Hosea 4:1,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The gospel as,",
+      "references": [
+        "John 1:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is in Christ",
+      "references": [
+        "1 Timothy 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "John 5:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Is according to godli",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "God is a God of",
+      "references": [
+        "Deuteronomy 32:4",
+        "Psalms 31:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christ is",
+      "references": [
+        "John 14:6",
+        "John 7:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christ was full of",
+      "references": [
+        "John 1:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christ spoke",
+      "references": [
+        "John 8:45"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Holy Spirit is the Spirit of",
+      "references": [
+        "John 14:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Holy Spirit guides into all",
+      "references": [
+        "John 16:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The word of God is",
+      "references": [
+        "Daniel 10:21",
+        "John 17:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God regards, with favour",
+      "references": [
+        "Jeremiah 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The judgments of God are according to",
+      "references": [
+        "Psalms 96:13",
+        "Romans 2:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Worship God in",
+      "references": [
+        "John 4:24",
+        "Psalms 145:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Serve God in",
+      "references": [
+        "Joshua 24:14",
+        "1 Samuel 12:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Walk before God in",
+      "references": [
+        "1 Kings 2:4",
+        "2 Kings 20:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Keep religious feasts with",
+      "references": [
+        "1 Corinthians 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Esteem, as inestimable",
+      "references": [
+        "Proverbs 23:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Rejoice in",
+      "references": [
+        "1 Corinthians 13:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Speak, to one another",
+      "references": [
+        "Zechariah 8:16",
+        "Ephesians 4:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Meditate upon",
+      "references": [
+        "Philippians 4:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints should: Write upon the tables of the heart",
+      "references": [
+        "Proverbs 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God desires in the heart",
+      "references": [
+        "Psalms 51:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The fruit of the Spirit is in",
+      "references": [
+        "Ephesians 5:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ministers should: Speak",
+      "references": [
+        "2 Corinthians 12:6",
+        "Galatians 4:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ministers should: Teach in",
+      "references": [
+        "1 Timothy 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ministers should: Approve themselves by",
+      "references": [
+        "2 Corinthians 4:2",
+        "2 Corinthians 6:7,8",
+        "2 Corinthians 7:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Magistrates should be men of",
+      "references": [
+        "Exodus 18:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kings are preserved by",
+      "references": [
+        "Proverbs 20:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who speak: Show forth righteousness",
+      "references": [
+        "Proverbs 12:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who speak: Shall be established",
+      "references": [
+        "Proverbs 12:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "They who speak: Are the delight of God",
+      "references": [
+        "Proverbs 12:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Destitute of",
+      "references": [
+        "Hosea 4:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Speak not",
+      "references": [
+        "Jeremiah 9:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Uphold not",
+      "references": [
+        "Isaiah 59:14,15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Plead not for",
+      "references": [
+        "Isaiah 59:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Are not valiant for",
+      "references": [
+        "Jeremiah 9:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Punished for want of",
+      "references": [
+        "Jeremiah 9:5,9",
+        "Hosea 4:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The gospel as: Came by Christ",
+      "references": [
+        "John 1:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christ bear witness to",
+      "references": [
+        "John 18:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is in Christ",
+      "references": [
+        "Romans 9:1",
+        "1 Timothy 2:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "John bears witness to",
+      "references": [
+        "John 5:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is according to godliness",
+      "references": [
+        "Titus 1:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is sanctifying",
+      "references": [
+        "John 17:17,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is purifying",
+      "references": [
+        "1 Peter 1:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Is part of Christian armour",
+      "references": [
+        "Ephesians 6:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Revealed abundantly to saints",
+      "references": [
+        "Jeremiah 33:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Abides continually with saints",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be acknowledged",
+      "references": [
+        "2 Timothy 2:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be believed",
+      "references": [
+        "2 Thessalonians 2:12,13",
+        "1 Timothy 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be obeyed",
+      "references": [
+        "Romans 2:8",
+        "Galatians 3:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be loved",
+      "references": [
+        "2 Thessalonians 2:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be manifested",
+      "references": [
+        "2 Corinthians 4:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be rightly divided",
+      "references": [
+        "2 Timothy 2:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked turn away from",
+      "references": [
+        "2 Timothy 4:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked resist",
+      "references": [
+        "2 Timothy 3:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked destitute of",
+      "references": [
+        "1 Timothy 6:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The church is the pillar and ground of",
+      "references": [
+        "1 Timothy 3:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The devil is devoid of",
+      "references": [
+        "John 8:44"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:24"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 145,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 145:18"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:14"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 12:24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 2:4"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 20:3"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 23:23"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 8:19"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 13:6"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 8:16"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:25"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 4:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 3:3"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:9"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:6"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 4:16"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 2:7"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:7,8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 18,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 18:21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:28"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:22"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 4:1"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 9,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 9:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 59:14,15"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 9,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 9:3"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 9,
+      "verses": [
+        5,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 9:5,9"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 4,
+      "verses": [
+        1,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Hosea 4:1,3"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:17"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 5:33"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 31,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 31:15"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 14:6"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 7:18"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:14"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 8:45"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 14:17"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 16:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 10,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 10:21"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 17:17"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 5:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 96,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 96:13"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 2:2"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 8:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 51,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 51:6"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 4:2"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 7:14"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:19"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 18:37"
+    },
+    {
+      "book": "Romans",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 9:1"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 1:1"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "verses": [
+        17,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 17:17,19"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 1:22"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 33,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 33:6"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 2:25"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Thessalonians 2:12,13"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 4:3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 2:8"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 3:1"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Thessalonians 2:10"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 2:15"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:4"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 3:8"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 6:5"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 3:15"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 8:44"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Kings",
+    "1 Peter",
+    "1 Samuel",
+    "1 Timothy",
+    "2 Corinthians",
+    "2 Kings",
+    "2 Thessalonians",
+    "2 Timothy",
+    "Daniel",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Ephesians",
+    "Exodus",
+    "Galatians",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Joshua",
+    "Philippians",
+    "Proverbs",
+    "Psalms",
+    "Romans",
+    "Titus",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 86,
+    "total_refs": 69,
+    "ot_refs": 29,
+    "nt_refs": 40,
+    "books_count": 26,
+    "top_books": [
+      "John",
+      "Proverbs",
+      "Jeremiah",
+      "Psalms",
+      "2 Corinthians",
+      "1 Timothy",
+      "2 Timothy",
+      "Ephesians",
+      "Romans",
+      "1 Corinthians"
+    ]
+  }
+}

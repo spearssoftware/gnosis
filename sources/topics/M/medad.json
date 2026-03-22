@@ -1,0 +1,50 @@
+{
+  "topic": "MEDAD",
+  "slug": "medad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One of the seventy el",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Moses, but prophesied in the",
+      "references": [
+        "Numbers 11:26-29"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "verses": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 11:26-29"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

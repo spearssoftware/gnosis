@@ -1,0 +1,63 @@
+{
+  "topic": "HAGGAI",
+  "slug": "haggai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One of the minor prophets",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Urges the Jews to rebuild the temple",
+      "references": [
+        "Ezra 5:1",
+        "Ezra 6:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See the Book of HaggaiHag 1",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 5:1"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 6:14"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "topic": "HALLELUJAH",
+  "slug": "hallelujah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An, exclamatory expression of praise or adorationPs",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "106:1;111:1;112:1;113:1;117:1;135:1;146:1,10;147:1;148:1;",
+      "references": [
+        "Revelation 19:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 19,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 19:1"
+    }
+  ],
+  "books_mentioned": [
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Revelation"
+    ]
+  }
+}

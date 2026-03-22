@@ -1,0 +1,51 @@
+{
+  "topic": "SOUL",
+  "slug": "soul",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "IMMORTALITY",
+    "MAN, A SPIRIT",
+    "RIGHTEOUS, FUTURE STATE OF",
+    "SPIRIT",
+    "WICKED, PUNISHMENT OF"
+  ],
+  "aspects": [
+    {
+      "label": "SeeSPIRIT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIMMORTALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMAN, A SPIRIT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeRIGHTEOUS, FUTURE STATE OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWICKED, PUNISHMENT OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

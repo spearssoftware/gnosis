@@ -1,0 +1,42 @@
+{
+  "topic": "PHLEGON",
+  "slug": "phlegon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A disciple in Rome",
+      "references": [
+        "Romans 16:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:14"
+    }
+  ],
+  "books_mentioned": [
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Romans"
+    ]
+  }
+}

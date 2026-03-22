@@ -1,0 +1,80 @@
+{
+  "topic": "CHARGER",
+  "slug": "charger",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A dish)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Numbers 7:13,19,25,31,37,43,49,55,61,67,73,79,84,85"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Matthew 14:8,11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        13,
+        19,
+        25,
+        31,
+        37,
+        43,
+        49,
+        55,
+        61,
+        67,
+        73,
+        79,
+        84,
+        85
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Numbers 7:13,19,25,31,37,43,49,55,61,67,73,79,84,85"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 14:8,11"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "Matthew"
+    ]
+  }
+}

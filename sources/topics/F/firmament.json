@@ -1,0 +1,75 @@
+{
+  "topic": "FIRMAMENT",
+  "slug": "firmament",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The expanse above the earth",
+      "references": [
+        "Genesis 1:6-8,14-17,20",
+        "Psalms 19:1",
+        "Daniel 12:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        6,
+        7,
+        8,
+        14,
+        15,
+        16,
+        17,
+        20
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Genesis 1:6-8,14-17,20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 19,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 19:1"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 12:3"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Genesis",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Psalms",
+      "Daniel"
+    ]
+  }
+}

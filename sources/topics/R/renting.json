@@ -1,0 +1,89 @@
+{
+  "topic": "RENTING",
+  "slug": "renting",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Land",
+      "references": [
+        "Matthew 21:33-41",
+        "Luke 20:9-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Houses",
+      "references": [
+        "Acts 28:30"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "Matthew 21:33-41"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 20:9-16"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 28:30"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "Acts"
+    ]
+  }
+}

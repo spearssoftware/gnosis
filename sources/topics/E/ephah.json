@@ -1,0 +1,114 @@
+{
+  "topic": "EPHAH",
+  "slug": "ephah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MEASURE, DRY"
+  ],
+  "aspects": [
+    {
+      "label": "1. A",
+      "references": [
+        "Genesis 25:4",
+        "1 Chronicles 1:33",
+        "Isaiah 60:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 2:46"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 2:47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A measure of about three pecks",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeMEASURE, DRY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:33"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:6"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:46"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        47
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:47"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Isaiah"
+    ]
+  }
+}

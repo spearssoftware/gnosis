@@ -1,0 +1,228 @@
+{
+  "topic": "MYRRH",
+  "slug": "myrrh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A fragrant gum)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A product of the land of",
+      "references": [
+        "Song of Solomon 4:6,14",
+        "Song of Solomon 5:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "One of the compounds in the sacred anointing oilEx",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Used as a perfume",
+      "references": [
+        "Esther 2:12",
+        "Psalms 45:8",
+        "Proverbs 7:17",
+        "Song of Solomon 3:6",
+        "Song of Solomon 5:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Brought by the wise men (Magi) as a present to Jesus",
+      "references": [
+        "Matthew 2:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offered to Jesus on the cross",
+      "references": [
+        "Mark 15:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for embalming",
+      "references": [
+        "John 19:39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Traffic in",
+      "references": [
+        "Genesis 37:25",
+        "Genesis 43:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        6,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:6,14"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:1"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 30,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 30:23"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 45,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 45:8"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 7:17"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 3:6"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:13"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 2:11"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:23"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:39"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 43,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 43:11"
+    }
+  ],
+  "books_mentioned": [
+    "Esther",
+    "Genesis",
+    "John",
+    "Mark",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 13,
+    "ot_refs": 10,
+    "nt_refs": 3,
+    "books_count": 8,
+    "top_books": [
+      "Song of Solomon",
+      "Genesis",
+      "Esther",
+      "Psalms",
+      "Proverbs",
+      "Matthew",
+      "Mark",
+      "John"
+    ]
+  }
+}

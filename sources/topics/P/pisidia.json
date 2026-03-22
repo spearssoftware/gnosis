@@ -1,0 +1,58 @@
+{
+  "topic": "PISIDIA",
+  "slug": "pisidia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A province in Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits",
+      "references": [
+        "Acts 13:14",
+        "Acts 14:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 13:14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 14:24"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

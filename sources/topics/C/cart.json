@@ -1,0 +1,83 @@
+{
+  "topic": "CART",
+  "slug": "cart",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WAGON"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "1 Samuel 6:7-14",
+        "2 Samuel 6:3",
+        "Isaiah 28:27,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWAGON",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "1 Samuel 6:7-14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 28:27,28"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Samuel",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Samuel",
+      "2 Samuel",
+      "Isaiah"
+    ]
+  }
+}

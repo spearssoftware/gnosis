@@ -1,0 +1,125 @@
+{
+  "topic": "BONNET",
+  "slug": "bonnet",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DRESS"
+  ],
+  "aspects": [
+    {
+      "label": "(A turban)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Worn by priests",
+      "references": [
+        "Exodus 28:40",
+        "Exodus 29:9",
+        "Exodus 39:28",
+        "Leviticus 8:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 44:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worn by women",
+      "references": [
+        "Isaiah 3:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:40"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:28"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 8:13"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 44,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 44:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:20"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Isaiah",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Leviticus",
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "topic": "SUBJECTS",
+  "slug": "subjects",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CITIZEN",
+    "GOVERNMENT",
+    "PATRIOTISM",
+    "RULERS"
+  ],
+  "aspects": [
+    {
+      "label": "SeeCITIZEN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOVERNMENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePATRIOTISM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeRULERS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "topic": "WHOREMONGER",
+  "slug": "whoremonger",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADULTERY",
+    "SENSUALITY"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Revelation 21:8",
+        "Revelation 22:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeADULTERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSENSUALITY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:8"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:15"
+    }
+  ],
+  "books_mentioned": [
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Revelation"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "topic": "NETTLES",
+  "slug": "nettles",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An obnoxious plant",
+      "references": [
+        "Proverbs 24:31",
+        "Isaiah 34:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Job 30:7",
+        "Hosea 9:6",
+        "Zephaniah 2:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 24:31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 34,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 34:13"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 30:7"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 9:6"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 2:9"
+    }
+  ],
+  "books_mentioned": [
+    "Hosea",
+    "Isaiah",
+    "Job",
+    "Proverbs",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Proverbs",
+      "Isaiah",
+      "Job",
+      "Hosea",
+      "Zephaniah"
+    ]
+  }
+}

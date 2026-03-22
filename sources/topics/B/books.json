@@ -1,0 +1,778 @@
+{
+  "topic": "BOOKS",
+  "slug": "books",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Probable origin of",
+      "references": [
+        "Job 19:23,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Papyrus or paper reed",
+      "references": [
+        "Isaiah 19:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made of: Parchment",
+      "references": [
+        "2 Timothy 4:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made in a roll",
+      "references": [
+        "Isaiah 34:4",
+        "Jeremiah 36:2",
+        "Ezekiel 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Written with pen and ink",
+      "references": [
+        "Jeremiah 36:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often written on both sides",
+      "references": [
+        "Ezekiel 2:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often sealed",
+      "references": [
+        "Isaiah 29:11",
+        "Daniel 12:4",
+        "Revelation 5:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often dedicated to persons of distinction",
+      "references": [
+        "Luke 1:3",
+        "Acts 1:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were numerous and most expensive",
+      "references": [
+        "Acts 19:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The ancients fond of making",
+      "references": [
+        "Ecclesiastes 12:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divine communications recorded in",
+      "references": [
+        "Exodus 17:14",
+        "Isaiah 30:8",
+        "Jeremiah 36:2",
+        "Revelation 1:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Important events recorded in",
+      "references": [
+        "Ezra 4:15",
+        "Ezra 6:1,2",
+        "Esther 2:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Erasures in, alluded to",
+      "references": [
+        "Exodus 32:33",
+        "Numbers 5:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Wars of the Lord",
+      "references": [
+        "Numbers 21:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Jasher",
+      "references": [
+        "Joshua 10:13",
+        "2 Samuel 1:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Samuel concerning the kingdom",
+      "references": [
+        "1 Samuel 10:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Chronicles of David",
+      "references": [
+        "1 Chronicles 27:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Acts of Solomon",
+      "references": [
+        "1 Kings 11:41"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Natural history by Solomon",
+      "references": [
+        "1 Kings 4:32,33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: History of the kings",
+      "references": [
+        "1 Chronicles 9:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Samuel the seer",
+      "references": [
+        "1 Chronicles 29:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Nathan",
+      "references": [
+        "1 Chronicles 29:29",
+        "2 Chronicles 9:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Shemaiah",
+      "references": [
+        "2 Chronicles 12:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Gad the seer",
+      "references": [
+        "1 Chronicles 29:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Ahijah the Shilonite",
+      "references": [
+        "2 Chronicles 9:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Visions of Iddo",
+      "references": [
+        "2 Chronicles 9:29",
+        "2 Chronicles 12:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Jehu the son of Hanani",
+      "references": [
+        "2 Chronicles 20:34"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not extant, but mentioned in scripture: Sayings of the seers",
+      "references": [
+        "2 Chronicles 33:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Memorials of God’s providence",
+      "references": [
+        "Psalms 56:8",
+        "Psalms 139:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Memorials of conversation and conduct of men",
+      "references": [
+        "Daniel 7:10",
+        "Malachi 3:16",
+        "Revelation 20:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The record of the church of Christ",
+      "references": [
+        "Daniel 12:1",
+        "Hebrews 12:23",
+        "Revelation 20:12,15",
+        "Revelation 22:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 19,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 19:23,24"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 19,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 19:7"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 34,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 34:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 2:9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 2:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 29,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 29:11"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 12:4"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 5:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:19"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 17,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 17:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:8"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 1,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 1:19"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 4:15"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 6:1,2"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:23"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 32:33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 5:23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 21:14"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 10:13"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 1:18"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 10:25"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:24"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 11:41"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 4:32,33"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 29:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 12:15"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 20:34"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 33,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 33:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 56,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 56:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 139,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 139:16"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 7,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 7:10"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 3:16"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 20,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 20:12"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 12:1"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:23"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 20,
+      "verses": [
+        12,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 20:12,15"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Samuel",
+    "2 Timothy",
+    "Acts",
+    "Daniel",
+    "Ecclesiastes",
+    "Esther",
+    "Exodus",
+    "Ezekiel",
+    "Ezra",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Joshua",
+    "Luke",
+    "Malachi",
+    "Numbers",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 31,
+    "total_refs": 45,
+    "ot_refs": 35,
+    "nt_refs": 10,
+    "books_count": 23,
+    "top_books": [
+      "Revelation",
+      "Isaiah",
+      "2 Chronicles",
+      "Daniel",
+      "1 Chronicles",
+      "Jeremiah",
+      "Ezekiel",
+      "Acts",
+      "Exodus",
+      "Ezra"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "topic": "BARZILLAI",
+  "slug": "barzillai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A friend of David",
+      "references": [
+        "2 Samuel 17:27-29",
+        "2 Samuel 19:31-39",
+        "1 Kings 2:7",
+        "Ezra 2:61",
+        "Nehemiah 7:63"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Adriel",
+      "references": [
+        "2 Samuel 21:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest",
+      "references": [
+        "Ezra 2:61",
+        "Nehemiah 7:63"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        27,
+        28,
+        29
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 17:27-29"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "verses": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "2 Samuel 19:31-39"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 2:7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        61
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:61"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        63
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:63"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "2 Samuel",
+      "1 Kings",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "topic": "AHIKAM",
+  "slug": "ahikam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "2 Kings 22:12-14",
+        "2 Kings 25:22",
+        "2 Chronicles 34:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 22:12-14"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 34,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 34:20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:24"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 39,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 39:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 40,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "2 Chronicles 40:5-16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 41,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 18,
+      "testament": "OT",
+      "raw": "2 Chronicles 41:1-18"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 43,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 43:6"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Chronicles",
+      "2 Kings"
+    ]
+  }
+}

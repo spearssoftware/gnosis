@@ -1,0 +1,92 @@
+{
+  "topic": "AHINOAM",
+  "slug": "ahinoam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Wife of king Saul",
+      "references": [
+        "1 Samuel 14:50"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Wife of king David",
+      "references": [
+        "1 Samuel 25:43",
+        "1 Samuel 27:3",
+        "1 Samuel 30:5,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:50"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 25:43"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 27:3"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "verses": [
+        5,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 30:5,18"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 3:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Samuel"
+    ]
+  }
+}

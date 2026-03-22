@@ -1,0 +1,145 @@
+{
+  "topic": "EBAL",
+  "slug": "ebal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GERIZIM"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 1:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Horite",
+      "references": [
+        "Genesis 36:23",
+        "1 Chronicles 1:40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A mountain of Ephraim. Half of the tribes of Israel stand",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "on, to respond Amen to the curses of the law",
+      "references": [
+        "Deuteronomy 11:29",
+        "Deuteronomy 27:12,13",
+        "Joshua 8:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Altar built on",
+      "references": [
+        "Joshua 8:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGERIZIM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:23"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:40"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:29"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:12,13"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 8:33"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 8:30"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Deuteronomy",
+    "Genesis",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Deuteronomy",
+      "Joshua",
+      "Genesis"
+    ]
+  }
+}

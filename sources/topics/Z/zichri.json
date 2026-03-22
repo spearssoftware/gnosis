@@ -1,0 +1,185 @@
+{
+  "topic": "ZICHRI",
+  "slug": "zichri",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Exodus 6:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Three Benjamites",
+      "references": [
+        "1 Chronicles 8:19,23,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Levite",
+      "references": [
+        "1 Chronicles 9:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Two chiefs in the days of David",
+      "references": [
+        "1 Chronicles 26:25",
+        "1 Chronicles 27:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Father of Amasiah",
+      "references": [
+        "2 Chronicles 17:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. Father of Elishaphat",
+      "references": [
+        "2 Chronicles 23:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. An Ephraimite2Ch 28",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "8. Father of Joel",
+      "references": [
+        "Nehemiah 11:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "9. A priest",
+      "references": [
+        "Nehemiah 12:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        19,
+        23,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:19,23,27"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 26:25"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 17,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 17:16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 23,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 23:1"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:9"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Exodus",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles",
+      "Nehemiah",
+      "Exodus"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "HAROSHETH",
+  "slug": "harosheth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A town of Galilee)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "The home of Sisera",
+      "references": [
+        "Judges 4:2,13,16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        2,
+        13,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 4:2,13,16"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

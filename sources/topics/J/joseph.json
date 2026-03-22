@@ -1,0 +1,509 @@
+{
+  "topic": "JOSEPH",
+  "slug": "joseph",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EPHRAIM",
+    "MANASSEH"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 30:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Per",
+      "references": [
+        "Genesis 39:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His father’s favorite child",
+      "references": [
+        "Genesis 33:2",
+        "Genesis 37:3,4,35",
+        "Genesis 48:22",
+        "1 Chronicles 5:2",
+        "John 4:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His father’s partiality for, excites the jealousy of his brethren",
+      "references": [
+        "Genesis 37:4,11,18-28",
+        "Psalms 105:17",
+        "Acts 7:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His prophetic dreams of his fortunes in Egypt",
+      "references": [
+        "Genesis 37:5-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 37:27,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is falsely reported to his father as killed by wild beasts",
+      "references": [
+        "Genesis 37:29-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is bought by Potiphar, an officer (LXX has “eu",
+      "references": [
+        "Genesis 37:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is prospered of God",
+      "references": [
+        "Genesis 39:2-5,21,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is falsely accused, and thrown into pri",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "friendship of another pri",
+      "references": [
+        "Psalms 105:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is an interpreter of dreams",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the two pri",
+      "references": [
+        "Genesis 40:5-23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of Pharaoh",
+      "references": [
+        "Genesis 41:1-37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His name is changed to Zaphnath-paaneah",
+      "references": [
+        "Genesis 41:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is promoted to authority next to Pharaoh at thirty years of age",
+      "references": [
+        "Genesis 41:37-46",
+        "Psalms 105:19-22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Marries the daughter of the priest of On",
+      "references": [
+        "Genesis 41:45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Provi",
+      "references": [
+        "Genesis 41:46-57"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Exports the produce of E",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 30,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 30:24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 39:6"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        3,
+        4,
+        35
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 37:3,4,35"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 48,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 48:22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:2"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        4,
+        11,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Genesis 37:4,11,18-28"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 105,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 105:17"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Genesis 37:5-11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        27,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 37:27,28"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Genesis 37:29-35"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:36"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        21,
+        23
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Genesis 39:2-5,21,23"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 105,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 105:18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 40,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 19,
+      "testament": "OT",
+      "raw": "Genesis 40:5-23"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_count": 37,
+      "testament": "OT",
+      "raw": "Genesis 41:1-37"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Genesis 41:37-46"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 105,
+      "verses": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 105:19-22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 41:45"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Genesis 41:46-57"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Acts",
+    "Genesis",
+    "John",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 23,
+    "ot_refs": 21,
+    "nt_refs": 2,
+    "books_count": 5,
+    "top_books": [
+      "Genesis",
+      "Psalms",
+      "1 Chronicles",
+      "John",
+      "Acts"
+    ]
+  }
+}

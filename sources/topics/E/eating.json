@@ -1,0 +1,182 @@
+{
+  "topic": "EATING",
+  "slug": "eating",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FEASTS",
+    "FOOD",
+    "GLUTTONY"
+  ],
+  "aspects": [
+    {
+      "label": "The host acting as waiter",
+      "references": [
+        "Genesis 18:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Favored guests served a double portion",
+      "references": [
+        "Genesis 43:34"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Table used in",
+      "references": [
+        "Judges 1:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sitting at table",
+      "references": [
+        "Exodus 32:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Reclining on couches",
+      "references": [
+        "Amos 6:4,7",
+        "Luke 7:37,38",
+        "John 13:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ab",
+      "references": [
+        "Matthew 15:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFEASTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFOOD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeG",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 18:8"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 43,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 43:34"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 32:6"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "verses": [
+        4,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Amos 6:4,7"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        37,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 7:37,38"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 13:25"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:2"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Exodus",
+    "Genesis",
+    "John",
+    "Judges",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 8,
+    "ot_refs": 5,
+    "nt_refs": 3,
+    "books_count": 7,
+    "top_books": [
+      "Genesis",
+      "Judges",
+      "Exodus",
+      "Amos",
+      "Luke",
+      "John",
+      "Matthew"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "topic": "NAHASH",
+  "slug": "nahash",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. An Ammonite king .",
+      "references": [
+        "1 Samuel 11:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Kindness of, to David, and",
+      "references": [
+        "2 Samuel 10:1,2",
+        "1 Chronicles 19:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Probably i",
+      "references": [
+        "2 Samuel 17:25"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "1 Samuel 11:1-11"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 10:1,2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 19:1,2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 17:25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "2 Samuel",
+      "1 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

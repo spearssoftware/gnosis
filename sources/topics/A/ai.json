@@ -1,0 +1,140 @@
+{
+  "topic": "AI",
+  "slug": "ai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A royal city of the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Conquest and",
+      "references": [
+        "Joshua 7:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rebuilt",
+      "references": [
+        "Ezra 2:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Al",
+      "references": [
+        "Nehemiah 11:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".And AIATH",
+      "references": [
+        "Isaiah 10:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Population of",
+      "references": [
+        "Joshua 8:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of the Ammonites",
+      "references": [
+        "Jeremiah 49:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 7,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 7:8"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:28"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:31"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:28"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 8:25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:3"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Isaiah",
+    "Jeremiah",
+    "Joshua",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Joshua",
+      "Ezra",
+      "Nehemiah",
+      "Isaiah",
+      "Jeremiah"
+    ]
+  }
+}

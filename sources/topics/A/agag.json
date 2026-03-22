@@ -1,0 +1,67 @@
+{
+  "topic": "AGAG",
+  "slug": "agag",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A king of the Amalekites",
+      "references": [
+        "Numbers 24:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A king of the Amalekites, taken pri",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "by Samuel",
+      "references": [
+        "1 Samuel 15:8,33"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 24:7"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "verses": [
+        8,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 15:8,33"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "1 Samuel"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "topic": "EPICUREANS",
+  "slug": "epicureans",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Referring to those who are fastidious in their tastes or enjoyments,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "connoisseurs)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Reject",
+      "references": [
+        "Matthew 11:18",
+        "Luke 7:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Doctrines propagated by, familiar to",
+      "references": [
+        "Ecclesiastes 2:1-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "To Paul",
+      "references": [
+        "1 Corinthians 15:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Dispute with Paul",
+      "references": [
+        "Acts 17:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:33"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:1-10"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 15:32"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 17:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Ecclesiastes",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 1,
+    "nt_refs": 4,
+    "books_count": 5,
+    "top_books": [
+      "Matthew",
+      "Luke",
+      "Ecclesiastes",
+      "1 Corinthians",
+      "Acts"
+    ]
+  }
+}

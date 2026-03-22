@@ -1,0 +1,55 @@
+{
+  "topic": "OMER",
+  "slug": "omer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(One-tenth of an ephah)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A dry measure containing, according to the Rabbis, two quarts,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "but according to Josephus, three and one-half quarts",
+      "references": [
+        "Exodus 16:16-18,36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 16,
+      "verses": [
+        16,
+        17,
+        18,
+        36
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Exodus 16:16-18,36"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

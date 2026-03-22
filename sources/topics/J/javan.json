@@ -1,0 +1,77 @@
+{
+  "topic": "JAVAN",
+  "slug": "javan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:2,4",
+        "1 Chronicles 1:5,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city in Arabia in which the Phoenicians tra",
+      "references": [
+        "Ezekiel 27:13,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        2,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:2,4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        5,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:5,7"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        13,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 27:13,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezekiel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles",
+      "Ezekiel"
+    ]
+  }
+}

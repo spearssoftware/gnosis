@@ -1,0 +1,82 @@
+{
+  "topic": "ZAREPHATH",
+  "slug": "zarephath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city between Tyre and Sidon)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Elijah performs two miracles in",
+      "references": [
+        "1 Kings 17:8-24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Luke 4:26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_count": 17,
+      "testament": "OT",
+      "raw": "1 Kings 17:8-24"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 4:26"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "Luke"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "topic": "MALCHUS",
+  "slug": "malchus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Servant of the high priest",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Peter assaults in Gethsemane -Healed by Jesus",
+      "references": [
+        "Matthew 26:51",
+        "Mark 14:47",
+        "Luke 22:50,51",
+        "John 18:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:51"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        47
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:47"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        50,
+        51
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 22:50,51"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 18:10"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ]
+  }
+}

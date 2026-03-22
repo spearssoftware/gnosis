@@ -1,0 +1,153 @@
+{
+  "topic": "LEGISLATION",
+  "slug": "legislation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GOVERNMENT",
+    "LAW"
+  ],
+  "aspects": [
+    {
+      "label": "Class, forbid",
+      "references": [
+        "Exodus 12:49",
+        "Leviticus 24:22",
+        "Numbers 9:14",
+        "Numbers 15:15,29",
+        "Galatians 3:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Supplemental, concerning Sabbath-breaking",
+      "references": [
+        "Numbers 15:32-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Inheritance",
+      "references": [
+        "Numbers 27:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOVERNMENT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLAW",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:49"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 24:22"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 9:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "verses": [
+        15,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 15:15,29"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 3,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 3:28"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "verses": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 15:32-35"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Numbers 27:1-11"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Galatians",
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Numbers",
+      "Exodus",
+      "Leviticus",
+      "Galatians"
+    ]
+  }
+}

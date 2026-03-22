@@ -1,0 +1,96 @@
+{
+  "topic": "BONDAGE",
+  "slug": "bondage",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EMANCIPATION",
+    "SERVANT"
+  ],
+  "aspects": [
+    {
+      "label": "Of Israelites in Egypt",
+      "references": [
+        "Exodus 1:14",
+        "Exodus 2:23",
+        "Exodus 6:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In PERSIA",
+      "references": [
+        "Ezra 9:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEMANCIPATION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSERVANT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 1:14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 2:23"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:6"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 9:9"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Ezra"
+    ]
+  }
+}

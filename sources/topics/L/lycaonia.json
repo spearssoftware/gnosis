@@ -1,0 +1,74 @@
+{
+  "topic": "LYCAONIA",
+  "slug": "lycaonia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A province of Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits towns of",
+      "references": [
+        "Acts 14:6-21",
+        "Acts 16:1,2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 16,
+      "testament": "NT",
+      "raw": "Acts 14:6-21"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 16:1,2"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

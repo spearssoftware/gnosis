@@ -1,0 +1,194 @@
+{
+  "topic": "MESOPOTAMIA",
+  "slug": "mesopotamia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BABYLON",
+    "CHALDEA"
+  ],
+  "aspects": [
+    {
+      "label": "(The country between the Tigris River and the Euphrates River)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Abraham a native of",
+      "references": [
+        "Acts 7:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Nahor lived in",
+      "references": [
+        "Genesis 24:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "People who lived in,",
+      "references": [
+        "Genesis 25:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Balaam from",
+      "references": [
+        "Deuteronomy 23:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The people of Israel subjected to, eight years un",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of Gog",
+      "references": [
+        "Judges 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 3:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Chariots hired from, by the Ammonites",
+      "references": [
+        "1 Chronicles 19:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "People of, present at Pentecost",
+      "references": [
+        "Acts 2:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBABYLON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:20"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 23:4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 3:8"
+    },
+    {
+      "book": "Judges",
+      "chapter": 3,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 3:9,10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 19:6,7"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Acts",
+    "Deuteronomy",
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 8,
+    "ot_refs": 6,
+    "nt_refs": 2,
+    "books_count": 5,
+    "top_books": [
+      "Acts",
+      "Genesis",
+      "Judges",
+      "Deuteronomy",
+      "1 Chronicles"
+    ]
+  }
+}

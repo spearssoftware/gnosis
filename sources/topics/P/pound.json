@@ -1,0 +1,134 @@
+{
+  "topic": "POUND",
+  "slug": "pound",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MEASURE",
+    "WEIGHTS"
+  ],
+  "aspects": [
+    {
+      "label": "The Hebrew word “maneh” is translated “pound,”",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "10:17;",
+      "references": [
+        "Ezra 2:69",
+        "Nehemiah 7:71,72"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "And is equivalent to almost one pound (fourteen ounces)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "In",
+      "references": [
+        "John 12:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "approximately one-hundred",
+      "references": [
+        "Luke 19:13-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMEASURE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWEIGHTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        69
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:69"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        71,
+        72
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 7:71,72"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 12:3"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Luke 19:13-25"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "John",
+    "Luke",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 4,
+    "ot_refs": 2,
+    "nt_refs": 2,
+    "books_count": 4,
+    "top_books": [
+      "Ezra",
+      "Nehemiah",
+      "John",
+      "Luke"
+    ]
+  }
+}

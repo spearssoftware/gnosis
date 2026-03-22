@@ -1,0 +1,48 @@
+{
+  "topic": "PUTEOLI",
+  "slug": "puteoli",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A seaport of Italy)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul stays a week at",
+      "references": [
+        "Acts 28:13,14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 28:13,14"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

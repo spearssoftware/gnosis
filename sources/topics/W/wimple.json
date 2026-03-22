@@ -1,0 +1,47 @@
+{
+  "topic": "WIMPLE",
+  "slug": "wimple",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A cloth covering that was worn over the head and around the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "neck and chin))",
+      "references": [
+        "Isaiah 3:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:22"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

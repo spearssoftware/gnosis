@@ -1,12 +1,14 @@
 """Build a verse index mapping OSIS refs to entity IDs."""
 
 from gnosis.types import Event, Person, Place, VerseEntry
+from gnosis.types.topic import Topic
 
 
 def build_verse_index(
     people: dict[str, Person],
     places: dict[str, Place],
     events: dict[str, Event],
+    topics: dict[str, Topic] | None = None,
 ) -> dict[str, VerseEntry]:
     """Build a verse index from all entities.
 
@@ -25,5 +27,15 @@ def build_verse_index(
     for event in events.values():
         for verse in event.verses:
             index.setdefault(verse, VerseEntry()).events.append(event.id)
+
+    if topics:
+        for topic in topics.values():
+            seen_refs: set[str] = set()
+            for aspect in topic.aspects:
+                for verse in aspect.verses:
+                    base_ref = verse.split("-")[0] if "-" in verse else verse
+                    if base_ref not in seen_refs:
+                        seen_refs.add(base_ref)
+                        index.setdefault(base_ref, VerseEntry()).topics.append(topic.id)
 
     return index

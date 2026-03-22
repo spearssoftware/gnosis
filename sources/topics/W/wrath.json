@@ -1,0 +1,56 @@
+{
+  "topic": "WRATH",
+  "slug": "wrath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ANGER",
+    "GOD, ANGER OF",
+    "JUDGMENT",
+    "PUNISHMENT, DIVINE",
+    "PUNISHMENT, ETERNAL "
+  ],
+  "aspects": [
+    {
+      "label": "(Anger,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeANGER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOD, ANGER OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePUNISHMENT, DIVINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePUNISHMENT, ETERNAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

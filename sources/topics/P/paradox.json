@@ -1,0 +1,189 @@
+{
+  "topic": "PARADOX",
+  "slug": "paradox",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Proverbs 13:7",
+        "Matthew 10:39",
+        "Matthew 16:25",
+        "Mark 8:35",
+        "Luke 17:33",
+        "John 12:25",
+        "1 Corinthians 3:18",
+        "2 Corinthians 6:4,8-10",
+        "2 Corinthians 12:4,10,11",
+        "Ephesians 3:17-19",
+        "Philippians 3:7",
+        "Revelation 21:18,21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 13:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:39"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 16:25"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 8:35"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 17:33"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 12:25"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:18"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        4,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:4,8-10"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        4,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:4,10,11"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "verses": [
+        17,
+        18,
+        19
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Ephesians 3:17-19"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:7"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        18,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 21:18,21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "2 Corinthians",
+    "Ephesians",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Philippians",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 12,
+    "ot_refs": 1,
+    "nt_refs": 11,
+    "books_count": 10,
+    "top_books": [
+      "Matthew",
+      "2 Corinthians",
+      "Proverbs",
+      "Mark",
+      "Luke",
+      "John",
+      "1 Corinthians",
+      "Ephesians",
+      "Philippians",
+      "Revelation"
+    ]
+  }
+}

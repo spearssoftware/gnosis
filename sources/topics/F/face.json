@@ -1,0 +1,138 @@
+{
+  "topic": "FACE",
+  "slug": "face",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Character revealed in",
+      "references": [
+        "Isaiah 3:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Transfiguring of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Moses",
+      "references": [
+        "Exodus 34:29-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus",
+      "references": [
+        "Matthew 17:2",
+        "Luke 9:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Covering of",
+      "references": [
+        "Isaiah 6:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Disfiguring of, in fasting",
+      "references": [
+        "Matthew 6:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Exodus 34:29-35"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 17:2"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 9:29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 6:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:16"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Isaiah",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 3,
+    "nt_refs": 3,
+    "books_count": 4,
+    "top_books": [
+      "Isaiah",
+      "Matthew",
+      "Exodus",
+      "Luke"
+    ]
+  }
+}

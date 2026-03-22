@@ -1,0 +1,68 @@
+{
+  "topic": "HAWK",
+  "slug": "hawk",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Leviticus 11:16",
+        "Deuteronomy 14:15",
+        "Job 39:26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:15"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 39:26"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Job",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Deuteronomy",
+      "Job"
+    ]
+  }
+}

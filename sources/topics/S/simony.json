@@ -1,0 +1,43 @@
+{
+  "topic": "SIMONY",
+  "slug": "simony",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Ecclesiasti",
+      "references": [
+        "Acts 8:18,19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 8:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

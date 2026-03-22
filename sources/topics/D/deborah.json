@@ -1,0 +1,122 @@
+{
+  "topic": "DEBORAH",
+  "slug": "deborah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 24:59"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Buried beneath an oak tree near Beth-el",
+      "references": [
+        "Genesis 35:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. The prophetess, a",
+      "references": [
+        "Judges 4:4,5",
+        "Judges 5:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Inspires Barak to",
+      "references": [
+        "Judges 4:6-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The triumphant",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        59
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 24:59"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:8"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 4:4,5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 5,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 5:7"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Judges 4:6-16"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "Genesis"
+    ]
+  }
+}

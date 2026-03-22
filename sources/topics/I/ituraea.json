@@ -1,0 +1,72 @@
+{
+  "topic": "ITURAEA",
+  "slug": "ituraea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Small province in the northwest of Palestine",
+      "references": [
+        "Luke 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See al",
+      "references": [
+        "1 Chronicles 1:31",
+        "1 Chronicles 5:19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Luke"
+    ]
+  }
+}

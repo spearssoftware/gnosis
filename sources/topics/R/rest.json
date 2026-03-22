@@ -1,0 +1,220 @@
+{
+  "topic": "REST",
+  "slug": "rest",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PEACE, SPIRITUAL",
+    "SABBATH"
+  ],
+  "aspects": [
+    {
+      "label": "Divine institutions for",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSABBATH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Days of",
+      "references": [
+        "Exodus 23:12",
+        "Exodus 34:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The an",
+      "references": [
+        "Leviticus 23:7,8,21,25,28,30,31,35,36",
+        "Numbers 28:18,25,26",
+        "Numbers 29:1,7,12,35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Recommen",
+      "references": [
+        "Mark 6:31,32",
+        "Matthew 8:18,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "HEAVENLY",
+      "references": [
+        "2 Thessalonians 1:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SPIRITUAL",
+      "references": [
+        "Matthew 11:29",
+        "Hebrews 4:1-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeePEACE, SPIRITUAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:12"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:21"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        7,
+        8,
+        21,
+        25,
+        28,
+        30,
+        31,
+        35,
+        36
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Leviticus 23:7,8,21,25,28,30,31,35,36"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "verses": [
+        18,
+        25,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 28:18,25,26"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "verses": [
+        1,
+        7,
+        12,
+        35
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 29:1,7,12,35"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 6:31,32"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "verses": [
+        18,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 8:18,24"
+    },
+    {
+      "book": "2 Thessalonians",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Thessalonians 1:7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 11:29"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Hebrews 4:1-11"
+    }
+  ],
+  "books_mentioned": [
+    "2 Thessalonians",
+    "Exodus",
+    "Hebrews",
+    "Leviticus",
+    "Mark",
+    "Matthew",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 10,
+    "ot_refs": 5,
+    "nt_refs": 5,
+    "books_count": 7,
+    "top_books": [
+      "Exodus",
+      "Numbers",
+      "Matthew",
+      "Leviticus",
+      "Mark",
+      "2 Thessalonians",
+      "Hebrews"
+    ]
+  }
+}

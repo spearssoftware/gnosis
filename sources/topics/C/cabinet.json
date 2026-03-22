@@ -1,0 +1,165 @@
+{
+  "topic": "CABINET",
+  "slug": "cabinet",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COUNSELLOR"
+  ],
+  "aspects": [
+    {
+      "label": "Heads of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "David’s",
+      "references": [
+        "2 Samuel 8:15-18",
+        "2 Samuel 15:12",
+        "2 Samuel 20:23-26",
+        "1 Chronicles 27:32-34"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "1 Kings 4:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hezekiah’s",
+      "references": [
+        "Isaiah 36:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Artaxerxes",
+      "references": [
+        "Ezra 7:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOUNSELLOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMINISTER, PRIME",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 8:15-18"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 15:12"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 20:23-26"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        32,
+        33,
+        34
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:32-34"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Kings 4:1-7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 36,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 36:3"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Samuel",
+    "Ezra",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "2 Samuel",
+      "1 Chronicles",
+      "1 Kings",
+      "Isaiah",
+      "Ezra"
+    ]
+  }
+}

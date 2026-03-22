@@ -1,0 +1,263 @@
+{
+  "topic": "THORN",
+  "slug": "thorn",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The ground cursed with",
+      "references": [
+        "Genesis 3:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".As an awl",
+      "references": [
+        "Job 41:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".For fuel",
+      "references": [
+        "Psalms 58:9",
+        "Psalms 118:12",
+        "Ecclesiastes 7:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Hedges formed of",
+      "references": [
+        "Hosea 2:6",
+        "Micah 7:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Crown of, mockingly put on Jesus’ head",
+      "references": [
+        "Matthew 27:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "15:17;",
+      "references": [
+        "John 19:2,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of afflictions",
+      "references": [
+        "Numbers 33:55",
+        "2 Corinthians 12:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the adversities of the wicked",
+      "references": [
+        "Proverbs 22:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the evils that spring from the heart to choke the truth",
+      "references": [
+        "Matthew 13:7,22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:18"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 41:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 58,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 58:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 118,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 118:12"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:6"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:6"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 7:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:29"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 15:17"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        2,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 19:2,5"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        55
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 33:55"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        7,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 13:7,22"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Ecclesiastes",
+    "Genesis",
+    "Hosea",
+    "Job",
+    "John",
+    "Matthew",
+    "Micah",
+    "Numbers",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 14,
+    "ot_refs": 9,
+    "nt_refs": 5,
+    "books_count": 11,
+    "top_books": [
+      "Matthew",
+      "Psalms",
+      "Genesis",
+      "Job",
+      "Ecclesiastes",
+      "Hosea",
+      "Micah",
+      "John",
+      "Numbers",
+      "2 Corinthians"
+    ]
+  }
+}

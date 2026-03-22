@@ -1,0 +1,42 @@
+{
+  "topic": "STACHYS",
+  "slug": "stachys",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A Christian in Rome",
+      "references": [
+        "Romans 16:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:9"
+    }
+  ],
+  "books_mentioned": [
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Romans"
+    ]
+  }
+}

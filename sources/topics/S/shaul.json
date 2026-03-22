@@ -1,0 +1,133 @@
+{
+  "topic": "SHAUL",
+  "slug": "shaul",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 46:10",
+        "Exodus 6:15",
+        "Numbers 26:13",
+        "1 Chronicles 4:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An ancient king of Edom",
+      "references": [
+        "1 Chronicles 1:48,49"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 36:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 6:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:15"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:13"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        48,
+        49
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:48,49"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:37"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Exodus",
+      "Numbers"
+    ]
+  }
+}

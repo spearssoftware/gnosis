@@ -1,0 +1,146 @@
+{
+  "topic": "MILCAH",
+  "slug": "milcah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The wife of Nahor and the mother of Bethuel",
+      "references": [
+        "Genesis 11:29",
+        "Genesis 22:20-23",
+        "Genesis 24:15,24,47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Daughter of Zelophehad",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Special legislation in regard to the inheritance of",
+      "references": [
+        "Numbers 26:33",
+        "Numbers 27:1-7",
+        "Numbers 36:1-12",
+        "Joshua 17:3,4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:29"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 22,
+      "verses": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 22:20-23"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 24,
+      "verses": [
+        15,
+        24,
+        47
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 24:15,24,47"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:33"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Numbers 27:1-7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Numbers 36:1-12"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 17:3,4"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Genesis",
+      "Numbers",
+      "Joshua"
+    ]
+  }
+}

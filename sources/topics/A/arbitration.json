@@ -1,0 +1,66 @@
+{
+  "topic": "ARBITRATION",
+  "slug": "arbitration",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COURT"
+  ],
+  "aspects": [
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The two harlots in the presence of King",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Urged by Paul, as a mo",
+      "references": [
+        "1 Corinthians 6:1-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCOURT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "1 Corinthians 6:1-8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "1 Corinthians"
+    ]
+  }
+}

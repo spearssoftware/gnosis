@@ -1,0 +1,78 @@
+{
+  "topic": "SHABBETHAI",
+  "slug": "shabbethai",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Levite, assistant to Ezra",
+      "references": [
+        "Ezra 10:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An expoun",
+      "references": [
+        "Nehemiah 8:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A chief Levite, an attendant of the temple",
+      "references": [
+        "Nehemiah 11:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:15"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:16"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

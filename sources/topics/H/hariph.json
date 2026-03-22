@@ -1,0 +1,78 @@
+{
+  "topic": "HARIPH",
+  "slug": "hariph",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. One of the exiles",
+      "references": [
+        "Nehemiah 7:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Probably the same with JORAH",
+      "references": [
+        "Ezra 2:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. One who sealed the covenant",
+      "references": [
+        "Nehemiah 10:19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:24"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:18"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:19"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

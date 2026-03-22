@@ -1,0 +1,92 @@
+{
+  "topic": "ESTHER",
+  "slug": "esther",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Niece of Mor",
+      "references": [
+        "Esther 2:7,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Chosen queen",
+      "references": [
+        "Esther 2:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tells the king of the plot against his life",
+      "references": [
+        "Esther 2:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fasts on account of the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Haman to the king; interce",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        7,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 2:7,15"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:17"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:22"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

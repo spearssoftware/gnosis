@@ -1,0 +1,192 @@
+{
+  "topic": "ELAH",
+  "slug": "elah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A valley where David killed Goliath",
+      "references": [
+        "1 Samuel 17:2,19",
+        "1 Samuel 21:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An Edomite duke",
+      "references": [
+        "Genesis 36:41",
+        "1 Chronicles 1:52"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 4:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Father of Shimei",
+      "references": [
+        "1 Kings 4:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "6. Father of Hoshea",
+      "references": [
+        "2 Kings 15:30",
+        "2 Kings 17:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. A Benjamite chief",
+      "references": [
+        "1 Chronicles 9:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        2,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 17:2,19"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 21:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:41"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:52"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:15"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "1 Kings 16:6-14"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:30"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Chronicles",
+      "1 Samuel",
+      "1 Kings",
+      "2 Kings",
+      "Genesis"
+    ]
+  }
+}

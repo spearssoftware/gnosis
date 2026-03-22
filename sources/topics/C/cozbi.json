@@ -1,0 +1,43 @@
+{
+  "topic": "COZBI",
+  "slug": "cozbi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Daughter of Zur",
+      "references": [
+        "Numbers 25:15,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "verses": [
+        15,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 25:15,18"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

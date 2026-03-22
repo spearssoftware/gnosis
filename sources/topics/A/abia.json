@@ -1,0 +1,114 @@
+{
+  "topic": "ABIA",
+  "slug": "abia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABIJAM"
+  ],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [
+        "1 Chronicles 24:10",
+        "Nehemiah 12:4",
+        "Luke 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Samuel 8:1-5",
+        "1 Chronicles 6:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. King of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeABIJAM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:10"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Samuel 8:1-5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:28"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "Luke",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah",
+      "Luke",
+      "1 Samuel"
+    ]
+  }
+}

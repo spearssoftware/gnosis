@@ -1,0 +1,42 @@
+{
+  "topic": "TETRARCH",
+  "slug": "tetrarch",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A Roman ruler",
+      "references": [
+        "Matthew 14:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 14:1"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

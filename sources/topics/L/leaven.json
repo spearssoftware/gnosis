@@ -1,0 +1,296 @@
+{
+  "topic": "LEAVEN",
+  "slug": "leaven",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used in making bread",
+      "references": [
+        "Hosea 7:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Diffusive properties of",
+      "references": [
+        "1 Corinthians 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Forbidden: During the feast of the passover",
+      "references": [
+        "Exodus 12:15-20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Forbidden: To be offered with blood",
+      "references": [
+        "Exodus 34:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Forbidden: To be offered, &c with meat offerings which were burned",
+      "references": [
+        "Leviticus 2:11",
+        "Leviticus 10:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used with thank offerings",
+      "references": [
+        "Leviticus 7:13",
+        "Amos 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "First fruits of wheat offered with",
+      "references": [
+        "Leviticus 23:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The rapid spread of the gospel",
+      "references": [
+        "Matthew 13:33",
+        "Luke 13:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Doctrines of Pharisees, &c",
+      "references": [
+        "Matthew 16:6,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Ungodly professors",
+      "references": [
+        "1 Corinthians 5:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: False teachers",
+      "references": [
+        "Galatians 5:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Malice and wickedness",
+      "references": [
+        "1 Corinthians 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hosea",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 7:4"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Exodus 12:15-20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 34:25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 2:11"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 10:12"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 7:13"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 4:5"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 23:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 13:33"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        6,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 16:6,12"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:6,7"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 5:8,9"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Amos",
+    "Exodus",
+    "Galatians",
+    "Hosea",
+    "Leviticus",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 12,
+    "total_refs": 15,
+    "ot_refs": 8,
+    "nt_refs": 7,
+    "books_count": 8,
+    "top_books": [
+      "Leviticus",
+      "1 Corinthians",
+      "Exodus",
+      "Matthew",
+      "Hosea",
+      "Amos",
+      "Luke",
+      "Galatians"
+    ]
+  }
+}

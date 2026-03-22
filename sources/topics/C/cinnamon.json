@@ -1,0 +1,87 @@
+{
+  "topic": "CINNAMON",
+  "slug": "cinnamon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A spice",
+      "references": [
+        "Proverbs 7:17",
+        "Song of Solomon 4:14",
+        "Revelation 18:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An ingredient of the sacred oil",
+      "references": [
+        "Exodus 30:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 7:17"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:14"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:13"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:23"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Proverbs",
+    "Revelation",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 3,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Proverbs",
+      "Song of Solomon",
+      "Revelation",
+      "Exodus"
+    ]
+  }
+}

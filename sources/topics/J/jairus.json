@@ -1,0 +1,125 @@
+{
+  "topic": "JAIRUS",
+  "slug": "jairus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A ruler of the synagogue in",
+      "references": [
+        "Matthew 9:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Daughter of, restored to life",
+      "references": [
+        "Matthew 9:18,23-26",
+        "Mark 5:22-43",
+        "Luke 8:41-56"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:18"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        18,
+        23,
+        24,
+        25,
+        26
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Matthew 9:18,23-26"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "verses": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "verse_count": 22,
+      "testament": "NT",
+      "raw": "Mark 5:22-43"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "verse_count": 16,
+      "testament": "NT",
+      "raw": "Luke 8:41-56"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke"
+    ]
+  }
+}

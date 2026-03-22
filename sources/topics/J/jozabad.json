@@ -1,0 +1,166 @@
+{
+  "topic": "JOZABAD",
+  "slug": "jozabad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Two men of Manasseh",
+      "references": [
+        "1 Chronicles 12:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Two Levites",
+      "references": [
+        "2 Chronicles 31:13",
+        "2 Chronicles 35:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "Ezra 8:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A priest",
+      "references": [
+        "Ezra 10:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Three Levites",
+      "references": [
+        "Ezra 10:23",
+        "Nehemiah 8:7",
+        "Nehemiah 11:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. One of David’s famous warriors",
+      "references": [
+        "1 Chronicles 12:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:13"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 35,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 35:9"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:33"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:22"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:23"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Ezra",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "topic": "FIREPAN",
+  "slug": "firepan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Exodus 38:3",
+        "2 Kings 25:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:3"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:15"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "2 Kings"
+    ]
+  }
+}

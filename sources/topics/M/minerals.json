@@ -1,0 +1,219 @@
+{
+  "topic": "MINERALS",
+  "slug": "minerals",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ADAMANT",
+    "AGATE",
+    "ALABASTER",
+    "AMETHYST",
+    "BERYL",
+    "BRIMSTONE (SULPHUR)",
+    "CHALCEDONY",
+    "CHALK",
+    "CHRYSOLYTE",
+    "CHRYSOPRASUS",
+    "COPPER",
+    "CORAL",
+    "DIAMOND",
+    "FLINT",
+    "GOLD",
+    "IRON",
+    "JACINTH",
+    "JASPER",
+    "LEAD",
+    "LIME",
+    "MARBLE",
+    "NITRE",
+    "PITCH",
+    "SALT",
+    "SAPPHIRE",
+    "SARDIUS",
+    "SARDONYX",
+    "SILVER",
+    "SLIME",
+    "STONE",
+    "STONES, PRECIOUS",
+    "TIN",
+    "TOPAZ"
+  ],
+  "aspects": [
+    {
+      "label": "SeeADAMANT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeAGATE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALABASTER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeAMETHYST",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBERYL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBRIMSTONE (sulphur)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHALCEDONY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHALK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHRY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHRY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOPPER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCORAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDIAMOND",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFLINT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOLD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeIRON",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJACINTH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJASPER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLEAD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLIME",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMARBLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNITRE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePITCH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSALT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSAPPHIRE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSARDIUS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSARDONYX",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSILVER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSLIME",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSTONE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTIN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTOPAZ",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSTONES, PRECIOUS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 33,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

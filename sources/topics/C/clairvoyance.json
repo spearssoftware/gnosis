@@ -1,0 +1,65 @@
+{
+  "topic": "CLAIRVOYANCE",
+  "slug": "clairvoyance",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SORCERY"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "1 Samuel 28:13,14",
+        "2 Kings 6:15-17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 28:13,14"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 6:15-17"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Samuel",
+      "2 Kings"
+    ]
+  }
+}

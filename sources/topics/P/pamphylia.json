@@ -1,0 +1,121 @@
+{
+  "topic": "PAMPHYLIA",
+  "slug": "pamphylia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A province in Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Men of, in",
+      "references": [
+        "Acts 2:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul goes to",
+      "references": [
+        "Acts 13:13,14",
+        "Acts 14:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Acts 13:13",
+        "Acts 15:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sea of",
+      "references": [
+        "Acts 27:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 13:13,14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 14:24"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 13:13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:38"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 27:5"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

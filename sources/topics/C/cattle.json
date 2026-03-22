@@ -1,0 +1,206 @@
+{
+  "topic": "CATTLE",
+  "slug": "cattle",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ANIMALS",
+    "BULL",
+    "BULLOCK",
+    "COW",
+    "HEIFER",
+    "KINE",
+    "OFFERING",
+    "OFFERINGS"
+  ],
+  "aspects": [
+    {
+      "label": "(Of the bovine species)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for sacrifice",
+      "references": [
+        "1 Kings 8:63"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHEIFER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOFFERINGS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Sheltered",
+      "references": [
+        "Genesis 33:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Stall-fed",
+      "references": [
+        "Proverbs 15:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gilead adapted to the raising of",
+      "references": [
+        "Numbers 32:1-4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bashan suitable to the raising of",
+      "references": [
+        "Psalms 22:12",
+        "Ezekiel 39:18",
+        "Amos 4:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeANIMALS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBULL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBULLOCK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOW",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHEIFER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeKINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOFFERING",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        63
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:63"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 32:1-4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 22,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 22:12"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 39,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 39:18"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 4:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Amos",
+    "Ezekiel",
+    "Genesis",
+    "Numbers",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "1 Kings",
+      "Genesis",
+      "Proverbs",
+      "Numbers",
+      "Psalms",
+      "Ezekiel",
+      "Amos"
+    ]
+  }
+}

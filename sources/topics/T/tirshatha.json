@@ -1,0 +1,67 @@
+{
+  "topic": "TIRSHATHA",
+  "slug": "tirshatha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A title of Persian governors",
+      "references": [
+        "Ezra 2:63",
+        "Nehemiah 7:65,70",
+        "Nehemiah 8:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        63
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:63"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        65,
+        70
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 7:65,70"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:9"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

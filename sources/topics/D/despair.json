@@ -1,0 +1,292 @@
+{
+  "topic": "DESPAIR",
+  "slug": "despair",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "DESPONDENCY"
+  ],
+  "aspects": [
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Produced in the wicked by divine judgments",
+      "references": [
+        "Deuteronomy 28:34,67",
+        "Revelation 9:6",
+        "Revelation 16:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Leads to: Continuing in sin",
+      "references": [
+        "Jeremiah 2:25",
+        "Jeremiah 18:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Leads to: Blasphemy",
+      "references": [
+        "Isaiah 8:21",
+        "Revelation 16:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Shall seize upon the wicked at the appearing of Christ",
+      "references": [
+        "Revelation 6:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints sometimes tempted to",
+      "references": [
+        "Job 7:6",
+        "Lamentations 3:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints enabled to overcome",
+      "references": [
+        "2 Corinthians 4:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Trust in God, a preservative against",
+      "references": [
+        "Psalms 42:5,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Cain",
+      "references": [
+        "Genesis 4:13,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Ahithophel",
+      "references": [
+        "2 Samuel 17:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Judas",
+      "references": [
+        "Matthew 27:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        34,
+        67
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:34,67"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 16:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 18:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 8:21"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 16,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 16:10,11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 6:16"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 7:6"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 3:18"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 4,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Corinthians 4:8,9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 42,
+      "verses": [
+        5,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 42:5,11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 4:13,14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 17:23"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:5"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "2 Samuel",
+    "Deuteronomy",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Lamentations",
+    "Matthew",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 15,
+    "ot_refs": 9,
+    "nt_refs": 6,
+    "books_count": 11,
+    "top_books": [
+      "Revelation",
+      "Jeremiah",
+      "Deuteronomy",
+      "Isaiah",
+      "Job",
+      "Lamentations",
+      "2 Corinthians",
+      "Psalms",
+      "Genesis",
+      "2 Samuel"
+    ]
+  }
+}

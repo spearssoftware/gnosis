@@ -1,0 +1,66 @@
+{
+  "topic": "BLUSHING",
+  "slug": "blushing",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "With shame",
+      "references": [
+        "Ezra 9:6",
+        "Jeremiah 6:15",
+        "Jeremiah 8:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 9:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:15"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 8,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 8:12"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Ezra"
+    ]
+  }
+}

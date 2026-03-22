@@ -1,0 +1,92 @@
+{
+  "topic": "REKEM",
+  "slug": "rekem",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A king of the Midianites, killed by the Israelites",
+      "references": [
+        "Numbers 31:8",
+        "Joshua 13:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "1 Chronicles 2:43,44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city in territory of Benjamin",
+      "references": [
+        "Joshua 18:27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 31:8"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        43,
+        44
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:43,44"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 18:27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "Numbers",
+      "1 Chronicles"
+    ]
+  }
+}

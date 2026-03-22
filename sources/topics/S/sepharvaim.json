@@ -1,0 +1,89 @@
+{
+  "topic": "SEPHARVAIM",
+  "slug": "sepharvaim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An Assyrian city, from which the king of Assyria colonized Samaria",
+      "references": [
+        "2 Kings 17:24,31",
+        "2 Kings 18:34",
+        "2 Kings 19:13",
+        "Isaiah 36:19",
+        "Isaiah 37:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        24,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 17:24,31"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:34"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 36,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 36:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:13"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Kings",
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "topic": "ELIMELECH",
+  "slug": "elimelech",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "With Naomi, his wife, and two",
+      "references": [
+        "Ruth 1:2,3",
+        "Ruth 2:1,2",
+        "Ruth 4:3,9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 1:2,3"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 2:1,2"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        3,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 4:3,9"
+    }
+  ],
+  "books_mentioned": [
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ruth"
+    ]
+  }
+}

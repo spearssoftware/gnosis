@@ -1,0 +1,42 @@
+{
+  "topic": "LUCIFER",
+  "slug": "lucifer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Nebuchadnezzar",
+      "references": [
+        "Isaiah 14:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 14,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 14:12"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

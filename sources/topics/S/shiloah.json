@@ -1,0 +1,50 @@
+{
+  "topic": "SHILOAH",
+  "slug": "shiloah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SILOAH",
+    "SILOAM"
+  ],
+  "aspects": [
+    {
+      "label": "A stream or pool",
+      "references": [
+        "Isaiah 8:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Probably i",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 8:6"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

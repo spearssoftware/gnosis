@@ -1,0 +1,55 @@
+{
+  "topic": "CAGE",
+  "slug": "cage",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "For birds, unclean",
+      "references": [
+        "Jeremiah 5:27",
+        "Revelation 18:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 5:27"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:2"
+    }
+  ],
+  "books_mentioned": [
+    "Jeremiah",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Revelation"
+    ]
+  }
+}

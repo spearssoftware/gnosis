@@ -1,0 +1,49 @@
+{
+  "topic": "ELISEUS",
+  "slug": "eliseus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ELISHA"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Luke 4:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeELISHA",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 4:27"
+    }
+  ],
+  "books_mentioned": [
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Luke"
+    ]
+  }
+}

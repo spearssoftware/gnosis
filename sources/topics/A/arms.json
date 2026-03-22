@@ -1,0 +1,111 @@
+{
+  "topic": "ARMS",
+  "slug": "arms",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ARMOR",
+    "ARROW",
+    "ARTILLERY",
+    "BATTERING-RAM",
+    "BATTLE-AX",
+    "BOW",
+    "CHARIOT",
+    "DAGGER",
+    "DART",
+    "ENGINE",
+    "JAVELIN",
+    "SHIELD",
+    "SLING",
+    "SPEAR",
+    "SWORD"
+  ],
+  "aspects": [
+    {
+      "label": "SeeARMOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARROW",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARTILLERY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBATTLE-AX",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBATTERING-RAM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBOW",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHARIOT",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDAGGER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDART",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeENGINE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJAVELIN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSHIELD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSLING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSPEAR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSWORD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 15,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "topic": "LIARS",
+  "slug": "liars",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DECEIT",
+    "DECEPTION",
+    "FALSEHOOD",
+    "HYPOCRISY"
+  ],
+  "aspects": [
+    {
+      "label": "All men are liars",
+      "references": [
+        "Psalms 116:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Satan, a",
+      "references": [
+        "John 8:44,55"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prohibited from the Kingdom of Heaven",
+      "references": [
+        "Revelation 21:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFALSEHOOD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHYPOCRISY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 116,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 116:11"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "verses": [
+        44,
+        55
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 8:44,55"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:8"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "Psalms",
+      "John",
+      "Revelation"
+    ]
+  }
+}

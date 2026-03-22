@@ -1,0 +1,224 @@
+{
+  "topic": "DOOR",
+  "slug": "door",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Posts of, sprinkled with the blood of the paschal lamb",
+      "references": [
+        "Exodus 12:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The law to be written on",
+      "references": [
+        "Deuteronomy 11:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hinges for",
+      "references": [
+        "Proverbs 26:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "1 Kings 7:50"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Doors of the temple ma",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "1 Kings 6:31-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Door of hope",
+      "references": [
+        "Hosea 2:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of opportunity",
+      "references": [
+        "1 Corinthians 16:9",
+        "Revelation 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Closed",
+      "references": [
+        "Matthew 25:10",
+        "Luke 13:25",
+        "Revelation 3:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:22"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:50"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Kings 6:31-35"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:15"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:9"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 3:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 25:10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 13:25"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 3:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Kings",
+    "Deuteronomy",
+    "Exodus",
+    "Hosea",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 11,
+    "ot_refs": 6,
+    "nt_refs": 5,
+    "books_count": 9,
+    "top_books": [
+      "1 Kings",
+      "Revelation",
+      "Exodus",
+      "Deuteronomy",
+      "Proverbs",
+      "Hosea",
+      "1 Corinthians",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

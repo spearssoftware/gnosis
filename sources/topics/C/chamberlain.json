@@ -1,0 +1,127 @@
+{
+  "topic": "CHAMBERLAIN",
+  "slug": "chamberlain",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An officer of a king",
+      "references": [
+        "2 Kings 23:11",
+        "Esther 1:10-15",
+        "Esther 2:3-21",
+        "Esther 4:4,5",
+        "Acts 12:20",
+        "Romans 16:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:11"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Esther 1:10-15"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 19,
+      "testament": "OT",
+      "raw": "Esther 2:3-21"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 4:4,5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 12:20"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:23"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Acts",
+    "Esther",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 6,
+    "ot_refs": 4,
+    "nt_refs": 2,
+    "books_count": 4,
+    "top_books": [
+      "Esther",
+      "2 Kings",
+      "Acts",
+      "Romans"
+    ]
+  }
+}

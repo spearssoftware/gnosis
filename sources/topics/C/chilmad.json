@@ -1,0 +1,42 @@
+{
+  "topic": "CHILMAD",
+  "slug": "chilmad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Merchants of",
+      "references": [
+        "Ezekiel 27:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:23"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezekiel"
+    ]
+  }
+}

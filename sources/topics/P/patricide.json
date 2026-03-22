@@ -1,0 +1,60 @@
+{
+  "topic": "PATRICIDE",
+  "slug": "patricide",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Killing one’s own father)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Sennacherib",
+      "references": [
+        "2 Kings 19:37",
+        "Isaiah 37:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:37"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:38"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Kings",
+      "Isaiah"
+    ]
+  }
+}

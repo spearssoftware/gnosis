@@ -1,0 +1,94 @@
+{
+  "topic": "ELIPHAZ",
+  "slug": "eliphaz",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 36:4,10-16",
+        "1 Chronicles 1:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Friend of Job",
+      "references": [
+        "Job 2:11",
+        "Job 42:7-9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        4,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Genesis 36:4,10-16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:35"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 2:11"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "verses": [
+        7,
+        8,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Job 42:7-9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Job",
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

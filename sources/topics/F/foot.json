@@ -1,0 +1,101 @@
+{
+  "topic": "FOOT",
+  "slug": "foot",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABLUTIONS",
+    "PURIFICATIONS",
+    "SHOE"
+  ],
+  "aspects": [
+    {
+      "label": "Washing the feet of the disciples by Jesus",
+      "references": [
+        "John 13:4-6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By disciples",
+      "references": [
+        "1 Timothy 5:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeAB",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePURIFI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "For footwear, seeSHOE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Matthew 18:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 13,
+      "verses": [
+        4,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 13:4-6"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 5:10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Timothy",
+    "John",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "John",
+      "1 Timothy",
+      "Matthew"
+    ]
+  }
+}

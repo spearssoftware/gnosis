@@ -1,0 +1,126 @@
+{
+  "topic": "NAASHON",
+  "slug": "naashon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A",
+      "references": [
+        "Exodus 6:23",
+        "Numbers 1:7",
+        "Numbers 2:3",
+        "Numbers 7:12,17",
+        "Numbers 10:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the lineage of Christ",
+      "references": [
+        "Matthew 1:4",
+        "Luke 3:32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        12,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:12,17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:14"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 1:4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:32"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Luke",
+    "Matthew",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 5,
+    "nt_refs": 2,
+    "books_count": 4,
+    "top_books": [
+      "Numbers",
+      "Exodus",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

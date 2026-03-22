@@ -1,0 +1,222 @@
+{
+  "topic": "LEOPARD",
+  "slug": "leopard",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Song of Solomon 4:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fierceness of",
+      "references": [
+        "Jeremiah 5:6",
+        "Jeremiah 13:23",
+        "Hosea 13:7",
+        "Habakkuk 1:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Daniel 7:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Taming of, the triumph of the gospel",
+      "references": [
+        "Isaiah 11:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Inhabited mountains of Canaan",
+      "references": [
+        "Song of Solomon 4:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Spotted",
+      "references": [
+        "Jeremiah 13:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Fierce and cruel",
+      "references": [
+        "Jeremiah 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described as: Swift",
+      "references": [
+        "Habakkuk 1:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Lies in wait for its prey",
+      "references": [
+        "Jeremiah 5:6",
+        "Hosea 13:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of God in his judgments",
+      "references": [
+        "Hosea 13:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of the Macedonian empire",
+      "references": [
+        "Daniel 7:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: Of antichrist",
+      "references": [
+        "Revelation 13:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Tamed,) of the wicked subdued by the gospel",
+      "references": [
+        "Isaiah 11:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 5:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 13,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 13:23"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 13,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 13:7"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 1:8"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 7,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 7:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 13,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 13:2"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Habakkuk",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Revelation",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 13,
+    "total_refs": 8,
+    "ot_refs": 7,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "Jeremiah",
+      "Song of Solomon",
+      "Hosea",
+      "Habakkuk",
+      "Daniel",
+      "Isaiah",
+      "Revelation"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "topic": "CAMON",
+  "slug": "camon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Place where Jair was buried",
+      "references": [
+        "Judges 10:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 10,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 10:5"
+    }
+  ],
+  "books_mentioned": [
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Judges"
+    ]
+  }
+}

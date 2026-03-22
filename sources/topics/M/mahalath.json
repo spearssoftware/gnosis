@@ -1,0 +1,89 @@
+{
+  "topic": "MAHALATH",
+  "slug": "mahalath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC"
+  ],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Daughter of Ishmael",
+      "references": [
+        "Genesis 28:9",
+        "Genesis 36:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A granddaughter of David",
+      "references": [
+        "2 Chronicles 11:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. MAHALATH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeMUSIC",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 28,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 28:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:18"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "2 Chronicles"
+    ]
+  }
+}

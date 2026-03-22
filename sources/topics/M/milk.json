@@ -1,0 +1,680 @@
+{
+  "topic": "MILK",
+  "slug": "milk",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used for food",
+      "references": [
+        "Genesis 18:8",
+        "Judges 4:19",
+        "Song of Solomon 5:1",
+        "Ezekiel 25:4",
+        "1 Corinthians 9:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of goats",
+      "references": [
+        "Proverbs 27:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of sheep",
+      "references": [
+        "Deuteronomy 32:14",
+        "Isaiah 7:21,22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Genesis 32:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of cows",
+      "references": [
+        "Deuteronomy 32:14",
+        "1 Samuel 6:7,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Churned",
+      "references": [
+        "Proverbs 30:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Kid (a baby goat) not to be seethed (boiled) in its own mother’s",
+      "references": [
+        "Exodus 23:19",
+        "Deuteronomy 14:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATITE",
+      "references": [
+        "Exodus 3:8,17",
+        "Exodus 13:5",
+        "Exodus 33:3",
+        "Numbers 13:27",
+        "Deuteronomy 26:9,15",
+        "Isaiah 55:1",
+        "Isaiah 60:16",
+        "Jeremiah 11:5",
+        "Jeremiah 32:22",
+        "Ezekiel 20:6",
+        "Joel 3:18",
+        "1 Corinthians 3:2",
+        "Hebrews 5:12,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An animal secretion, of a white colour",
+      "references": [
+        "Lamentations 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used as food by the Jews",
+      "references": [
+        "Genesis 18:8",
+        "Judges 5:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds mentioned: Of cows",
+      "references": [
+        "Deuteronomy 32:14",
+        "1 Samuel 6:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds mentioned: Of camels",
+      "references": [
+        "Genesis 32:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds mentioned: Of goats",
+      "references": [
+        "Proverbs 27:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds mentioned: Of sheep",
+      "references": [
+        "Deuteronomy 32:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Different kinds mentioned: Of sea-monsters",
+      "references": [
+        "Lamentations 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Flocks and herds fed for supply of",
+      "references": [
+        "Proverbs 27:23,27",
+        "Isaiah 7:21,22",
+        "1 Corinthians 9:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Canaan abounded with",
+      "references": [
+        "Exodus 3:8,17",
+        "Joshua 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Butter",
+      "references": [
+        "Proverbs 30:33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made into: Cheese",
+      "references": [
+        "Job 10:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kept by the Jews in bottles",
+      "references": [
+        "Judges 4:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Young animals not to be seethed in that of the mother",
+      "references": [
+        "Exodus 23:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Temporal blessings",
+      "references": [
+        "Genesis 49:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Blessings of the gospel",
+      "references": [
+        "Isaiah 55:1",
+        "Joel 3:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: First principles of God’s word",
+      "references": [
+        "1 Corinthians 3:2",
+        "Hebrews 5:12",
+        "1 Peter 2:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Godly and edifying discourses",
+      "references": [
+        "Song of Solomon 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Wealth of the Gentiles",
+      "references": [
+        "Isaiah 60:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Doctrines of the gospel",
+      "references": [
+        "Song of Solomon 5:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 18:8"
+    },
+    {
+      "book": "Judges",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 4:19"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 5:1"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 25:4"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 7:21,22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 32,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 32:15"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        7,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 6:7,10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:33"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:19"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:21"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "verses": [
+        8,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 3:8,17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 13:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 33,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 33:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 13:27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 26,
+      "verses": [
+        9,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 26:9,15"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 55,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 55:1"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:16"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 11,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 11:5"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 32,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 32:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 20,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 20:6"
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 3:18"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:2"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 5,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 5:12,13"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 2:2"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 4:7"
+    },
+    {
+      "book": "Judges",
+      "chapter": 5,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 5:25"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 6:7"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 4:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        23,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 27:23,27"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 10:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:12"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 5:12"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:2"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Peter",
+    "1 Samuel",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Joel",
+    "Joshua",
+    "Judges",
+    "Lamentations",
+    "Numbers",
+    "Proverbs",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 28,
+    "total_refs": 38,
+    "ot_refs": 32,
+    "nt_refs": 6,
+    "books_count": 18,
+    "top_books": [
+      "Exodus",
+      "Genesis",
+      "Proverbs",
+      "Deuteronomy",
+      "Isaiah",
+      "Hebrews",
+      "Judges",
+      "Song of Solomon",
+      "Ezekiel",
+      "1 Corinthians"
+    ]
+  }
+}

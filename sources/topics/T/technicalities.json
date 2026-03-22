@@ -1,0 +1,57 @@
+{
+  "topic": "TECHNICALITIES",
+  "slug": "technicalities",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Legal",
+      "references": [
+        "Matthew 12:2,10",
+        "Luke 6:2,7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        2,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 12:2,10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        2,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 6:2,7"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

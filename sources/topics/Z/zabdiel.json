@@ -1,0 +1,66 @@
+{
+  "topic": "ZABDIEL",
+  "slug": "zabdiel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father of Jashobeam",
+      "references": [
+        "1 Chronicles 27:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. An overseer of one-hundred twenty eight mighty men of valor,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "who lived in",
+      "references": [
+        "Nehemiah 11:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah"
+    ]
+  }
+}

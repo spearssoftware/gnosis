@@ -1,0 +1,130 @@
+{
+  "topic": "HOURS",
+  "slug": "hours",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A division of time)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Twelve, in the day",
+      "references": [
+        "John 11:9",
+        "Matthew 20:3-12",
+        "Matthew 27:45,46"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In the night",
+      "references": [
+        "Acts 23:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Revelation 8:1",
+        "Revelation 9:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Matthew 20:3-12"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        45,
+        46
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 27:45,46"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 23:23"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 8:1"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:15"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "John",
+    "Matthew",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Revelation",
+      "John",
+      "Acts"
+    ]
+  }
+}

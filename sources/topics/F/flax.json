@@ -1,0 +1,181 @@
+{
+  "topic": "FLAX",
+  "slug": "flax",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LINEN"
+  ],
+  "aspects": [
+    {
+      "label": "In Egypt",
+      "references": [
+        "Exodus 9:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In Palestine",
+      "references": [
+        "Joshua 2:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Linen ma",
+      "references": [
+        "Proverbs 31:13",
+        "Isaiah 19:6",
+        "Hosea 2:5,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Robes ma",
+      "references": [
+        "Esther 1:16",
+        "Ezekiel 40:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLINEN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Smoking flax not quenched",
+      "references": [
+        "Isaiah 42:3",
+        "Matthew 12:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 9,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 9:31"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 2:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 19:6"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        5,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Hosea 2:5,9"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 1:16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 40,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 40:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 42,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 42:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:20"
+    }
+  ],
+  "books_mentioned": [
+    "Esther",
+    "Exodus",
+    "Ezekiel",
+    "Hosea",
+    "Isaiah",
+    "Joshua",
+    "Matthew",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 9,
+    "ot_refs": 8,
+    "nt_refs": 1,
+    "books_count": 8,
+    "top_books": [
+      "Isaiah",
+      "Exodus",
+      "Joshua",
+      "Proverbs",
+      "Hosea",
+      "Esther",
+      "Ezekiel",
+      "Matthew"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "topic": "APE",
+  "slug": "ape",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "In",
+      "references": [
+        "1 Kings 10:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:22"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Kings"
+    ]
+  }
+}

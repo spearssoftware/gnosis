@@ -1,0 +1,373 @@
+{
+  "topic": "PHILIP",
+  "slug": "philip",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The brother of Herod Antipas and the husband of Herodias",
+      "references": [
+        "Matthew 14:3",
+        "Mark 6:17",
+        "Luke 3:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Tetrarch of Iturea",
+      "references": [
+        "Luke 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. One of the seven servants (Greek: diakonos)",
+      "references": [
+        "Acts 6:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Successfully preaches in Samaria",
+      "references": [
+        "Acts 8:4-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Expounds the Scriptures to the Ethiopian eu",
+      "references": [
+        "Acts 8:27-38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "and goes to",
+      "references": [
+        "Acts 8:39,40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Lives at",
+      "references": [
+        "Acts 21:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Has four daughters (prophetesses)",
+      "references": [
+        "Acts 21:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. One of the twelve apostles",
+      "references": [
+        "Matthew 10:3",
+        "Mark 3:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6:14;",
+      "references": [
+        "Acts 1:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "John 1:43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Brings Nathanael to Jesus",
+      "references": [
+        "John 1:45-50"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assists in",
+      "references": [
+        "John 6:5-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Brings certain Greeks to Jesus who",
+      "references": [
+        "John 12:20-22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Asks Jesus to show the Father",
+      "references": [
+        "John 14:8-13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 14:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 6:17"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:19"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 6:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Acts 8:4-14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "Acts 8:27-38"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        39,
+        40
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 8:39,40"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 21:9,10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:18"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 6:14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:13"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 1:43"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "verses": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "John 1:45-50"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 6:5-7"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        20,
+        21,
+        22
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 12:20-22"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "John 14:8-13"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 16,
+    "total_refs": 19,
+    "ot_refs": 0,
+    "nt_refs": 19,
+    "books_count": 5,
+    "top_books": [
+      "Acts",
+      "John",
+      "Mark",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "topic": "TAMMUZ",
+  "slug": "tammuz",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A Syrian idol",
+      "references": [
+        "Ezekiel 8:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 8:14"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "topic": "CREATURE",
+  "slug": "creature",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CREATION",
+    "GOD, CREATOR",
+    "MAN, CREATED",
+    "REGENERATION"
+  ],
+  "aspects": [
+    {
+      "label": "SeeCREATION",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOD, CREATOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMAN, CREATED",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "NEW CREATURE",
+      "references": [
+        "2 Corinthians 5:17",
+        "Galatians 6:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeREGENERATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Corinthians",
+      "chapter": 5,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 5:17"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:15"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Galatians"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "2 Corinthians",
+      "Galatians"
+    ]
+  }
+}

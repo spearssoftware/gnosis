@@ -1,0 +1,47 @@
+{
+  "topic": "RUMAH",
+  "slug": "rumah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A city whose lo",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "The home of Jehoiakim’ s mother",
+      "references": [
+        "2 Kings 23:36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:36"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Kings"
+    ]
+  }
+}

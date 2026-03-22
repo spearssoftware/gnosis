@@ -1,0 +1,82 @@
+{
+  "topic": "COCKATRICE",
+  "slug": "cockatrice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A fabulous serpent)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 11:8",
+        "Isaiah 14:29",
+        "Isaiah 59:5",
+        "Jeremiah 8:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 14,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 14:29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 59:5"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 8:17"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Isaiah",
+      "Jeremiah"
+    ]
+  }
+}

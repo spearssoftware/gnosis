@@ -1,0 +1,54 @@
+{
+  "topic": "REVILING",
+  "slug": "reviling",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MOCKING"
+  ],
+  "aspects": [
+    {
+      "label": "Of Jesus",
+      "references": [
+        "Matthew 27:39-44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMOCKING",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "verse_count": 6,
+      "testament": "NT",
+      "raw": "Matthew 27:39-44"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

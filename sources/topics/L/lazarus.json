@@ -1,0 +1,127 @@
+{
+  "topic": "LAZARUS",
+  "slug": "lazarus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Brother of Mary and Martha .Sickness and",
+      "references": [
+        "John 11:1-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Resurrection of",
+      "references": [
+        "John 11:38-44",
+        "John 12:17,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Had dinner with Jesus",
+      "references": [
+        "John 12:1,2,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Plotted against by the chief priests",
+      "references": [
+        "John 12:10,11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 14,
+      "testament": "NT",
+      "raw": "John 11:1-14"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "John 11:38-44"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 12:17,18"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        1,
+        2,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 12:1,2,9"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 12:10,11"
+    }
+  ],
+  "books_mentioned": [
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 1,
+    "top_books": [
+      "John"
+    ]
+  }
+}

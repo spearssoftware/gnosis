@@ -1,0 +1,383 @@
+{
+  "topic": "ADAM",
+  "slug": "adam",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. The first man. Creation of",
+      "references": [
+        "Genesis 1:26-28",
+        "Genesis 2:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "15:45;",
+      "references": [
+        "1 Timothy 2:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".History of, before he sinned",
+      "references": [
+        "Genesis 1:26-30",
+        "Genesis 2:16-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Temptation and sin ofGe 3;",
+      "references": [
+        "Job 31:33",
+        "Isaiah 43:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Job 6:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See R. V.)",
+      "references": [
+        "Romans 5:14-21",
+        "1 Timothy 2:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Subsequent history of",
+      "references": [
+        "Genesis 3:20-24",
+        "Genesis 4:1,2,25",
+        "Genesis 5:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".His",
+      "references": [
+        "Genesis 5:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Progenitor of the human race",
+      "references": [
+        "Deuteronomy 32:8",
+        "Malachi 2:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Brought sin into the world",
+      "references": [
+        "1 Corinthians 15:22,45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Type of Christ",
+      "references": [
+        "Romans 5:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A name of Christ",
+      "references": [
+        "1 Corinthians 15:45,47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A city near the Jordan",
+      "references": [
+        "Joshua 3:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        26,
+        27,
+        28
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 1:26-28"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 2:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:45"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 2:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 1:26-30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Genesis 2:16-25"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:33"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 43:27"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 6,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 6:7"
+    },
+    {
+      "book": "Romans",
+      "chapter": 5,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Romans 5:14-21"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Timothy 2:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 3:20-24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        25
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 4:1,2,25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 5:1-5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 5:5"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:8"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 2:10"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verses": [
+        22,
+        45
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 15:22,45"
+    },
+    {
+      "book": "Romans",
+      "chapter": 5,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 5:14"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verses": [
+        45,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 15:45,47"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 3,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 3:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Timothy",
+    "Deuteronomy",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "Joshua",
+    "Malachi",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 13,
+    "total_refs": 21,
+    "ot_refs": 15,
+    "nt_refs": 6,
+    "books_count": 9,
+    "top_books": [
+      "Genesis",
+      "1 Timothy",
+      "Isaiah",
+      "Romans",
+      "1 Corinthians",
+      "Job",
+      "Deuteronomy",
+      "Malachi",
+      "Joshua"
+    ]
+  }
+}

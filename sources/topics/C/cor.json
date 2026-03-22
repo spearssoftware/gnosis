@@ -1,0 +1,134 @@
+{
+  "topic": "COR",
+  "slug": "cor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MEASURES"
+  ],
+  "aspects": [
+    {
+      "label": "A measure for liquids and",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "and equal to the homer",
+      "references": [
+        "Ezekiel 45:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ren",
+      "references": [
+        "1 Kings 4:22",
+        "1 Kings 5:11",
+        "2 Chronicles 2:10",
+        "2 Chronicles 27:5",
+        "Ezra 7:22",
+        "Luke 16:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMEASURES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezekiel",
+      "chapter": 45,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 45:14"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:22"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 5:11"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 2:10"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 27,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 27:5"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:22"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 16:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "Ezekiel",
+    "Ezra",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "1 Kings",
+      "2 Chronicles",
+      "Ezekiel",
+      "Ezra",
+      "Luke"
+    ]
+  }
+}

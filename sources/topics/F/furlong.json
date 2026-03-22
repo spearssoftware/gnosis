@@ -1,0 +1,68 @@
+{
+  "topic": "FURLONG",
+  "slug": "furlong",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One-eighth of a mile",
+      "references": [
+        "Luke 24:13",
+        "John 11:18",
+        "Revelation 21:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 24:13"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 21,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 21:16"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Luke",
+      "John",
+      "Revelation"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "topic": "EPIC",
+  "slug": "epic",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "POETRY"
+  ],
+  "aspects": [
+    {
+      "label": "(Heroic poetry)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Miriam’s",
+      "references": [
+        "Exodus 15:1-19,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David’s war",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePOETRY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21
+      ],
+      "verse_count": 20,
+      "testament": "OT",
+      "raw": "Exodus 15:1-19,21"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

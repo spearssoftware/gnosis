@@ -1,0 +1,231 @@
+{
+  "topic": "JEIEL",
+  "slug": "jeiel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".A Reubenite",
+      "references": [
+        "1 Chronicles 5:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Benjamite",
+      "references": [
+        "1 Chronicles 9:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. One of David’s heroes",
+      "references": [
+        "1 Chronicles 11:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Levite and chorister in the tabernacle services",
+      "references": [
+        "1 Chronicles 15:18,21",
+        "1 Chronicles 16:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Levite, ancestor of Jehaziel, who encouraged",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "their enemies",
+      "references": [
+        "2 Chronicles 20:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A scribe during the reign of Uzziah",
+      "references": [
+        "2 Chronicles 26:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. A Levite who cleansed the temple",
+      "references": [
+        "2 Chronicles 29:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "8. A chief of the Levites who gave, with other chiefs, five-thousand",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "five-hundred “small",
+      "references": [
+        "2 Chronicles 35:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "9. A",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Ezra",
+      "references": [
+        "Ezra 8:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "10. A priest who was",
+      "references": [
+        "Ezra 10:43"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:35"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:44"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        18,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:18,21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:5"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 20,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 20:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:11"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:13"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 35,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 35:9"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:13"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:43"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 14,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles",
+      "Ezra"
+    ]
+  }
+}

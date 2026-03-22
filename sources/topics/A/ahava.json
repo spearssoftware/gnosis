@@ -1,0 +1,44 @@
+{
+  "topic": "AHAVA",
+  "slug": "ahava",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A river of Babylon",
+      "references": [
+        "Ezra 8:15,21,31"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        15,
+        21,
+        31
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezra 8:15,21,31"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

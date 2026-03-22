@@ -1,0 +1,312 @@
+{
+  "topic": "SHEBA",
+  "slug": "sheba",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SABEANS"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 10:7",
+        "1 Chronicles 1:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "Genesis 10:28",
+        "1 Chronicles 1:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "Genesis 25:3",
+        "1 Chronicles 1:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Benjamite who led an insurrection against David2Sa 20",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Gadite",
+      "references": [
+        "1 Chronicles 5:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A city of the tribe of Simeon",
+      "references": [
+        "Joshua 19:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. Queen of, visits",
+      "references": [
+        "1 Kings 10:1",
+        "2 Chronicles 9:1-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Kings of, bring gifts to",
+      "references": [
+        "Psalms 72:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rich in gold",
+      "references": [
+        "Psalms 72:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rich in incense",
+      "references": [
+        "Jeremiah 6:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Merchandise of",
+      "references": [
+        "Ezekiel 27:22,23",
+        "Ezekiel 38:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prophecies concerning the people of, coming into the kingdom",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of the Messiah",
+      "references": [
+        "Isaiah 60:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSABEANS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:28"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:32"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:13"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:2"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:1"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:1-12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 72,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 72:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 72,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 72:15"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:20"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 27:22,23"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 38,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 38:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Joshua",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 14,
+    "total_refs": 16,
+    "ot_refs": 16,
+    "nt_refs": 0,
+    "books_count": 9,
+    "top_books": [
+      "1 Chronicles",
+      "Genesis",
+      "Psalms",
+      "Ezekiel",
+      "Joshua",
+      "1 Kings",
+      "2 Chronicles",
+      "Jeremiah",
+      "Isaiah"
+    ]
+  }
+}

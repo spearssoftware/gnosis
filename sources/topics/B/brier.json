@@ -1,0 +1,77 @@
+{
+  "topic": "BRIER",
+  "slug": "brier",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 5:6",
+        "Isaiah 55:13",
+        "Ezekiel 2:6",
+        "Ezekiel 28:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 55,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 55:13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 2:6"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:24"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Isaiah",
+      "Ezekiel"
+    ]
+  }
+}

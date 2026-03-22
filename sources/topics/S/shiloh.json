@@ -1,0 +1,292 @@
+{
+  "topic": "SHILOH",
+  "slug": "shiloh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A name of Jesus",
+      "references": [
+        "Genesis 49:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. City of Ephraim, north of Beth-el, and on the highway from",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Beth-el to Shechem",
+      "references": [
+        "Judges 21:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Tabernacle lo",
+      "references": [
+        "Joshua 18:1-10",
+        "Judges 18:31",
+        "Judges 21:19",
+        "1 Samuel 1:3,9,21,24",
+        "1 Samuel 2:14",
+        "Psalms 78:60",
+        "Jeremiah 7:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Seat of government during the time of Joshua",
+      "references": [
+        "Joshua 21:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The place of ren",
+      "references": [
+        "Joshua 22:9,12",
+        "Judges 21:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Eli lived at",
+      "references": [
+        "1 Samuel 1:9",
+        "1 Samuel 4:12,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Eli dies at",
+      "references": [
+        "1 Samuel 4:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ahijah the prophet lives at",
+      "references": [
+        "1 Kings 14:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Jeremiah 41:5-9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 49:10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 21,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 21:19"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 18,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Joshua 18:1-10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 18,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 18:31"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verses": [
+        3,
+        9,
+        21,
+        24
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Samuel 1:3,9,21,24"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 2:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        60
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:60"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 7,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 7:12"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 21:1,2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 22,
+      "verses": [
+        9,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 22:9,12"
+    },
+    {
+      "book": "Judges",
+      "chapter": 21,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 21:12"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 1:9"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 4:12,13"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 4:18"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 14:2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Jeremiah 41:5-9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "Genesis",
+    "Jeremiah",
+    "Joshua",
+    "Judges",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 16,
+    "ot_refs": 16,
+    "nt_refs": 0,
+    "books_count": 7,
+    "top_books": [
+      "1 Samuel",
+      "Judges",
+      "Joshua",
+      "Jeremiah",
+      "Genesis",
+      "Psalms",
+      "1 Kings"
+    ]
+  }
+}

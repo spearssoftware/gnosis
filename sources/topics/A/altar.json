@@ -1,0 +1,821 @@
+{
+  "topic": "ALTAR",
+  "slug": "altar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BLOOD",
+    "TABERNACLE",
+    "TEMPLE"
+  ],
+  "aspects": [
+    {
+      "label": "Built by Noah",
+      "references": [
+        "Genesis 8:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Abraham",
+      "references": [
+        "Genesis 12:7,8",
+        "Genesis 13:18",
+        "Genesis 22:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by",
+      "references": [
+        "Genesis 26:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Jacob",
+      "references": [
+        "Genesis 33:20",
+        "Genesis 35:1-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Moses",
+      "references": [
+        "Exodus 17:15",
+        "Exodus 24:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Balaam",
+      "references": [
+        "Numbers 23:1,14,29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Joshua",
+      "references": [
+        "Deuteronomy 27:4-7",
+        "Joshua 8:30-32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by the Reubenites and Gadites",
+      "references": [
+        "Joshua 22:10,34"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Gi",
+      "references": [
+        "Judges 6:26,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Samuel",
+      "references": [
+        "1 Samuel 7:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Saul",
+      "references": [
+        "1 Samuel 14:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by David",
+      "references": [
+        "2 Samuel 24:18,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Built by Elijah",
+      "references": [
+        "1 Kings 18:31,32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mosaic commandments prescribing the construction of",
+      "references": [
+        "Exodus 20:24-26",
+        "Deuteronomy 27:5-7",
+        "Joshua 8:30,31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [
+        "Ezekiel 43:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in idolatrous worship",
+      "references": [
+        "Judges 6:25",
+        "1 Kings 12:32",
+        "1 Kings 16:32",
+        "1 Kings 18:26",
+        "2 Kings 16:10",
+        "2 Kings 23:12,15",
+        "Isaiah 27:9",
+        "Isaiah 65:3",
+        "Hosea 8:11",
+        "Acts 17:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "OF BURNT OFFERINGS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Exodus 39:39",
+        "1 Kings 8:64"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Psalms 43:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Malachi 2:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "IN THE TABERNACLE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Pattern of",
+      "references": [
+        "Exodus 27:1-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Constructed by Bezaleel",
+      "references": [
+        "Exodus 38:1-7",
+        "Exodus 37:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Lo",
+      "references": [
+        "Exodus 40:6,29",
+        "Ezekiel 8:16",
+        "Matthew 23:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Furniture of",
+      "references": [
+        "Exodus 27:3-7",
+        "Exodus 38:3-7",
+        "1 Samuel 2:13,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Horns of",
+      "references": [
+        "Exodus 27:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Uses of the horns",
+      "references": [
+        "Psalms 118:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".How sanctifie",
+      "references": [
+        "Exodus 29:36,37,44",
+        "Exodus 30:26-28",
+        "Exodus 40:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:2"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 12,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 12:7,8"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 13:18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 22,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 22:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Genesis 35:1-7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 17,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 17:15"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 24,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 24:4"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "verses": [
+        1,
+        14,
+        29
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 23:1,14,29"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:4-7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        30,
+        31,
+        32
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 8:30-32"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 22,
+      "verses": [
+        10,
+        34
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 22:10,34"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 6:26,27"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 7:17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:35"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 24:18,19"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 18:31,32"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        24,
+        25,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 20:24-26"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:5-7"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        30,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 8:30,31"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 43,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 43:13"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 6:25"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:32"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:32"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 18:26"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 16:10"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        12,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 23:12,15"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 27,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 27:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:3"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 8:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 17:23"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:39"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        64
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:64"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 43,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 43:4"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 2:13"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Exodus 27:1-8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Exodus 38:1-7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 37:1"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        6,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 40:6,29"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 8:16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:35"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Exodus 27:3-7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Exodus 38:3-7"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 2:13,14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 27,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 27:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 118,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 118:27"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        36,
+        37,
+        44
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 29:36,37,44"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        26,
+        27,
+        28
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 30:26-28"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 40:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Genesis",
+    "Hosea",
+    "Isaiah",
+    "Joshua",
+    "Judges",
+    "Malachi",
+    "Matthew",
+    "Numbers",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 28,
+    "total_refs": 50,
+    "ot_refs": 48,
+    "nt_refs": 2,
+    "books_count": 17,
+    "top_books": [
+      "Exodus",
+      "Genesis",
+      "1 Kings",
+      "Joshua",
+      "1 Samuel",
+      "Deuteronomy",
+      "Judges",
+      "Ezekiel",
+      "2 Kings",
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "topic": "WHISPERER",
+  "slug": "whisperer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SLANDER",
+    "SPEAKING, EVIL"
+  ],
+  "aspects": [
+    {
+      "label": "A slan",
+      "references": [
+        "Romans 1:29",
+        "2 Corinthians 12:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSLAN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSPEAKING, EVIL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 1:29"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 12:20"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 0,
+    "nt_refs": 2,
+    "books_count": 2,
+    "top_books": [
+      "Romans",
+      "2 Corinthians"
+    ]
+  }
+}

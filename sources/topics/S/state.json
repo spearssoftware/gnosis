@@ -1,0 +1,33 @@
+{
+  "topic": "STATE",
+  "slug": "state",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHURCH AND STATE",
+    "GOVERNMENT"
+  ],
+  "aspects": [
+    {
+      "label": "SeeCHURCH and STATE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOVERNMENT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

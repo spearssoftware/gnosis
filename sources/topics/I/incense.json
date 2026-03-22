@@ -1,0 +1,974 @@
+{
+  "topic": "INCENSE",
+  "slug": "incense",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "ALTAR OF INCENSE"
+  ],
+  "aspects": [
+    {
+      "label": "Formula for compounding",
+      "references": [
+        "Exodus 30:34,35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Uses of",
+      "references": [
+        "Exodus 30:36-38",
+        "Leviticus 16:12",
+        "Numbers 16:17,40,46",
+        "Deuteronomy 33:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Compoun",
+      "references": [
+        "Exodus 37:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By priests",
+      "references": [
+        "1 Chronicles 9:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offered morning and evening",
+      "references": [
+        "Exodus 30:7,8",
+        "2 Chronicles 13:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "On the gol",
+      "references": [
+        "Exodus 30:1-7",
+        "Exodus 40:5,27",
+        "2 Chronicles 2:4",
+        "2 Chronicles 32:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In making atonement",
+      "references": [
+        "Leviticus 16:12,13",
+        "Numbers 16:46,47",
+        "Luke 1:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offered by Nadab and Abihu in an unauthorized manner",
+      "references": [
+        "Leviticus 10:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Korah, Dathan, and Abiram",
+      "references": [
+        "Numbers 16:16-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By Uzziah",
+      "references": [
+        "2 Chronicles 26:16-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Offered in idolatrous worship",
+      "references": [
+        "1 Kings 12:23",
+        "Jeremiah 41:5",
+        "Ezekiel 8:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Presented by the wise men to Jesus",
+      "references": [
+        "Matthew 2:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeALTAR OF INCENSE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of prayer",
+      "references": [
+        "Psalms 141:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of praise",
+      "references": [
+        "Malachi 1:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of an acceptable sacrifice",
+      "references": [
+        "Ephesians 5:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the prayers of saints",
+      "references": [
+        "Revelation 5:8",
+        "Revelation 8:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Brought from Sheba",
+      "references": [
+        "Jeremiah 6:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called frankincense",
+      "references": [
+        "Song of Solomon 4:6,14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "An article of extensive commerce",
+      "references": [
+        "Revelation 18:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Common, not to be offered to God",
+      "references": [
+        "Exodus 30:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "For God’s service mixed with sweet spices",
+      "references": [
+        "Exodus 25:6",
+        "Exodus 37:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Receipt for mixing",
+      "references": [
+        "Exodus 30:34-36"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "None but priest to offer",
+      "references": [
+        "Numbers 16:40",
+        "Deuteronomy 33:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offered: In censers",
+      "references": [
+        "Leviticus 10:1",
+        "Numbers 16:17,46"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offered: On the altar of gold",
+      "references": [
+        "Exodus 30:1,6",
+        "Exodus 40:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offered: Morning and evening",
+      "references": [
+        "Exodus 30:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offered: Perpetually",
+      "references": [
+        "Exodus 30:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offered: By the high priest in the most holy place on the day of atonement",
+      "references": [
+        "Leviticus 16:12,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offered: With fire from off the altar of burnt offering",
+      "references": [
+        "Leviticus 16:12",
+        "Numbers 16:46"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Offering of, allotted to the priests",
+      "references": [
+        "Luke 1:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews prayed at time of offering",
+      "references": [
+        "Luke 1:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Designed for atonement",
+      "references": [
+        "Numbers 16:46,47"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Put on meat offerings",
+      "references": [
+        "Leviticus 2:1,2,15,16",
+        "Leviticus 6:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Levites had charge of",
+      "references": [
+        "1 Chronicles 9:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Used in idolatrous worship",
+      "references": [
+        "Jeremiah 48:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Not accepted in offering, on account of sin",
+      "references": [
+        "Isaiah 1:13",
+        "Isaiah 66:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Offered, to idols on altars of brick",
+      "references": [
+        "Isaiah 65:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Punished for offering, to idols",
+      "references": [
+        "2 Chronicles 34:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Nadab and Abihu destroyed for offering, with strange fire",
+      "references": [
+        "Leviticus 10:1,2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Korah and his company punished for offering",
+      "references": [
+        "Numbers 16:16-35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Uzziah punished for offering",
+      "references": [
+        "2 Chronicles 26:16-21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Presented to Christ by the wise men",
+      "references": [
+        "Matthew 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The merits of Christ",
+      "references": [
+        "Revelation 8:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Prayer",
+      "references": [
+        "Psalms 141:2",
+        "Malachi 1:11",
+        "Revelation 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        34,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 30:34,35"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        36,
+        37,
+        38
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 30:36-38"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 16:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        17,
+        40,
+        46
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 16:17,40,46"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 33,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 33:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 37,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 37:29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:30"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 30:7,8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 13,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 13:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Exodus 30:1-7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        5,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 40:5,27"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 2:4"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 32,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 32:12"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 16:12,13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        46,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 16:46,47"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:10"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 10:1,2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 20,
+      "testament": "OT",
+      "raw": "Numbers 16:16-35"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:16-21"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:23"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 41:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 8:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 2:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 141,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 141:2"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Malachi 1:11"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:2"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 5:8"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 8:3,4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:20"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        6,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:6,14"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 18,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 18:13"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        34,
+        35,
+        36
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 30:34-36"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 16:40"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 10:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        17,
+        46
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 16:17,46"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        1,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 30:1,6"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 40:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 30,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 30:8"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 16:46"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:9"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        15,
+        16
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Leviticus 2:1,2,15,16"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 6:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:29"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:35"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 65,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 65:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 34,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 34:25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Deuteronomy",
+    "Ephesians",
+    "Exodus",
+    "Ezekiel",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Luke",
+    "Malachi",
+    "Matthew",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 47,
+    "total_refs": 50,
+    "ot_refs": 43,
+    "nt_refs": 7,
+    "books_count": 17,
+    "top_books": [
+      "Exodus",
+      "Leviticus",
+      "Numbers",
+      "2 Chronicles",
+      "Jeremiah",
+      "Revelation",
+      "Isaiah",
+      "1 Chronicles",
+      "Luke",
+      "Deuteronomy"
+    ]
+  }
+}

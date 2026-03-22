@@ -1,0 +1,85 @@
+{
+  "topic": "INVESTIGATION",
+  "slug": "investigation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Ecclesiastes 1:13-18",
+        "Ecclesiastes 2:1-12",
+        "Ecclesiastes 12:9-14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Ecclesiastes 1:13-18"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:1-12"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "verses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Ecclesiastes 12:9-14"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ecclesiastes"
+    ]
+  }
+}

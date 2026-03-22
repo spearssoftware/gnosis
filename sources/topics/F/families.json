@@ -1,0 +1,477 @@
+{
+  "topic": "FAMILIES",
+  "slug": "families",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of saints blessed",
+      "references": [
+        "Psalms 128:3-6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should: Be taught the Scriptures",
+      "references": [
+        "Deuteronomy 4:9,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should: Worship God together",
+      "references": [
+        "1 Corinthians 16:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should: Be duly regulated",
+      "references": [
+        "Proverbs 31:27",
+        "1 Timothy 3:4,5,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should: Live in unity",
+      "references": [
+        "Genesis 45:24",
+        "Psalms 133:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should: Live in mutual forbearance",
+      "references": [
+        "Genesis 50:17-21",
+        "Matthew 18:21,22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should: Rejoice together before God",
+      "references": [
+        "Deuteronomy 14:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Deceivers and liars should be removed from",
+      "references": [
+        "Psalms 101:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Warning against departing from God",
+      "references": [
+        "Deuteronomy 29:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Punishment of irreligious",
+      "references": [
+        "Jeremiah 10:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Abraham",
+      "references": [
+        "Genesis 18:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Jacob",
+      "references": [
+        "Genesis 35:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Joshua",
+      "references": [
+        "Joshua 24:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: David",
+      "references": [
+        "2 Samuel 6:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Job",
+      "references": [
+        "Job 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Lazarus of Bethany",
+      "references": [
+        "John 11:1-5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Cornelius",
+      "references": [
+        "Acts 10:2,33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Lydia",
+      "references": [
+        "Acts 16:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Jailor of Philippi",
+      "references": [
+        "Acts 16:31-34"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Crispus",
+      "references": [
+        "Acts 18:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Good — Exemplified: Lois",
+      "references": [
+        "2 Timothy 1:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 128,
+      "verses": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 128:3-6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:9,10"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:19"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:27"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "verses": [
+        4,
+        5,
+        12
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Timothy 3:4,5,12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 45,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 45:24"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 133,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 133:1"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 50:17-21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 18:21,22"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 14,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 14:26"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 101,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 101:7"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 29,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 29:18"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 10:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 18,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 18:19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 35,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 35:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:15"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:20"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:5"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "John 11:1-5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        2,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 10:2,33"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:15"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 16:31-34"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:8"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 1:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Timothy",
+    "2 Samuel",
+    "2 Timothy",
+    "Acts",
+    "Deuteronomy",
+    "Genesis",
+    "Jeremiah",
+    "Job",
+    "John",
+    "Joshua",
+    "Matthew",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 24,
+    "ot_refs": 15,
+    "nt_refs": 9,
+    "books_count": 14,
+    "top_books": [
+      "Genesis",
+      "Acts",
+      "Psalms",
+      "Deuteronomy",
+      "1 Corinthians",
+      "Proverbs",
+      "1 Timothy",
+      "Matthew",
+      "Jeremiah",
+      "Joshua"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "topic": "PEKOD",
+  "slug": "pekod",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A name for Chal",
+      "references": [
+        "Jeremiah 50:21",
+        "Ezekiel 23:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 50,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 50:21"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 23:23"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Jeremiah",
+      "Ezekiel"
+    ]
+  }
+}

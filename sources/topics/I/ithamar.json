@@ -1,0 +1,168 @@
+{
+  "topic": "ITHAMAR",
+  "slug": "ithamar",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 6:23",
+        "Exodus 28:1",
+        "1 Chronicles 6:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Entrusted with monies of the tabernacle",
+      "references": [
+        "Exodus 38:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Charged with duties of the tabernacle",
+      "references": [
+        "Numbers 4:28",
+        "Numbers 7:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 10:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "1 Chronicles 24:1-19"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:23"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 38,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 38:21"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 4:28"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 7:8"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 10:6,7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 19,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:1-19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus",
+    "Leviticus",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Exodus",
+      "1 Chronicles",
+      "Numbers",
+      "Leviticus"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "topic": "BLASTING",
+  "slug": "blasting",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Blight",
+      "references": [
+        "1 Kings 8:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sent as a",
+      "references": [
+        "Deuteronomy 28:22",
+        "2 Kings 19:7",
+        "Isaiah 37:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4:9;",
+      "references": [
+        "Haggai 2:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Exodus 15:8",
+        "2 Samuel 22:16",
+        "Job 4:9",
+        "Psalms 18:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:37"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:22"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 19:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 37,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 37:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 4:9"
+    },
+    {
+      "book": "Haggai",
+      "chapter": 2,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Haggai 2:17"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 15:8"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 22:16"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 4:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "2 Samuel",
+    "Deuteronomy",
+    "Exodus",
+    "Haggai",
+    "Isaiah",
+    "Job",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 9,
+    "top_books": [
+      "Isaiah",
+      "1 Kings",
+      "Deuteronomy",
+      "2 Kings",
+      "Haggai",
+      "Exodus",
+      "2 Samuel",
+      "Job",
+      "Psalms"
+    ]
+  }
+}

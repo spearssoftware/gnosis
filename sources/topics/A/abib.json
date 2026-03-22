@@ -1,0 +1,152 @@
+{
+  "topic": "ABIB",
+  "slug": "abib",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "First month in the Jewish",
+      "references": [
+        "Exodus 12:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Pas",
+      "references": [
+        "Exodus 23:15",
+        "Deuteronomy 16:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Tabernacle set up in",
+      "references": [
+        "Exodus 40:2,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Israelites arrive at the wil",
+      "references": [
+        "Numbers 20:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Enter",
+      "references": [
+        "Joshua 4:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jordan’s overflow in",
+      "references": [
+        "1 Chronicles 12:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:15"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 16,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 16:1"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "verses": [
+        2,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 40:2,17"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 20:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 4:19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Deuteronomy",
+    "Exodus",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Exodus",
+      "Deuteronomy",
+      "Numbers",
+      "Joshua",
+      "1 Chronicles"
+    ]
+  }
+}

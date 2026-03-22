@@ -1,0 +1,44 @@
+{
+  "topic": "BETH-DAGON",
+  "slug": "beth_dagon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city of the territory of the tribe of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 15:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of the territory of the tribe of AsherJos",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 19:27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

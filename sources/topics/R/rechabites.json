@@ -1,0 +1,178 @@
+{
+  "topic": "RECHABITES",
+  "slug": "rechabites",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "ABSTINENCE, TOTAL",
+    "NAZARITES"
+  ],
+  "aspects": [
+    {
+      "label": "A family of Kenites",
+      "references": [
+        "1 Chronicles 2:55",
+        "Jeremiah 35:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Enjoined by Jonadab to drink no wine",
+      "references": [
+        "Jeremiah 35:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Adhere to the injunction of abstinence; perpetuation of the family",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "promised as a reward",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeABSTINENCE, TOTAL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNAZARITES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Descended from Hemath",
+      "references": [
+        "1 Chronicles 2:55"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The head of, assisted Jehu in his conspiracy against the house of Ahab",
+      "references": [
+        "2 Kings 10:15-17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited by Jonadab from forming settlements or drinking wine",
+      "references": [
+        "Jeremiah 35:6-8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Obedience of, a sign to Israel",
+      "references": [
+        "Jeremiah 35:12-17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Perpetuity to, promised",
+      "references": [
+        "Jeremiah 35:18,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        55
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:55"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 35,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 35:6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 10:15-17"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 35,
+      "verses": [
+        6,
+        7,
+        8
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 35:6-8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 35,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Jeremiah 35:12-17"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 35,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 35:18,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Jeremiah",
+      "1 Chronicles",
+      "2 Kings"
+    ]
+  }
+}

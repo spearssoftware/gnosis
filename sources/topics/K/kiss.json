@@ -1,0 +1,303 @@
+{
+  "topic": "KISS",
+  "slug": "kiss",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of affection",
+      "references": [
+        "Genesis 27:26,27",
+        "Genesis 31:55",
+        "Genesis 33:4",
+        "Genesis 48:10",
+        "Genesis 50:1",
+        "Exodus 18:7",
+        "Ruth 1:14",
+        "2 Samuel 14:33",
+        "2 Samuel 19:39",
+        "Luke 15:20",
+        "Acts 20:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The feet of Jesus kissed by the penitent woman",
+      "references": [
+        "Luke 7:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Proverbs 27:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Joab, when he killed Amasa",
+      "references": [
+        "2 Samuel 20:9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Matthew 26:48",
+        "Luke 22:48"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The holy",
+      "references": [
+        "Romans 16:16",
+        "2 Corinthians 13:12",
+        "1 Thessalonians 5:26",
+        "1 Peter 5:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 27:26,27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 31,
+      "verses": [
+        55
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 31:55"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:4"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 48,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 48:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 50:1"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 18,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 18:7"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 1:14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 14:33"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 19:39"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 15:20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 20:37"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:38"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:6"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 20:9,10"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:48"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 22:48"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:16"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 13,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 13:12"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:26"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 5,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 5:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "1 Thessalonians",
+    "2 Corinthians",
+    "2 Samuel",
+    "Acts",
+    "Exodus",
+    "Genesis",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Romans",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 20,
+    "ot_refs": 11,
+    "nt_refs": 9,
+    "books_count": 12,
+    "top_books": [
+      "Genesis",
+      "2 Samuel",
+      "Luke",
+      "Exodus",
+      "Ruth",
+      "Acts",
+      "Proverbs",
+      "Matthew",
+      "Romans",
+      "2 Corinthians"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "topic": "PINE",
+  "slug": "pine",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A tree",
+      "references": [
+        "Nehemiah 8:15",
+        "Isaiah 41:19",
+        "Isaiah 60:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:15"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 41,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 41:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 60:13"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Isaiah",
+      "Nehemiah"
+    ]
+  }
+}

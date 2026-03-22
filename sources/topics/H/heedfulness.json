@@ -1,0 +1,420 @@
+{
+  "topic": "HEEDFULNESS",
+  "slug": "heedfulness",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Commanded",
+      "references": [
+        "Exodus 23:13",
+        "Proverbs 4:25-27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In the care of the soul",
+      "references": [
+        "Deuteronomy 4:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In the house and worship of God",
+      "references": [
+        "Ecclesiastes 5:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In what we hear",
+      "references": [
+        "Mark 4:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In how we hear",
+      "references": [
+        "Luke 8:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In keeping God’s commandments",
+      "references": [
+        "Joshua 22:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In conduct",
+      "references": [
+        "Ephesians 5:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In speech",
+      "references": [
+        "Proverbs 13:3",
+        "James 1:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In worldly company",
+      "references": [
+        "Psalms 39:1",
+        "Colossians 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: In giving judgment",
+      "references": [
+        "1 Chronicles 19:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Against sin",
+      "references": [
+        "Hebrews 12:15,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Against unbelief",
+      "references": [
+        "Hebrews 3:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Against idolatry",
+      "references": [
+        "Deuteronomy 4:15,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Against false Christs, and false prophets",
+      "references": [
+        "Matthew 24:4,5,23,24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Against false teachers",
+      "references": [
+        "Colossians 2:8",
+        "2 Peter 3:16,17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Against presumption",
+      "references": [
+        "1 Corinthians 10:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary: Promises to",
+      "references": [
+        "1 Kings 2:4",
+        "1 Chronicles 22:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 4:25-27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:9"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:1"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 4:24"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 8:18"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 22,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 22:5"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 13:3"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 1:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 39,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 39:1"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 4:5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 19:6,7"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Hebrews 12:15,16"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 3:12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 4,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 4:15,16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        4,
+        5,
+        23,
+        24
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 24:4,5,23,24"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 2:8"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 3,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "2 Peter 3:16,17"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 10:12"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 2:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 22:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Corinthians",
+    "1 Kings",
+    "2 Peter",
+    "Colossians",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Ephesians",
+    "Exodus",
+    "Hebrews",
+    "James",
+    "Joshua",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 17,
+    "total_refs": 22,
+    "ot_refs": 11,
+    "nt_refs": 11,
+    "books_count": 17,
+    "top_books": [
+      "Proverbs",
+      "Deuteronomy",
+      "Colossians",
+      "1 Chronicles",
+      "Hebrews",
+      "Exodus",
+      "Ecclesiastes",
+      "Mark",
+      "Luke",
+      "Joshua"
+    ]
+  }
+}

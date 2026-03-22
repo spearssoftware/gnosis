@@ -1,0 +1,153 @@
+{
+  "topic": "IMPORTS",
+  "slug": "imports",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMERCE",
+    "EXPORTS",
+    "TRIBUTE"
+  ],
+  "aspects": [
+    {
+      "label": "Of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Horses, chariots, and linen",
+      "references": [
+        "1 Kings 10:28,29",
+        "2 Chronicles 1:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Gold, ivory, apes, peacocks",
+      "references": [
+        "2 Chronicles 9:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Egypt",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Spices",
+      "references": [
+        "Genesis 37:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Tyre",
+      "references": [
+        "Ezekiel 27:12-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMMERCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeEXPORTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTRIBUTE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 10:28,29"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 1,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 1:16"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 37:25"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Ezekiel 27:12-25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "Ezekiel",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "2 Chronicles",
+      "1 Kings",
+      "Genesis",
+      "Ezekiel"
+    ]
+  }
+}

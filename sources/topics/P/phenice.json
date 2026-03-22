@@ -1,0 +1,49 @@
+{
+  "topic": "PHENICE",
+  "slug": "phenice",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A harbor of Crete",
+      "references": [
+        "Acts 27:12,13,21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        12,
+        13,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 27:12,13,21"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

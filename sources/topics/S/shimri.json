@@ -1,0 +1,96 @@
+{
+  "topic": "SHIMRI",
+  "slug": "shimri",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Head of a family in the tribe of Simeon",
+      "references": [
+        "1 Chronicles 4:37,38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of one of David’ s mighty men",
+      "references": [
+        "1 Chronicles 11:45"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Merarite (in A. V.,",
+      "references": [
+        "1 Chronicles 26:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Levite in the time of Hezekiah",
+      "references": [
+        "2 Chronicles 29:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        37,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:37,38"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:45"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 26:10"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

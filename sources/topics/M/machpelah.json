@@ -1,0 +1,98 @@
+{
+  "topic": "MACHPELAH",
+  "slug": "machpelah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The burying place of Sarah, Abraham,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Jacob",
+      "references": [
+        "Genesis 23:9,17-20",
+        "Genesis 25:9",
+        "Genesis 49:30,31",
+        "Genesis 50:13",
+        "Acts 7:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 23,
+      "verses": [
+        9,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 23:9,17-20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 49,
+      "verses": [
+        30,
+        31
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 49:30,31"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 50:13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:16"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Acts"
+    ]
+  }
+}

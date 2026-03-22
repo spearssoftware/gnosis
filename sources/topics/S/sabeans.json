@@ -1,0 +1,118 @@
+{
+  "topic": "SABEANS",
+  "slug": "sabeans",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SHEBA"
+  ],
+  "aspects": [
+    {
+      "label": "A people who inva",
+      "references": [
+        "Job 1:15",
+        "Isaiah 43:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Giants among",
+      "references": [
+        "Isaiah 45:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecies concerning",
+      "references": [
+        "Isaiah 43:3",
+        "Joel 3:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Proverbial drunkards",
+      "references": [
+        "Ezekiel 23:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSHEBA",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:15"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 43,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 43:3"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 45,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 45:14"
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 3:8"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 23,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 23:42"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Isaiah",
+    "Job",
+    "Joel"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Isaiah",
+      "Job",
+      "Joel",
+      "Ezekiel"
+    ]
+  }
+}

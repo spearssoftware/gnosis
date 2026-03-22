@@ -1,0 +1,127 @@
+{
+  "topic": "PENNY",
+  "slug": "penny",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A",
+      "references": [
+        "Mark 6:37",
+        "Mark 14:5",
+        "Luke 7:41",
+        "Luke 10:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Roman, had",
+      "references": [
+        "Matthew 22:19-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Worth one day’s wages",
+      "references": [
+        "Matthew 20:2-14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 6:37"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:5"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:41"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:35"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        19,
+        20,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 22:19-21"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Matthew 20:2-14"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 6,
+    "ot_refs": 0,
+    "nt_refs": 6,
+    "books_count": 3,
+    "top_books": [
+      "Mark",
+      "Luke",
+      "Matthew"
+    ]
+  }
+}

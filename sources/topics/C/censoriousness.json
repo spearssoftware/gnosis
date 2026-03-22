@@ -1,0 +1,39 @@
+{
+  "topic": "CENSORIOUSNESS",
+  "slug": "censoriousness",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CHARITABLENESS",
+    "SPEAKING, EVIL",
+    "UNCHARITABLENESS"
+  ],
+  "aspects": [
+    {
+      "label": "SeeUNCHARITABLENESS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSPEAKING, EVIL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCHARITABLENESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

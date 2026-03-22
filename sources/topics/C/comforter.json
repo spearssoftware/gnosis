@@ -1,0 +1,33 @@
+{
+  "topic": "COMFORTER",
+  "slug": "comforter",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GOD, GRACE OF",
+    "HOLY SPIRIT"
+  ],
+  "aspects": [
+    {
+      "label": "SeeGOD, GRACE OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHOLY SPIRIT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

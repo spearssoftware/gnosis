@@ -1,0 +1,68 @@
+{
+  "topic": "HORNET",
+  "slug": "hornet",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Or wasp",
+      "references": [
+        "Exodus 23:28",
+        "Deuteronomy 7:20",
+        "Joshua 24:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 23:28"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 7,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 7:20"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 24,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 24:12"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Exodus",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Deuteronomy",
+      "Joshua"
+    ]
+  }
+}

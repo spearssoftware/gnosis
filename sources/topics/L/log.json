@@ -1,0 +1,45 @@
+{
+  "topic": "LOG",
+  "slug": "log",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A measure for liquids, holding about a pint",
+      "references": [
+        "Leviticus 14:10,12,15,24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        10,
+        12,
+        15,
+        24
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Leviticus 14:10,12,15,24"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

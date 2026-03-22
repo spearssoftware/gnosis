@@ -1,0 +1,145 @@
+{
+  "topic": "NOB",
+  "slug": "nob",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of the tribe of Benjamin",
+      "references": [
+        "Nehemiah 11:31,32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "1 Samuel 22:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The home of Ahimelech, the priest",
+      "references": [
+        "1 Samuel 21:1",
+        "1 Samuel 22:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Probable seat of the tabernacle in Saul’s time1Sa",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Samuel 22:19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecy concerning",
+      "references": [
+        "Isaiah 10:32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        31,
+        32
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 11:31,32"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 22:19"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 21:1"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 22:11"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "verses": [
+        4,
+        6,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 21:4,6,9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 22:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:32"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Samuel",
+    "Isaiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Samuel",
+      "Nehemiah",
+      "2 Samuel",
+      "Isaiah"
+    ]
+  }
+}

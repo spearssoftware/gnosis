@@ -1,0 +1,50 @@
+{
+  "topic": "ITINERARY",
+  "slug": "itinerary",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ISRAEL"
+  ],
+  "aspects": [
+    {
+      "label": "Of the Israelites",
+      "references": [
+        "Deuteronomy 10:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeISRAEL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 10,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 10:6,7"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Deuteronomy"
+    ]
+  }
+}

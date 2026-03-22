@@ -1,0 +1,71 @@
+{
+  "topic": "MERARI",
+  "slug": "merari",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LEVITES"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 46:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Head the Merarite Levites",
+      "references": [
+        "Numbers 3:17,33-35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLEVITES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:11"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "verses": [
+        17,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Numbers 3:17,33-35"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Numbers"
+    ]
+  }
+}

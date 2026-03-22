@@ -1,0 +1,49 @@
+{
+  "topic": "MUTINY",
+  "slug": "mutiny",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CONSPIRACY"
+  ],
+  "aspects": [
+    {
+      "label": "Israelites against Moses",
+      "references": [
+        "Numbers 14:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCONSPIRACY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 14:4"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

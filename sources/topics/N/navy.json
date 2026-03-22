@@ -1,0 +1,98 @@
+{
+  "topic": "NAVY",
+  "slug": "navy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COMMERCE",
+    "MARINER",
+    "NAVIGATION"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "1 Kings 9:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hiram’s",
+      "references": [
+        "1 Kings 10:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Chittim",
+      "references": [
+        "Daniel 11:30,40"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOMMERCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMARINER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeNAVIGATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 9:26"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:11"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        30,
+        40
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 11:30,40"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Daniel"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "Daniel"
+    ]
+  }
+}

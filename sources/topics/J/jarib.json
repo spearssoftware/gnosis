@@ -1,0 +1,78 @@
+{
+  "topic": "JARIB",
+  "slug": "jarib",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 4:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A chief among the",
+      "references": [
+        "Ezra 8:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest who married an idolatrous wife",
+      "references": [
+        "Ezra 10:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:24"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:16"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezra",
+      "1 Chronicles"
+    ]
+  }
+}

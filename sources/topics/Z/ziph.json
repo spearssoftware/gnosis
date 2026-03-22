@@ -1,0 +1,120 @@
+{
+  "topic": "ZIPH",
+  "slug": "ziph",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Two cities of the tribe of",
+      "references": [
+        "Joshua 15:24,55"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "23:14,15,24;26:2;",
+      "references": [
+        "2 Chronicles 11:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Grand",
+      "references": [
+        "1 Chronicles 2:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3.",
+      "references": [
+        "1 Chronicles 4:16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        24,
+        55
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 15:24,55"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 23,
+      "verses": [
+        14,
+        15,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 23:14,15,24"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 26,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 26:2"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:42"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "1 Chronicles",
+      "2 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "topic": "CURSING",
+  "slug": "cursing",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ANATHEMA MARAN-ATHA",
+    "BLASPHEMY",
+    "GOD, NAME OF, NOT TO BE PROFANED",
+    "OATH"
+  ],
+  "aspects": [
+    {
+      "label": "Of parents",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Shimei curses David",
+      "references": [
+        "2 Samuel 16:5-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The precepts of Jesus concerning",
+      "references": [
+        "Matthew 5:44",
+        "Luke 6:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Apostolic",
+      "references": [
+        "Romans 12:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeANATHEMA MARAN-ATHA",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBLASPHEMY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOD, NAME OF, NOT TO BE PROFANED",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOATH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Samuel 16:5-8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:44"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:28"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:4"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Luke",
+    "Matthew",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 4,
+    "ot_refs": 1,
+    "nt_refs": 3,
+    "books_count": 4,
+    "top_books": [
+      "2 Samuel",
+      "Matthew",
+      "Luke",
+      "Romans"
+    ]
+  }
+}

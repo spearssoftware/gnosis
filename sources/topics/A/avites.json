@@ -1,0 +1,71 @@
+{
+  "topic": "AVITES",
+  "slug": "avites",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A nation in",
+      "references": [
+        "Deuteronomy 2:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Colonists of Samaria",
+      "references": [
+        "2 Kings 17:31"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:23"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 13,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 13:3"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:31"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Deuteronomy",
+      "2 Kings"
+    ]
+  }
+}

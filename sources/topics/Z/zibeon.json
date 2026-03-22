@@ -1,0 +1,76 @@
+{
+  "topic": "ZIBEON",
+  "slug": "zibeon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Hivite",
+      "references": [
+        "Genesis 36:2,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "Genesis 36:20,24,29",
+        "1 Chronicles 1:38,40"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        2,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 36:2,14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        20,
+        24,
+        29
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 36:20,24,29"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        38,
+        40
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:38,40"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

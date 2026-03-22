@@ -1,0 +1,150 @@
+{
+  "topic": "BOOTH",
+  "slug": "booth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Temporary hut)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "Jonah 4:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ma",
+      "references": [
+        "Genesis 33:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Watchmen",
+      "references": [
+        "Job 27:18",
+        "Isaiah 1:8",
+        "Isaiah 24:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prescribed for the Israelites to live in, during the Feast of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Tabernacles, to celebrate their wan",
+      "references": [
+        "Leviticus 23:40-43",
+        "Nehemiah 8:15,16"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jonah 4:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 33,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 33:17"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 27:18"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 24,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 24:20"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Leviticus 23:40-43"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 8:15,16"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "Jonah",
+    "Leviticus",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Isaiah",
+      "Jonah",
+      "Genesis",
+      "Job",
+      "Leviticus",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "topic": "UZZIAH",
+  "slug": "uzziah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".King of",
+      "references": [
+        "2 Kings 14:21",
+        "2 Kings 15:1,2",
+        "2 Chronicles 26:1,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Rebuilds Elath",
+      "references": [
+        "2 Kings 14:22",
+        "2 Chronicles 26:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Reigns righteously",
+      "references": [
+        "2 Kings 15:3",
+        "2 Chronicles 26:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "2 Chronicles 26:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Takes tribute from the Ammonites",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Strengthens the kingdom",
+      "references": [
+        "2 Chronicles 26:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Strengthens the fortifi",
+      "references": [
+        "2 Chronicles 26:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Promotes",
+      "references": [
+        "2 Chronicles 26:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Military establishment of",
+      "references": [
+        "2 Chronicles 26:11-15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is presumptuous in burning incense; stricken with leprosy; quarantined",
+      "references": [
+        "2 Chronicles 26:16-21",
+        "2 Kings 15:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jotham regent during quarantine of",
+      "references": [
+        "2 Kings 15:5",
+        "2 Chronicles 26:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "2 Kings 15:7",
+        "2 Chronicles 26:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".History of, written by",
+      "references": [
+        "2 Chronicles 26:22",
+        "Isaiah 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".An earthquake occurred during the reign of",
+      "references": [
+        "Amos 1:1",
+        "Ecclesiastes 14:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Chronicles 6:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Father of Jehonathan",
+      "references": [
+        "1 Chronicles 27:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A priest",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Puts away (divorced) his Gentile wife",
+      "references": [
+        "Ezra 10:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Father of Athaiah",
+      "references": [
+        "Nehemiah 11:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 14:21"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 15:1,2"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        1,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:1,3"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 14:22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:2"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:4,5"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:6,7"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:9"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:10"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:11-15"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:16-21"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:5"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:21"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:7"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:22"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 1:1"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 1:1"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 14:5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:25"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:21"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Kings",
+    "Amos",
+    "Ecclesiastes",
+    "Ezra",
+    "Isaiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 25,
+    "ot_refs": 25,
+    "nt_refs": 0,
+    "books_count": 8,
+    "top_books": [
+      "2 Chronicles",
+      "2 Kings",
+      "1 Chronicles",
+      "Isaiah",
+      "Amos",
+      "Ecclesiastes",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

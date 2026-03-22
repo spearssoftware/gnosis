@@ -1,0 +1,145 @@
+{
+  "topic": "ABEL",
+  "slug": "abel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 4:1-15,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".References to the",
+      "references": [
+        "Matthew 23:35",
+        "Luke 11:51",
+        "Hebrews 11:4",
+        "Hebrews 12:24",
+        "Job 3:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A stone",
+      "references": [
+        "1 Samuel 6:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        25
+      ],
+      "verse_count": 16,
+      "testament": "OT",
+      "raw": "Genesis 4:1-15,25"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 23:35"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        51
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:51"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:4"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:24"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 3:12"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 6:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Genesis",
+    "Hebrews",
+    "Job",
+    "Luke",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 3,
+    "nt_refs": 4,
+    "books_count": 6,
+    "top_books": [
+      "Hebrews",
+      "Genesis",
+      "Matthew",
+      "Luke",
+      "Job",
+      "1 Samuel"
+    ]
+  }
+}

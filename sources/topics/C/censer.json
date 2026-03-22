@@ -1,0 +1,180 @@
+{
+  "topic": "CENSER",
+  "slug": "censer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used for offering incense",
+      "references": [
+        "Leviticus 16:12",
+        "Numbers 4:14",
+        "Numbers 16:6,7,16-18,46",
+        "Revelation 8:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "For the temple, ma",
+      "references": [
+        "1 Kings 7:50",
+        "2 Chronicles 4:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Those which Korah used were converted into plates",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in idolatrous rites",
+      "references": [
+        "Ezekiel 8:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SYMBOLI",
+      "references": [
+        "Revelation 8:3,5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 16:12"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 4:14"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "verses": [
+        6,
+        7,
+        16,
+        17,
+        18,
+        46
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 16:6,7,16-18,46"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 8:3"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:50"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 4:22"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:4"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 16,
+      "verses": [
+        37,
+        38,
+        39
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Chronicles 16:37-39"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 8,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 8:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 8,
+      "verses": [
+        3,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 8:3,5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Chronicles",
+    "Ezekiel",
+    "Leviticus",
+    "Numbers",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 10,
+    "ot_refs": 8,
+    "nt_refs": 2,
+    "books_count": 6,
+    "top_books": [
+      "2 Chronicles",
+      "Numbers",
+      "Revelation",
+      "Leviticus",
+      "1 Kings",
+      "Ezekiel"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "topic": "JAPHETH",
+  "slug": "japheth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 5:32",
+        "Genesis 6:10",
+        "Genesis 9:18",
+        "Genesis 10:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "His life preserved at the time of the great floodGe",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Pru",
+      "references": [
+        "Genesis 9:23,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 10:2-5",
+        "1 Chronicles 1:5-7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 5:32"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 6:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 9,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 9:18"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 7,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 7:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 9,
+      "verses": [
+        23,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 9:23,27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 10:2-5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:5-7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

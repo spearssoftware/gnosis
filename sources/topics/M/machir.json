@@ -1,0 +1,165 @@
+{
+  "topic": "MACHIR",
+  "slug": "machir",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. One of the",
+      "references": [
+        "Genesis 50:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Father of the Machirites",
+      "references": [
+        "Numbers 26:29",
+        "Numbers 36:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The land of Gilead allotted to",
+      "references": [
+        "Numbers 32:39,40",
+        "Deuteronomy 3:15",
+        "Joshua 13:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Certain cities of Bashan given to",
+      "references": [
+        "Joshua 13:31",
+        "Joshua 17:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A man of Lo-",
+      "references": [
+        "2 Samuel 9:4,5",
+        "2 Samuel 17:27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 50,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 50:23"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:29"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 36:1"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        39,
+        40
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 32:39,40"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 3:15"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:31"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:1"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 9:4,5"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 17:27"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Deuteronomy",
+    "Genesis",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Numbers",
+      "Joshua",
+      "2 Samuel",
+      "Genesis",
+      "Deuteronomy"
+    ]
+  }
+}

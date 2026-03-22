@@ -1,0 +1,73 @@
+{
+  "topic": "ALABASTER",
+  "slug": "alabaster",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A white stone)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Vessels ma",
+      "references": [
+        "Matthew 26:7",
+        "Mark 14:3",
+        "Luke 7:37"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:7"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:3"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:37"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke"
+    ]
+  }
+}

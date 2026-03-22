@@ -1,0 +1,86 @@
+{
+  "topic": "TROAS",
+  "slug": "troas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A seaport of Mysia, in Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul visits",
+      "references": [
+        "Acts 16:8,11",
+        "Acts 20:5,6",
+        "2 Corinthians 2:12",
+        "2 Timothy 4:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        8,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 16:8,11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 20:5,6"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 2:12"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:13"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "2 Timothy",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 3,
+    "top_books": [
+      "Acts",
+      "2 Corinthians",
+      "2 Timothy"
+    ]
+  }
+}

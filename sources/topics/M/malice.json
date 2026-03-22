@@ -1,0 +1,1768 @@
+{
+  "topic": "MALICE",
+  "slug": "malice",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "CONSPIRACY",
+    "HATRED",
+    "HOMICIDE",
+    "JEALOUSY",
+    "REVENGE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Genesis 3:15",
+        "Leviticus 19:14,17,18",
+        "Deuteronomy 27:17,18",
+        "Deuteronomy 32:32,33",
+        "2 Kings 6:21,22",
+        "Job 15:35",
+        "Job 31:29,30",
+        "Psalms 4:2",
+        "Psalms 7:14-16",
+        "Psalms 10:7-10,14",
+        "Psalms 21:11",
+        "Psalms 22:7,8",
+        "Psalms 35:15,16,19-21",
+        "Psalms 38:16,19",
+        "Psalms 41:5-8",
+        "Psalms 55:3,10,11",
+        "Psalms 56:5,6",
+        "Psalms 57:4,6",
+        "Psalms 59:3,4,6,7",
+        "Psalms 62:3,4",
+        "Psalms 64:2-6",
+        "Psalms 69:4,10-12,26",
+        "Psalms 70:2,3",
+        "Psalms 71:10,11,13,24",
+        "Psalms 74:20",
+        "Psalms 86:14",
+        "Psalms 102:8",
+        "Psalms 109:2-5,16-18",
+        "Psalms 119:78,150",
+        "Psalms 140:1-4",
+        "Proverbs 4:16,17",
+        "Proverbs 6:14-16,18,19",
+        "Proverbs 10:6,12",
+        "Proverbs 11:17",
+        "Proverbs 12:10",
+        "Proverbs 14:17,22",
+        "Proverbs 15:17",
+        "Proverbs 16:30",
+        "Proverbs 17:5",
+        "Proverbs 20:22",
+        "Proverbs 21:10",
+        "Proverbs 24:8,17,18,29",
+        "Proverbs 26:2,27",
+        "Proverbs 28:10",
+        "Proverbs 30:14",
+        "Isaiah 29:20,21",
+        "Isaiah 32:6",
+        "Isaiah 59:4-7",
+        "Jeremiah 20:10",
+        "Lamentations 4:3,4",
+        "Ezekiel 18:18",
+        "Ezekiel 25:3,6,7,12,15,17",
+        "Ezekiel 26:2,3",
+        "Amos 1:11",
+        "Micah 2:1",
+        "Ecclesiastes 7:10",
+        "Ecclesiastes 8:17",
+        "Matthew 5:38-41",
+        "Matthew 6:15",
+        "Matthew 18:28-35",
+        "Matthew 26:52",
+        "Mark 15:10",
+        "Luke 6:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "8:44;18:22,23;",
+      "references": [
+        "Acts 23:12-14",
+        "Romans 1:29-32",
+        "Romans 12:19",
+        "1 Corinthians 5:8",
+        "1 Corinthians 14:20",
+        "Galatians 5:19-21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4:31;",
+      "references": [
+        "Philippians 1:15,16",
+        "Colossians 3:8",
+        "1 Thessalonians 5:15",
+        "Titus 3:3",
+        "James 1:21",
+        "James 2:13",
+        "1 Peter 2:1",
+        "1 Peter 3:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2:9,11;3:10,13-15;4:20;",
+      "references": [
+        "Job 1:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCONSPIRACY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHATRED",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJEALOUSY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeREVENGE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Genesis 4:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ishmael toward Sarah",
+      "references": [
+        "Genesis 21:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sarah toward Hagar",
+      "references": [
+        "Genesis 21:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Philistines toward",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Esau toward Jacob",
+      "references": [
+        "Genesis 27:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joseph’s broth",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Springs from an evil heart",
+      "references": [
+        "Matthew 15:19,20",
+        "Galatians 5:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Forbidden",
+      "references": [
+        "1 Corinthians 14:20",
+        "Colossians 3:8",
+        "Ephesians 4:26,27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A hindrance to growth in grace",
+      "references": [
+        "1 Peter 2:1,2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Incompatible with the worship of God",
+      "references": [
+        "1 Corinthians 5:7,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Christian liberty not to be a cloak for",
+      "references": [
+        "1 Peter 2:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints avoid",
+      "references": [
+        "Job 31:29,30",
+        "Psalms 35:12-14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Speak with",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Live in",
+      "references": [
+        "Titus 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Conceive",
+      "references": [
+        "Psalms 7:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Filled with",
+      "references": [
+        "Romans 1:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked: Visit saints with",
+      "references": [
+        "Psalms 83:3",
+        "Matthew 22:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Pray for those who injure you through",
+      "references": [
+        "Matthew 5:44"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Brings its own punishment",
+      "references": [
+        "Psalms 7:15,16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God requites",
+      "references": [
+        "Psalms 10:14",
+        "Ezekiel 36:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Punishment of",
+      "references": [
+        "Amos 1:11,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Cain",
+      "references": [
+        "Genesis 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Esau",
+      "references": [
+        "Genesis 27:41"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Joseph’s brethren",
+      "references": [
+        "Genesis 37:19,20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Saul",
+      "references": [
+        "1 Samuel 18:9-11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Shimei",
+      "references": [
+        "2 Samuel 16:5",
+        "1 Kings 2:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Joab",
+      "references": [
+        "2 Samuel 3:27",
+        "1 Kings 2:5,28-33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Sanballat",
+      "references": [
+        "Nehemiah 2:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Haman",
+      "references": [
+        "Esther 3:5,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Edomites",
+      "references": [
+        "Ezekiel 35:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Presidents, &c",
+      "references": [
+        "Daniel 6:4-9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Herodias",
+      "references": [
+        "Mark 6:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Scribes &c",
+      "references": [
+        "Mark 11:18",
+        "Luke 11:54"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Diotrephes",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        14,
+        17,
+        18
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 19:14,17,18"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:17,18"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        32,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:32,33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 6:21,22"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 15:35"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        29,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 31:29,30"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 4:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 7,
+      "verses": [
+        14,
+        15,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Psalms 7:14-16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 10,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        14
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Psalms 10:7-10,14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 21,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 21:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 22,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 22:7,8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 35,
+      "verses": [
+        15,
+        16,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Psalms 35:15,16,19-21"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 38,
+      "verses": [
+        16,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 38:16,19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 41,
+      "verses": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 41:5-8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 55,
+      "verses": [
+        3,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Psalms 55:3,10,11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 56,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 56:5,6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 57,
+      "verses": [
+        4,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 57:4,6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 59,
+      "verses": [
+        3,
+        4,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 59:3,4,6,7"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 62,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 62:3,4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 64,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Psalms 64:2-6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 69,
+      "verses": [
+        4,
+        10,
+        11,
+        12,
+        26
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Psalms 69:4,10-12,26"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 70,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 70:2,3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 71,
+      "verses": [
+        10,
+        11,
+        13,
+        24
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 71:10,11,13,24"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 74,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 74:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 86,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 86:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 102,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 102:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 109,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Psalms 109:2-5,16-18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        78,
+        150
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 119:78,150"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 140,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Psalms 140:1-4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 4:16,17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        14,
+        15,
+        16,
+        18,
+        19
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Proverbs 6:14-16,18,19"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        6,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 10:6,12"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        17,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 14:17,22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:30"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:5"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 21:10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        8,
+        17,
+        18,
+        29
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Proverbs 24:8,17,18,29"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        2,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 26:2,27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 30:14"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 29,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 29:20,21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 32,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 32:6"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 59,
+      "verses": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Isaiah 59:4-7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 20,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 20:10"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Lamentations 4:3,4"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 18:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 25,
+      "verses": [
+        3,
+        6,
+        7,
+        12,
+        15,
+        17
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Ezekiel 25:3,6,7,12,15,17"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 26:2,3"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 1:11"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 2:1"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:10"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 8:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Matthew 5:38-41"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 6:15"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Matthew 18:28-35"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        52
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:52"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:10"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:29"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 8:44"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 18:22,23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 23:12-14"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Romans 1:29-32"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:19"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:8"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:20"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        19,
+        20,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Galatians 5:19-21"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 4:31"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Philippians 1:15,16"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:8"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 5:15"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:3"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 1:21"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 2:13"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:1"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 3:9"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        9,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Peter 2:9,11"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "verses": [
+        10,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "1 Peter 3:10,13-15"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 4:20"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:8"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 21:10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 27,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 27:41"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 15:19,20"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 5:19"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 4:26,27"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Peter 2:1,2"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:7,8"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 2:16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 35,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Psalms 35:12-14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 7:14"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 1:29"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 83,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 83:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 22:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:44"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 7,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 7:15,16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 10,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 10:14"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 36,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 36:5"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Amos 1:11,12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 4:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 37,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 37:19,20"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 18:9-11"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 16:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 2:8,9"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:27"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        5,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "1 Kings 2:5,28-33"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 2:10"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Esther 3:5,6"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 35,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 35:5"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Daniel 6:4-9"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 6:19"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 11:18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        54
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:54"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Kings",
+    "1 Peter",
+    "1 Samuel",
+    "1 Thessalonians",
+    "2 Kings",
+    "2 Samuel",
+    "Acts",
+    "Amos",
+    "Colossians",
+    "Daniel",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Ephesians",
+    "Esther",
+    "Ezekiel",
+    "Galatians",
+    "Genesis",
+    "Isaiah",
+    "James",
+    "Jeremiah",
+    "Job",
+    "Lamentations",
+    "Leviticus",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Micah",
+    "Nehemiah",
+    "Philippians",
+    "Proverbs",
+    "Psalms",
+    "Romans",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 43,
+    "total_refs": 118,
+    "ot_refs": 80,
+    "nt_refs": 38,
+    "books_count": 34,
+    "top_books": [
+      "Psalms",
+      "Proverbs",
+      "Genesis",
+      "Matthew",
+      "1 Peter",
+      "Ezekiel",
+      "Luke",
+      "Job",
+      "Isaiah",
+      "Mark"
+    ]
+  }
+}

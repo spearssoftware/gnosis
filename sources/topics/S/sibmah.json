@@ -1,0 +1,105 @@
+{
+  "topic": "SIBMAH",
+  "slug": "sibmah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of the tribe of Reuben",
+      "references": [
+        "Joshua 13:19",
+        "Isaiah 16:8,9",
+        "Jeremiah 48:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Apparently al",
+      "references": [
+        "Numbers 32:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Numbers 32:38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 16,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Isaiah 16:8,9"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:32"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 32:3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 32:38"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Jeremiah",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Numbers",
+      "Joshua",
+      "Isaiah",
+      "Jeremiah"
+    ]
+  }
+}

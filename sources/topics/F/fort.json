@@ -1,0 +1,362 @@
+{
+  "topic": "FORT",
+  "slug": "fort",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CASTLES",
+    "TOWERS",
+    "WALLS"
+  ],
+  "aspects": [
+    {
+      "label": "(A military",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Field fortifi",
+      "references": [
+        "Deuteronomy 20:19,20",
+        "2 Kings 25:1",
+        "Ezekiel 4:2",
+        "Ezekiel 17:17",
+        "Ezekiel 26:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Chronicles 26:15",
+        "Isaiah 25:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTOWERS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWALLS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Erected in vineyards and herding grounds",
+      "references": [
+        "2 Chronicles 26:10",
+        "Isaiah 5:2",
+        "Matthew 21:33",
+        "Mark 12:1",
+        "Luke 20:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 6:2",
+        "1 Samuel 23:29",
+        "Isaiah 33:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of God’s",
+      "references": [
+        "2 Samuel 22:2,3,47",
+        "Psalms 18:2",
+        "Psalms 31:3",
+        "Psalms 71:3",
+        "Psalms 91:2",
+        "Psalms 144:2",
+        "Proverbs 18:10",
+        "Nahum 1:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 20,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 20:19,20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:1"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 4,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 4:2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 17,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 17:17"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 26:8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:15"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 25,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 25:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 21:33"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 12:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 20:9"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 6:2"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 23:29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 33,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 33:16"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        2,
+        3,
+        47
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 22:2,3,47"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 31,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 31:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 71,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 71:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 91,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 91:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 144,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 144:2"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:10"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 1:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Deuteronomy",
+    "Ezekiel",
+    "Isaiah",
+    "Judges",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Nahum",
+    "Proverbs",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 23,
+    "ot_refs": 20,
+    "nt_refs": 3,
+    "books_count": 14,
+    "top_books": [
+      "Psalms",
+      "Ezekiel",
+      "Isaiah",
+      "2 Chronicles",
+      "Deuteronomy",
+      "2 Kings",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "Judges"
+    ]
+  }
+}

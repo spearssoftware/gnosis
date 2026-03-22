@@ -1,0 +1,50 @@
+{
+  "topic": "GREEK",
+  "slug": "greek",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GREECE"
+  ],
+  "aspects": [
+    {
+      "label": "Philo",
+      "references": [
+        "1 Corinthians 1:22,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGREECE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:22,23"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "1 Corinthians"
+    ]
+  }
+}

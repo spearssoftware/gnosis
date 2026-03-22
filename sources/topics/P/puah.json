@@ -1,0 +1,68 @@
+{
+  "topic": "PUAH",
+  "slug": "puah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PHUVAH"
+  ],
+  "aspects": [
+    {
+      "label": "1. A Hebrew midwife",
+      "references": [
+        "Exodus 1:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Father of Tola",
+      "references": [
+        "Judges 10:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. See PHUVAH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 1:15"
+    },
+    {
+      "book": "Judges",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 10:1"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Exodus",
+      "Judges"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "AMALEK",
+  "slug": "amalek",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 36:12",
+        "1 Chronicles 1:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Probably not the ancestor of the Amalekites mentioned in time",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of Abraham",
+      "references": [
+        "Genesis 14:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:36"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

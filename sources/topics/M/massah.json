@@ -1,0 +1,49 @@
+{
+  "topic": "MASSAH",
+  "slug": "massah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MERIBAH"
+  ],
+  "aspects": [
+    {
+      "label": "An en",
+      "references": [
+        "Exodus 17:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMERIBAH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 17,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 17:7"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Exodus"
+    ]
+  }
+}

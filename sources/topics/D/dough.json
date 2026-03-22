@@ -1,0 +1,121 @@
+{
+  "topic": "DOUGH",
+  "slug": "dough",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BREAD",
+    "OVEN"
+  ],
+  "aspects": [
+    {
+      "label": "First of, offered to God",
+      "references": [
+        "Numbers 15:19-21",
+        "Nehemiah 10:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Knea",
+      "references": [
+        "Jeremiah 7:18",
+        "Hosea 7:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Part of, for priest",
+      "references": [
+        "Ezekiel 44:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBREAD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOVEN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "verses": [
+        19,
+        20,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Numbers 15:19-21"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:37"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 7,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 7:18"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 7:4"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 44,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 44:30"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Hosea",
+    "Jeremiah",
+    "Nehemiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Numbers",
+      "Nehemiah",
+      "Jeremiah",
+      "Hosea",
+      "Ezekiel"
+    ]
+  }
+}

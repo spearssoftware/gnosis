@@ -1,0 +1,102 @@
+{
+  "topic": "SHEREBIAH",
+  "slug": "sherebiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Levite assistant to Ezra",
+      "references": [
+        "Ezra 8:18,24",
+        "Nehemiah 8:7",
+        "Nehemiah 9:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite who sealed the covenant with NehemiahNe",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Ezra 10:12",
+        "Ezra 12:8,24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        18,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 8:18,24"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 9:4,5"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        8,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:8,24"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

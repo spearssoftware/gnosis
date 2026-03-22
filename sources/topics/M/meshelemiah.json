@@ -1,0 +1,55 @@
+{
+  "topic": "MESHELEMIAH",
+  "slug": "meshelemiah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A gatekeeper of the temple",
+      "references": [
+        "1 Chronicles 9:21",
+        "1 Chronicles 26:1,2,9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "verses": [
+        1,
+        2,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 26:1,2,9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Chronicles"
+    ]
+  }
+}

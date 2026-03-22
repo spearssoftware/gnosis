@@ -1,0 +1,585 @@
+{
+  "topic": "SHIELDS",
+  "slug": "shields",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A part of defensive armour",
+      "references": [
+        "Psalms 115:9",
+        "Psalms 140:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently made of, or covered with: Gold",
+      "references": [
+        "2 Samuel 8:7",
+        "1 Kings 10:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Frequently made of, or covered with: Brass",
+      "references": [
+        "1 Kings 14:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Said to belong to God",
+      "references": [
+        "Psalms 47:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of: The buckler or target",
+      "references": [
+        "2 Chronicles 9:15",
+        "1 Chronicles 5:18",
+        "Ezekiel 26:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of: The small shield",
+      "references": [
+        "2 Chronicles 9:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of: Often borne by an armour bearer",
+      "references": [
+        "1 Samuel 17:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Before war: Gathered together",
+      "references": [
+        "Jeremiah 51:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Before war: Uncovered",
+      "references": [
+        "Isaiah 22:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Before war: Repaired",
+      "references": [
+        "Jeremiah 46:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Before war: Anointed",
+      "references": [
+        "2 Samuel 1:21",
+        "Isaiah 21:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Before war: Often made red",
+      "references": [
+        "Nahum 2:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Provided by the kings of Israel in great abundance",
+      "references": [
+        "2 Chronicles 11:12",
+        "2 Chronicles 26:14",
+        "2 Chronicles 32:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A disgrace to lose, or throw away",
+      "references": [
+        "2 Samuel 1:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of the vanquished, often burned",
+      "references": [
+        "Ezekiel 39:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In times of peace were hung up in towers or armouries",
+      "references": [
+        "Ezekiel 27:10",
+        "Song of Solomon 4:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were scarce in Israel in the days of Deborah and Barak",
+      "references": [
+        "Judges 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Many of the Israelites used, with expertness",
+      "references": [
+        "1 Chronicles 12:8,24,34",
+        "2 Chronicles 14:8",
+        "2 Chronicles 25:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Protection of God",
+      "references": [
+        "Genesis 15:1",
+        "Psalms 33:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Favour of God",
+      "references": [
+        "Psalms 5:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Truth of God",
+      "references": [
+        "Psalms 91:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Salvation of God",
+      "references": [
+        "2 Samuel 22:36",
+        "Psalms 18:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Faith",
+      "references": [
+        "Ephesians 6:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 115,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 115:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 140,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 140:7"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 8:7"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 14:27"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 47,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 47:9"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 26,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 26:8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:16"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:7"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 51:11"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 22,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 22:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 46:3"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 1:21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 21,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 21:5"
+    },
+    {
+      "book": "Nahum",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nahum 2:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 11,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 11:12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:14"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 32,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 32:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 39,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 39:9"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 27,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 27:10"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:4"
+    },
+    {
+      "book": "Judges",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 5:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        8,
+        24,
+        34
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:8,24,34"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 14,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 14:8"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 25,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 25:5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 15:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 33,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 33:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 5:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 91,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 91:4"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 22:36"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:35"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Samuel",
+    "Ephesians",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Judges",
+    "Nahum",
+    "Psalms",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 23,
+    "total_refs": 34,
+    "ot_refs": 33,
+    "nt_refs": 1,
+    "books_count": 14,
+    "top_books": [
+      "Psalms",
+      "2 Chronicles",
+      "2 Samuel",
+      "Ezekiel",
+      "1 Kings",
+      "1 Chronicles",
+      "Jeremiah",
+      "Isaiah",
+      "1 Samuel",
+      "Nahum"
+    ]
+  }
+}

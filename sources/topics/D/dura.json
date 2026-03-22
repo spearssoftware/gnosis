@@ -1,0 +1,42 @@
+{
+  "topic": "DURA",
+  "slug": "dura",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Plain of",
+      "references": [
+        "Daniel 3:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 3:1"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Daniel"
+    ]
+  }
+}

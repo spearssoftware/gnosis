@@ -1,0 +1,208 @@
+{
+  "topic": "THOMAS",
+  "slug": "thomas",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One of the twelve apostles",
+      "references": [
+        "Matthew 10:3",
+        "Mark 3:18",
+        "Luke 6:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Present at the raising of Lazarus",
+      "references": [
+        "John 11:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Asks Jesus the way to the Father’ s house",
+      "references": [
+        "John 14:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Absent when Jesus first appeared to the disciples after the resurrection",
+      "references": [
+        "John 20:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Skepticism of",
+      "references": [
+        "John 20:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sees Jesus after the resurrection",
+      "references": [
+        "John 20:26-29",
+        "John 21:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Lives with the other apostles in",
+      "references": [
+        "Acts 1:13,14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Loyalty of, to Jesus",
+      "references": [
+        "John 11:16",
+        "John 20:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 10:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:18"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:15"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 11:16"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 14:5"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 20:24"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 20:25"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "John 20:26-29"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 21:1,2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        13,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 1:13,14"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 20:28"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 11,
+    "ot_refs": 0,
+    "nt_refs": 11,
+    "books_count": 5,
+    "top_books": [
+      "John",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "Acts"
+    ]
+  }
+}

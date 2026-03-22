@@ -1,0 +1,198 @@
+{
+  "topic": "GAMES",
+  "slug": "games",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Foot races",
+      "references": [
+        "1 Corinthians 9:24,26",
+        "Galatians 2:2",
+        "Philippians 2:16",
+        "Hebrews 12:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gladiatorial",
+      "references": [
+        "1 Corinthians 1:9",
+        "1 Corinthians 9:26",
+        "1 Corinthians 15:32",
+        "2 Timothy 4:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the Christian life",
+      "references": [
+        "1 Corinthians 9:24,26",
+        "Galatians 5:7",
+        "Philippians 2:16",
+        "Philippians 3:14",
+        "Hebrews 12:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of a successful ministry",
+      "references": [
+        "Galatians 2:2",
+        "Philippians 2:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Fighting wild “beasts”, of spiritual conflict",
+      "references": [
+        "1 Corinthians 4:9",
+        "1 Corinthians 9:26",
+        "1 Corinthians 15:32",
+        "2 Timothy 4:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        24,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:24,26"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 2:16"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 12:1"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:9"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:26"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 15:32"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:7"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 5:7"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:14"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 4:9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "2 Timothy",
+    "Galatians",
+    "Hebrews",
+    "Philippians"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 11,
+    "ot_refs": 0,
+    "nt_refs": 11,
+    "books_count": 5,
+    "top_books": [
+      "1 Corinthians",
+      "Galatians",
+      "Philippians",
+      "Hebrews",
+      "2 Timothy"
+    ]
+  }
+}

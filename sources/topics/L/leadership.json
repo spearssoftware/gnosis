@@ -1,0 +1,56 @@
+{
+  "topic": "LEADERSHIP",
+  "slug": "leadership",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABRAHAM",
+    "DEBORAH",
+    "GIDEON",
+    "JOSHUA",
+    "MOSES"
+  ],
+  "aspects": [
+    {
+      "label": "INSTANCES OF, see each respectively",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeABRAHAM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeMOSES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeJOSHUA",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

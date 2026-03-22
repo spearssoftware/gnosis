@@ -1,0 +1,344 @@
+{
+  "topic": "DANIEL",
+  "slug": "daniel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Jewish",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Edu",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Interprets visionsDa 2;4;5",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Promotion and executive authority of",
+      "references": [
+        "Daniel 2:48,49",
+        "Daniel 5:11,29",
+        "Daniel 6:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Conspiracy against,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prophecies of",
+      "references": [
+        "Daniel 4:8,9",
+        "Matthew 24:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abstinence of",
+      "references": [
+        "Daniel 1:8-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Wisdom of",
+      "references": [
+        "Daniel 1:17",
+        "Ezekiel 28:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Daniel 2:18",
+        "Ezekiel 14:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Courage and fi",
+      "references": [
+        "Daniel 4:27",
+        "Daniel 5:17-23",
+        "Daniel 6:10-23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Worshiped by Nebuchadnezzar",
+      "references": [
+        "Daniel 2:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. David’s",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Al",
+      "references": [
+        "2 Samuel 3:3",
+        "1 Chronicles 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "Ezra 8:2",
+        "Nehemiah 10:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        48,
+        49
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 2:48,49"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        11,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 5:11,29"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:2"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 4:8,9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 24:15"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 1,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Daniel 1:8-16"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 1,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 1:17"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 28,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 28:3"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:18"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 14,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 14:14"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 4,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 4:27"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 5,
+      "verses": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Daniel 5:17-23"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Daniel 6:10-23"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:6"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:1"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Samuel",
+    "Daniel",
+    "Ezekiel",
+    "Ezra",
+    "Matthew",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 14,
+    "total_refs": 18,
+    "ot_refs": 17,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "Daniel",
+      "Ezekiel",
+      "Matthew",
+      "2 Samuel",
+      "1 Chronicles",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

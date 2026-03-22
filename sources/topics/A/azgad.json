@@ -1,0 +1,89 @@
+{
+  "topic": "AZGAD",
+  "slug": "azgad",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Ancestor of certain",
+      "references": [
+        "Ezra 2:12",
+        "Nehemiah 7:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A returned exile",
+      "references": [
+        "Ezra 8:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A chief who signed Nehemiah’s covenant",
+      "references": [
+        "Nehemiah 10:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:17"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:12"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:15"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "topic": "LANGUAGE",
+  "slug": "language",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Unity of",
+      "references": [
+        "Genesis 11:1,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Confusion of",
+      "references": [
+        "Genesis 11:1-9",
+        "Genesis 10:5,20,31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Dialects of the Jews",
+      "references": [
+        "Judges 12:6",
+        "Matthew 26:73"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Many spoken at",
+      "references": [
+        "John 19:20",
+        "Acts 2:8-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Speaking in inspired “tongues” forbid",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "unless there was an inspired interpreter present",
+      "references": [
+        "1 Corinthians 14:2-28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gift of",
+      "references": [
+        "Mark 16:17",
+        "Acts 2:7,8",
+        "Acts 10:46",
+        "Acts 19:6",
+        "1 Corinthians 12:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Mentioned in Scripture .Ashdod",
+      "references": [
+        "Nehemiah 13:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Chal",
+      "references": [
+        "Daniel 1:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Egyptian",
+      "references": [
+        "Acts 2:10",
+        "Psalms 114:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Greek",
+      "references": [
+        "Luke 23:38",
+        "Acts 21:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Latin",
+      "references": [
+        "Luke 23:38",
+        "John 19:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ly",
+      "references": [
+        "Acts 14:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Parthian and other lands",
+      "references": [
+        "Acts 2:9-11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Syrian",
+      "references": [
+        "2 Kings 18:26",
+        "Ezra 4:7",
+        "Daniel 2:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of all mankind one at first",
+      "references": [
+        "Genesis 11:1,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Speech",
+      "references": [
+        "Mark 14:70",
+        "Acts 14:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called: Tongue",
+      "references": [
+        "Acts 1:19",
+        "Revelation 5:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Confusion of: A punishment for presumption, &c",
+      "references": [
+        "Genesis 11:2-6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Confusion of: Originated the varieties in",
+      "references": [
+        "Genesis 11:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Confusion of: Scattered men over the earth",
+      "references": [
+        "Genesis 11:8,9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Confusion of: Divided men into separated nations",
+      "references": [
+        "Genesis 10:5,20,31"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Great variety of, spoken by men",
+      "references": [
+        "1 Corinthians 14:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Ancient kingdoms often comprehended nations of different",
+      "references": [
+        "Esther 1:22",
+        "Daniel 3:4",
+        "Daniel 6:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Hebrew",
+      "references": [
+        "2 Kings 18:28",
+        "Acts 26:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Chaldea",
+      "references": [
+        "Daniel 1:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Syriack",
+      "references": [
+        "2 Kings 18:26",
+        "Ezra 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Greek",
+      "references": [
+        "Acts 21:37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Latin",
+      "references": [
+        "Luke 23:38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Lycaonian",
+      "references": [
+        "Acts 14:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Arabic, &c",
+      "references": [
+        "Acts 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Kinds of, mentioned: Egyptian",
+      "references": [
+        "Psalms 84:5",
+        "Psalms 114:1",
+        "Acts 2:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of some nations difficult",
+      "references": [
+        "Ezekiel 3:5,6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The term barbarian applied to those who spoke a strange",
+      "references": [
+        "1 Corinthians 14:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: A gift of the Holy Spirit",
+      "references": [
+        "1 Corinthians 12:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Promised",
+      "references": [
+        "Mark 16:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Given on the day of Pentecost",
+      "references": [
+        "Acts 2:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Followed receiving the gospel",
+      "references": [
+        "Acts 10:44-46"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Conferred by laying on of the apostles’ hands",
+      "references": [
+        "Acts 8:17,18",
+        "Acts 19:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Necessary to spread of the gospel",
+      "references": [
+        "Acts 2:7-11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: A sign to unbelievers",
+      "references": [
+        "1 Corinthians 14:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Sometimes abused",
+      "references": [
+        "1 Corinthians 14:2-12,23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Power of speaking different: Ceased when the written Bible completed",
+      "references": [
+        "1 Corinthians 13:8-10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Interpretation of: Antiquity of engaging persons for",
+      "references": [
+        "Genesis 42:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Interpretation of: A gift of the Holy Spirit",
+      "references": [
+        "1 Corinthians 12:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Interpretation of: Most important in the early church",
+      "references": [
+        "1 Corinthians 14:5,13,27,28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Interpretation of: The Jews punished by being given up to people of a strange",
+      "references": [
+        "Deuteronomy 28:49",
+        "Isaiah 28:11",
+        "Jeremiah 5:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        1,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 11:1,6"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Genesis 11:1-9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        5,
+        20,
+        31
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 10:5,20,31"
+    },
+    {
+      "book": "Judges",
+      "chapter": 12,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 12:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        73
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:73"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:20"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 2:8-11"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "verse_count": 27,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:2-28"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 16:17"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 2:7,8"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:46"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:6"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:10"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 13,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 13:24"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 1:4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 114,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 114:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:38"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:37"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 14:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 2:9-11"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:26"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 4:7"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:4"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "verses": [
+        70
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 14:70"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:19"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 5,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 5:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 11:2-6"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 11:8,9"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:10"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 1:22"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 3:4"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:25"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 18:28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:14"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:11"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 84,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 84:5"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 3,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 3:5,6"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 2:3,4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        44,
+        45,
+        46
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 10:44-46"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 8:17,18"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Acts 2:7-11"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:22"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        23
+      ],
+      "verse_count": 12,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:2-12,23"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "verses": [
+        8,
+        9,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Corinthians 13:8-10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 42,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 42:23"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        5,
+        13,
+        27,
+        28
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:5,13,27,28"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 28,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 28:49"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 28,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 28:11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 5,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 5:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "2 Kings",
+    "Acts",
+    "Daniel",
+    "Deuteronomy",
+    "Esther",
+    "Ezekiel",
+    "Ezra",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "John",
+    "Judges",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Nehemiah",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 47,
+    "total_refs": 52,
+    "ot_refs": 23,
+    "nt_refs": 29,
+    "books_count": 19,
+    "top_books": [
+      "Acts",
+      "1 Corinthians",
+      "Genesis",
+      "Daniel",
+      "Mark",
+      "Psalms",
+      "2 Kings",
+      "Judges",
+      "Matthew",
+      "John"
+    ]
+  }
+}

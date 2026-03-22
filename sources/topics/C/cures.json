@@ -1,0 +1,44 @@
+{
+  "topic": "CURES",
+  "slug": "cures",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DISEASES",
+    "MIRACLES",
+    "PHYSICIAN"
+  ],
+  "aspects": [
+    {
+      "label": "(Miraculous)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMIRACLES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDISEASES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePHYSICIAN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

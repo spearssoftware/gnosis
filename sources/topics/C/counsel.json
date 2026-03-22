@@ -1,0 +1,214 @@
+{
+  "topic": "COUNSEL",
+  "slug": "counsel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PRUDENCE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Proverbs 1:5",
+        "Proverbs 9:9",
+        "Proverbs 11:14",
+        "Proverbs 12:15",
+        "Proverbs 15:22",
+        "Proverbs 19:20",
+        "Proverbs 20:18",
+        "Proverbs 24:6",
+        "Proverbs 27:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePRU",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "REJECTED",
+      "references": [
+        "Proverbs 1:24-33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Rehoboam",
+      "references": [
+        "1 Kings 12:8-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By the rich young ruler",
+      "references": [
+        "Matthew 19:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:5"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 9:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:14"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 19:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 24:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Proverbs 1:24-33"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "1 Kings 12:8-16"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 19:22"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Matthew",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 12,
+    "ot_refs": 11,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "1 Kings",
+      "Matthew"
+    ]
+  }
+}

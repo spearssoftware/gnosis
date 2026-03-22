@@ -1,0 +1,71 @@
+{
+  "topic": "CUTH",
+  "slug": "cuth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A district of Asia, from which colonists were transported to",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Samaria",
+      "references": [
+        "2 Kings 17:24-30",
+        "Ezra 4:10"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "2 Kings 17:24-30"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 4:10"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "2 Kings",
+      "Ezra"
+    ]
+  }
+}

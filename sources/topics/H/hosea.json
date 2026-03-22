@@ -1,0 +1,52 @@
+{
+  "topic": "HOSEA",
+  "slug": "hosea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(One of the minor prophets)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Romans 9:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See book of HoseaHos 1",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 9,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 9:25"
+    }
+  ],
+  "books_mentioned": [
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Romans"
+    ]
+  }
+}

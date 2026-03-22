@@ -1,0 +1,118 @@
+{
+  "topic": "SHEBANIAH",
+  "slug": "shebaniah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A priest in the time of David",
+      "references": [
+        "1 Chronicles 15:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite who joined Nehemiah in covenant",
+      "references": [
+        "Nehemiah 9:4,5",
+        "Nehemiah 10:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest who joined Nehemiah in covenant",
+      "references": [
+        "Nehemiah 10:4",
+        "Nehemiah 12:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Levite who joined Nehemiah in covenant",
+      "references": [
+        "Nehemiah 10:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:24"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 9:4,5"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:10"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:4"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:14"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "1 Chronicles"
+    ]
+  }
+}

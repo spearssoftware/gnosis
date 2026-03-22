@@ -1,0 +1,174 @@
+{
+  "topic": "DEBT",
+  "slug": "debt",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CREDITOR",
+    "DEBTOR",
+    "SURETY"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Romans 13:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SECURITY FOR",
+      "references": [
+        "Exodus 22:25-27",
+        "Deuteronomy 24:6,10-13",
+        "Nehemiah 5:3,4",
+        "Job 22:6",
+        "Job 24:9",
+        "Proverbs 11:15",
+        "Proverbs 22:26",
+        "Amos 2:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeCREDITOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSURETY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Romans",
+      "chapter": 13,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 13:8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Exodus 22:25-27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        6,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:6,10-13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 5:3,4"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 22:6"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 24:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:26"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 2:8"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Deuteronomy",
+    "Exodus",
+    "Job",
+    "Nehemiah",
+    "Proverbs",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 9,
+    "ot_refs": 8,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "Job",
+      "Proverbs",
+      "Romans",
+      "Exodus",
+      "Deuteronomy",
+      "Nehemiah",
+      "Amos"
+    ]
+  }
+}

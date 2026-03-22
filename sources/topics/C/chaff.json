@@ -1,0 +1,161 @@
+{
+  "topic": "CHAFF",
+  "slug": "chaff",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Jeremiah 23:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Job 21:18",
+        "Psalms 1:4",
+        "Psalms 35:5",
+        "Isaiah 5:24",
+        "Isaiah 17:13",
+        "Daniel 2:35",
+        "Hosea 13:3",
+        "Matthew 3:12",
+        "Luke 3:17"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 23,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 23:28"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 21:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 1:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 35,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 35:5"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:24"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 17,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 17:13"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 2,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 2:35"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 13,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 13:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 3:12"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 3:17"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Hosea",
+    "Isaiah",
+    "Jeremiah",
+    "Job",
+    "Luke",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 10,
+    "ot_refs": 8,
+    "nt_refs": 2,
+    "books_count": 8,
+    "top_books": [
+      "Psalms",
+      "Isaiah",
+      "Jeremiah",
+      "Job",
+      "Daniel",
+      "Hosea",
+      "Matthew",
+      "Luke"
+    ]
+  }
+}

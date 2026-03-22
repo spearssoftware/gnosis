@@ -1,0 +1,186 @@
+{
+  "topic": "DAUGHTER",
+  "slug": "daughter",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 20:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Exodus 21:7-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Given in marriage by parents",
+      "references": [
+        "Judges 1:12,13",
+        "1 Samuel 17:25",
+        "1 Samuel 18:20,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Property rights of",
+      "references": [
+        "Numbers 27:1-11",
+        "Joshua 17:3-6",
+        "Ruth 4:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used al",
+      "references": [
+        "Genesis 36:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 20:14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 21,
+      "verses": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Exodus 21:7-10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 1:12,13"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:25"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 18:20,21"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Numbers 27:1-11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joshua 17:3-6"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 4:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Exodus",
+    "Genesis",
+    "Joshua",
+    "Judges",
+    "Leviticus",
+    "Numbers",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 9,
+    "ot_refs": 9,
+    "nt_refs": 0,
+    "books_count": 8,
+    "top_books": [
+      "1 Samuel",
+      "Leviticus",
+      "Exodus",
+      "Judges",
+      "Numbers",
+      "Joshua",
+      "Ruth",
+      "Genesis"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "topic": "BUNNI",
+  "slug": "bunni",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Levite, a teacher with Ezra",
+      "references": [
+        "Nehemiah 9:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Ancestor of Shemaiah",
+      "references": [
+        "Nehemiah 11:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A family of Jews",
+      "references": [
+        "Nehemiah 10:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 9:4"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:15"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:15"
+    }
+  ],
+  "books_mentioned": [
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Nehemiah"
+    ]
+  }
+}

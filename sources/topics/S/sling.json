@@ -1,0 +1,136 @@
+{
+  "topic": "SLING",
+  "slug": "sling",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ARMIES",
+    "ARMS"
+  ],
+  "aspects": [
+    {
+      "label": "Used for throwing stones",
+      "references": [
+        "Proverbs 26:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David kills Goliath with a",
+      "references": [
+        "1 Samuel 17:40-50"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Judges 20:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in war",
+      "references": [
+        "Judges 20:16",
+        "2 Kings 3:25",
+        "2 Chronicles 26:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARMIES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARMS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:8"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "1 Samuel 17:40-50"
+    },
+    {
+      "book": "Judges",
+      "chapter": 20,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 20:16"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 3:25"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 26:14"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "Judges",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Proverbs",
+      "1 Samuel",
+      "Judges",
+      "2 Kings",
+      "2 Chronicles"
+    ]
+  }
+}

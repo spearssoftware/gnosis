@@ -1,0 +1,148 @@
+{
+  "topic": "RAHAB",
+  "slug": "rahab",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "(A woman of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assists the spies of the IsraelitesJos 2",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Is spared when the Israelites",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".An ancestor of Joseph of Nazareth",
+      "references": [
+        "Matthew 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The faith of, commen",
+      "references": [
+        "Hebrews 11:31",
+        "James 2:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A symbolic name applied to Egypt",
+      "references": [
+        "Psalms 87:4",
+        "Psalms 89:10",
+        "Isaiah 30:7",
+        "Isaiah 51:9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 1:5"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:31"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "James 2:25"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 87,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 87:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 89,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 89:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 30,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 30:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 51,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 51:9"
+    }
+  ],
+  "books_mentioned": [
+    "Hebrews",
+    "Isaiah",
+    "James",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 7,
+    "ot_refs": 4,
+    "nt_refs": 3,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Isaiah",
+      "Matthew",
+      "Hebrews",
+      "James"
+    ]
+  }
+}

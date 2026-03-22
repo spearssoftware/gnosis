@@ -1,0 +1,79 @@
+{
+  "topic": "RUBY",
+  "slug": "ruby",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Job 28:18",
+        "Proverbs 20:15",
+        "Proverbs 31:10",
+        "Lamentations 4:7"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 28,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 28:18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:10"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 4:7"
+    }
+  ],
+  "books_mentioned": [
+    "Job",
+    "Lamentations",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Proverbs",
+      "Job",
+      "Lamentations"
+    ]
+  }
+}

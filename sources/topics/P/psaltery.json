@@ -1,0 +1,248 @@
+{
+  "topic": "PSALTERY",
+  "slug": "psaltery",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC, INSTRUMENTS OF"
+  ],
+  "aspects": [
+    {
+      "label": "(A harp)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in religious services",
+      "references": [
+        "2 Samuel 6:5",
+        "1 Chronicles 13:8",
+        "1 Chronicles 16:5",
+        "1 Chronicles 25:1,5,6",
+        "2 Chronicles 29:25",
+        "Psalms 33:2",
+        "Psalms 57:8",
+        "Psalms 71:22",
+        "Psalms 81:2",
+        "Psalms 92:3",
+        "Psalms 108:2",
+        "Psalms 144:9",
+        "Psalms 150:3",
+        "Revelation 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "At the",
+      "references": [
+        "Nehemiah 12:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used in idolatrous worship",
+      "references": [
+        "Daniel 3:5,7,10,15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSIC, INSTRUMENTS OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 6:5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 13:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 16:5"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        1,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:1,5,6"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:25"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 33,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 33:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 57,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 57:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 71,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 71:22"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 81,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 81:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 92,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 92:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 108,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 108:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 144,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 144:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 150,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 150:3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 5:8"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:27"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        5,
+        7,
+        10,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Daniel 3:5,7,10,15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "2 Samuel",
+    "Daniel",
+    "Nehemiah",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 16,
+    "ot_refs": 15,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "Psalms",
+      "1 Chronicles",
+      "2 Samuel",
+      "2 Chronicles",
+      "Revelation",
+      "Nehemiah",
+      "Daniel"
+    ]
+  }
+}

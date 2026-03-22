@@ -1,0 +1,68 @@
+{
+  "topic": "NIMROD",
+  "slug": "nimrod",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BABYLON"
+  ],
+  "aspects": [
+    {
+      "label": "“A mighty hunter before the Lord,”",
+      "references": [
+        "Genesis 10:8,9",
+        "1 Chronicles 1:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Foun",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBABYLON",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:8,9"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

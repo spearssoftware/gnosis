@@ -1,0 +1,69 @@
+{
+  "topic": "JUNIPER",
+  "slug": "juniper",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A tree",
+      "references": [
+        "1 Kings 19:4,5",
+        "Job 30:4",
+        "Psalms 120:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 19:4,5"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 30:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 120,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 120:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Job",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Kings",
+      "Job",
+      "Psalms"
+    ]
+  }
+}

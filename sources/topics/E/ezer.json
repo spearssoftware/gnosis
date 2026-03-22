@@ -1,0 +1,163 @@
+{
+  "topic": "EZER",
+  "slug": "ezer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [
+        "Genesis 36:21,27,30",
+        "1 Chronicles 1:38,42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "1 Chronicles 7:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest",
+      "references": [
+        "Nehemiah 12:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A man of",
+      "references": [
+        "1 Chronicles 4:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Perhaps i",
+      "references": [
+        "1 Chronicles 4:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Gadite warrior",
+      "references": [
+        "1 Chronicles 12:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A Levite",
+      "references": [
+        "Nehemiah 3:1,9"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        21,
+        27,
+        30
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 36:21,27,30"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        38,
+        42
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:38,42"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:21"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:42"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:9"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        1,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 3:1,9"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah",
+      "Genesis"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "topic": "REBELLION",
+  "slug": "rebellion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SIN"
+  ],
+  "aspects": [
+    {
+      "label": "Trea",
+      "references": [
+        "Proverbs 17:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Absalom2Sa 15;16;17;18",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sheba2Sa 20",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Revolt of the ten tribes",
+      "references": [
+        "1 Kings 12:16-20",
+        "1 Kings 13:5-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSIN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:11"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "1 Kings 12:16-20"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "1 Kings 13:5-12"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Kings",
+      "Proverbs"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "ERASTUS",
+  "slug": "erastus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A friend of Paul",
+      "references": [
+        "Acts 19:22",
+        "2 Timothy 4:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Convert of Paul’s, probably same as precedingRo",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Acts 16:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:22"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 4:20"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 16,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 16:23"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "2 Timothy",
+      "Acts"
+    ]
+  }
+}

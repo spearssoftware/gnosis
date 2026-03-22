@@ -1,0 +1,50 @@
+{
+  "topic": "UNCTION",
+  "slug": "unction",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ANOINTING"
+  ],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Job 2:20,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeANOINTING",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        20,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 2:20,27"
+    }
+  ],
+  "books_mentioned": [
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Job"
+    ]
+  }
+}

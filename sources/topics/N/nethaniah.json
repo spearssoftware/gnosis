@@ -1,0 +1,133 @@
+{
+  "topic": "NETHANIAH",
+  "slug": "nethaniah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Father of Ishmael",
+      "references": [
+        "2 Kings 25:23,25",
+        "Jeremiah 40:8,14,15",
+        "Jeremiah 41:1,2,6,7,9-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A singer, and chief of the temple musicians1Ch",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Levite appointed by Jehoshaphat to accompany the princes",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "who were to teach the law in",
+      "references": [
+        "2 Chronicles 17:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Father of Jehudi",
+      "references": [
+        "Jeremiah 36:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        23,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 25:23,25"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        8,
+        14,
+        15
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 40:8,14,15"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        1,
+        2,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Jeremiah 41:1,2,6,7,9-12"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 25,
+      "verses": [
+        2,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 25:2,12"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 17,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 17:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:14"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "2 Kings",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Jeremiah",
+      "2 Kings",
+      "2 Chronicles"
+    ]
+  }
+}

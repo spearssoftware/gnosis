@@ -1,0 +1,112 @@
+{
+  "topic": "ISHI",
+  "slug": "ishi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A name of a god",
+      "references": [
+        "Hosea 2:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A",
+      "references": [
+        "1 Chronicles 2:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A",
+      "references": [
+        "1 Chronicles 4:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Simeonite",
+      "references": [
+        "1 Chronicles 4:42"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. One of the heads of Manasseh",
+      "references": [
+        "1 Chronicles 5:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:16"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 2:31"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:20"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:42"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Hosea"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "1 Chronicles",
+      "Hosea"
+    ]
+  }
+}

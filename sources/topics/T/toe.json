@@ -1,0 +1,128 @@
+{
+  "topic": "TOE",
+  "slug": "toe",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Anointed in consecration",
+      "references": [
+        "Exodus 29:20",
+        "Leviticus 8:23,24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In purifi",
+      "references": [
+        "Leviticus 14:14,17,25,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of pri",
+      "references": [
+        "Judges 1:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Six, on each foot",
+      "references": [
+        "2 Samuel 21:20",
+        "1 Chronicles 20:6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:20"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        23,
+        24
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 8:23,24"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        14,
+        17,
+        25,
+        28
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Leviticus 14:14,17,25,28"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 1:6,7"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:20"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 20:6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Samuel",
+    "Exodus",
+    "Judges",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Leviticus",
+      "Exodus",
+      "Judges",
+      "2 Samuel",
+      "1 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "topic": "REHOBOTH",
+  "slug": "rehoboth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city built by Asshur",
+      "references": [
+        "Genesis 10:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city of the Edomites",
+      "references": [
+        "Genesis 36:37",
+        "1 Chronicles 1:48"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. The name given to a well that was dug by",
+      "references": [
+        "Genesis 26:22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 36:37"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:48"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 26:22"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "1 Chronicles"
+    ]
+  }
+}

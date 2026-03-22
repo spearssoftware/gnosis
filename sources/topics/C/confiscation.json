@@ -1,0 +1,113 @@
+{
+  "topic": "CONFISCATION",
+  "slug": "confiscation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Of property",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".By David, that of Mephibosheth",
+      "references": [
+        "2 Samuel 16:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By Ahab, of Naboth’s vineyard",
+      "references": [
+        "1 Kings 21:7-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By Ahasuerus, of Haman’s house",
+      "references": [
+        "Esther 8:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "As a penalty",
+      "references": [
+        "Ezra 10:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 16:4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "1 Kings 21:7-16"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 8:1"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Esther",
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "2 Samuel",
+      "1 Kings",
+      "Esther",
+      "Ezra"
+    ]
+  }
+}

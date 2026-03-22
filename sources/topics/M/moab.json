@@ -1,0 +1,128 @@
+{
+  "topic": "MOAB",
+  "slug": "moab",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 19:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Plains of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Israelites come in",
+      "references": [
+        "Deuteronomy 2:17,18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Military forces",
+      "references": [
+        "Numbers 26:3,63"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The law rehearsed in, by Moses",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The Israelites renew their covenant in",
+      "references": [
+        "Deuteronomy 29:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The land of promise allotted in",
+      "references": [
+        "Joshua 13:32"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 19,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 19:37"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 2,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 2:17,18"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        3,
+        63
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 26:3,63"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 29,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 29:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:32"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Genesis",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Deuteronomy",
+      "Genesis",
+      "Numbers",
+      "Joshua"
+    ]
+  }
+}

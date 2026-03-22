@@ -1,0 +1,50 @@
+{
+  "topic": "OZIAS",
+  "slug": "ozias",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "UZZIAH"
+  ],
+  "aspects": [
+    {
+      "label": "A form given to the name of King Uzziah",
+      "references": [
+        "Matthew 1:8,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeUZZIAH",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "verses": [
+        8,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 1:8,9"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

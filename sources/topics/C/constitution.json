@@ -1,0 +1,103 @@
+{
+  "topic": "CONSTITUTION",
+  "slug": "constitution",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "AGREEMENT BETWEEN THE RULER AND PEOPLE",
+      "references": [
+        "Deuteronomy 17:18-20",
+        "2 Samuel 5:3",
+        "2 Chronicles 23:2,3",
+        "Jeremiah 34:8-11",
+        "Daniel 6:12-15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 17,
+      "verses": [
+        18,
+        19,
+        20
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Deuteronomy 17:18-20"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 5:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 23,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 23:2,3"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 34,
+      "verses": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Jeremiah 34:8-11"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Daniel 6:12-15"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "2 Samuel",
+    "Daniel",
+    "Deuteronomy",
+    "Jeremiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Deuteronomy",
+      "2 Samuel",
+      "2 Chronicles",
+      "Jeremiah",
+      "Daniel"
+    ]
+  }
+}

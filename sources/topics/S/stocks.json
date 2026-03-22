@@ -1,0 +1,98 @@
+{
+  "topic": "STOCKS",
+  "slug": "stocks",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Feet fastened in, as a punishment",
+      "references": [
+        "Job 13:27",
+        "Job 33:11",
+        "Proverbs 7:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In pri",
+      "references": [
+        "Jeremiah 20:2",
+        "Acts 16:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 13,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 13:27"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 33:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 7:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 20,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 20:2"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:24"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Jeremiah",
+    "Job",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Job",
+      "Proverbs",
+      "Jeremiah",
+      "Acts"
+    ]
+  }
+}

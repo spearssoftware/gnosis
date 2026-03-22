@@ -1,0 +1,78 @@
+{
+  "topic": "BITUMEN",
+  "slug": "bitumen",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "PETROLEUM"
+  ],
+  "aspects": [
+    {
+      "label": "(Margin R. V., slime))",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".An inflammable mineral",
+      "references": [
+        "Genesis 11:3",
+        "Genesis 14:10",
+        "Exodus 2:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePETROLEUM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 11:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 14,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 14:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 2:3"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Genesis",
+      "Exodus"
+    ]
+  }
+}

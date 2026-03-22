@@ -1,0 +1,69 @@
+{
+  "topic": "HAMMON",
+  "slug": "hammon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HAMMATH",
+    "HAMMOTH-DOR"
+  ],
+  "aspects": [
+    {
+      "label": "1. A city of the tribe of Asher",
+      "references": [
+        "Joshua 19:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Leviti",
+      "references": [
+        "1 Chronicles 6:76"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Possibly i",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:28"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        76
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:76"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Joshua",
+      "1 Chronicles"
+    ]
+  }
+}

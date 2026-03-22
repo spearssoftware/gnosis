@@ -1,0 +1,43 @@
+{
+  "topic": "ACHAICUS",
+  "slug": "achaicus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A citizen of Corinth",
+      "references": [
+        "1 Corinthians 16:17,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "verses": [
+        17,
+        18
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 16:17,18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "1 Corinthians"
+    ]
+  }
+}

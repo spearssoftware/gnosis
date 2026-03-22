@@ -1,0 +1,156 @@
+{
+  "topic": "INNOCENCY",
+  "slug": "innocency",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Signified by washing the hands",
+      "references": [
+        "Deuteronomy 21:6",
+        "Psalms 26:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Found in Daniel",
+      "references": [
+        "Daniel 6:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Jeremiah 2:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Professed by Pilate",
+      "references": [
+        "Matthew 27:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Contrasted with guilt, compare",
+      "references": [
+        "Genesis 2:25",
+        "Genesis 3:7-11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 21,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 21:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 26,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 26:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 27,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 27:24"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 6:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 2:35"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 2:25"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 3:7-11"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel",
+    "Deuteronomy",
+    "Genesis",
+    "Jeremiah",
+    "Matthew",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 8,
+    "ot_refs": 7,
+    "nt_refs": 1,
+    "books_count": 6,
+    "top_books": [
+      "Psalms",
+      "Genesis",
+      "Deuteronomy",
+      "Daniel",
+      "Jeremiah",
+      "Matthew"
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "topic": "RIVER",
+  "slug": "river",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIGURATIVE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of salvation",
+      "references": [
+        "Psalms 36:8",
+        "Psalms 46:4",
+        "Isaiah 32:2",
+        "Ezekiel 47:1-12",
+        "Revelation 22:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of grief",
+      "references": [
+        "Psalms 119:136",
+        "Lamentations 3:48"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 36,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 36:8"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 46,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 46:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 32,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 32:2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 47,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 12,
+      "testament": "OT",
+      "raw": "Ezekiel 47:1-12"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 22:1,2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        136
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:136"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 3:48"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Isaiah",
+    "Lamentations",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 6,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Isaiah",
+      "Ezekiel",
+      "Revelation",
+      "Lamentations"
+    ]
+  }
+}

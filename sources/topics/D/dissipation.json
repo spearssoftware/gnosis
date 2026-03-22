@@ -1,0 +1,49 @@
+{
+  "topic": "DISSIPATION",
+  "slug": "dissipation",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DRUNKENNESS"
+  ],
+  "aspects": [
+    {
+      "label": "Dangers of",
+      "references": [
+        "Job 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeDRUNKENNESS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:5"
+    }
+  ],
+  "books_mentioned": [
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Job"
+    ]
+  }
+}

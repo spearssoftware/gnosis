@@ -1,0 +1,75 @@
+{
+  "topic": "BRAMBLE",
+  "slug": "bramble",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Isaiah 34:13",
+        "Luke 6:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allegory of",
+      "references": [
+        "Judges 9:14,15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 34,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 34:13"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:44"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        14,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 9:14,15"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah",
+    "Judges",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 2,
+    "nt_refs": 1,
+    "books_count": 3,
+    "top_books": [
+      "Isaiah",
+      "Luke",
+      "Judges"
+    ]
+  }
+}

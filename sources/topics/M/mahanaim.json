@@ -1,0 +1,134 @@
+{
+  "topic": "MAHANAIM",
+  "slug": "mahanaim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The place where Jacob had the vision of angels",
+      "references": [
+        "Genesis 32:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The town of, allotted to Gad",
+      "references": [
+        "Joshua 13:26,30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "One of the Leviti",
+      "references": [
+        "Joshua 21:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ish-bosheth establishes himself at, when ma",
+      "references": [
+        "2 Samuel 2:8-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David lodges at, at the time of Absalom’s rebellion",
+      "references": [
+        "2 Samuel 17:27-29",
+        "1 Kings 2:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 32,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 32:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        26,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 13:26,30"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:38"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Samuel 2:8-12"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "verses": [
+        27,
+        28,
+        29
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 17:27-29"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 2:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Genesis",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Joshua",
+      "2 Samuel",
+      "Genesis",
+      "1 Kings"
+    ]
+  }
+}

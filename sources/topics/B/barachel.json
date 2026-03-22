@@ -1,0 +1,43 @@
+{
+  "topic": "BARACHEL",
+  "slug": "barachel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Father of Elihu",
+      "references": [
+        "Job 32:2,6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 32,
+      "verses": [
+        2,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 32:2,6"
+    }
+  ],
+  "books_mentioned": [
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Job"
+    ]
+  }
+}

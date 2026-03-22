@@ -1,0 +1,165 @@
+{
+  "topic": "ECONOMICS",
+  "slug": "economics",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FAMILY",
+    "FRUGALITY",
+    "INDUSTRY"
+  ],
+  "aspects": [
+    {
+      "label": "POLITI",
+      "references": [
+        "Genesis 41:33-57"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "HOUSEHOLD",
+      "references": [
+        "Proverbs 24:27",
+        "Proverbs 31:10-31",
+        "Ecclesiastes 11:4-6",
+        "John 6:12,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFAMILY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFRUGALITY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeINDUSTRY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 41,
+      "verses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "verse_count": 25,
+      "testament": "OT",
+      "raw": "Genesis 41:33-57"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 24:27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "verse_count": 22,
+      "testament": "OT",
+      "raw": "Proverbs 31:10-31"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "verses": [
+        4,
+        5,
+        6
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ecclesiastes 11:4-6"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 6:12,13"
+    }
+  ],
+  "books_mentioned": [
+    "Ecclesiastes",
+    "Genesis",
+    "John",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Proverbs",
+      "Genesis",
+      "Ecclesiastes",
+      "John"
+    ]
+  }
+}

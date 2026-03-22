@@ -1,0 +1,264 @@
+{
+  "topic": "TONGUE",
+  "slug": "tongue",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SLANDER",
+    "SPEAKING, EVIL"
+  ],
+  "aspects": [
+    {
+      "label": "Language",
+      "references": [
+        "Genesis 10:5,20",
+        "Isaiah 66:18",
+        "Revelation 7:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Confusion of",
+      "references": [
+        "Genesis 11:1-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gift of",
+      "references": [
+        "Acts 2:1-18,33",
+        "Acts 10:46",
+        "Acts 19:6",
+        "1 Corinthians 12:10,28,30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Loquacious",
+      "references": [
+        "Proverbs 10:8,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Restrained by wisdom",
+      "references": [
+        "Proverbs 17:27",
+        "Proverbs 21:23",
+        "Ecclesiastes 3:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hasty",
+      "references": [
+        "Proverbs 29:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "An evil",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSPEAKING, EVIL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSLAN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        5,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 10:5,20"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 7:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 11,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Genesis 11:1-9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        33
+      ],
+      "verse_count": 19,
+      "testament": "NT",
+      "raw": "Acts 2:1-18,33"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        46
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:46"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 19:6"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        10,
+        28,
+        30
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:10,28,30"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        8,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 10:8,19"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 21:23"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 3:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 29:20"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Ecclesiastes",
+    "Genesis",
+    "Isaiah",
+    "Proverbs",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 13,
+    "ot_refs": 8,
+    "nt_refs": 5,
+    "books_count": 7,
+    "top_books": [
+      "Proverbs",
+      "Acts",
+      "Genesis",
+      "Isaiah",
+      "Revelation",
+      "1 Corinthians",
+      "Ecclesiastes"
+    ]
+  }
+}

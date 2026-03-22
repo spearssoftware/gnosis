@@ -1,0 +1,48 @@
+{
+  "topic": "BEON",
+  "slug": "beon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A place east of the Jordan River, probably same as BAAL-MEON,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "which see",
+      "references": [
+        "Numbers 32:3,38"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "verses": [
+        3,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 32:3,38"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

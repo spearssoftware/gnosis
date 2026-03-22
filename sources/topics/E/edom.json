@@ -1,0 +1,252 @@
+{
+  "topic": "EDOM",
+  "slug": "edom",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "EDOMITES"
+  ],
+  "aspects": [
+    {
+      "label": "(Signifies red)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "1. A name of Esau, possibly on account of his being covered with",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "red hair",
+      "references": [
+        "Genesis 25:25,30",
+        "Genesis 36:1,8,19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A name of the land occupied by the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".It exten",
+      "references": [
+        "Genesis 32:3",
+        "Genesis 36:16,17,21",
+        "Jeremiah 40:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Noted for its wise men",
+      "references": [
+        "Obadiah 1:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sins of",
+      "references": [
+        "Obadiah 1:10-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prophecies concerning",
+      "references": [
+        "Jeremiah 25:21-23",
+        "Jeremiah 27:1-11",
+        "Daniel 11:41"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeEDOMITES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".FIGURATIVE of the foes of Zion",
+      "references": [
+        "Isaiah 63:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Wil",
+      "references": [
+        "2 Kings 3:8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        25,
+        30
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 25:25,30"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        1,
+        8,
+        19
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 36:1,8,19"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 32,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 32:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        16,
+        17,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 36:16,17,21"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 40:11"
+    },
+    {
+      "book": "Obadiah",
+      "chapter": 1,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Obadiah 1:8"
+    },
+    {
+      "book": "Obadiah",
+      "chapter": 1,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Obadiah 1:10-14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 25,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 25:21-23"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 27,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Jeremiah 27:1-11"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 11,
+      "verses": [
+        41
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 11:41"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 63,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 63:1"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 3:8"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Daniel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Obadiah"
+  ],
+  "stats": {
+    "total_aspects": 11,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Genesis",
+      "Jeremiah",
+      "Obadiah",
+      "Daniel",
+      "Isaiah",
+      "2 Kings"
+    ]
+  }
+}

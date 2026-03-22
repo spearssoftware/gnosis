@@ -1,0 +1,54 @@
+{
+  "topic": "TABEEL",
+  "slug": "tabeel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TABEAL"
+  ],
+  "aspects": [
+    {
+      "label": "1. A Persian official in Samaria",
+      "references": [
+        "Ezra 4:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. TABEEL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTABEAL",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 4:7"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

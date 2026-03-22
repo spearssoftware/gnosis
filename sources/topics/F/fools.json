@@ -1,0 +1,937 @@
+{
+  "topic": "FOOLS",
+  "slug": "fools",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "All men are, without the knowledge of God",
+      "references": [
+        "Titus 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Deny God",
+      "references": [
+        "Psalms 14:1",
+        "Psalms 53:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Blaspheme God",
+      "references": [
+        "Psalms 74:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Reproach God",
+      "references": [
+        "Psalms 74:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Make a mock at sin",
+      "references": [
+        "Proverbs 14:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Despise instruction",
+      "references": [
+        "Proverbs 1:7",
+        "Proverbs 15:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Hate knowledge",
+      "references": [
+        "Proverbs 1:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Delight not in understanding",
+      "references": [
+        "Proverbs 18:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sport themselves in mischief",
+      "references": [
+        "Proverbs 10:23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Walk in darkness",
+      "references": [
+        "Ecclesiastes 2:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Hate to depart from evil",
+      "references": [
+        "Proverbs 13:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Worship of, hateful to God",
+      "references": [
+        "Ecclesiastes 5:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Corrupt and abominable",
+      "references": [
+        "Psalms 14:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Self-sufficient",
+      "references": [
+        "Proverbs 12:15",
+        "Romans 1:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Self-confident",
+      "references": [
+        "Proverbs 14:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Self-deceivers",
+      "references": [
+        "Proverbs 14:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Mere professors of religion",
+      "references": [
+        "Matthew 25:2-12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Full of words",
+      "references": [
+        "Ecclesiastes 10:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Given to meddling",
+      "references": [
+        "Proverbs 20:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Slanderers",
+      "references": [
+        "Proverbs 10:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Liars",
+      "references": [
+        "Proverbs 10:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Slothful",
+      "references": [
+        "Ecclesiastes 4:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Angry",
+      "references": [
+        "Ecclesiastes 7:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: Contentious",
+      "references": [
+        "Proverbs 18:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are: A grief to parents",
+      "references": [
+        "Proverbs 17:25",
+        "Proverbs 19:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Come to shame",
+      "references": [
+        "Proverbs 3:35"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Destroy themselves by their speech",
+      "references": [
+        "Proverbs 10:8,14",
+        "Ecclesiastes 10:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The company of, ruinous",
+      "references": [
+        "Proverbs 13:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Lips of, a snare to the soul",
+      "references": [
+        "Proverbs 18:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Cling to their folly",
+      "references": [
+        "Proverbs 26:11",
+        "Proverbs 27:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Worship idols",
+      "references": [
+        "Jeremiah 10:8",
+        "Romans 1:22,23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Trust to their own hearts",
+      "references": [
+        "Proverbs 28:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Depend upon their wealth",
+      "references": [
+        "Luke 12:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Hear the gospel and obey it not",
+      "references": [
+        "Matthew 7:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The mouth of, pours out folly",
+      "references": [
+        "Proverbs 15:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Honour is unbecoming for",
+      "references": [
+        "Proverbs 26:1,8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God has no pleasure in",
+      "references": [
+        "Ecclesiastes 5:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Shall not stand in the presence of God",
+      "references": [
+        "Psalms 5:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Avoid them",
+      "references": [
+        "Proverbs 9:6",
+        "Proverbs 14:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exhorted to seek wisdom",
+      "references": [
+        "Proverbs 8:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Punishment of",
+      "references": [
+        "Psalms 107:17",
+        "Proverbs 19:29",
+        "Proverbs 26:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Rehoboam",
+      "references": [
+        "1 Kings 12:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Israel",
+      "references": [
+        "Jeremiah 4:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Pharisees",
+      "references": [
+        "Matthew 23:17,19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:3"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 14,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 14:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 53,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 53:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 74,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 74:18"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 74,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 74:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:5"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 1:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:2"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:23"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 2:14"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 13:19"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 12:15"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 1:22"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:16"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Matthew 25:2-12"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:14"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 20:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 10:18"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 4:5"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:9"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 17:25"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 19:13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 3:35"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "verses": [
+        8,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 10:8,14"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:12"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 13:20"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 18:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:22"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 10,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 10:8"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 1:22,23"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 28:26"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 12:20"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 7:26"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 15:2"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        1,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 26:1,8"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 5:4"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 5:5"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 9:6"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 14:7"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 8:5"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 107,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 107:17"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 19:29"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:10"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:22"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "verses": [
+        17,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 23:17,19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Ecclesiastes",
+    "Jeremiah",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Romans",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 44,
+    "total_refs": 52,
+    "ot_refs": 45,
+    "nt_refs": 7,
+    "books_count": 9,
+    "top_books": [
+      "Proverbs",
+      "Ecclesiastes",
+      "Psalms",
+      "Matthew",
+      "Romans",
+      "Jeremiah",
+      "Titus",
+      "Luke",
+      "1 Kings"
+    ]
+  }
+}

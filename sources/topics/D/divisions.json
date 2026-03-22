@@ -1,0 +1,238 @@
+{
+  "topic": "DIVISIONS",
+  "slug": "divisions",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Forbidden in the church",
+      "references": [
+        "1 Corinthians 1:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Condemned in the church",
+      "references": [
+        "1 Corinthians 1:11-13",
+        "1 Corinthians 11:18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Unbecoming in the church",
+      "references": [
+        "1 Corinthians 12:24,25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are contrary to the: Unity of Christ",
+      "references": [
+        "1 Corinthians 1:13",
+        "1 Corinthians 12:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are contrary to the: Desire of Christ",
+      "references": [
+        "John 17:21-23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are contrary to the: Purpose of Christ",
+      "references": [
+        "John 10:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are contrary to the: Spirit of the church",
+      "references": [
+        "1 Corinthians 11:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Are proof of a carnal spirit",
+      "references": [
+        "1 Corinthians 3:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Avoid those who cause",
+      "references": [
+        "Romans 16:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Evil of, illustrated",
+      "references": [
+        "Matthew 12:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:10"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        11,
+        12,
+        13
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:11-13"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 11:18"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:24,25"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 1:13"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 12:13"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "verses": [
+        21,
+        22,
+        23
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "John 17:21-23"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 10:16"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 11:16"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:17"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:25"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "John",
+    "Matthew",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 12,
+    "ot_refs": 0,
+    "nt_refs": 12,
+    "books_count": 4,
+    "top_books": [
+      "1 Corinthians",
+      "John",
+      "Romans",
+      "Matthew"
+    ]
+  }
+}

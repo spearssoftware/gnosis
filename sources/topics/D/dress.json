@@ -1,0 +1,647 @@
+{
+  "topic": "DRESS",
+  "slug": "dress",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COLOR, SYMBOLISM OF",
+    "GOATS’ HAIR",
+    "HAIR",
+    "LEATHER",
+    "LINEN",
+    "MOURNING",
+    "PRIEST",
+    "SACKCLOTH",
+    "SILK",
+    "VAIL",
+    "WOOL"
+  ],
+  "aspects": [
+    {
+      "label": "Of fig leaves",
+      "references": [
+        "Genesis 3:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of skins",
+      "references": [
+        "Genesis 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of other materials",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHAIR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeGOATS’ HAIR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLEATHER",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLINEN",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSACKCLOTH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSILK",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWOOL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Mixed materials in, forbid",
+      "references": [
+        "Deuteronomy 22:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Men forbid",
+      "references": [
+        "Deuteronomy 22:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Rules with respect to women’s",
+      "references": [
+        "1 Timothy 2:9,10",
+        "1 Peter 3:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Not to be held overnight as a pledge for",
+      "references": [
+        "Exodus 22:26"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Ceremonial purifi",
+      "references": [
+        "Leviticus 11:32",
+        "Leviticus 13:47-59",
+        "Numbers 31:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The ripping of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeMOURNING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the head",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Bonnets (R. V., head-tires), prescribed by Moses, for the priests",
+      "references": [
+        "Exodus 28:40",
+        "Exodus 29:9",
+        "Exodus 39:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Ezekiel",
+      "references": [
+        "Ezekiel 44:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hats (turbans, R. V. margin), worn by men",
+      "references": [
+        "Daniel 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Bonnets (R. V., head-tires), worn by women",
+      "references": [
+        "Isaiah 3:20",
+        "Ezekiel 24:17,23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Hoods (turban, R. V.)",
+      "references": [
+        "Isaiah 3:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Kerchiefs",
+      "references": [
+        "Ezekiel 13:18,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Various articles of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Mantle",
+      "references": [
+        "Ezra 9:3",
+        "1 Kings 19:13",
+        "1 Chronicles 15:27",
+        "Job 1:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Many-colored",
+      "references": [
+        "2 Samuel 13:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Purple",
+      "references": [
+        "John 19:2,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Robe",
+      "references": [
+        "Exodus 28:4",
+        "1 Samuel 18:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Shawls",
+      "references": [
+        "Isaiah 3:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Embroi",
+      "references": [
+        "Exodus 28:4,40",
+        "1 Samuel 2:19",
+        "Daniel 3:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Sleeveless shirt,",
+      "references": [
+        "Matthew 5:40",
+        "Luke 6:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "19:23;",
+      "references": [
+        "Acts 9:39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Cloak2",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 3:21"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 22,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 22:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 22,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 22:5"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Timothy 2:9,10"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 3:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:26"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:32"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "verses": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "Leviticus 13:47-59"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 31:20"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:40"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:9"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:28"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 44,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 44:18"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 3:21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:20"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 24,
+      "verses": [
+        17,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 24:17,23"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:23"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 13,
+      "verses": [
+        18,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 13:18,21"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 9:3"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 19:13"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:27"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:20"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 13:18"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        2,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 19:2,5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 28:4"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 18:4"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 3:22"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 28,
+      "verses": [
+        4,
+        40
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 28:4,40"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 2:19"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:40"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 6:29"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:23"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:39"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Peter",
+    "1 Samuel",
+    "1 Timothy",
+    "2 Samuel",
+    "Acts",
+    "Daniel",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Ezra",
+    "Genesis",
+    "Isaiah",
+    "Job",
+    "John",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 34,
+    "total_refs": 34,
+    "ot_refs": 27,
+    "nt_refs": 7,
+    "books_count": 20,
+    "top_books": [
+      "Exodus",
+      "Ezekiel",
+      "Isaiah",
+      "Genesis",
+      "Deuteronomy",
+      "Leviticus",
+      "1 Samuel",
+      "Luke",
+      "1 Timothy",
+      "1 Peter"
+    ]
+  }
+}

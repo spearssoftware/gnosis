@@ -1,0 +1,593 @@
+{
+  "topic": "CREDITORS",
+  "slug": "creditors",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Defined",
+      "references": [],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Might demand: Pledges",
+      "references": [
+        "Deuteronomy 24:10,11",
+        "Proverbs 22:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Might demand: Security of others",
+      "references": [
+        "Proverbs 6:1",
+        "Proverbs 22:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Might demand: Mortgages on property",
+      "references": [
+        "Nehemiah 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Might demand: Bills or promissory notes",
+      "references": [
+        "Luke 16:6,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "To return before sunset, garments taken in pledge",
+      "references": [
+        "Exodus 22:26,27",
+        "Deuteronomy 24:12,13",
+        "Ezekiel 18:7,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Taking millstones in pledge",
+      "references": [
+        "Deuteronomy 24:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Violently selecting pledges",
+      "references": [
+        "Deuteronomy 24:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Exacting usury from brethren",
+      "references": [
+        "Exodus 22:25",
+        "Leviticus 25:36,37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Prohibited from: Exacting debts from brethren during sabbatical year",
+      "references": [
+        "Deuteronomy 15:2,3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Might take interest from strangers",
+      "references": [
+        "Deuteronomy 23:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes entirely remitted debts",
+      "references": [
+        "Nehemiah 5:10-12",
+        "Matthew 18:27",
+        "Luke 7:42"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often cruel in exacting debts",
+      "references": [
+        "Nehemiah 5:7-9",
+        "Job 24:3-9",
+        "Matthew 18:28-30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often exacted debts: By selling the debtor or taking him for a servant",
+      "references": [
+        "Matthew 18:25",
+        "Exodus 21:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often exacted debts: By selling the debtor’s property",
+      "references": [
+        "Matthew 18:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often exacted debts: By selling the debtor’s family",
+      "references": [
+        "2 Kings 4:1",
+        "Job 24:9",
+        "Matthew 18:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often exacted debts: By imprisonment",
+      "references": [
+        "Matthew 5:25,26",
+        "Matthew 18:34"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Often exacted debts: From the sureties",
+      "references": [
+        "Proverbs 11:15",
+        "Proverbs 22:26,27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Were often defrauded",
+      "references": [
+        "1 Samuel 22:2",
+        "Luke 16:5-7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: God’s claim upon men",
+      "references": [
+        "Matthew 5:25,26",
+        "Matthew 18:23,25",
+        "Luke 7:41,47"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: The demands of the law",
+      "references": [
+        "Galatians 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:10,11"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:1"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:26"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 5:3"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 16:6,7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 22:26,27"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:12,13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        7,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 18:7,12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:6"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:10"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        36,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 25:36,37"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 15,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Deuteronomy 15:2,3"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 23:20"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        10,
+        11,
+        12
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nehemiah 5:10-12"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:27"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 7:42"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 5,
+      "verses": [
+        7,
+        8,
+        9
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Nehemiah 5:7-9"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Job 24:3-9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        28,
+        29,
+        30
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 18:28-30"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:25"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 21,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 21:2"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 4:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 24:9"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 5:25,26"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 18:34"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 11:15"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Proverbs 22:26,27"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 22:2"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "verses": [
+        5,
+        6,
+        7
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Luke 16:5-7"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "verses": [
+        23,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 18:23,25"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "verses": [
+        41,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 7:41,47"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 5:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "2 Kings",
+    "Deuteronomy",
+    "Exodus",
+    "Ezekiel",
+    "Galatians",
+    "Job",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Nehemiah",
+    "Proverbs"
+  ],
+  "stats": {
+    "total_aspects": 21,
+    "total_refs": 34,
+    "ot_refs": 23,
+    "nt_refs": 11,
+    "books_count": 12,
+    "top_books": [
+      "Deuteronomy",
+      "Matthew",
+      "Proverbs",
+      "Luke",
+      "Nehemiah",
+      "Exodus",
+      "Job",
+      "Ezekiel",
+      "Leviticus",
+      "2 Kings"
+    ]
+  }
+}

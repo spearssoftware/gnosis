@@ -1,0 +1,76 @@
+{
+  "topic": "PAGIEL",
+  "slug": "pagiel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "exodus",
+      "references": [
+        "Numbers 1:13",
+        "Numbers 2:27",
+        "Numbers 7:72,77",
+        "Numbers 10:26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 1:13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 2:27"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "verses": [
+        72,
+        77
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 7:72,77"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:26"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

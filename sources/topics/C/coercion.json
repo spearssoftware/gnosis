@@ -1,0 +1,119 @@
+{
+  "topic": "COERCION",
+  "slug": "coercion",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "INTOLERANCE"
+  ],
+  "aspects": [
+    {
+      "label": "RELIGIOUS",
+      "references": [
+        "Exodus 22:20",
+        "2 Chronicles 15:12-15",
+        "Daniel 3:1-30",
+        "Daniel 6:26,27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeINTOLERANCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 15,
+      "verses": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Chronicles 15:12-15"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 3,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "verse_count": 30,
+      "testament": "OT",
+      "raw": "Daniel 3:1-30"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 6,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 6:26,27"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "Daniel",
+    "Exodus"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Daniel",
+      "Exodus",
+      "2 Chronicles"
+    ]
+  }
+}

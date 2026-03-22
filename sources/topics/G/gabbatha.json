@@ -1,0 +1,47 @@
+{
+  "topic": "GABBATHA",
+  "slug": "gabbatha",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A place for",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "on Jesus",
+      "references": [
+        "John 19:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:13"
+    }
+  ],
+  "books_mentioned": [
+    "John"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "John"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "topic": "BADGER",
+  "slug": "badger",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(R. V., SEAL or PORPOISE.)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Skins of, used for covering of the tabernacle",
+      "references": [
+        "Exodus 25:5",
+        "Exodus 26:14",
+        "Exodus 35:7,23",
+        "Exodus 36:19",
+        "Exodus 39:34",
+        "Numbers 4:6,8,10,11,12,14,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "For shoes",
+      "references": [
+        "Ezekiel 16:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "(R. V., SEALSKIN.)",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 25:5"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 26:14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 35,
+      "verses": [
+        7,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 35:7,23"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 36,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 36:19"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 39,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 39:34"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "verses": [
+        6,
+        8,
+        10,
+        11,
+        12,
+        14,
+        25
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Numbers 4:6,8,10,11,12,14,25"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:10"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Ezekiel",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Numbers",
+      "Ezekiel"
+    ]
+  }
+}

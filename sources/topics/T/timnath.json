@@ -1,0 +1,86 @@
+{
+  "topic": "TIMNATH",
+  "slug": "timnath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A city given by",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Genesis 38:12-14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Home of Sam",
+      "references": [
+        "Judges 14:1,2,5",
+        "Judges 15:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Believed by",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 38,
+      "verses": [
+        12,
+        13,
+        14
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Genesis 38:12-14"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        1,
+        2,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Judges 14:1,2,5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 15:6"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "Genesis"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "topic": "HURAM",
+  "slug": "huram",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HIRAM"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Chronicles 8:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. King of Tyre",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHIRAM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "3. HURAM",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeHIRAM",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 8:5"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "1 Chronicles"
+    ]
+  }
+}

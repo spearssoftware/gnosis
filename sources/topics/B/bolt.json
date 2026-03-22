@@ -1,0 +1,42 @@
+{
+  "topic": "BOLT",
+  "slug": "bolt",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "FIERY",
+      "references": [
+        "Habakkuk 3:5"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Habakkuk 3:5"
+    }
+  ],
+  "books_mentioned": [
+    "Habakkuk"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Habakkuk"
+    ]
+  }
+}

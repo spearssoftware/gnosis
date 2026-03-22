@@ -1,0 +1,90 @@
+{
+  "topic": "BARBARIAN",
+  "slug": "barbarian",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "STRANGER"
+  ],
+  "aspects": [
+    {
+      "label": "A foreigner",
+      "references": [
+        "Acts 28:2-4",
+        "Romans 1:14",
+        "1 Corinthians 14:11",
+        "Colossians 3:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSTRANGER",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Acts 28:2-4"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 1:14"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 14:11"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Acts",
+    "Colossians",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 4,
+    "top_books": [
+      "Acts",
+      "Romans",
+      "1 Corinthians",
+      "Colossians"
+    ]
+  }
+}

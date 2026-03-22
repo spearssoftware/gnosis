@@ -1,0 +1,96 @@
+{
+  "topic": "TRUMPETS",
+  "slug": "trumpets",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FEASTS"
+  ],
+  "aspects": [
+    {
+      "label": "FEAST OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".When and how observed",
+      "references": [
+        "Leviticus 23:24,25",
+        "Numbers 29:1-6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Celebrated after the",
+      "references": [
+        "Nehemiah 8:2,9-12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeFEASTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 23:24,25"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Numbers 29:1-6"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        2,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Nehemiah 8:2,9-12"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus",
+    "Nehemiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Numbers",
+      "Nehemiah"
+    ]
+  }
+}

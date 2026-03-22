@@ -1,0 +1,47 @@
+{
+  "topic": "PHYGELLUS",
+  "slug": "phygellus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A Christian in Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Turns away from Paul",
+      "references": [
+        "2 Timothy 1:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Timothy 1:15"
+    }
+  ],
+  "books_mentioned": [
+    "2 Timothy"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "2 Timothy"
+    ]
+  }
+}

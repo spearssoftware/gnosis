@@ -1,0 +1,97 @@
+{
+  "topic": "RAMESES",
+  "slug": "rameses",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "The district in Egypt which was inhabited by the Israelites",
+      "references": [
+        "Genesis 47:11",
+        "Exodus 1:11",
+        "Exodus 12:37",
+        "Numbers 33:3,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".City of, built by the Israelites as a treasure city for one of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "the Pharaohs",
+      "references": [
+        "Exodus 1:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 47,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 47:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 1,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 1:11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:37"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        3,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:3,5"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Genesis",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Exodus",
+      "Genesis",
+      "Numbers"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "topic": "HAMATH",
+  "slug": "hamath",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A city of upper Syria",
+      "references": [
+        "Numbers 13:21",
+        "Numbers 34:8",
+        "Joshua 13:5",
+        "1 Kings 8:65",
+        "Ezekiel 47:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Inhabited by",
+      "references": [
+        "Genesis 10:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prosperity of",
+      "references": [
+        "Amos 6:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David receives gifts of gold and silver from Toi, king of",
+      "references": [
+        "2 Samuel 8:9,10",
+        "1 Chronicles 18:3,9,10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conquest of, by",
+      "references": [
+        "2 Kings 14:25,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "By the Chal",
+      "references": [
+        "2 Kings 25:20,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Israelites taken",
+      "references": [
+        "Isaiah 11:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Prophecy concerning",
+      "references": [
+        "Jeremiah 49:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "2 Chronicles 8:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 13:21"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 34:8"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:5"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        65
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:65"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 47,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 47:16"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 10:18"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 6:2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 8:9,10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "verses": [
+        3,
+        9,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 18:3,9,10"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "verses": [
+        25,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 14:25,28"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 25:20,21"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 11,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 11:11"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 49,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 49:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 8:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Amos",
+    "Ezekiel",
+    "Genesis",
+    "Isaiah",
+    "Jeremiah",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 14,
+    "ot_refs": 14,
+    "nt_refs": 0,
+    "books_count": 12,
+    "top_books": [
+      "Numbers",
+      "2 Kings",
+      "Joshua",
+      "1 Kings",
+      "Ezekiel",
+      "Genesis",
+      "Amos",
+      "2 Samuel",
+      "1 Chronicles",
+      "Isaiah"
+    ]
+  }
+}

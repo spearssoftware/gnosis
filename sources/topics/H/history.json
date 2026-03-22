@@ -1,0 +1,63 @@
+{
+  "topic": "HISTORY",
+  "slug": "history",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BOOKS",
+    "ISRAEL, HISTORY OF",
+    "JESUS, LIFE OF"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Job 8:8-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBOOKS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeISRAEL, HISTORY OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJESUS, LIFE OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 8,
+      "verses": [
+        8,
+        9,
+        10
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Job 8:8-10"
+    }
+  ],
+  "books_mentioned": [
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Job"
+    ]
+  }
+}

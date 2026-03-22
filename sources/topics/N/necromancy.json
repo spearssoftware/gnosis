@@ -1,0 +1,128 @@
+{
+  "topic": "NECROMANCY",
+  "slug": "necromancy",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FAMILIAR SPIRITS",
+    "SORCERY",
+    "WITCHCRAFT"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Deuteronomy 18:11",
+        "Deuteronomy 26:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCE OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The witch of En-dor",
+      "references": [
+        "1 Samuel 28:7-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeFAMILIAR SPIRITS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeWITCHCRAFT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 18,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 18:11"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 26,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 26:14"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 8,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 8:19"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 29,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 29:4"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 13,
+      "testament": "OT",
+      "raw": "1 Samuel 28:7-19"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Deuteronomy"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Deuteronomy",
+      "1 Samuel"
+    ]
+  }
+}

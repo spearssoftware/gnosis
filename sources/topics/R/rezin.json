@@ -1,0 +1,142 @@
+{
+  "topic": "REZIN",
+  "slug": "rezin",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A king of Syria who harassed the",
+      "references": [
+        "2 Kings 15:37",
+        "2 Kings 16:5-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Prophecy against",
+      "references": [
+        "Isaiah 7:1-9",
+        "Isaiah 8:4-8",
+        "Isaiah 9:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A returned Babylonian",
+      "references": [
+        "Ezra 2:48",
+        "Nehemiah 7:50"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:37"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Kings 16:5-9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Isaiah 7:1-9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 8,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Isaiah 8:4-8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 9:11"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 2:48"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        50
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 7:50"
+    }
+  ],
+  "books_mentioned": [
+    "2 Kings",
+    "Ezra",
+    "Isaiah",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Isaiah",
+      "2 Kings",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

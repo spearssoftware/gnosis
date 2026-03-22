@@ -1,0 +1,107 @@
+{
+  "topic": "DOR",
+  "slug": "dor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A town and district of Palestine",
+      "references": [
+        "Joshua 11:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Conquered by Joshua",
+      "references": [
+        "Joshua 12:23",
+        "1 Kings 4:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allotted to the tribe of Manasseh, although it was situated in",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "the territory of the tribe of Asher",
+      "references": [
+        "Joshua 17:11",
+        "Judges 1:27"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 11:2"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:23"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:11"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 17:11"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Joshua",
+      "1 Kings",
+      "Judges"
+    ]
+  }
+}

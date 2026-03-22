@@ -1,0 +1,122 @@
+{
+  "topic": "LAWYER",
+  "slug": "lawyer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LITIGATION"
+  ],
+  "aspects": [
+    {
+      "label": "(One versed in the Mosaic law)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Test Jesus with questions",
+      "references": [
+        "Matthew 22:35",
+        "Luke 10:25-37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jesus’ remarks against",
+      "references": [
+        "Luke 11:45-52"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Zenas",
+      "references": [
+        "Titus 3:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLITIGATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 22:35"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Luke 10:25-37"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "verse_count": 8,
+      "testament": "NT",
+      "raw": "Luke 11:45-52"
+    },
+    {
+      "book": "Titus",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 3:13"
+    }
+  ],
+  "books_mentioned": [
+    "Luke",
+    "Matthew",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 3,
+    "top_books": [
+      "Luke",
+      "Matthew",
+      "Titus"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "topic": "SYCAMORE",
+  "slug": "sycamore",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(A tree)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Abundant in the land of",
+      "references": [
+        "1 Kings 10:27",
+        "2 Chronicles 1:15",
+        "2 Chronicles 9:27",
+        "Isaiah 9:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Groves of,",
+      "references": [
+        "1 Chronicles 27:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Psalms 78:47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Amos 7:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Zacchaeus climbs into a",
+      "references": [
+        "Luke 19:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 10:27"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 1,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 1:15"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 9,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 9:27"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 9,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 9:10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:28"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verses": [
+        47
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 78:47"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 7:14"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 19:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "2 Chronicles",
+    "Amos",
+    "Isaiah",
+    "Luke",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 8,
+    "ot_refs": 7,
+    "nt_refs": 1,
+    "books_count": 7,
+    "top_books": [
+      "2 Chronicles",
+      "1 Kings",
+      "Isaiah",
+      "1 Chronicles",
+      "Psalms",
+      "Amos",
+      "Luke"
+    ]
+  }
+}

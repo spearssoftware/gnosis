@@ -1,0 +1,79 @@
+{
+  "topic": "ZALMON",
+  "slug": "zalmon",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".A hill in Samaria",
+      "references": [
+        "Judges 9:48",
+        "Psalms 68:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. One of David’ s warriors",
+      "references": [
+        "2 Samuel 23:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:48"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 23:28"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Judges",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Judges",
+      "Psalms",
+      "2 Samuel"
+    ]
+  }
+}

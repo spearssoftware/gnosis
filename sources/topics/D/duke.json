@@ -1,0 +1,118 @@
+{
+  "topic": "DUKE",
+  "slug": "duke",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Title of the princes of Edom",
+      "references": [
+        "Genesis 36:15-43",
+        "Exodus 15:15",
+        "1 Chronicles 1:51-54"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of the Midianites",
+      "references": [
+        "Joshua 13:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 36,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "verse_count": 29,
+      "testament": "OT",
+      "raw": "Genesis 36:15-43"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 15:15"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "verses": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Chronicles 1:51-54"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 13,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 13:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Exodus",
+    "Genesis",
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Genesis",
+      "Exodus",
+      "1 Chronicles",
+      "Joshua"
+    ]
+  }
+}

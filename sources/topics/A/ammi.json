@@ -1,0 +1,42 @@
+{
+  "topic": "AMMI",
+  "slug": "ammi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A figurative name given to Israel",
+      "references": [
+        "Hosea 2:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Hosea 2:1"
+    }
+  ],
+  "books_mentioned": [
+    "Hosea"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Hosea"
+    ]
+  }
+}

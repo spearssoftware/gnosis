@@ -1,0 +1,98 @@
+{
+  "topic": "CONSTELLATIONS",
+  "slug": "constellations",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ASTRONOMY"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Isaiah 13:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The serpent",
+      "references": [
+        "Job 26:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Orion",
+      "references": [
+        "Job 9:9",
+        "Amos 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeASTRONOMY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:10"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 26:13"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 9:9"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Amos 5:8"
+    }
+  ],
+  "books_mentioned": [
+    "Amos",
+    "Isaiah",
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Job",
+      "Isaiah",
+      "Amos"
+    ]
+  }
+}

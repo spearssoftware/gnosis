@@ -1,0 +1,101 @@
+{
+  "topic": "VERDICT",
+  "slug": "verdict",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "COURTS"
+  ],
+  "aspects": [
+    {
+      "label": "Against Jesus",
+      "references": [
+        "Matthew 26:66",
+        "Matthew 27:24-26",
+        "Mark 15:15",
+        "Luke 23:24",
+        "John 19:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCOURTS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        66
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 26:66"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        24,
+        25,
+        26
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Matthew 27:24-26"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 15:15"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:24"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 19:16"
+    }
+  ],
+  "books_mentioned": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 4,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ]
+  }
+}

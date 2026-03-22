@@ -1,0 +1,97 @@
+{
+  "topic": "JOSES",
+  "slug": "joses",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. One of the physi",
+      "references": [
+        "Matthew 13:55",
+        "Matthew 27:56",
+        "Mark 6:3",
+        "Mark 15:40,47"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Levite, surnamed Barnabas by the apostles",
+      "references": [
+        "Acts 4:36"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        55
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 13:55"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "verses": [
+        56
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 27:56"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 6:3"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "verses": [
+        40,
+        47
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 15:40,47"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 4:36"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 3,
+    "top_books": [
+      "Matthew",
+      "Mark",
+      "Acts"
+    ]
+  }
+}

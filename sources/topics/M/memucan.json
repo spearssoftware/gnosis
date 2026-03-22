@@ -1,0 +1,54 @@
+{
+  "topic": "MEMUCAN",
+  "slug": "memucan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "One of the seven princes of Ahasuerus who counsels the king to",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "divorce Queen Vashti",
+      "references": [
+        "Esther 1:14-21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verses": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Esther 1:14-21"
+    }
+  ],
+  "books_mentioned": [
+    "Esther"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Esther"
+    ]
+  }
+}

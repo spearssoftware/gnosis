@@ -1,0 +1,75 @@
+{
+  "topic": "PHRYGIA",
+  "slug": "phrygia",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(An inland province of Asia Minor)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "People from, in",
+      "references": [
+        "Acts 2:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul in",
+      "references": [
+        "Acts 16:6",
+        "Acts 18:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:6"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:23"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

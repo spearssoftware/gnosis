@@ -1,0 +1,125 @@
+{
+  "topic": "ARSON",
+  "slug": "arson",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Psalms 74:7,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Law concerning",
+      "references": [
+        "Exodus 22:6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Sam",
+      "references": [
+        "Judges 15:4,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Absalom",
+      "references": [
+        "2 Samuel 14:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".By Zi",
+      "references": [
+        "1 Kings 16:18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 74,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 74:7,8"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 22,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 22:6"
+    },
+    {
+      "book": "Judges",
+      "chapter": 15,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 15:4,5"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 14:30"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 16:18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Exodus",
+    "Judges",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Exodus",
+      "Judges",
+      "2 Samuel",
+      "1 Kings"
+    ]
+  }
+}

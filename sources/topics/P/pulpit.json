@@ -1,0 +1,55 @@
+{
+  "topic": "PULPIT",
+  "slug": "pulpit",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Nehemiah 8:4",
+        "2 Chronicles 6:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 8:4"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 6,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 6:13"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Nehemiah",
+      "2 Chronicles"
+    ]
+  }
+}

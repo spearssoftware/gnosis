@@ -1,0 +1,61 @@
+{
+  "topic": "THEBEZ",
+  "slug": "thebez",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city, at which Abimelech was killed while besieging",
+      "references": [
+        "Judges 9:50-56",
+        "2 Samuel 11:21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Judges 9:50-56"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 11:21"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Judges",
+      "2 Samuel"
+    ]
+  }
+}

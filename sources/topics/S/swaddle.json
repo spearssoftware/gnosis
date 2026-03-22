@@ -1,0 +1,87 @@
+{
+  "topic": "SWADDLE",
+  "slug": "swaddle",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(Wrapping, bundling)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of children",
+      "references": [
+        "Job 38:9",
+        "Lamentations 2:22",
+        "Ezekiel 16:4",
+        "Luke 2:7,12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:9"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Lamentations 2:22"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 16:4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "verses": [
+        7,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 2:7,12"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Job",
+    "Lamentations",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 3,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Job",
+      "Lamentations",
+      "Ezekiel",
+      "Luke"
+    ]
+  }
+}

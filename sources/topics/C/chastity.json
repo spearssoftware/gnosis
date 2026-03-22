@@ -1,0 +1,838 @@
+{
+  "topic": "CHASTITY",
+  "slug": "chastity",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [
+    "CONTINENCE"
+  ],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Exodus 20:14",
+        "Job 31:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2:10,11,16-22;5:15-21;6:24,25;7:1-5;31:3;",
+      "references": [
+        "Matthew 5:28",
+        "Acts 15:20",
+        "Romans 13:13",
+        "1 Corinthians 6:13-19",
+        "1 Corinthians 7:1,2,7-9,25,26,36,37",
+        "Ephesians 5:3",
+        "Colossians 3:5",
+        "1 Thessalonians 4:3,7",
+        "Revelation 14:1-5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCONTINENCE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Joseph",
+      "references": [
+        "Genesis 39:7-20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Boaz",
+      "references": [
+        "Ruth 3:6-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Paul1Co 7",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Commanded",
+      "references": [
+        "Exodus 20:14",
+        "Proverbs 31:3",
+        "Acts 15:20",
+        "Romans 13:13",
+        "Colossians 3:5",
+        "1 Thessalonians 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in look",
+      "references": [
+        "Job 31:1",
+        "Matthew 5:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in heart",
+      "references": [
+        "Proverbs 6:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Required in speech",
+      "references": [
+        "Ephesians 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Keep the body in",
+      "references": [
+        "1 Corinthians 6:13,15-18"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Preserved by wisdom",
+      "references": [
+        "Proverbs 2:10,11,16",
+        "Proverbs 7:1-5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints are kept in",
+      "references": [
+        "Ecclesiastes 7:26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Advantages of",
+      "references": [
+        "1 Peter 3:1,2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Shun those devoid of",
+      "references": [
+        "1 Corinthians 5:11",
+        "1 Peter 4:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The wicked are devoid of",
+      "references": [
+        "Romans 1:29",
+        "Ephesians 4:19",
+        "2 Peter 2:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Temptation to deviate from, dangerous",
+      "references": [
+        "2 Samuel 11:2-4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Consequences of associating with those devoid of",
+      "references": [
+        "Proverbs 7:25-27",
+        "Proverbs 22:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Want of, excludes from heaven",
+      "references": [
+        "Galatians 5:19-21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Drunkenness destructive to",
+      "references": [
+        "Proverbs 23:31-33"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Breach of, punished",
+      "references": [
+        "1 Corinthians 3:16,17",
+        "Ephesians 5:5,6",
+        "Hebrews 13:4",
+        "Revelation 22:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Motives for",
+      "references": [
+        "1 Corinthians 6:19",
+        "1 Thessalonians 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Abimelech",
+      "references": [
+        "Genesis 20:4,5",
+        "Genesis 26:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Joseph",
+      "references": [
+        "Genesis 39:7-10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Ruth",
+      "references": [
+        "Ruth 3:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Exemplified: Boaz",
+      "references": [
+        "Ruth 3:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 20:14"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "verses": [
+        10,
+        11,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Job 2:10,11,16-22"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Job 5:15-21"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "verses": [
+        24,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Job 6:24,25"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Job 7:1-5"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:3"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:20"
+    },
+    {
+      "book": "Romans",
+      "chapter": 13,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 13:13"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "verses": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "1 Corinthians 6:13-19"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        7,
+        8,
+        9,
+        25,
+        26,
+        36,
+        37
+      ],
+      "verse_count": 9,
+      "testament": "NT",
+      "raw": "1 Corinthians 7:1,2,7-9,25,26,36,37"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 5:3"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:5"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verses": [
+        3,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Thessalonians 4:3,7"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 14,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Revelation 14:1-5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "Genesis 39:7-20"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "verses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Ruth 3:6-13"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 31:3"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 4:3"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 6:25"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "verses": [
+        13,
+        15,
+        16,
+        17,
+        18
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "1 Corinthians 6:13,15-18"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "verses": [
+        10,
+        11,
+        16
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 2:10,11,16"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Proverbs 7:1-5"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 7:26"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Peter 3:1,2"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 5:11"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 4:3"
+    },
+    {
+      "book": "Romans",
+      "chapter": 1,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 1:29"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 4:19"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 2,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Peter 2:14"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "verses": [
+        2,
+        3,
+        4
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Samuel 11:2-4"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 7:25-27"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 22:14"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        19,
+        20,
+        21
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Galatians 5:19-21"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "verses": [
+        31,
+        32,
+        33
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Proverbs 23:31-33"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verses": [
+        16,
+        17
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 3:16,17"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 5:5,6"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 13,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 13:4"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:15"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 6:19"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 4:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 20,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 20:4,5"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 26,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 26:10,11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 39,
+      "verses": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 39:7-10"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ruth 3:10,11"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ruth 3:13"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Peter",
+    "1 Thessalonians",
+    "2 Peter",
+    "2 Samuel",
+    "Acts",
+    "Colossians",
+    "Ecclesiastes",
+    "Ephesians",
+    "Exodus",
+    "Galatians",
+    "Genesis",
+    "Hebrews",
+    "Job",
+    "Matthew",
+    "Proverbs",
+    "Revelation",
+    "Romans",
+    "Ruth"
+  ],
+  "stats": {
+    "total_aspects": 27,
+    "total_refs": 47,
+    "ot_refs": 23,
+    "nt_refs": 24,
+    "books_count": 19,
+    "top_books": [
+      "Proverbs",
+      "Job",
+      "1 Corinthians",
+      "Genesis",
+      "Ephesians",
+      "1 Thessalonians",
+      "Ruth",
+      "Romans",
+      "Revelation",
+      "1 Peter"
+    ]
+  }
+}

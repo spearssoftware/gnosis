@@ -1,0 +1,43 @@
+{
+  "topic": "SOVEREIGNTY",
+  "slug": "sovereignty",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "GOD, SOVEREIGN",
+    "MAN, DOMINION OF"
+  ],
+  "aspects": [
+    {
+      "label": "Of God",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeGOD,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Man",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMAN, DOMINION OF",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

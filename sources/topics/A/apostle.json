@@ -1,0 +1,49 @@
+{
+  "topic": "APOSTLE",
+  "slug": "apostle",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "APOSTLES"
+  ],
+  "aspects": [
+    {
+      "label": "An appellation of Jesus",
+      "references": [
+        "Hebrews 3:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeAPOSTLES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Hebrews",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 3:1"
+    }
+  ],
+  "books_mentioned": [
+    "Hebrews"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Hebrews"
+    ]
+  }
+}

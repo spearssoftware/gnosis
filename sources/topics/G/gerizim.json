@@ -1,0 +1,104 @@
+{
+  "topic": "GERIZIM",
+  "slug": "gerizim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Mount of blessing",
+      "references": [
+        "Deuteronomy 11:29",
+        "Deuteronomy 27:12",
+        "Joshua 8:33"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jotham addresses the Shechemites from, against the conspiracy of Abimelech",
+      "references": [
+        "Judges 9:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Samaritans worship at",
+      "references": [
+        "John 4:20"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 11:29"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 27,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 27:12"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 8,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 8:33"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:7"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 4:20"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "John",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 5,
+    "ot_refs": 4,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "Deuteronomy",
+      "Joshua",
+      "Judges",
+      "John"
+    ]
+  }
+}

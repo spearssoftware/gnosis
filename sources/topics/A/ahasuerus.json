@@ -1,0 +1,64 @@
+{
+  "topic": "AHASUERUS",
+  "slug": "ahasuerus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ARTAXERXES"
+  ],
+  "aspects": [
+    {
+      "label": "1. King of Persia, history of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".See BOOK OF ESTHEREs 1",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "2. AHASUERUS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeARTAXERXES",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Father of Darius",
+      "references": [
+        "Daniel 9:1"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 9,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 9:1"
+    }
+  ],
+  "books_mentioned": [
+    "Daniel"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Daniel"
+    ]
+  }
+}

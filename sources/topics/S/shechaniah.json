@@ -1,0 +1,153 @@
+{
+  "topic": "SHECHANIAH",
+  "slug": "shechaniah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A",
+      "references": [
+        "1 Chronicles 3:21,22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Two men whose",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "in Babylon",
+      "references": [
+        "Ezra 8:3,5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Jew who proposed the putting away (divorce) of Gentile wives",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "to Ezra",
+      "references": [
+        "Ezra 10:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Father of Shemaiah",
+      "references": [
+        "Nehemiah 3:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Possibly i",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "5. Father-in-law of Tobiah",
+      "references": [
+        "Nehemiah 6:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A Levite who returned with Zerubbabel from the",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Babylon",
+      "references": [
+        "Nehemiah 12:3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "verses": [
+        21,
+        22
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 3:21,22"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        3,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 8:3,5"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 3,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 3:29"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 6:18"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:3"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Nehemiah",
+      "Ezra",
+      "1 Chronicles"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "WAX",
+  "slug": "wax",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Psalms 22:14",
+        "Psalms 68:2",
+        "Psalms 97:5",
+        "Micah 1:4"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Psalms",
+      "chapter": 22,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 22:14"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 68,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 68:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 97,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 97:5"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Micah 1:4"
+    }
+  ],
+  "books_mentioned": [
+    "Micah",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Psalms",
+      "Micah"
+    ]
+  }
+}

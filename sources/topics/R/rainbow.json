@@ -1,0 +1,100 @@
+{
+  "topic": "RAINBOW",
+  "slug": "rainbow",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "METEOROLOGY"
+  ],
+  "aspects": [
+    {
+      "label": "A sign that the earth will no longer be",
+      "references": [
+        "Genesis 9:8-16",
+        "Ezekiel 1:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Symboli",
+      "references": [
+        "Revelation 4:3",
+        "Revelation 10:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMETEOROLOGY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 9,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Genesis 9:8-16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 1,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 1:28"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 4:3"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 10,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 10:1"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Genesis",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 2,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "Revelation",
+      "Genesis",
+      "Ezekiel"
+    ]
+  }
+}

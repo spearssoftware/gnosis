@@ -1,0 +1,512 @@
+{
+  "topic": "ENEMIES",
+  "slug": "enemies",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Christ prayed for his",
+      "references": [
+        "Luke 23:34"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The lives of, to be spared",
+      "references": [
+        "1 Samuel 24:10",
+        "2 Samuel 16:10,11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The goods of, to be taken care of",
+      "references": [
+        "Exodus 23:4,5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be: Loved",
+      "references": [
+        "Matthew 5:44"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be: Prayed for",
+      "references": [
+        "Acts 7:60"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be: Assisted",
+      "references": [
+        "Proverbs 25:21",
+        "Romans 12:20"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Should be: Overcome by kindness",
+      "references": [
+        "1 Samuel 26:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Rejoice not at the misfortunes of",
+      "references": [
+        "Job 31:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Rejoice not at the failings of",
+      "references": [
+        "Proverbs 24:17"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Desire not the death of",
+      "references": [
+        "1 Kings 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Curse them not",
+      "references": [
+        "Job 31:30"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Be affectionately concerned for",
+      "references": [
+        "Psalms 35:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The friendship of, deceitful",
+      "references": [
+        "2 Samuel 20:9,10",
+        "Proverbs 26:26",
+        "Proverbs 27:6",
+        "Matthew 26:48,49"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God defends against",
+      "references": [
+        "Psalms 59:9",
+        "Psalms 61:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "God delivers from",
+      "references": [
+        "1 Samuel 12:11",
+        "Ezra 8:31",
+        "Psalms 18:48"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Made to be at peace with saints",
+      "references": [
+        "Proverbs 16:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Pray for deliverance from",
+      "references": [
+        "1 Samuel 12:10",
+        "Psalms 17:9",
+        "Psalms 59:1",
+        "Psalms 64:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Of saints, God will destroy",
+      "references": [
+        "Psalms 60:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Praise God for deliverance from",
+      "references": [
+        "Psalms 136:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "verses": [
+        34
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 23:34"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 24:10"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "verses": [
+        10,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 16:10,11"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "verses": [
+        4,
+        5
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 23:4,5"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 5:44"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        60
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:60"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 25:21"
+    },
+    {
+      "book": "Romans",
+      "chapter": 12,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 12:20"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 26:21"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:29"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 24:17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 3:11"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 31:30"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 35,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 35:13"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 20:9,10"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 26:26"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 27:6"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "verses": [
+        48,
+        49
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 26:48,49"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 59,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 59:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 61,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 61:3"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 12:11"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 8:31"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 18,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 18:48"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Proverbs 16:7"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 12:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 17,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 17:9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 59,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 59:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 64,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 64:1"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 60,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 60:12"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 136,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 136:24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Samuel",
+    "Acts",
+    "Exodus",
+    "Ezra",
+    "Job",
+    "Luke",
+    "Matthew",
+    "Proverbs",
+    "Psalms",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 30,
+    "ot_refs": 25,
+    "nt_refs": 5,
+    "books_count": 12,
+    "top_books": [
+      "Psalms",
+      "Proverbs",
+      "1 Samuel",
+      "2 Samuel",
+      "Matthew",
+      "Job",
+      "Luke",
+      "Exodus",
+      "Acts",
+      "Romans"
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "topic": "UNCLEANNESS",
+  "slug": "uncleanness",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ABLUTIONS",
+    "DEFILEMENT",
+    "PURIFICATION",
+    "SANITATION"
+  ],
+  "aspects": [
+    {
+      "label": "(Ceremonially speaking)",
+      "references": [
+        "Leviticus 5:2,3",
+        "Leviticus 7:20,21",
+        "Leviticus 17:15",
+        "Leviticus 21:1-15",
+        "Leviticus 22:2-8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeAB",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePURIFI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSANITATION",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 5:2,3"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "verses": [
+        20,
+        21
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 7:20,21"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 17:15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 15,
+      "testament": "OT",
+      "raw": "Leviticus 21:1-15"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Leviticus 22:2-8"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

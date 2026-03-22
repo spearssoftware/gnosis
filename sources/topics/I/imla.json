@@ -1,0 +1,48 @@
+{
+  "topic": "IMLA",
+  "slug": "imla",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Father of Michaiah the prophet",
+      "references": [
+        "2 Chronicles 18:7,8"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Chronicles",
+      "chapter": 18,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Chronicles 18:7,8"
+    }
+  ],
+  "books_mentioned": [
+    "2 Chronicles"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "2 Chronicles"
+    ]
+  }
+}

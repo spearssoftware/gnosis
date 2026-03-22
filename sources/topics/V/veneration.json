@@ -1,0 +1,62 @@
+{
+  "topic": "VENERATION",
+  "slug": "veneration",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "OLD AGE",
+    "PARENTS",
+    "REVERENCE"
+  ],
+  "aspects": [
+    {
+      "label": "For parents",
+      "references": [
+        "Genesis 48:15,16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOLD AGE",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePARENTS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeREVERENCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 48,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 48:15,16"
+    }
+  ],
+  "books_mentioned": [
+    "Genesis"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Genesis"
+    ]
+  }
+}

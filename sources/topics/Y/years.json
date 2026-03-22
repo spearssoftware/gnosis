@@ -1,0 +1,465 @@
+{
+  "topic": "YEARS",
+  "slug": "years",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "The sun and moon appointed to mark out",
+      "references": [
+        "Genesis 1:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Early computation of time by",
+      "references": [
+        "Genesis 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divided into: Seasons",
+      "references": [
+        "Genesis 8:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divided into: Months",
+      "references": [
+        "Genesis 7:11",
+        "1 Chronicles 27:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divided into: Weeks",
+      "references": [
+        "Daniel 9:27",
+        "Luke 18:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Divided into: Days",
+      "references": [
+        "Genesis 25:7",
+        "Esther 9:27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Length of, during the patriarchal age",
+      "references": [
+        "Genesis 7:11",
+        "Genesis 8:13",
+        "Genesis 7:24",
+        "Genesis 8:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Commencement of, changed after the exodus",
+      "references": [
+        "Exodus 12:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Remarkable: Sabbatical",
+      "references": [
+        "Leviticus 25:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Remarkable: Jubilee",
+      "references": [
+        "Leviticus 25:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "In prophetic computation, days reckoned as",
+      "references": [
+        "Daniel 12:11,12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Coming to,) of manhood",
+      "references": [
+        "Hebrews 11:24"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Well stricken in,) of old age",
+      "references": [
+        "Luke 1:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Being full of,) of old age",
+      "references": [
+        "Genesis 25:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Acceptable,) of the time of the gospel",
+      "references": [
+        "Isaiah 61:2",
+        "Luke 4:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Of the right hand of the Most High,) of prosperity",
+      "references": [
+        "Psalms 77:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Of the redeemed,) of redemption by Christ",
+      "references": [
+        "Isaiah 63:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Of visitation,) of severe judgments",
+      "references": [
+        "Jeremiah 11:23",
+        "Jeremiah 23:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative: (Of recompences,) of judgments",
+      "references": [
+        "Isaiah 34:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 1:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 5:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:22"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 7,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 7:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:1"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 9,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Daniel 9:27"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 18:12"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:7"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 9:27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:13"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 7,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 7:24"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:2"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:4"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:11"
+    },
+    {
+      "book": "Daniel",
+      "chapter": 12,
+      "verses": [
+        11,
+        12
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Daniel 12:11,12"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:24"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 25,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 25:8"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 61,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 61:2"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 4:19"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 77,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 77:10"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 63,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 63:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 11,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 11:23"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 23,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 23:12"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 34,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 34:8"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Daniel",
+    "Esther",
+    "Exodus",
+    "Genesis",
+    "Hebrews",
+    "Isaiah",
+    "Jeremiah",
+    "Leviticus",
+    "Luke",
+    "Psalms"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 26,
+    "ot_refs": 22,
+    "nt_refs": 4,
+    "books_count": 11,
+    "top_books": [
+      "Genesis",
+      "Luke",
+      "Isaiah",
+      "Daniel",
+      "Leviticus",
+      "Jeremiah",
+      "1 Chronicles",
+      "Esther",
+      "Exodus",
+      "Hebrews"
+    ]
+  }
+}

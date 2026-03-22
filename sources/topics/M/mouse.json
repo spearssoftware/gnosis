@@ -1,0 +1,83 @@
+{
+  "topic": "MOUSE",
+  "slug": "mouse",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 11:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used as food",
+      "references": [
+        "Isaiah 66:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Images of",
+      "references": [
+        "1 Samuel 6:4,5,11,18"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 11:29"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 66,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 66:17"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        4,
+        5,
+        11,
+        18
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "1 Samuel 6:4,5,11,18"
+    }
+  ],
+  "books_mentioned": [
+    "1 Samuel",
+    "Isaiah",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Isaiah",
+      "1 Samuel"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "HELEPH",
+  "slug": "heleph",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A town of the territory of the tribe of NaphtaliJos",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "19:33",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

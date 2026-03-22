@@ -1,0 +1,45 @@
+{
+  "topic": "BAIL",
+  "slug": "bail",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CREDITOR",
+    "DEBT",
+    "DEBTOR",
+    "SURETY"
+  ],
+  "aspects": [
+    {
+      "label": "SeeSURETY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeCREDITOR",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

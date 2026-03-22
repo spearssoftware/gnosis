@@ -1,0 +1,55 @@
+{
+  "topic": "VIOL",
+  "slug": "viol",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC, INSTRUMENTS OF",
+    "PSALTERY"
+  ],
+  "aspects": [
+    {
+      "label": "An instrument of music",
+      "references": [
+        "Isaiah 5:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSIC, INSTRUMENTS OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeePSALTERY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 5:12"
+    }
+  ],
+  "books_mentioned": [
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Isaiah"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "HOLIDAY",
+  "slug": "holiday",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JUBILEE",
+    "SABBATH"
+  ],
+  "aspects": [
+    {
+      "label": "(For rest)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeSABBATH",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "One year in seven",
+      "references": [
+        "Leviticus 25:2-7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJUBILEE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "verse_count": 6,
+      "testament": "OT",
+      "raw": "Leviticus 25:2-7"
+    }
+  ],
+  "books_mentioned": [
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Leviticus"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "topic": "PIT",
+  "slug": "pit",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Benaiah kills a lion in",
+      "references": [
+        "2 Samuel 23:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Psalms 7:15,16",
+        "Psalms 40:2",
+        "Psalms 57:6",
+        "Psalms 69:15",
+        "Psalms 119:85"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "23:27;26:27;28:10;",
+      "references": [
+        "Ecclesiastes 10:8",
+        "Jeremiah 48:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The bottomless pit",
+      "references": [
+        "Revelation 9:1,2,11",
+        "Revelation 11:7",
+        "Revelation 17:8",
+        "Revelation 20:1,3"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 23:20"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 7,
+      "verses": [
+        15,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Psalms 7:15,16"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 40,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 40:2"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 57,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 57:6"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 69,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 69:15"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 119,
+      "verses": [
+        85
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 119:85"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 23,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 23:27"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 26,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 26:27"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 28,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 28:10"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ecclesiastes 10:8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 48:44"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        1,
+        2,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Revelation 9:1,2,11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 11,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 11:7"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 17,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 17:8"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 20,
+      "verses": [
+        1,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Revelation 20:1,3"
+    }
+  ],
+  "books_mentioned": [
+    "2 Samuel",
+    "Ecclesiastes",
+    "Jeremiah",
+    "Psalms",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 15,
+    "ot_refs": 11,
+    "nt_refs": 4,
+    "books_count": 5,
+    "top_books": [
+      "Psalms",
+      "Revelation",
+      "2 Samuel",
+      "Ecclesiastes",
+      "Jeremiah"
+    ]
+  }
+}

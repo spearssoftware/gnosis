@@ -1,0 +1,93 @@
+{
+  "topic": "SAW",
+  "slug": "saw",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used as an instrument of torture",
+      "references": [
+        "2 Samuel 12:31",
+        "Hebrews 11:37"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Used for cutting stone",
+      "references": [
+        "1 Kings 7:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Isaiah 10:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 12:31"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:37"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 7:9"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 10,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 10:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Samuel",
+    "Hebrews",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 3,
+    "nt_refs": 1,
+    "books_count": 4,
+    "top_books": [
+      "2 Samuel",
+      "Hebrews",
+      "1 Kings",
+      "Isaiah"
+    ]
+  }
+}

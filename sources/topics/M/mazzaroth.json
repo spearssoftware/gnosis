@@ -1,0 +1,49 @@
+{
+  "topic": "MAZZAROTH",
+  "slug": "mazzaroth",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "MUSIC"
+  ],
+  "aspects": [
+    {
+      "label": "Probably signs of the zodiac, see",
+      "references": [
+        "Job 38:32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeMUSIC",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verses": [
+        32
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 38:32"
+    }
+  ],
+  "books_mentioned": [
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Job"
+    ]
+  }
+}

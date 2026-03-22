@@ -1,0 +1,76 @@
+{
+  "topic": "HIN",
+  "slug": "hin",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A measure for liquids, and containing one-sixth or one-seventh",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of a bath. Jewish authorities d",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "to about one gallon one quart, or one gallon and a half-quart",
+      "references": [
+        "Exodus 29:40",
+        "Leviticus 19:36",
+        "Leviticus 23:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        40
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:40"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:36"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 23:13"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 3,
+    "ot_refs": 3,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Leviticus",
+      "Exodus"
+    ]
+  }
+}

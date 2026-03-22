@@ -1,0 +1,68 @@
+{
+  "topic": "DENS",
+  "slug": "dens",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Used as places of refuge",
+      "references": [
+        "Judges 6:2",
+        "Hebrews 11:38",
+        "Revelation 6:15"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 6:2"
+    },
+    {
+      "book": "Hebrews",
+      "chapter": 11,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Hebrews 11:38"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 6:15"
+    }
+  ],
+  "books_mentioned": [
+    "Hebrews",
+    "Judges",
+    "Revelation"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 1,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "Judges",
+      "Hebrews",
+      "Revelation"
+    ]
+  }
+}

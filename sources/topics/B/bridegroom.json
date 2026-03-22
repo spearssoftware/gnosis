@@ -1,0 +1,209 @@
+{
+  "topic": "BRIDEGROOM",
+  "slug": "bridegroom",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Ornaments of",
+      "references": [
+        "Isaiah 61:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Exempt from military duty",
+      "references": [
+        "Deuteronomy 24:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Companions of",
+      "references": [
+        "Judges 14:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Joy with",
+      "references": [
+        "Matthew 9:15",
+        "Mark 2:19,20",
+        "Luke 5:34,35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Parable of",
+      "references": [
+        "Matthew 25:1-13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Song of Solomon 4:7-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Ezekiel 16:8-14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Isaiah",
+      "chapter": 61,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 61:10"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 24,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 24:5"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 14:11"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 9:15"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "verses": [
+        19,
+        20
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Mark 2:19,20"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "verses": [
+        34,
+        35
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 5:34,35"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 13,
+      "testament": "NT",
+      "raw": "Matthew 25:1-13"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Song of Solomon 4:7-16"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 16,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Ezekiel 16:8-14"
+    }
+  ],
+  "books_mentioned": [
+    "Deuteronomy",
+    "Ezekiel",
+    "Isaiah",
+    "Judges",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Song of Solomon"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 9,
+    "ot_refs": 5,
+    "nt_refs": 4,
+    "books_count": 8,
+    "top_books": [
+      "Matthew",
+      "Isaiah",
+      "Deuteronomy",
+      "Judges",
+      "Mark",
+      "Luke",
+      "Song of Solomon",
+      "Ezekiel"
+    ]
+  }
+}

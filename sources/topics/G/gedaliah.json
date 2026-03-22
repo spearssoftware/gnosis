@@ -1,0 +1,216 @@
+{
+  "topic": "GEDALIAH",
+  "slug": "gedaliah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Governor appointed by Nebucbadnezzar after",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "into",
+      "references": [
+        "2 Kings 25:22-24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Jeremiah 39:14",
+        "Jeremiah 40:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Warned of the conspiracy of Ishmael by",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of his army",
+      "references": [
+        "Jeremiah 40:13-16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Killed by Ishmael",
+      "references": [
+        "2 Kings 25:25,26",
+        "Jeremiah 41:1-10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A musician",
+      "references": [
+        "1 Chronicles 25:3,9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A priest, who divorced his Gentile wife after the exile",
+      "references": [
+        "Ezra 10:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Ancestor of Zephaniah",
+      "references": [
+        "Zephaniah 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A prince who",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        22,
+        23,
+        24
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "2 Kings 25:22-24"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 39,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 39:14"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Jeremiah 40:5,6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 40,
+      "verses": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Jeremiah 40:13-16"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 25:25,26"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 41,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verse_count": 10,
+      "testament": "OT",
+      "raw": "Jeremiah 41:1-10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "verses": [
+        3,
+        9
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 25:3,9"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:18"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 1:1"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 38,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 38:1"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "Ezra",
+    "Jeremiah",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 10,
+    "ot_refs": 10,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Jeremiah",
+      "2 Kings",
+      "Zephaniah",
+      "1 Chronicles",
+      "Ezra"
+    ]
+  }
+}

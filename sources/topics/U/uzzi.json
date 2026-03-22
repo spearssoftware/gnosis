@@ -1,0 +1,151 @@
+{
+  "topic": "UZZI",
+  "slug": "uzzi",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A priest",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Chronicles 6:5,6,51",
+        "Ezra 7:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Grand",
+      "references": [
+        "1 Chronicles 7:2,3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Grand",
+      "references": [
+        "1 Chronicles 7:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4.",
+      "references": [
+        "1 Chronicles 9:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. An overseer of the Levites",
+      "references": [
+        "Nehemiah 11:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. A priest in the time of Nehemiah",
+      "references": [
+        "Nehemiah 12:19,42"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        5,
+        6,
+        51
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:5,6,51"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        2,
+        3
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:2,3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:7"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 9:8"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:22"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        19,
+        42
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 12:19,42"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 7,
+    "ot_refs": 7,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "1 Chronicles",
+      "Nehemiah",
+      "Ezra"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "ETHANIM",
+  "slug": "ethanim",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(The seventh month (October))",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Feast of Trumpets in",
+      "references": [
+        "Leviticus 23:23-25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Day of Atonement, on the tenth day of",
+      "references": [
+        "Leviticus 23:26-32"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Feast of Tabernacles in",
+      "references": [
+        "Leviticus 23:33-43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Jubilee proclaimed on the tenth day of",
+      "references": [
+        "Leviticus 25:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Temple",
+      "references": [
+        "1 Kings 8:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Altar restored in, after the",
+      "references": [
+        "Ezra 3:1,6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        23,
+        24,
+        25
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Leviticus 23:23-25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "verse_count": 7,
+      "testament": "OT",
+      "raw": "Leviticus 23:26-32"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "verses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Leviticus 23:33-43"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 25:9"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:2"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "verses": [
+        1,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 3:1,6"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "Ezra",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 7,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "1 Kings",
+      "Ezra"
+    ]
+  }
+}

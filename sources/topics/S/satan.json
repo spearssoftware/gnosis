@@ -1,0 +1,669 @@
+{
+  "topic": "SATAN",
+  "slug": "satan",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "DEMONS"
+  ],
+  "aspects": [
+    {
+      "label": "General references",
+      "references": [
+        "Revelation 9:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The accuser of our brethren",
+      "references": [
+        "Revelation 12:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The adversary",
+      "references": [
+        "1 Peter 5:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The angel of the bottomless pit",
+      "references": [
+        "Revelation 9:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Apollyon (Greek:",
+      "references": [
+        "Revelation 9:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Beelzebul",
+      "references": [
+        "Matthew 12:24",
+        "Mark 3:22",
+        "Luke 11:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Belial",
+      "references": [
+        "2 Corinthians 6:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The",
+      "references": [
+        "Matthew 4:1",
+        "Luke 4:2,6",
+        "Revelation 20:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Our common enemy",
+      "references": [
+        "Matthew 13:39"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Evil spirit",
+      "references": [
+        "1 Samuel 16:14"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The father of all lies",
+      "references": [
+        "John 8:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Gates of hell (Ha",
+      "references": [
+        "Matthew 16:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Great red dragon",
+      "references": [
+        "Revelation 12:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The liar",
+      "references": [
+        "John 8:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Lying spirit",
+      "references": [
+        "1 Kings 22:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The mur",
+      "references": [
+        "John 8:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "That old serpent",
+      "references": [
+        "Revelation 12:9",
+        "Revelation 20:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The power of darkness",
+      "references": [
+        "Colossians 1:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "The prince",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of this world",
+      "references": [
+        "John 12:31",
+        "John 14:30",
+        "John 16:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of",
+      "references": [
+        "Matthew 12:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Of the power of the air",
+      "references": [
+        "Ephesians 2:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Ruler of the darkness of this worl",
+      "references": [
+        "Ephesians 6:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Satan",
+      "references": [
+        "1 Chronicles 21:1",
+        "Job 1:6",
+        "John 13:27",
+        "Acts 5:3",
+        "Acts 26:18",
+        "Romans 16:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The serpent",
+      "references": [
+        "Genesis 3:4,14",
+        "2 Corinthians 11:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The spirit that works in all di",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The Tempter",
+      "references": [
+        "Matthew 4:3",
+        "1 Thessalonians 3:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The god of this world",
+      "references": [
+        "2 Corinthians 4:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Unclean spirit",
+      "references": [
+        "Matthew 12:43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The wicked one",
+      "references": [
+        "Matthew 13:19,38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Kingdom of, to be",
+      "references": [
+        "2 Samuel 23:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "With the context of",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Revelation",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 9:11"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 12,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 12:10"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 5:8"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:24"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:22"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 11:15"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 6:15"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:1"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "verses": [
+        2,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Luke 4:2,6"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 20,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 20:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 13:39"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:14"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 8:44"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 16:18"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 12:3"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 22:22"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 12,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 12:9"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 1:13"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 12:31"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 14:30"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 16:11"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 2:2"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 6:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 21:1"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:6"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 13:27"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 5:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:18"
+    },
+    {
+      "book": "Romans",
+      "chapter": 16,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 16:20"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 3,
+      "verses": [
+        4,
+        14
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 3:4,14"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 11:3"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 2,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 2:2"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 4:3"
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Thessalonians 3:5"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 4:4"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Matthew 12:43"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "verses": [
+        19,
+        38
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 13:19,38"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 23:6,7"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Peter",
+    "1 Samuel",
+    "1 Thessalonians",
+    "2 Corinthians",
+    "2 Samuel",
+    "Acts",
+    "Colossians",
+    "Ephesians",
+    "Genesis",
+    "Job",
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "Revelation",
+    "Romans"
+  ],
+  "stats": {
+    "total_aspects": 32,
+    "total_refs": 38,
+    "ot_refs": 6,
+    "nt_refs": 32,
+    "books_count": 18,
+    "top_books": [
+      "Matthew",
+      "Revelation",
+      "John",
+      "2 Corinthians",
+      "Luke",
+      "Ephesians",
+      "Acts",
+      "1 Peter",
+      "Mark",
+      "1 Samuel"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "topic": "RAGUEL",
+  "slug": "raguel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "JETHRO"
+  ],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Moses’ father-in-law",
+      "references": [
+        "Numbers 10:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeJETHRO",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:29"
+    }
+  ],
+  "books_mentioned": [
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Numbers"
+    ]
+  }
+}

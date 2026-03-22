@@ -1,0 +1,101 @@
+{
+  "topic": "MUSTER",
+  "slug": "muster",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ARMIES"
+  ],
+  "aspects": [
+    {
+      "label": "Of troops",
+      "references": [
+        "1 Samuel 14:17",
+        "2 Samuel 20:4",
+        "1 Kings 20:26",
+        "2 Kings 25:19",
+        "Isaiah 13:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeARMIES",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:17"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 20:4"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 20:26"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 25:19"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 13,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 13:4"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "1 Samuel",
+    "2 Kings",
+    "2 Samuel",
+    "Isaiah"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "1 Samuel",
+      "2 Samuel",
+      "1 Kings",
+      "2 Kings",
+      "Isaiah"
+    ]
+  }
+}

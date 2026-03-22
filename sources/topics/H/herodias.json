@@ -1,0 +1,68 @@
+{
+  "topic": "HERODIAS",
+  "slug": "herodias",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Daughter of Aristobu",
+      "references": [
+        "Matthew 14:3,6",
+        "Mark 6:17,19,22"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "verses": [
+        3,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 14:3,6"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "verses": [
+        17,
+        19,
+        22
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Mark 6:17,19,22"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Mark 3:19"
+    }
+  ],
+  "books_mentioned": [
+    "Mark",
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Mark",
+      "Matthew"
+    ]
+  }
+}

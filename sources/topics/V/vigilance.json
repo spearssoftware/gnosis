@@ -1,0 +1,56 @@
+{
+  "topic": "VIGILANCE",
+  "slug": "vigilance",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "WATCHMAN"
+  ],
+  "aspects": [
+    {
+      "label": "INSTANCE OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".King of",
+      "references": [
+        "Joshua 2:1-3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeWATCHMAN",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Joshua 2:1-3"
+    }
+  ],
+  "books_mentioned": [
+    "Joshua"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Joshua"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "topic": "ROBBERY",
+  "slug": "robbery",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "ROBBERS",
+    "THEFT"
+  ],
+  "aspects": [
+    {
+      "label": "Forbid",
+      "references": [
+        "Leviticus 19:13",
+        "Isaiah 61:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Punished with",
+      "references": [
+        "Ezekiel 18:10,13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Forgiven",
+      "references": [
+        "Ezekiel 33:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [
+        "Judges 9:25",
+        "Luke 10:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeROBBERS",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeTHEFT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 19:13"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 61,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 61:8"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 18,
+      "verses": [
+        10,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezekiel 18:10,13"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 33,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 33:15"
+    },
+    {
+      "book": "Judges",
+      "chapter": 9,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 9:25"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 10:30"
+    }
+  ],
+  "books_mentioned": [
+    "Ezekiel",
+    "Isaiah",
+    "Judges",
+    "Leviticus",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 6,
+    "total_refs": 6,
+    "ot_refs": 5,
+    "nt_refs": 1,
+    "books_count": 5,
+    "top_books": [
+      "Ezekiel",
+      "Leviticus",
+      "Isaiah",
+      "Judges",
+      "Luke"
+    ]
+  }
+}

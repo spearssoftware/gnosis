@@ -1,0 +1,118 @@
+{
+  "topic": "THUMB",
+  "slug": "thumb",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "HAND"
+  ],
+  "aspects": [
+    {
+      "label": "Blood put on, in consecration",
+      "references": [
+        "Exodus 29:20",
+        "Leviticus 8:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "In purifi",
+      "references": [
+        "Leviticus 14:14,25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Oil put on",
+      "references": [
+        "Leviticus 14:17,28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of pri",
+      "references": [
+        "Judges 1:6,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHAND",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 29,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 29:20"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 8:23"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        14,
+        25
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 14:14,25"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "verses": [
+        17,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Leviticus 14:17,28"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        6,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Judges 1:6,7"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Judges",
+    "Leviticus"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Leviticus",
+      "Exodus",
+      "Judges"
+    ]
+  }
+}

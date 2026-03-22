@@ -1,0 +1,70 @@
+{
+  "topic": "APPETITE",
+  "slug": "appetite",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "TEMPERANCE"
+  ],
+  "aspects": [
+    {
+      "label": "Kept in subjection",
+      "references": [
+        "Daniel 1:8-16",
+        "1 Corinthians 9:27"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeTEMPERANCE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Daniel",
+      "chapter": 1,
+      "verses": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 9,
+      "testament": "OT",
+      "raw": "Daniel 1:8-16"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "verses": [
+        27
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 9:27"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "Daniel"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 2,
+    "ot_refs": 1,
+    "nt_refs": 1,
+    "books_count": 2,
+    "top_books": [
+      "Daniel",
+      "1 Corinthians"
+    ]
+  }
+}

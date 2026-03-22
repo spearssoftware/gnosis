@@ -1,0 +1,104 @@
+{
+  "topic": "TARSUS",
+  "slug": "tarsus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(The",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul’ s birthplace",
+      "references": [
+        "Acts 9:11",
+        "Acts 21:39",
+        "Acts 22:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul sent to, from",
+      "references": [
+        "Acts 9:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul brought from, by Barnabas",
+      "references": [
+        "Acts 11:25,26"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        39
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:39"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 22:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 9:30"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        25,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 11:25,26"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 0,
+    "nt_refs": 5,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

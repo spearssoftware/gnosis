@@ -1,0 +1,72 @@
+{
+  "topic": "PONTUS",
+  "slug": "pontus",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A province of Asia Minor",
+      "references": [
+        "Acts 2:9",
+        "1 Peter 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Aquila lived in",
+      "references": [
+        "Acts 18:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:9"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 1:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 18:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "1 Peter"
+    ]
+  }
+}

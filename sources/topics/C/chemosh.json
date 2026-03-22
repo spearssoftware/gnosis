@@ -1,0 +1,95 @@
+{
+  "topic": "CHEMOSH",
+  "slug": "chemosh",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "An idol of",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The Moabites and Ammonites",
+      "references": [
+        "1 Kings 11:7,33",
+        "2 Kings 23:13",
+        "Jeremiah 48:7,13,46"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".And of the Amorites",
+      "references": [
+        "Judges 11:24"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "verses": [
+        7,
+        33
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 11:7,33"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 23:13"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 48,
+      "verses": [
+        7,
+        13,
+        46
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Jeremiah 48:7,13,46"
+    },
+    {
+      "book": "Judges",
+      "chapter": 11,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 11:24"
+    }
+  ],
+  "books_mentioned": [
+    "1 Kings",
+    "2 Kings",
+    "Jeremiah",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Kings",
+      "2 Kings",
+      "Jeremiah",
+      "Judges"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "topic": "CHANCELLOR",
+  "slug": "chancellor",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CABINET"
+  ],
+  "aspects": [
+    {
+      "label": "A state officer",
+      "references": [
+        "Ezra 4:8,9,17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "verses": [
+        8,
+        9,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "Ezra 4:8,9,17"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 1,
+    "nt_refs": 0,
+    "books_count": 1,
+    "top_books": [
+      "Ezra"
+    ]
+  }
+}

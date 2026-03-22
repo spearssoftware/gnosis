@@ -1,0 +1,233 @@
+{
+  "topic": "AMARIAH",
+  "slug": "amariah",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Two Levites",
+      "references": [
+        "1 Chronicles 6:7,52",
+        "1 Chronicles 23:19",
+        "1 Chronicles 24:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. Chief priest in the reign of Jehoshaphat",
+      "references": [
+        "2 Chronicles 19:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A high priest, father of Ahitub",
+      "references": [
+        "1 Chronicles 6:11",
+        "Ezra 7:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Levite, who assisted in distributing temple gifts",
+      "references": [
+        "2 Chronicles 31:15-19"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5.",
+      "references": [
+        "Zephaniah 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6. Father of Zechariah",
+      "references": [
+        "Nehemiah 11:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. A priest, returned from exile",
+      "references": [
+        "Nehemiah 10:3",
+        "Nehemiah 12:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Probably i",
+      "references": [
+        "Nehemiah 12:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "8. A returned exile. Divorces his idolatrous wifeEzr",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        7,
+        52
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:7,52"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:19"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 24:23"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 19,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 19:11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:11"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 7:3"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 31,
+      "verses": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "2 Chronicles 31:15-19"
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zephaniah 1:1"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:4"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:3"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:2"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 12,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 12:13"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        42
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:42"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Chronicles",
+    "Ezra",
+    "Nehemiah",
+    "Zephaniah"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 13,
+    "ot_refs": 13,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Nehemiah",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Ezra",
+      "Zephaniah"
+    ]
+  }
+}

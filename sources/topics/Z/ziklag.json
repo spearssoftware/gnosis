@@ -1,0 +1,129 @@
+{
+  "topic": "ZIKLAG",
+  "slug": "ziklag",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city within the territory allotted to the tribe of",
+      "references": [
+        "Joshua 15:31"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Re-allotted to the tribe of Simeon",
+      "references": [
+        "Joshua 19:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "David lives at",
+      "references": [
+        "1 Samuel 27:5,6",
+        "2 Samuel 1:1",
+        "1 Chronicles 12:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Amalekites",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Inhabited by the returned exiles of",
+      "references": [
+        "Nehemiah 11:28"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 15,
+      "verses": [
+        31
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 15:31"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:5"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 27:5,6"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 1:1"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 12:1"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:28"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Samuel",
+    "Joshua",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 6,
+    "ot_refs": 6,
+    "nt_refs": 0,
+    "books_count": 5,
+    "top_books": [
+      "Joshua",
+      "1 Samuel",
+      "2 Samuel",
+      "1 Chronicles",
+      "Nehemiah"
+    ]
+  }
+}

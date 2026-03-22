@@ -1,0 +1,113 @@
+{
+  "topic": "EPISTLES",
+  "slug": "epistles",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "LETTERS"
+  ],
+  "aspects": [
+    {
+      "label": "From the congregation at",
+      "references": [
+        "Acts 15:23-29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of",
+      "references": [
+        "Luke 1:1-4",
+        "Acts 1:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Of Paul, see the Bibli",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SECOND CORINTHIANS, GALATIANS, EPHESIANS, PHILIPPIANS, COLOSSIANS, THESSALONIANS,",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "TIMOTHY, TITUS, and PHILEMON.",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Of JAMES, PETER, and",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "their names",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeLETTERS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Acts 15:23-29"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 1:1-4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 1:1"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Luke"
+  ],
+  "stats": {
+    "total_aspects": 8,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Luke"
+    ]
+  }
+}

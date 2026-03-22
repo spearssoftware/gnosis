@@ -1,0 +1,111 @@
+{
+  "topic": "SHIMRON",
+  "slug": "shimron",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SHIMRON-MERON"
+  ],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "Genesis 46:13",
+        "Numbers 26:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Chronicles 7:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city in the territory of the tribe of Zebu",
+      "references": [
+        "Joshua 11:1",
+        "Joshua 19:15"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSHI",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 46,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 46:13"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 26:24"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 11,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 11:1"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 19,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 19:15"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Genesis",
+    "Joshua",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 5,
+    "ot_refs": 5,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "Joshua",
+      "Genesis",
+      "Numbers",
+      "1 Chronicles"
+    ]
+  }
+}

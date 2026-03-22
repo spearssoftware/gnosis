@@ -1,0 +1,432 @@
+{
+  "topic": "JOEL",
+  "slug": "joel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1.",
+      "references": [
+        "1 Samuel 8:2",
+        "1 Chronicles 6:33",
+        "1 Chronicles 15:17"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "1 Chronicles 6:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A Simeonite",
+      "references": [
+        "1 Chronicles 4:35"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. A Reubenite",
+      "references": [
+        "1 Chronicles 5:4,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Gadite",
+      "references": [
+        "1 Chronicles 5:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "5. A Kohathite Levite",
+      "references": [
+        "1 Chronicles 6:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "6.",
+      "references": [
+        "1 Chronicles 7:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "7. One of David’s valiant men",
+      "references": [
+        "1 Chronicles 11:38"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "2 Samuel 23:36"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "8. Name of two Gershonites",
+      "references": [
+        "1 Chronicles 15:7,11",
+        "1 Chronicles 23:8",
+        "1 Chronicles 26:22"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "9. Prince of Manasseh",
+      "references": [
+        "1 Chronicles 27:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "10. A Kohathite who assisted in the cleansing of the temple",
+      "references": [
+        "2 Chronicles 29:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "11. One of Nebo’s family",
+      "references": [
+        "Ezra 10:43"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "12.",
+      "references": [
+        "Nehemiah 11:9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "13. One of the twelve minor prophets, probably lived in the days",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of Uzziah",
+      "references": [
+        "Joel 1:1",
+        "Acts 2:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Sets forth the blessings of the church",
+      "references": [
+        "Joel 3:18-21"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 8:2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:33"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        17
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:17"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:28"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "verses": [
+        35
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 4:35"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        4,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:4,8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 5:12"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 6:36"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:3"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 11:38"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "verses": [
+        36
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 23:36"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "verses": [
+        7,
+        11
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Chronicles 15:7,11"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 23:8"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 26:22"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:20"
+    },
+    {
+      "book": "2 Chronicles",
+      "chapter": 29,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Chronicles 29:12"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "verses": [
+        43
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 10:43"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 11,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 11:9"
+    },
+    {
+      "book": "Joel",
+      "chapter": 1,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joel 1:1"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:16"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 11,
+      "testament": "NT",
+      "raw": "Acts 2:1-11"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "verses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 17,
+      "testament": "NT",
+      "raw": "Acts 3:1-17"
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "verses": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Joel 3:18-21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Samuel",
+    "Acts",
+    "Ezra",
+    "Joel",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 19,
+    "total_refs": 23,
+    "ot_refs": 20,
+    "nt_refs": 3,
+    "books_count": 8,
+    "top_books": [
+      "1 Chronicles",
+      "Acts",
+      "Joel",
+      "1 Samuel",
+      "2 Samuel",
+      "2 Chronicles",
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

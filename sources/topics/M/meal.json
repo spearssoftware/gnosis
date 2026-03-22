@@ -1,0 +1,32 @@
+{
+  "topic": "MEAL",
+  "slug": "meal",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FOOD"
+  ],
+  "aspects": [
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFOOD",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "topic": "MYRA",
+  "slug": "myra",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "A city of Lycia; Paul visits",
+      "references": [
+        "Acts 27:5,6"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Acts 27:5,6"
+    }
+  ],
+  "books_mentioned": [
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Acts"
+    ]
+  }
+}

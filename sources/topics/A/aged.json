@@ -1,0 +1,50 @@
+{
+  "topic": "AGED",
+  "slug": "aged",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "OLD AGE"
+  ],
+  "aspects": [
+    {
+      "label": "Gospel invitation to",
+      "references": [
+        "Matthew 20:5,6"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOLD AGE",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "verses": [
+        5,
+        6
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 20:5,6"
+    }
+  ],
+  "books_mentioned": [
+    "Matthew"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 1,
+    "ot_refs": 0,
+    "nt_refs": 1,
+    "books_count": 1,
+    "top_books": [
+      "Matthew"
+    ]
+  }
+}

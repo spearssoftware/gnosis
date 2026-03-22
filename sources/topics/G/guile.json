@@ -1,0 +1,45 @@
+{
+  "topic": "GUILE",
+  "slug": "guile",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "CONSPIRACY",
+    "DECEIT",
+    "FRAUD",
+    "HYPOCRISY"
+  ],
+  "aspects": [
+    {
+      "label": "SeeCONSPIRACY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "See",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeFRAUD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHYPOCRISY",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

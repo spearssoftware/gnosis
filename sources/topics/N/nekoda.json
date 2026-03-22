@@ -1,0 +1,57 @@
+{
+  "topic": "NEKODA",
+  "slug": "nekoda",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Name of two Jewish exiles",
+      "references": [
+        "Ezra 2:48,60",
+        "Nehemiah 7:50,62"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "verses": [
+        48,
+        60
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Ezra 2:48,60"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 7,
+      "verses": [
+        50,
+        62
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Nehemiah 7:50,62"
+    }
+  ],
+  "books_mentioned": [
+    "Ezra",
+    "Nehemiah"
+  ],
+  "stats": {
+    "total_aspects": 1,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Ezra",
+      "Nehemiah"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "topic": "SHEMUEL",
+  "slug": "shemuel",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "SAMUEL"
+  ],
+  "aspects": [
+    {
+      "label": "1. A Simeonite appointed on the committee to divi",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "of",
+      "references": [
+        "Numbers 34:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. SHEMUEL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".SeeSAMUEL",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Head of a family in the tribe of Issachar",
+      "references": [
+        "1 Chronicles 7:2"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 34:20"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:2"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 5,
+    "total_refs": 2,
+    "ot_refs": 2,
+    "nt_refs": 0,
+    "books_count": 2,
+    "top_books": [
+      "Numbers",
+      "1 Chronicles"
+    ]
+  }
+}

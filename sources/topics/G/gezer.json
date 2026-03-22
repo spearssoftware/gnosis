@@ -1,0 +1,222 @@
+{
+  "topic": "GEZER",
+  "slug": "gezer",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "A",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "King of,",
+      "references": [
+        "Joshua 10:33",
+        "Joshua 12:12"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "General references",
+      "references": [
+        "Joshua 16:10",
+        "Judges 1:29"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Allotted to the half-tribe of Ephraim",
+      "references": [
+        "Joshua 16:3,10",
+        "1 Chronicles 7:28"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Assigned to Levites",
+      "references": [
+        "Joshua 21:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Battle with Philistines at",
+      "references": [
+        "1 Chronicles 20:4",
+        "2 Samuel 21:18"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Struck by David",
+      "references": [
+        "1 Samuel 27:8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Fortified by",
+      "references": [
+        "1 Kings 9:15-17",
+        "1 Kings 12:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verses": [
+        33
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 10:33"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 12,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 12:12"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 16,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 16:10"
+    },
+    {
+      "book": "Judges",
+      "chapter": 1,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 1:29"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 16,
+      "verses": [
+        3,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 16:3,10"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 7:28"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 21,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 21:21"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 20:4"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 21:18"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 27:8"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "verses": [
+        15,
+        16,
+        17
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Kings 9:15-17"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 12:23"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Samuel",
+    "Joshua",
+    "Judges"
+  ],
+  "stats": {
+    "total_aspects": 9,
+    "total_refs": 12,
+    "ot_refs": 12,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "Joshua",
+      "1 Chronicles",
+      "1 Kings",
+      "Judges",
+      "2 Samuel",
+      "1 Samuel"
+    ]
+  }
+}

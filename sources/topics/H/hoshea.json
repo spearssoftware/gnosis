@@ -1,0 +1,220 @@
+{
+  "topic": "HOSHEA",
+  "slug": "hoshea",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. Al",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".The original name of Joshua",
+      "references": [
+        "Numbers 13:8,16",
+        "Deuteronomy 32:44"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A chief of Ephraim",
+      "references": [
+        "1 Chronicles 27:20"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. King of Israel",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Assassinates Pekah and usurps the throne",
+      "references": [
+        "2 Kings 15:30"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".The evil reign of",
+      "references": [
+        "2 Kings 17:1,2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Becomes subject to Assyria",
+      "references": [
+        "2 Kings 17:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Conspires against Assyria and is impri",
+      "references": [
+        "2 Kings 17:4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Last king of Israel",
+      "references": [
+        "2 Kings 17:6",
+        "2 Kings 18:9-12",
+        "Hosea 10:3,7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. A Jewish exile",
+      "references": [
+        "Nehemiah 10:23"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "verses": [
+        8,
+        16
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 13:8,16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 32,
+      "verses": [
+        44
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 32:44"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        20
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:20"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 15:30"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Kings 17:1,2"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:3"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:4"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Kings 17:6"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "verses": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "2 Kings 18:9-12"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 10,
+      "verses": [
+        3,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Hosea 10:3,7"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 10,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 10:23"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "2 Kings",
+    "Deuteronomy",
+    "Hosea",
+    "Nehemiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 10,
+    "total_refs": 11,
+    "ot_refs": 11,
+    "nt_refs": 0,
+    "books_count": 6,
+    "top_books": [
+      "2 Kings",
+      "Numbers",
+      "Deuteronomy",
+      "1 Chronicles",
+      "Hosea",
+      "Nehemiah"
+    ]
+  }
+}

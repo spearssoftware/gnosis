@@ -1,0 +1,145 @@
+{
+  "topic": "ABINADAB",
+  "slug": "abinadab",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A Levite, in whose house the ark of God rested twenty years",
+      "references": [
+        "1 Samuel 7:1,2",
+        "2 Samuel 6:3,4",
+        "1 Chronicles 13:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2.",
+      "references": [
+        "1 Samuel 16:8",
+        "1 Samuel 17:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "3. Al",
+      "references": [
+        "1 Samuel 14:49",
+        "1 Samuel 31:2"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "4. Father of one of",
+      "references": [
+        "1 Kings 4:11"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "verses": [
+        1,
+        2
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Samuel 7:1,2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "2 Samuel 6:3,4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Chronicles 13:7"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 16:8"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:13"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        49
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:49"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 31:2"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:11"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Samuel"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 8,
+    "ot_refs": 8,
+    "nt_refs": 0,
+    "books_count": 4,
+    "top_books": [
+      "1 Samuel",
+      "2 Samuel",
+      "1 Chronicles",
+      "1 Kings"
+    ]
+  }
+}

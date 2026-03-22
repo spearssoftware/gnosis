@@ -1,0 +1,84 @@
+{
+  "topic": "INK",
+  "slug": "ink",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "General scriptures concerning",
+      "references": [
+        "Jeremiah 36:18",
+        "2 Corinthians 3:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "1:12;",
+      "references": [
+        "Job 1:13"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Jeremiah",
+      "chapter": 36,
+      "verses": [
+        18
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 36:18"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 3:3"
+    },
+    {
+      "book": "2 Corinthians",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "2 Corinthians 1:12"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Job 1:13"
+    }
+  ],
+  "books_mentioned": [
+    "2 Corinthians",
+    "Jeremiah",
+    "Job"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 2,
+    "nt_refs": 2,
+    "books_count": 3,
+    "top_books": [
+      "2 Corinthians",
+      "Jeremiah",
+      "Job"
+    ]
+  }
+}

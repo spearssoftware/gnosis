@@ -1,0 +1,510 @@
+{
+  "topic": "MONTHS",
+  "slug": "months",
+  "sources": [
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Sun and moon designed to mark out",
+      "references": [
+        "Genesis 1:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The patriarchs computed time by",
+      "references": [
+        "Genesis 29:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews computed time by",
+      "references": [
+        "Judges 11:37",
+        "1 Samuel 6:1",
+        "1 Kings 4:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Commenced with first appearance of new moon",
+      "references": [
+        "Numbers 10:10",
+        "Psalms 81:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Originally had no names",
+      "references": [
+        "Genesis 7:11",
+        "Genesis 8:4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The year composed of twelve",
+      "references": [
+        "1 Chronicles 27:2-15",
+        "Esther 2:12",
+        "Revelation 22:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: First, Nisan or Abib",
+      "references": [
+        "Exodus 13:4",
+        "Nehemiah 2:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Second, Zif",
+      "references": [
+        "1 Kings 6:1,37"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Third, Sivan",
+      "references": [
+        "Esther 8:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Fourth, Tammuz",
+      "references": [
+        "Zechariah 8:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Fifth, Av",
+      "references": [
+        "Zechariah 7:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Sixth, Elul",
+      "references": [
+        "Nehemiah 6:15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Seventh, Ethanim",
+      "references": [
+        "1 Kings 8:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Eighth, Bul",
+      "references": [
+        "1 Kings 6:38"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Ninth, Chisleu",
+      "references": [
+        "Zechariah 7:1"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Tenth, Tebeth",
+      "references": [
+        "Esther 2:16"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Eleventh, Sebat",
+      "references": [
+        "Zechariah 1:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Names of the twelve: Twelfth, Adar",
+      "references": [
+        "Ezra 6:15",
+        "Esther 3:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Idolaters prognosticated by",
+      "references": [
+        "Isaiah 47:13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Observance of, condemned",
+      "references": [
+        "Galatians 4:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 1:14"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 29,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 29:14"
+    },
+    {
+      "book": "Judges",
+      "chapter": 11,
+      "verses": [
+        37
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 11:37"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 6:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 4:7"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Numbers 10:10"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 81,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Psalms 81:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 7,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 7:11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 8,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 8:4"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 14,
+      "testament": "OT",
+      "raw": "1 Chronicles 27:2-15"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:12"
+    },
+    {
+      "book": "Revelation",
+      "chapter": 22,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Revelation 22:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 13,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 13:4"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 2,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 2:1"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        1,
+        37
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "1 Kings 6:1,37"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 8:9"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 8,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 8:19"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 7,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 7:3"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Nehemiah 6:15"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 8:2"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "verses": [
+        38
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Kings 6:38"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 7,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 7:1"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 2:16"
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 1,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Zechariah 1:7"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "verses": [
+        15
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezra 6:15"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Esther 3:7"
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 47,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Isaiah 47:13"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 4,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 4:10"
+    }
+  ],
+  "books_mentioned": [
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "Esther",
+    "Exodus",
+    "Ezra",
+    "Galatians",
+    "Genesis",
+    "Isaiah",
+    "Judges",
+    "Nehemiah",
+    "Numbers",
+    "Psalms",
+    "Revelation",
+    "Zechariah"
+  ],
+  "stats": {
+    "total_aspects": 20,
+    "total_refs": 28,
+    "ot_refs": 26,
+    "nt_refs": 2,
+    "books_count": 15,
+    "top_books": [
+      "Genesis",
+      "1 Kings",
+      "Esther",
+      "Zechariah",
+      "Nehemiah",
+      "Judges",
+      "1 Samuel",
+      "Numbers",
+      "Psalms",
+      "1 Chronicles"
+    ]
+  }
+}

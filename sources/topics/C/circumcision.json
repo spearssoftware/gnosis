@@ -1,0 +1,1601 @@
+{
+  "topic": "CIRCUMCISION",
+  "slug": "circumcision",
+  "sources": [
+    "NAV",
+    "TOR"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "Institution of",
+      "references": [
+        "Genesis 17:10-14",
+        "Leviticus 12:3",
+        "John 7:22",
+        "Acts 7:8",
+        "Romans 4:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A seal of righteousness",
+      "references": [
+        "Romans 2:25-29",
+        "Romans 4:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Performed on all males on the eighth day",
+      "references": [
+        "Genesis 17:12,13",
+        "Leviticus 12:3",
+        "Philippians 3:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Rite of, observed on the Sabbath",
+      "references": [
+        "John 7:23"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "A prerequisite of the privileges of the pas",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Child named at the time of",
+      "references": [
+        "Genesis 21:3,4",
+        "Luke 1:59",
+        "Luke 2:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Neglect of, punished",
+      "references": [
+        "Genesis 17:14",
+        "Exodus 4:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Neglected",
+      "references": [
+        "Joshua 5:7"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Covenant promises of",
+      "references": [
+        "Genesis 17:4-14",
+        "Acts 7:8",
+        "Romans 3:1",
+        "Romans 4:11",
+        "Romans 9:7-13",
+        "Galatians 5:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Necessity of, falsely taught by",
+      "references": [
+        "Acts 15:1"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Paul’s argument against the conti",
+      "references": [
+        "Romans 2:25,28",
+        "Galatians 6:13"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Characterized by Paul as a yoke",
+      "references": [
+        "Acts 15:10"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Abrogated",
+      "references": [
+        "Acts 15:5-29",
+        "Romans 3:30",
+        "Romans 4:9-11",
+        "1 Corinthians 7:18,19",
+        "Galatians 2:3,4",
+        "Galatians 5:2-11",
+        "Galatians 6:12",
+        "Ephesians 2:11,15",
+        "Colossians 2:11",
+        "Colossians 3:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "INSTANCES OF",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": ".Abraham",
+      "references": [
+        "Genesis 17:23-27",
+        "Genesis 21:3,4"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Shechemites",
+      "references": [
+        "Genesis 34:24"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Moses",
+      "references": [
+        "Exodus 4:25"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Israelites at Gilgal",
+      "references": [
+        "Joshua 5:2-9"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".",
+      "references": [
+        "Luke 1:59"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Jesus",
+      "references": [
+        "Luke 2:21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Paul",
+      "references": [
+        "Philippians 3:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".Timothy",
+      "references": [
+        "Acts 16:3"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "FIGURATIVE",
+      "references": [
+        "Exodus 6:12",
+        "Deuteronomy 10:16",
+        "Deuteronomy 30:6",
+        "Jeremiah 4:4",
+        "Jeremiah 6:10",
+        "Jeremiah 9:26",
+        "Romans 2:28,29",
+        "Romans 15:8",
+        "Philippians 3:3",
+        "Colossians 2:11",
+        "Colossians 3:11"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": ".A",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Instituted by God",
+      "references": [
+        "Genesis 17:9,10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Described",
+      "references": [
+        "Genesis 17:11",
+        "Exodus 4:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Enforced by the law",
+      "references": [
+        "Leviticus 12:3",
+        "John 7:22"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called the: Covenant of circumcision",
+      "references": [
+        "Acts 7:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called the: Circumcision in the flesh",
+      "references": [
+        "Ephesians 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Called the: Concision",
+      "references": [
+        "Philippians 3:2"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A painful and bloody rite",
+      "references": [
+        "Exodus 4:26",
+        "Joshua 5:8"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Promises to Abraham previous to",
+      "references": [
+        "Romans 4:9,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "A seal of the covenant",
+      "references": [
+        "Genesis 17:11",
+        "Romans 4:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Introductory Jewish ordinances",
+      "references": [
+        "Galatians 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Outward sign of",
+      "references": [
+        "Romans 2:28"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Inward grace",
+      "references": [
+        "Romans 2:29"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessary to enjoying the privileges of the Jewish State",
+      "references": [
+        "Exodus 12:48",
+        "Ezekiel 44:7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: On males home-born and bought",
+      "references": [
+        "Genesis 17:12,13"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: On the eighth day",
+      "references": [
+        "Genesis 17:12",
+        "Leviticus 12:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: Even on the sabbath day",
+      "references": [
+        "John 7:22,23"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: With knives of flint",
+      "references": [
+        "Exodus 4:25",
+        "Joshua 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: By the heads of families",
+      "references": [
+        "Genesis 17:23",
+        "Exodus 4:25"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: By persons in authority",
+      "references": [
+        "Joshua 5:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Was performed: In the presence of the family, &c",
+      "references": [
+        "Luke 1:58-61"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Accompanied with naming the child",
+      "references": [
+        "Genesis 21:3,4",
+        "Luke 1:59",
+        "Luke 2:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "First performed on Abraham and his family",
+      "references": [
+        "Genesis 17:24-27"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Not performed in the wilderness",
+      "references": [
+        "Joshua 5:5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Performed by Joshua at Gilgal",
+      "references": [
+        "Joshua 5:2,7"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Punishment for neglecting",
+      "references": [
+        "Genesis 17:14",
+        "Exodus 4:24,26"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Without faith, vain",
+      "references": [
+        "Romans 3:30",
+        "Galatians 5:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Without obedience, vain",
+      "references": [
+        "Romans 2:25",
+        "1 Corinthians 7:19"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Denominated by",
+      "references": [
+        "Acts 10:45",
+        "Galatians 2:9"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Held it unlawful to intermarry with those not of the",
+      "references": [
+        "Genesis 34:14",
+        "Judges 14:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Held no intercourse with those not of the",
+      "references": [
+        "Acts 10:28",
+        "Acts 11:3",
+        "Galatians 2:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "The Jews: Despised as unclean those not of the",
+      "references": [
+        "1 Samuel 14:6",
+        "1 Samuel 17:26",
+        "Matthew 15:26,27",
+        "Ephesians 2:11,15"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Sometimes performed on slain enemies",
+      "references": [
+        "1 Samuel 18:25-27",
+        "2 Samuel 3:14"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Abolished by the gospel",
+      "references": [
+        "Ephesians 2:11,15",
+        "Colossians 3:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Performed on Timothy as a matter or expediency because of the Jews",
+      "references": [
+        "Acts 16:3"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessity of, denied by Paul",
+      "references": [
+        "Galatians 2:3-5"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Necessity of, asserted by false teachers",
+      "references": [
+        "Acts 15:24",
+        "Galatians 6:12",
+        "Titus 1:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Trusting to, a denial of Christ",
+      "references": [
+        "Galatians 3:3,4",
+        "Galatians 5:3,4"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Paul denounced for opposing",
+      "references": [
+        "Acts 21:21"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Saints the true spiritual",
+      "references": [
+        "Philippians 3:3",
+        "Colossians 2:11"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Readiness to hear and obey",
+      "references": [
+        "Jeremiah 6:10"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Purity of heart",
+      "references": [
+        "Deuteronomy 10:16",
+        "Deuteronomy 30:6"
+      ],
+      "level": 1,
+      "source": "TOR"
+    },
+    {
+      "label": "Illustrative of: Purity of speech",
+      "references": [
+        "Exodus 6:12"
+      ],
+      "level": 1,
+      "source": "TOR"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 17:10-14"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Leviticus 12:3"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        22
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 7:22"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 7:8"
+    },
+    {
+      "book": "Romans",
+      "chapter": 4,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 4:11"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 5,
+      "testament": "NT",
+      "raw": "Romans 2:25-29"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        12,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 17:12,13"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:5"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 7:23"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "John 12:48"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 21,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 21:3,4"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        59
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 1:59"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Luke 2:21"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:14"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 4:24"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 11,
+      "testament": "OT",
+      "raw": "Genesis 17:4-14"
+    },
+    {
+      "book": "Romans",
+      "chapter": 3,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 3:1"
+    },
+    {
+      "book": "Romans",
+      "chapter": 9,
+      "verses": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verse_count": 7,
+      "testament": "NT",
+      "raw": "Romans 9:7-13"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 5:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:1"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        25,
+        28
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 2:25,28"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        13
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:13"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:10"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "verse_count": 25,
+      "testament": "NT",
+      "raw": "Acts 15:5-29"
+    },
+    {
+      "book": "Romans",
+      "chapter": 3,
+      "verses": [
+        30
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 3:30"
+    },
+    {
+      "book": "Romans",
+      "chapter": 4,
+      "verses": [
+        9,
+        10,
+        11
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Romans 4:9-11"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "verses": [
+        18,
+        19
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "1 Corinthians 7:18,19"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 2:3,4"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "verse_count": 10,
+      "testament": "NT",
+      "raw": "Galatians 5:2-11"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 6:12"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        11,
+        15
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Ephesians 2:11,15"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 2:11"
+    },
+    {
+      "book": "Colossians",
+      "chapter": 3,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Colossians 3:11"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 5,
+      "testament": "OT",
+      "raw": "Genesis 17:23-27"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 34,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 34:24"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 4:25"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "verse_count": 8,
+      "testament": "OT",
+      "raw": "Joshua 5:2-9"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 16:3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 6:12"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 10,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 10:16"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 30,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Deuteronomy 30:6"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 4,
+      "verses": [
+        4
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 4:4"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 6,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 6:10"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 9,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 9:26"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        28,
+        29
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 2:28,29"
+    },
+    {
+      "book": "Romans",
+      "chapter": 15,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 15:8"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        9,
+        10
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Genesis 17:9,10"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:11"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Ephesians 2:11"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Philippians 3:2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 4:26"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        8
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:8"
+    },
+    {
+      "book": "Romans",
+      "chapter": 4,
+      "verses": [
+        9,
+        13
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Romans 4:9,13"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 2:28"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        29
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 2:29"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "verses": [
+        48
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 12:48"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 44,
+      "verses": [
+        7
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Ezekiel 44:7"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:12"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "verses": [
+        22,
+        23
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "John 7:22,23"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:3"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        23
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 17:23"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "verses": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Luke 1:58-61"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 17,
+      "verses": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "verse_count": 4,
+      "testament": "OT",
+      "raw": "Genesis 17:24-27"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Joshua 5:5"
+    },
+    {
+      "book": "Joshua",
+      "chapter": 5,
+      "verses": [
+        2,
+        7
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Joshua 5:2,7"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "verses": [
+        24,
+        26
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Exodus 4:24,26"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 5:6"
+    },
+    {
+      "book": "Romans",
+      "chapter": 2,
+      "verses": [
+        25
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Romans 2:25"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "verses": [
+        19
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Corinthians 7:19"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        45
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:45"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        9
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:9"
+    },
+    {
+      "book": "Genesis",
+      "chapter": 34,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Genesis 34:14"
+    },
+    {
+      "book": "Judges",
+      "chapter": 14,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Judges 14:3"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 10:28"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        3
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 11:3"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Galatians 2:12"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "verses": [
+        6
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 14:6"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "1 Samuel 17:26"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "verses": [
+        26,
+        27
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Matthew 15:26,27"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "verses": [
+        25,
+        26,
+        27
+      ],
+      "verse_count": 3,
+      "testament": "OT",
+      "raw": "1 Samuel 18:25-27"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "2 Samuel 3:14"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 2,
+      "verses": [
+        3,
+        4,
+        5
+      ],
+      "verse_count": 3,
+      "testament": "NT",
+      "raw": "Galatians 2:3-5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "verses": [
+        24
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 15:24"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        10
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 1:10"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 3,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 3:3,4"
+    },
+    {
+      "book": "Galatians",
+      "chapter": 5,
+      "verses": [
+        3,
+        4
+      ],
+      "verse_count": 2,
+      "testament": "NT",
+      "raw": "Galatians 5:3,4"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "verses": [
+        21
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 21:21"
+    }
+  ],
+  "books_mentioned": [
+    "1 Corinthians",
+    "1 Samuel",
+    "2 Samuel",
+    "Acts",
+    "Colossians",
+    "Deuteronomy",
+    "Ephesians",
+    "Exodus",
+    "Ezekiel",
+    "Galatians",
+    "Genesis",
+    "Jeremiah",
+    "John",
+    "Joshua",
+    "Judges",
+    "Leviticus",
+    "Luke",
+    "Matthew",
+    "Philippians",
+    "Romans",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 66,
+    "total_refs": 89,
+    "ot_refs": 37,
+    "nt_refs": 52,
+    "books_count": 21,
+    "top_books": [
+      "Genesis",
+      "Romans",
+      "Galatians",
+      "Acts",
+      "Exodus",
+      "Joshua",
+      "John",
+      "Philippians",
+      "Luke",
+      "Jeremiah"
+    ]
+  }
+}

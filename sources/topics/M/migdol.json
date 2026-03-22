@@ -1,0 +1,86 @@
+{
+  "topic": "MIGDOL",
+  "slug": "migdol",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "1. A place near the Red Sea where the Israelites en",
+      "references": [
+        "Exodus 14:2",
+        "Numbers 33:7,8"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "2. A city on the northeastern bor",
+      "references": [
+        "Jeremiah 44:1",
+        "Jeremiah 46:14"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Exodus",
+      "chapter": 14,
+      "verses": [
+        2
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Exodus 14:2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "verses": [
+        7,
+        8
+      ],
+      "verse_count": 2,
+      "testament": "OT",
+      "raw": "Numbers 33:7,8"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 44,
+      "verses": [
+        1
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 44:1"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 46,
+      "verses": [
+        14
+      ],
+      "verse_count": 1,
+      "testament": "OT",
+      "raw": "Jeremiah 46:14"
+    }
+  ],
+  "books_mentioned": [
+    "Exodus",
+    "Jeremiah",
+    "Numbers"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 4,
+    "ot_refs": 4,
+    "nt_refs": 0,
+    "books_count": 3,
+    "top_books": [
+      "Jeremiah",
+      "Exodus",
+      "Numbers"
+    ]
+  }
+}

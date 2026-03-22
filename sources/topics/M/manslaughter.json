@@ -1,0 +1,39 @@
+{
+  "topic": "MANSLAUGHTER",
+  "slug": "manslaughter",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "FRATRICIDE",
+    "HOMICIDE",
+    "REGICIDE"
+  ],
+  "aspects": [
+    {
+      "label": "SeeFRATRICI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeHOMICI",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeREGICI",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 3,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}

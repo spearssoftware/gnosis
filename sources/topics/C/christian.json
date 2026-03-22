@@ -1,0 +1,73 @@
+{
+  "topic": "CHRISTIAN",
+  "slug": "christian",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "RIGHTEOUS"
+  ],
+  "aspects": [
+    {
+      "label": "Believers",
+      "references": [
+        "Acts 11:26",
+        "Acts 26:28",
+        "1 Peter 4:16"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeRIGHTEOUS",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "verses": [
+        26
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 11:26"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "verses": [
+        28
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 26:28"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "verses": [
+        16
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "1 Peter 4:16"
+    }
+  ],
+  "books_mentioned": [
+    "1 Peter",
+    "Acts"
+  ],
+  "stats": {
+    "total_aspects": 2,
+    "total_refs": 3,
+    "ot_refs": 0,
+    "nt_refs": 3,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "1 Peter"
+    ]
+  }
+}

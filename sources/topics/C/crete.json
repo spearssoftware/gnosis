@@ -1,0 +1,97 @@
+{
+  "topic": "CRETE",
+  "slug": "crete",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [],
+  "aspects": [
+    {
+      "label": "(An island in the Mediterranean Sea)",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "Visited by Paul",
+      "references": [
+        "Acts 27:7,12,13,21"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Visited by Titus",
+      "references": [
+        "Titus 1:5"
+      ],
+      "source": "NAV"
+    },
+    {
+      "label": "Character of the inhabitants of",
+      "references": [
+        "Acts 2:11",
+        "Titus 1:12"
+      ],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "verses": [
+        7,
+        12,
+        13,
+        21
+      ],
+      "verse_count": 4,
+      "testament": "NT",
+      "raw": "Acts 27:7,12,13,21"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        5
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 1:5"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "verses": [
+        11
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Acts 2:11"
+    },
+    {
+      "book": "Titus",
+      "chapter": 1,
+      "verses": [
+        12
+      ],
+      "verse_count": 1,
+      "testament": "NT",
+      "raw": "Titus 1:12"
+    }
+  ],
+  "books_mentioned": [
+    "Acts",
+    "Titus"
+  ],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 4,
+    "ot_refs": 0,
+    "nt_refs": 4,
+    "books_count": 2,
+    "top_books": [
+      "Acts",
+      "Titus"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "topic": "FLOUR",
+  "slug": "flour",
+  "sources": [
+    "NAV"
+  ],
+  "see_also": [
+    "BARLEY",
+    "BREAD",
+    "OFFERING",
+    "WHEAT"
+  ],
+  "aspects": [
+    {
+      "label": "SeeBARLEY",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeBREAD",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeOFFERING",
+      "references": [],
+      "source": "NAV"
+    },
+    {
+      "label": "SeeWHEAT",
+      "references": [],
+      "source": "NAV"
+    }
+  ],
+  "biblical_references": [],
+  "books_mentioned": [],
+  "stats": {
+    "total_aspects": 4,
+    "total_refs": 0,
+    "ot_refs": 0,
+    "nt_refs": 0,
+    "books_count": 0,
+    "top_books": []
+  }
+}
