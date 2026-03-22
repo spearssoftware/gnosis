@@ -63,3 +63,45 @@ def test_parse_topics(tmp_path: Path):
     assert result["abel"].see_also == ["cain"]
     assert len(result["abel"].aspects) == 1
     assert result["abel"].aspects[0].verses == ["Gen.4.2", "Heb.11.4"]
+
+
+def test_parse_ref_unknown_book():
+    """Unknown book names should produce empty list."""
+    assert _parse_ref_string("Maccabees 1:1") == []
+
+
+def test_parse_ref_multi_verse_comma():
+    """Multiple comma-separated verses in one ref string."""
+    refs = _parse_ref_string("Romans 8:28,29,30")
+    assert refs == ["Rom.8.28", "Rom.8.29", "Rom.8.30"]
+
+
+def test_parse_topics_empty_aspects(tmp_path: Path):
+    """Topics with no aspects should still parse."""
+    d = tmp_path / "topics" / "A"
+    d.mkdir(parents=True)
+    topic = {
+        "topic": "ALPHA", "slug": "alpha",
+        "sources": ["NAV"], "see_also": [], "aspects": [],
+    }
+    (d / "alpha.json").write_text(json.dumps(topic))
+
+    result = parse_topics(tmp_path)
+    assert "alpha" in result
+    assert result["alpha"].aspects == []
+
+
+def test_parse_topics_see_also_slugified(tmp_path: Path):
+    """see_also entries should be converted from uppercase to slugs."""
+    d = tmp_path / "topics" / "A"
+    d.mkdir(parents=True)
+    topic = {
+        "topic": "ALTAR", "slug": "altar",
+        "sources": ["NAV"],
+        "see_also": ["BLOOD", "TABERNACLE"],
+        "aspects": [],
+    }
+    (d / "altar.json").write_text(json.dumps(topic))
+
+    result = parse_topics(tmp_path)
+    assert result["altar"].see_also == ["blood", "tabernacle"]
