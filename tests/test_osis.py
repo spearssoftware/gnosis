@@ -1,4 +1,11 @@
-from gnosis.osis import OSIS_BOOKS, book_to_osis, to_osis_range, to_osis_ref
+from gnosis.osis import (
+    CHAPTER_VERSE_COUNTS,
+    OSIS_BOOKS,
+    book_to_osis,
+    is_valid_osis_ref,
+    to_osis_range,
+    to_osis_ref,
+)
 
 
 def test_all_66_books_present():
@@ -75,3 +82,47 @@ def test_to_osis_range_single_verse():
 
 def test_to_osis_range_unknown_book():
     assert to_osis_range("FakeBook", 1, 1, 5) is None
+
+
+# --- is_valid_osis_ref tests ---
+
+
+def test_chapter_verse_counts_covers_all_books():
+    assert set(CHAPTER_VERSE_COUNTS.keys()) == OSIS_BOOKS
+
+
+def test_valid_osis_ref():
+    assert is_valid_osis_ref("Gen.1.1") is True
+    assert is_valid_osis_ref("Rev.22.21") is True
+    assert is_valid_osis_ref("Ps.119.176") is True
+
+
+def test_valid_osis_ref_range():
+    assert is_valid_osis_ref("Gen.1.1-5") is True
+    assert is_valid_osis_ref("Rom.8.28-30") is True
+
+
+def test_invalid_verse_number():
+    assert is_valid_osis_ref("Gen.50.27") is False  # Gen 50 has 26 verses
+
+
+def test_invalid_chapter_number():
+    assert is_valid_osis_ref("Gen.51.1") is False  # Gen has 50 chapters
+
+
+def test_invalid_book():
+    assert is_valid_osis_ref("Fake.1.1") is False
+
+
+def test_invalid_format():
+    assert is_valid_osis_ref("Gen.1") is False
+    assert is_valid_osis_ref("Gen") is False
+    assert is_valid_osis_ref("") is False
+
+
+def test_verse_zero():
+    assert is_valid_osis_ref("Gen.1.0") is False
+
+
+def test_chapter_zero():
+    assert is_valid_osis_ref("Gen.0.1") is False

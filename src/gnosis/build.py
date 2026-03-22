@@ -50,9 +50,69 @@ class BuildContext:
     lexicon: dict[str, LexiconEntry]
 
 
+def _repair_people(people: dict[str, Person]) -> None:
+    """Fix known relationship asymmetries and chronological errors in-place."""
+    for pid, person in people.items():
+        # Fix parent -> child symmetry: if child lists a parent, ensure parent lists child
+        for parent_field in ("father", "mother"):
+            parent_id = getattr(person, parent_field)
+            if parent_id and parent_id in people:
+                parent = people[parent_id]
+                if pid not in parent.children:
+                    parent.children.append(pid)
+
+        # Fix child -> parent symmetry: if parent lists child, ensure child has parent set
+        for child_id in person.children:
+            if child_id in people:
+                child = people[child_id]
+                if child.father != pid and child.mother != pid:
+                    # Assign based on parent's gender, default to father
+                    if person.gender and person.gender.lower() in ("f", "female"):
+                        child.mother = pid
+                    else:
+                        child.father = pid
+
+        # Fix sibling symmetry
+        for sib_id in person.siblings:
+            if sib_id in people:
+                sibling = people[sib_id]
+                if pid not in sibling.siblings:
+                    sibling.siblings.append(pid)
+
+        # Fix partner symmetry
+        for partner_id in person.partners:
+            if partner_id in people:
+                partner = people[partner_id]
+                if pid not in partner.partners:
+                    partner.partners.append(pid)
+
+        # Null out clearly wrong dates (birth >= death)
+        if person.birth_year is not None and person.death_year is not None:
+            if person.birth_year >= person.death_year:
+                person.birth_year = None
+                person.death_year = None
+                person.birth_year_display = None
+                person.death_year_display = None
+
+    # Second pass: fix parent born after child by nulling parent's birth year
+    for person in people.values():
+        for parent_field in ("father", "mother"):
+            parent_id = getattr(person, parent_field)
+            if parent_id and parent_id in people:
+                parent = people[parent_id]
+                if (
+                    person.birth_year is not None
+                    and parent.birth_year is not None
+                    and parent.birth_year >= person.birth_year
+                ):
+                    parent.birth_year = None
+                    parent.birth_year_display = None
+
+
 def _parse_all() -> BuildContext:
     """Parse and merge all sources."""
     people, places, events, groups = parse_theographic(SOURCES_DIR / "theographic")
+    _repair_people(people)
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
     cross_refs = parse_scrollmapper(SOURCES_DIR)

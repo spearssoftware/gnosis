@@ -9,6 +9,7 @@ from typing import TYPE_CHECKING, Literal
 from rich.console import Console
 from rich.table import Table
 
+from gnosis.osis import is_valid_osis_ref
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
@@ -53,6 +54,12 @@ def validate(
     results.append(_check_dictionary(ctx.dictionary))
     results.append(_check_topics(ctx.topics))
     results.append(_check_hebrew(ctx.hebrew_verses, ctx.lexicon))
+    results.append(_check_verse_existence(
+        ctx.people, ctx.places, ctx.events,
+        ctx.cross_refs, ctx.dictionary, ctx.topics,
+    ))
+    results.append(_check_relationship_symmetry(ctx.people))
+    results.append(_check_chronology(ctx.people, ctx.events))
 
     xref_count = sum(len(e.targets) for e in ctx.cross_refs.values())
     hebrew_count = sum(len(v.words) for v in ctx.hebrew_verses.values())
@@ -388,4 +395,177 @@ def _check_hebrew(
             f"{len(hebrew_verses)} verses, {total_words} words "
             f"({pct:.0f}% with Strong's), {len(lexicon)} lexicon entries"
         ),
+    )
+
+
+def _validate_ref(ref: str) -> bool:
+    """Validate a single OSIS ref or range against the canonical verse table."""
+    return OSIS_PATTERN.match(ref) is not None and is_valid_osis_ref(ref)
+
+
+def _check_verse_existence(
+    people: dict[str, Person],
+    places: dict[str, Place],
+    events: dict[str, Event],
+    cross_refs: dict[str, CrossReferenceEntry],
+    dictionary: dict[str, DictionaryEntry],
+    topics: dict[str, Topic],
+) -> ValidationResult:
+    """Check that all verse references point to real Bible verses."""
+    invalid: list[str] = []
+    total = 0
+
+    for label, collection in [("person", people), ("place", places), ("event", events)]:
+        for eid, entity in collection.items():
+            for v in entity.verses:
+                total += 1
+                if not _validate_ref(v):
+                    invalid.append(f"{label}/{eid}: {v}")
+
+    for from_verse, entry in cross_refs.items():
+        total += 1
+        if not _validate_ref(from_verse):
+            invalid.append(f"xref/from: {from_verse}")
+        for t in entry.targets:
+            total += 1
+            if not _validate_ref(t.verse_start):
+                invalid.append(f"xref/to: {t.verse_start}")
+            if t.verse_end:
+                total += 1
+                if not _validate_ref(t.verse_end):
+                    invalid.append(f"xref/to_end: {t.verse_end}")
+
+    for slug, entry in dictionary.items():
+        for ref in entry.scripture_refs:
+            total += 1
+            if not _validate_ref(ref):
+                invalid.append(f"dict/{slug}: {ref}")
+
+    for slug, topic in topics.items():
+        for aspect in topic.aspects:
+            for v in aspect.verses:
+                total += 1
+                if not _validate_ref(v):
+                    invalid.append(f"topic/{slug}: {v}")
+
+    # Hebrew verses use Masoretic versification (differs from English Bibles)
+    # so we skip them in this check.
+
+    if invalid:
+        return ValidationResult(
+            name="Verse existence",
+            status="warn",
+            message=f"{len(invalid)}/{total} refs point to nonexistent verses",
+            details=invalid[:10],
+        )
+    return ValidationResult(
+        name="Verse existence",
+        status="pass",
+        message=f"All {total} verse refs point to real verses",
+    )
+
+
+def _check_relationship_symmetry(
+    people: dict[str, Person],
+) -> ValidationResult:
+    """Check that family relationships are symmetric."""
+    asymmetries: list[str] = []
+    people_ids = set(people.keys())
+
+    for pid, person in people.items():
+        if person.father and person.father in people_ids:
+            father = people[person.father]
+            if pid not in father.children:
+                asymmetries.append(
+                    f"{pid}.father={person.father} but {person.father}.children missing {pid}"
+                )
+
+        if person.mother and person.mother in people_ids:
+            mother = people[person.mother]
+            if pid not in mother.children:
+                asymmetries.append(
+                    f"{pid}.mother={person.mother} but {person.mother}.children missing {pid}"
+                )
+
+        for child_id in person.children:
+            if child_id in people_ids:
+                child = people[child_id]
+                if child.father != pid and child.mother != pid:
+                    asymmetries.append(
+                        f"{pid}.children has {child_id} but {child_id} has neither parent={pid}"
+                    )
+
+        for sib_id in person.siblings:
+            if sib_id in people_ids:
+                sibling = people[sib_id]
+                if pid not in sibling.siblings:
+                    asymmetries.append(
+                        f"{pid}.siblings has {sib_id} but {sib_id}.siblings missing {pid}"
+                    )
+
+        for partner_id in person.partners:
+            if partner_id in people_ids:
+                partner = people[partner_id]
+                if pid not in partner.partners:
+                    asymmetries.append(
+                        f"{pid}.partners has {partner_id} but {partner_id}.partners missing {pid}"
+                    )
+
+    if asymmetries:
+        return ValidationResult(
+            name="Relationship symmetry",
+            status="warn",
+            message=f"{len(asymmetries)} asymmetric relationships",
+            details=asymmetries[:10],
+        )
+    return ValidationResult(
+        name="Relationship symmetry",
+        status="pass",
+        message="All relationships are symmetric",
+    )
+
+
+def _check_chronology(
+    people: dict[str, Person],
+    events: dict[str, Event],
+) -> ValidationResult:
+    """Check chronological consistency of dates."""
+    issues: list[str] = []
+
+    for pid, person in people.items():
+        if person.birth_year is not None and person.death_year is not None:
+            if person.birth_year >= person.death_year:
+                issues.append(
+                    f"person/{pid}: birth ({person.birth_year}) >= death ({person.death_year})"
+                )
+
+        for parent_field in ("father", "mother"):
+            parent_id = getattr(person, parent_field)
+            if parent_id and parent_id in people:
+                parent = people[parent_id]
+                if person.birth_year is not None and parent.birth_year is not None:
+                    if parent.birth_year >= person.birth_year:
+                        issues.append(
+                            f"person/{pid}: {parent_field} {parent_id} born ({parent.birth_year})"
+                            f" >= child born ({person.birth_year})"
+                        )
+
+    for eid, event in events.items():
+        if event.start_year is not None:
+            if event.start_year < -4004 or event.start_year > 100:
+                issues.append(
+                    f"event/{eid}: start_year {event.start_year} outside [-4004, 100]"
+                )
+
+    if issues:
+        return ValidationResult(
+            name="Chronology",
+            status="warn",
+            message=f"{len(issues)} chronological issues",
+            details=issues[:10],
+        )
+    return ValidationResult(
+        name="Chronology",
+        status="pass",
+        message="All dates are chronologically consistent",
     )

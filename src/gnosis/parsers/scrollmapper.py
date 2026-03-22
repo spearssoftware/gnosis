@@ -4,6 +4,7 @@ import csv
 from collections import defaultdict
 from pathlib import Path
 
+from gnosis.osis import is_valid_osis_ref
 from gnosis.types.cross_reference import CrossReferenceEntry, CrossReferenceTarget
 
 
@@ -58,7 +59,15 @@ def parse_scrollmapper(sources_dir: Path) -> dict[str, CrossReferenceEntry]:
             except ValueError:
                 votes = 0
 
+            if not is_valid_osis_ref(from_verse):
+                continue
+
             verse_start, verse_end = _parse_to_verse(to_raw)
+            if not is_valid_osis_ref(verse_start):
+                continue
+            if verse_end and not is_valid_osis_ref(verse_end):
+                verse_end = None
+
             grouped[from_verse].append(
                 CrossReferenceTarget(
                     verse_start=verse_start,
