@@ -1,3 +1,5 @@
+[//]: # (This project is managed by claude-agent)
+
 # Gnosis
 
 A curated biblical knowledge graph merging [Theographic Bible Metadata](https://github.com/robertrouse/theographic-bible-metadata) and [OpenBible Geocoding Data](https://github.com/openbibleinfo/Bible-Geocoding-Data) into a clean, versioned dataset.
