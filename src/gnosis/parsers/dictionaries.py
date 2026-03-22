@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 from gnosis.ids import make_uuid, slugify
-from gnosis.osis import to_osis_ref
+from gnosis.osis import is_deuterocanonical_ref, is_valid_osis_ref, to_osis_ref
 from gnosis.types.dictionary import DictionaryDefinition, DictionaryEntry
 from gnosis.types.person import Person
 from gnosis.types.place import Place
@@ -57,11 +57,16 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
                 continue
 
             osis_refs: list[str] = []
+            deut_refs: list[str] = []
             for ref_obj in raw.get("scripture_refs", []):
                 ref_str = ref_obj.get("reference", "")
                 osis = _convert_ref(ref_str)
-                if osis:
+                if not osis:
+                    continue
+                if is_valid_osis_ref(osis):
                     osis_refs.append(osis)
+                elif is_deuterocanonical_ref(osis):
+                    deut_refs.append(osis)
 
             definitions = [
                 DictionaryDefinition(source=d["source"], text=d["text"])
@@ -77,6 +82,10 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
                     if ref not in ref_set:
                         ref_set.add(ref)
                         existing.scripture_refs.append(ref)
+                for ref in deut_refs:
+                    if ref not in ref_set:
+                        ref_set.add(ref)
+                        existing.deuterocanonical_refs.append(ref)
             else:
                 merged[slug] = DictionaryEntry(
                     id=slug,
@@ -84,8 +93,9 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
                     name=raw.get("name", slug),
                     definitions=definitions,
                     scripture_refs=osis_refs,
+                    deuterocanonical_refs=deut_refs,
                 )
-                seen_refs[slug] = set(osis_refs)
+                seen_refs[slug] = set(osis_refs) | set(deut_refs)
 
     return dict(sorted(merged.items()))
 

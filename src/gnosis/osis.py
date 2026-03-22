@@ -285,6 +285,36 @@ CHAPTER_VERSE_COUNTS: dict[str, list[int]] = {
 }
 
 
+# Deuterocanonical additions to canonical books (Catholic/Orthodox canon).
+# Only includes chapters/verses that extend beyond the Protestant canon.
+DEUTEROCANONICAL_VERSE_COUNTS: dict[str, dict[int, int]] = {
+    # Greek Esther additions (Vulgate chapter numbering)
+    "Esth": {11: 12, 12: 6, 13: 18, 14: 19, 16: 24},
+}
+
+
+def is_deuterocanonical_ref(ref: str) -> bool:
+    """Check if an OSIS ref points to a deuterocanonical addition."""
+    parts = ref.split(".")
+    if len(parts) != 3:
+        return False
+    book, ch_str, vs_part = parts
+    try:
+        chapter = int(ch_str)
+    except ValueError:
+        return False
+    additions = DEUTEROCANONICAL_VERSE_COUNTS.get(book)
+    if additions is None or chapter not in additions:
+        return False
+    max_verse = additions[chapter]
+    vs_str = vs_part.split("-")[0]
+    try:
+        verse = int(vs_str)
+    except ValueError:
+        return False
+    return 1 <= verse <= max_verse
+
+
 def is_valid_osis_ref(ref: str) -> bool:
     """Check if an OSIS reference points to a real Bible verse.
 

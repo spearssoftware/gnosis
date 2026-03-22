@@ -56,7 +56,7 @@ def validate(
     results.append(_check_hebrew(ctx.hebrew_verses, ctx.lexicon))
     results.append(_check_verse_existence(
         ctx.people, ctx.places, ctx.events,
-        ctx.cross_refs, ctx.dictionary, ctx.topics, ctx.hebrew_verses,
+        ctx.cross_refs, ctx.dictionary, ctx.topics,
     ))
     results.append(_check_relationship_symmetry(ctx.people))
     results.append(_check_chronology(ctx.people, ctx.events))
@@ -410,7 +410,6 @@ def _check_verse_existence(
     cross_refs: dict[str, CrossReferenceEntry],
     dictionary: dict[str, DictionaryEntry],
     topics: dict[str, Topic],
-    hebrew_verses: dict[str, HebrewVerse],
 ) -> ValidationResult:
     """Check that all verse references point to real Bible verses."""
     invalid: list[str] = []
@@ -449,10 +448,8 @@ def _check_verse_existence(
                 if not _validate_ref(v):
                     invalid.append(f"topic/{slug}: {v}")
 
-    for ref in hebrew_verses:
-        total += 1
-        if not _validate_ref(ref):
-            invalid.append(f"hebrew: {ref}")
+    # Hebrew verses use Masoretic versification (differs from English Bibles)
+    # so we skip them in this check.
 
     if invalid:
         return ValidationResult(

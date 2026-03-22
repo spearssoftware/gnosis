@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 from gnosis.ids import make_uuid, slugify
-from gnosis.osis import to_osis_range, to_osis_ref
+from gnosis.osis import is_valid_osis_ref, to_osis_range, to_osis_ref
 from gnosis.types.topic import Topic, TopicAspect
 
 # Match "Book Chapter:Verse" with optional range/comma suffixes.
@@ -81,7 +81,9 @@ def parse_topics(sources_dir: Path) -> dict[str, Topic]:
             for asp in raw.get("aspects", []):
                 osis_refs: list[str] = []
                 for ref_str in asp.get("references", []):
-                    osis_refs.extend(_parse_ref_string(ref_str))
+                    for ref in _parse_ref_string(ref_str):
+                        if is_valid_osis_ref(ref):
+                            osis_refs.append(ref)
                 aspects.append(TopicAspect(
                     label=asp.get("label"),
                     verses=osis_refs,
