@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 from gnosis.ids import make_uuid, slugify
-from gnosis.osis import to_osis_ref
+from gnosis.osis import to_osis_range, to_osis_ref
 from gnosis.types.topic import Topic, TopicAspect
 
 # Match "Book Chapter:Verse" with optional range/comma suffixes.
@@ -34,7 +34,6 @@ def _parse_ref_string(raw: str) -> list[str]:
         return []
 
     results: list[str] = []
-    # Split on commas to handle "1-15,25"
     for segment in verse_part.split(","):
         segment = segment.strip()
         if not segment:
@@ -46,9 +45,9 @@ def _parse_ref_string(raw: str) -> list[str]:
                 v_end = int(parts[1].strip())
             except ValueError:
                 continue
-            ref = to_osis_ref(book, chapter, v_start)
+            ref = to_osis_range(book, chapter, v_start, v_end)
             if ref:
-                results.append(f"{ref}-{v_end}")
+                results.append(ref)
         else:
             try:
                 verse = int(segment)
@@ -69,7 +68,6 @@ def parse_topics(sources_dir: Path) -> dict[str, Topic]:
     topics_dir = sources_dir / "topics"
     result: dict[str, Topic] = {}
 
-    # Iterate letter directories
     for letter_dir in sorted(topics_dir.iterdir()):
         if not letter_dir.is_dir():
             continue
@@ -79,7 +77,6 @@ def parse_topics(sources_dir: Path) -> dict[str, Topic]:
             if not slug:
                 continue
 
-            # Parse aspects into TopicAspects with OSIS refs
             aspects: list[TopicAspect] = []
             for asp in raw.get("aspects", []):
                 osis_refs: list[str] = []
@@ -91,7 +88,6 @@ def parse_topics(sources_dir: Path) -> dict[str, Topic]:
                     source=asp.get("source"),
                 ))
 
-            # Convert see_also from uppercase topic names to slugs
             see_also = [slugify(s) for s in raw.get("see_also", []) if s]
 
             result[slug] = Topic(

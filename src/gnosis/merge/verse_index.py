@@ -30,10 +30,12 @@ def build_verse_index(
 
     if topics:
         for topic in topics.values():
+            seen_refs: set[str] = set()
             for aspect in topic.aspects:
                 for verse in aspect.verses:
-                    # Strip range suffixes for index lookup (e.g. "Gen.4.1-15" -> "Gen.4.1")
                     base_ref = verse.split("-")[0] if "-" in verse else verse
-                    index.setdefault(base_ref, VerseEntry()).topics.append(topic.id)
+                    if base_ref not in seen_refs:
+                        seen_refs.add(base_ref)
+                        index.setdefault(base_ref, VerseEntry()).topics.append(topic.id)
 
     return index

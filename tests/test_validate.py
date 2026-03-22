@@ -1,3 +1,4 @@
+from gnosis.build import BuildContext
 from gnosis.types import Event, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry, CrossReferenceTarget
 from gnosis.types.dictionary import DictionaryDefinition, DictionaryEntry
@@ -7,9 +8,9 @@ from gnosis.types.topic import Topic
 from gnosis.validate.checks import validate
 
 
-def _base_data() -> dict:
-    """Minimal valid data for all entity types."""
-    return {
+def _ctx(**overrides) -> BuildContext:
+    """Build a minimal valid BuildContext, with optional field overrides."""
+    defaults = {
         "people": {
             "moses": Person(
                 id="moses", uuid="u", name="Moses",
@@ -27,190 +28,145 @@ def _base_data() -> dict:
             ),
         },
         "groups": {},
+        "match_log": {},
+        "cross_refs": {},
+        "strongs": {},
+        "dictionary": {},
+        "topics": {},
+        "hebrew_verses": {},
+        "lexicon": {},
     }
+    defaults.update(overrides)
+    return BuildContext(**defaults)
 
 
 def test_validate_passes_with_valid_data():
-    d = _base_data()
-    results = validate(d["people"], d["places"], d["events"], d["groups"])
+    results = validate(_ctx())
     statuses = {r.name: r.status for r in results}
     assert statuses["Dangling refs"] == "pass"
     assert statuses["OSIS format"] == "pass"
 
 
 def test_validate_detects_dangling_ref():
-    d = _base_data()
-    d["events"]["exodus"].participants = ["nonexistent"]
-    results = validate(d["people"], d["places"], d["events"], d["groups"])
+    ctx = _ctx()
+    ctx.events["exodus"].participants = ["nonexistent"]
+    results = validate(ctx)
     statuses = {r.name: r.status for r in results}
     assert statuses["Dangling refs"] == "warn"
 
 
 def test_validate_detects_bad_osis():
-    d = _base_data()
-    d["people"]["moses"].verses = ["bad-ref"]
-    results = validate(d["people"], d["places"], d["events"], d["groups"])
+    ctx = _ctx()
+    ctx.people["moses"].verses = ["bad-ref"]
+    results = validate(ctx)
     statuses = {r.name: r.status for r in results}
     assert statuses["OSIS format"] == "warn"
 
 
 def test_validate_cross_refs_pass():
-    d = _base_data()
-    xrefs = {
+    results = validate(_ctx(cross_refs={
         "Gen.1.1": CrossReferenceEntry(targets=[
             CrossReferenceTarget(verse_start="Ps.33.9", votes=72),
         ]),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        cross_refs=xrefs,
-    )
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Cross-references"] == "pass"
 
 
 def test_validate_cross_refs_invalid_osis():
-    d = _base_data()
-    xrefs = {
+    results = validate(_ctx(cross_refs={
         "Gen.1.1": CrossReferenceEntry(targets=[
             CrossReferenceTarget(verse_start="bad-ref", votes=1),
         ]),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        cross_refs=xrefs,
-    )
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Cross-references"] == "warn"
 
 
 def test_validate_strongs_pass():
-    d = _base_data()
-    strongs = {
+    results = validate(_ctx(strongs={
         "H1": StrongsEntry(id="H1", uuid="u", language="hebrew"),
         "G1": StrongsEntry(id="G1", uuid="u", language="greek"),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        strongs=strongs,
-    )
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Strong's concordance"] == "pass"
-    assert "H:1" in results[next(
-        i for i, r in enumerate(results) if r.name == "Strong's concordance"
-    )].message
+    msg = next(r for r in results if r.name == "Strong's concordance").message
+    assert "H:1" in msg
 
 
 def test_validate_strongs_invalid_number():
-    d = _base_data()
-    strongs = {"X99": StrongsEntry(id="X99", uuid="u", language="hebrew")}
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        strongs=strongs,
-    )
+    results = validate(_ctx(strongs={
+        "X99": StrongsEntry(id="X99", uuid="u", language="hebrew"),
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Strong's concordance"] == "warn"
 
 
 def test_validate_dictionary_pass():
-    d = _base_data()
-    dictionary = {
+    results = validate(_ctx(dictionary={
         "moses": DictionaryEntry(
             id="moses", uuid="u", name="Moses",
             definitions=[DictionaryDefinition(source="SMI", text="leader")],
             scripture_refs=["Exod.3.1"],
         ),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        dictionary=dictionary,
-    )
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Dictionary"] == "pass"
 
 
 def test_validate_dictionary_bad_ref():
-    d = _base_data()
-    dictionary = {
+    results = validate(_ctx(dictionary={
         "moses": DictionaryEntry(
             id="moses", uuid="u", name="Moses",
             definitions=[DictionaryDefinition(source="SMI", text="leader")],
             scripture_refs=["not-a-ref"],
         ),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        dictionary=dictionary,
-    )
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Dictionary"] == "warn"
 
 
 def test_validate_topics_pass():
-    d = _base_data()
-    topics = {
-        "faith": Topic(
-            id="faith", uuid="u", name="FAITH",
-            sources=["NAV"], see_also=[],
-        ),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        topics=topics,
-    )
+    results = validate(_ctx(topics={
+        "faith": Topic(id="faith", uuid="u", name="FAITH", sources=["NAV"], see_also=[]),
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Topics"] == "pass"
 
 
 def test_validate_topics_dangling_see_also():
-    d = _base_data()
-    topics = {
+    results = validate(_ctx(topics={
         "faith": Topic(
             id="faith", uuid="u", name="FAITH",
             sources=["NAV"], see_also=["nonexistent"],
         ),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        topics=topics,
-    )
+    }))
     statuses = {r.name: r.status for r in results}
     assert statuses["Topics"] == "warn"
 
 
 def test_validate_hebrew_pass():
-    d = _base_data()
-    hv = {
-        "Gen.1.1": HebrewVerse(osis_ref="Gen.1.1", words=[
-            HebrewWord(
-                word_id="01xeN", text="בְּ/רֵאשִׁ֖ית",
-                lemma_raw="b/7225", strongs_number="H7225", morph="HR/Ncfsa",
-            ),
-        ]),
-    }
-    lex = {
-        "aab": LexiconEntry(
-            id="aab", uuid="u", hebrew="אֵב", gloss="freshness",
-        ),
-    }
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        hebrew_verses=hv, lexicon=lex,
-    )
+    results = validate(_ctx(
+        hebrew_verses={
+            "Gen.1.1": HebrewVerse(osis_ref="Gen.1.1", words=[
+                HebrewWord(
+                    word_id="01xeN", text="בְּ/רֵאשִׁ֖ית",
+                    lemma_raw="b/7225", strongs_number="H7225", morph="HR/Ncfsa",
+                ),
+            ]),
+        },
+        lexicon={
+            "aab": LexiconEntry(id="aab", uuid="u", hebrew="אֵב", gloss="freshness"),
+        },
+    ))
     statuses = {r.name: r.status for r in results}
     assert statuses["Hebrew Bible"] == "pass"
-    assert "1 verses" in results[next(
-        i for i, r in enumerate(results) if r.name == "Hebrew Bible"
-    )].message
+    msg = next(r for r in results if r.name == "Hebrew Bible").message
+    assert "1 verses" in msg
 
 
 def test_validate_entity_counts_include_all():
-    d = _base_data()
-    results = validate(
-        d["people"], d["places"], d["events"], d["groups"],
-        cross_refs={}, strongs={}, dictionary={}, topics={},
-        hebrew_verses={}, lexicon={},
-    )
+    results = validate(_ctx())
     counts_msg = next(r for r in results if r.name == "Entity counts").message
     assert "people" in counts_msg
     assert "cross-refs" in counts_msg

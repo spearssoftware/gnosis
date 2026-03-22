@@ -7,16 +7,11 @@ from pathlib import Path
 from gnosis.ids import make_uuid, slugify
 from gnosis.osis import to_osis_ref
 from gnosis.types.dictionary import DictionaryDefinition, DictionaryEntry
+from gnosis.types.person import Person
+from gnosis.types.place import Place
 
-# Source code -> directory name mapping.
-_SOURCES = {
-    "smith": "SMI",
-    "hastings": "HAS",
-    "schaff": "SCH",
-    "hitchcock": "HIT",
-}
+_SOURCES = ("smith", "hastings", "schaff", "hitchcock")
 
-# Pattern to parse "Book Chapter:Verse" references.
 _REF_PATTERN = re.compile(r"^(.+?)\s+(\d+):(\d+)$")
 
 
@@ -47,6 +42,7 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
     """
     dict_dir = sources_dir / "dictionaries"
     merged: dict[str, DictionaryEntry] = {}
+    seen_refs: dict[str, set[str]] = {}
 
     for source_name in _SOURCES:
         source_path = dict_dir / source_name
@@ -60,7 +56,6 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
             if not slug:
                 continue
 
-            # Convert scripture refs to OSIS
             osis_refs: list[str] = []
             for ref_obj in raw.get("scripture_refs", []):
                 ref_str = ref_obj.get("reference", "")
@@ -75,11 +70,12 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
             ]
 
             if slug in merged:
-                # Merge: add definitions and refs to existing entry
                 existing = merged[slug]
                 existing.definitions.extend(definitions)
+                ref_set = seen_refs[slug]
                 for ref in osis_refs:
-                    if ref not in existing.scripture_refs:
+                    if ref not in ref_set:
+                        ref_set.add(ref)
                         existing.scripture_refs.append(ref)
             else:
                 merged[slug] = DictionaryEntry(
@@ -89,14 +85,15 @@ def parse_dictionaries(sources_dir: Path) -> dict[str, DictionaryEntry]:
                     definitions=definitions,
                     scripture_refs=osis_refs,
                 )
+                seen_refs[slug] = set(osis_refs)
 
     return dict(sorted(merged.items()))
 
 
 def link_dictionary_entities(
     dictionary: dict[str, DictionaryEntry],
-    people: dict[str, object],
-    places: dict[str, object],
+    people: dict[str, Person],
+    places: dict[str, Place],
 ) -> None:
     """Populate related_people and related_places on dictionary entries."""
     people_slugs = set(people.keys())

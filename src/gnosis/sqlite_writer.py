@@ -1,15 +1,14 @@
 """Write gnosis data to a SQLite database for BibleMarker bundling."""
 
+from __future__ import annotations
+
 import sqlite3
 from datetime import UTC, datetime
 from pathlib import Path
+from typing import TYPE_CHECKING
 
-from gnosis.types import Event, PeopleGroup, Person, Place
-from gnosis.types.cross_reference import CrossReferenceEntry
-from gnosis.types.dictionary import DictionaryEntry
-from gnosis.types.hebrew import HebrewVerse, LexiconEntry
-from gnosis.types.strongs import StrongsEntry
-from gnosis.types.topic import Topic
+if TYPE_CHECKING:
+    from gnosis.build import BuildContext
 
 _SCHEMA = """
 CREATE TABLE verse (
@@ -247,19 +246,7 @@ CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
 
 
-def write_sqlite(
-    people: dict[str, Person],
-    places: dict[str, Place],
-    events: dict[str, Event],
-    groups: dict[str, PeopleGroup],
-    cross_refs: dict[str, CrossReferenceEntry],
-    strongs: dict[str, StrongsEntry],
-    dictionary: dict[str, DictionaryEntry],
-    topics: dict[str, Topic],
-    hebrew_verses: dict[str, HebrewVerse],
-    lexicon: dict[str, LexiconEntry],
-    output_dir: Path,
-) -> Path:
+def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
     db_path = output_dir / "gnosis.db"
     db_path.unlink(missing_ok=True)
@@ -272,7 +259,17 @@ def write_sqlite(
     con.executescript(_SCHEMA)
     con.execute("BEGIN")
 
-    # 1. Collect all unique verses and insert
+    people = ctx.people
+    places = ctx.places
+    events = ctx.events
+    groups = ctx.groups
+    cross_refs = ctx.cross_refs
+    strongs = ctx.strongs
+    dictionary = ctx.dictionary
+    topics = ctx.topics
+    hebrew_verses = ctx.hebrew_verses
+    lexicon = ctx.lexicon
+
     all_verses: set[str] = set()
     for p in people.values():
         all_verses.update(p.verses)
@@ -302,88 +299,104 @@ def write_sqlite(
         ((vid, ref) for ref, vid in verse_to_id.items()),
     )
 
-    # 2. Insert places
+    # Places
     place_slug_to_id: dict[str, int] = {}
+    place_rows = []
     for i, (slug, pl) in enumerate(sorted(places.items()), start=1):
         place_slug_to_id[slug] = i
-        con.execute(
-            "INSERT INTO place (id, slug, uuid, name, kjv_name, esv_name, "
-            "latitude, longitude, coordinate_source, feature_type, feature_sub_type, "
-            "modern_name, theographic_id, openbible_id, status) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            (
-                i, slug, pl.uuid, pl.name, pl.kjv_name, pl.esv_name,
-                pl.latitude, pl.longitude, pl.coordinate_source,
-                pl.feature_type, pl.feature_sub_type, pl.modern_name,
-                pl.theographic_id, pl.openbible_id, pl.status,
-            ),
-        )
+        place_rows.append((
+            i, slug, pl.uuid, pl.name, pl.kjv_name, pl.esv_name,
+            pl.latitude, pl.longitude, pl.coordinate_source,
+            pl.feature_type, pl.feature_sub_type, pl.modern_name,
+            pl.theographic_id, pl.openbible_id, pl.status,
+        ))
+    con.executemany(
+        "INSERT INTO place (id, slug, uuid, name, kjv_name, esv_name, "
+        "latitude, longitude, coordinate_source, feature_type, feature_sub_type, "
+        "modern_name, theographic_id, openbible_id, status) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        place_rows,
+    )
 
-    # 3. Insert people — first pass without self-referential FKs
+    # People — first pass without self-referential FKs
     person_slug_to_id: dict[str, int] = {}
+    person_rows = []
     for i, (slug, p) in enumerate(sorted(people.items()), start=1):
         person_slug_to_id[slug] = i
-        con.execute(
-            "INSERT INTO person (id, slug, uuid, name, gender, "
-            "birth_year, death_year, birth_year_display, death_year_display, "
-            "birth_place_id, death_place_id, verse_count, first_mention, "
-            "name_meaning, status) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            (
-                i, slug, p.uuid, p.name, p.gender,
-                p.birth_year, p.death_year, p.birth_year_display, p.death_year_display,
-                place_slug_to_id.get(p.birth_place) if p.birth_place else None,
-                place_slug_to_id.get(p.death_place) if p.death_place else None,
-                p.verse_count, p.first_mention, p.name_meaning, p.status,
-            ),
-        )
+        person_rows.append((
+            i, slug, p.uuid, p.name, p.gender,
+            p.birth_year, p.death_year, p.birth_year_display, p.death_year_display,
+            place_slug_to_id.get(p.birth_place) if p.birth_place else None,
+            place_slug_to_id.get(p.death_place) if p.death_place else None,
+            p.verse_count, p.first_mention, p.name_meaning, p.status,
+        ))
+    con.executemany(
+        "INSERT INTO person (id, slug, uuid, name, gender, "
+        "birth_year, death_year, birth_year_display, death_year_display, "
+        "birth_place_id, death_place_id, verse_count, first_mention, "
+        "name_meaning, status) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        person_rows,
+    )
 
     # Second pass: set father_id and mother_id
-    for slug, p in people.items():
-        father_id = person_slug_to_id.get(p.father) if p.father else None
-        mother_id = person_slug_to_id.get(p.mother) if p.mother else None
-        if father_id or mother_id:
-            con.execute(
-                "UPDATE person SET father_id=?, mother_id=? WHERE id=?",
-                (father_id, mother_id, person_slug_to_id[slug]),
+    con.executemany(
+        "UPDATE person SET father_id=?, mother_id=? WHERE id=?",
+        (
+            (
+                person_slug_to_id.get(p.father) if p.father else None,
+                person_slug_to_id.get(p.mother) if p.mother else None,
+                person_slug_to_id[slug],
             )
+            for slug, p in people.items()
+            if p.father or p.mother
+        ),
+    )
 
-    # 4. Insert events — first pass without self-referential FKs
+    # Events — first pass without self-referential FKs
     event_slug_to_id: dict[str, int] = {}
+    event_rows = []
     for i, (slug, e) in enumerate(sorted(events.items()), start=1):
         event_slug_to_id[slug] = i
-        con.execute(
-            "INSERT INTO event (id, slug, uuid, title, start_year, "
-            "start_year_display, duration, sort_key, theographic_id, status) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            (
-                i, slug, e.uuid, e.title, e.start_year,
-                e.start_year_display, e.duration, e.sort_key,
-                e.theographic_id, e.status,
-            ),
-        )
+        event_rows.append((
+            i, slug, e.uuid, e.title, e.start_year,
+            e.start_year_display, e.duration, e.sort_key,
+            e.theographic_id, e.status,
+        ))
+    con.executemany(
+        "INSERT INTO event (id, slug, uuid, title, start_year, "
+        "start_year_display, duration, sort_key, theographic_id, status) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        event_rows,
+    )
 
     # Second pass: set parent_event_id and predecessor_id
-    for slug, e in events.items():
-        parent_id = event_slug_to_id.get(e.parent_event) if e.parent_event else None
-        pred_id = event_slug_to_id.get(e.predecessor) if e.predecessor else None
-        if parent_id or pred_id:
-            con.execute(
-                "UPDATE event SET parent_event_id=?, predecessor_id=? WHERE id=?",
-                (parent_id, pred_id, event_slug_to_id[slug]),
+    con.executemany(
+        "UPDATE event SET parent_event_id=?, predecessor_id=? WHERE id=?",
+        (
+            (
+                event_slug_to_id.get(e.parent_event) if e.parent_event else None,
+                event_slug_to_id.get(e.predecessor) if e.predecessor else None,
+                event_slug_to_id[slug],
             )
+            for slug, e in events.items()
+            if e.parent_event or e.predecessor
+        ),
+    )
 
-    # 5. Insert groups
+    # Groups
     group_slug_to_id: dict[str, int] = {}
+    group_rows = []
     for i, (slug, g) in enumerate(sorted(groups.items()), start=1):
         group_slug_to_id[slug] = i
-        con.execute(
-            "INSERT INTO people_group (id, slug, uuid, name, theographic_id) "
-            "VALUES (?, ?, ?, ?, ?)",
-            (i, slug, g.uuid, g.name, g.theographic_id),
-        )
+        group_rows.append((i, slug, g.uuid, g.name, g.theographic_id))
+    con.executemany(
+        "INSERT INTO people_group (id, slug, uuid, name, theographic_id) "
+        "VALUES (?, ?, ?, ?, ?)",
+        group_rows,
+    )
 
-    # 6. Junction tables
+    # Junction tables
     con.executemany(
         "INSERT OR IGNORE INTO person_verse (person_id, verse_id) VALUES (?, ?)",
         (
@@ -393,7 +406,6 @@ def write_sqlite(
             if v in verse_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO place_verse (place_id, verse_id) VALUES (?, ?)",
         (
@@ -403,7 +415,6 @@ def write_sqlite(
             if v in verse_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO event_verse (event_id, verse_id) VALUES (?, ?)",
         (
@@ -413,7 +424,6 @@ def write_sqlite(
             if v in verse_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO person_sibling (person_id, sibling_id) VALUES (?, ?)",
         (
@@ -423,7 +433,6 @@ def write_sqlite(
             if sib in person_slug_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO person_child (parent_id, child_id) VALUES (?, ?)",
         (
@@ -433,7 +442,6 @@ def write_sqlite(
             if child in person_slug_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO person_partner (person_id, partner_id) VALUES (?, ?)",
         (
@@ -443,7 +451,6 @@ def write_sqlite(
             if partner in person_slug_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO person_group (person_id, group_id) VALUES (?, ?)",
         (
@@ -453,7 +460,6 @@ def write_sqlite(
             if grp in group_slug_to_id
         ),
     )
-
     con.executemany(
         "INSERT OR IGNORE INTO event_participant (event_id, person_id) VALUES (?, ?)",
         (
@@ -464,39 +470,39 @@ def write_sqlite(
         ),
     )
 
-    # 7. Strong's concordance
-    for i, (number, s) in enumerate(sorted(strongs.items()), start=1):
-        con.execute(
-            "INSERT INTO strongs (id, number, uuid, language, lemma, "
-            "transliteration, pronunciation, definition, kjv_usage) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            (
-                i, number, s.uuid, s.language, s.lemma,
-                s.transliteration, s.pronunciation, s.definition, s.kjv_usage,
-            ),
-        )
+    # Strong's concordance
+    con.executemany(
+        "INSERT INTO strongs (id, number, uuid, language, lemma, "
+        "transliteration, pronunciation, definition, kjv_usage) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (
+            (i, number, s.uuid, s.language, s.lemma,
+             s.transliteration, s.pronunciation, s.definition, s.kjv_usage)
+            for i, (number, s) in enumerate(sorted(strongs.items()), start=1)
+        ),
+    )
 
-    # 8. Dictionary entries
+    # Dictionary entries
     dict_slug_to_id: dict[str, int] = {}
+    dict_entry_rows = []
+    dict_def_rows = []
     def_id = 0
     for i, (slug, d) in enumerate(sorted(dictionary.items()), start=1):
         dict_slug_to_id[slug] = i
-        con.execute(
-            "INSERT INTO dictionary_entry (id, slug, uuid, name) "
-            "VALUES (?, ?, ?, ?)",
-            (i, slug, d.uuid, d.name),
-        )
+        dict_entry_rows.append((i, slug, d.uuid, d.name))
         for defn in d.definitions:
             def_id += 1
-            con.execute(
-                "INSERT INTO dictionary_definition (id, entry_id, source, text) "
-                "VALUES (?, ?, ?, ?)",
-                (def_id, i, defn.source, defn.text),
-            )
-
+            dict_def_rows.append((def_id, i, defn.source, defn.text))
     con.executemany(
-        "INSERT OR IGNORE INTO dictionary_verse (entry_id, verse_id) "
-        "VALUES (?, ?)",
+        "INSERT INTO dictionary_entry (id, slug, uuid, name) VALUES (?, ?, ?, ?)",
+        dict_entry_rows,
+    )
+    con.executemany(
+        "INSERT INTO dictionary_definition (id, entry_id, source, text) VALUES (?, ?, ?, ?)",
+        dict_def_rows,
+    )
+    con.executemany(
+        "INSERT OR IGNORE INTO dictionary_verse (entry_id, verse_id) VALUES (?, ?)",
         (
             (dict_slug_to_id[slug], verse_to_id[v])
             for slug, d in dictionary.items()
@@ -505,35 +511,35 @@ def write_sqlite(
         ),
     )
 
-    # 9. Topics
+    # Topics
     topic_slug_to_id: dict[str, int] = {}
+    topic_rows = []
+    aspect_rows = []
+    aspect_verse_rows = []
     aspect_id = 0
     for i, (slug, t) in enumerate(sorted(topics.items()), start=1):
         topic_slug_to_id[slug] = i
-        con.execute(
-            "INSERT INTO topic (id, slug, uuid, name) VALUES (?, ?, ?, ?)",
-            (i, slug, t.uuid, t.name),
-        )
+        topic_rows.append((i, slug, t.uuid, t.name))
         for asp in t.aspects:
             aspect_id += 1
-            con.execute(
-                "INSERT INTO topic_aspect (id, topic_id, label, source) "
-                "VALUES (?, ?, ?, ?)",
-                (aspect_id, i, asp.label, asp.source),
-            )
-            con.executemany(
-                "INSERT OR IGNORE INTO topic_aspect_verse (aspect_id, verse_id) "
-                "VALUES (?, ?)",
-                (
-                    (aspect_id, verse_to_id[v])
-                    for v in asp.verses
-                    if v in verse_to_id
-                ),
-            )
-
+            aspect_rows.append((aspect_id, i, asp.label, asp.source))
+            for v in asp.verses:
+                if v in verse_to_id:
+                    aspect_verse_rows.append((aspect_id, verse_to_id[v]))
     con.executemany(
-        "INSERT OR IGNORE INTO topic_see_also (topic_id, related_topic_id) "
-        "VALUES (?, ?)",
+        "INSERT INTO topic (id, slug, uuid, name) VALUES (?, ?, ?, ?)",
+        topic_rows,
+    )
+    con.executemany(
+        "INSERT INTO topic_aspect (id, topic_id, label, source) VALUES (?, ?, ?, ?)",
+        aspect_rows,
+    )
+    con.executemany(
+        "INSERT OR IGNORE INTO topic_aspect_verse (aspect_id, verse_id) VALUES (?, ?)",
+        aspect_verse_rows,
+    )
+    con.executemany(
+        "INSERT OR IGNORE INTO topic_see_also (topic_id, related_topic_id) VALUES (?, ?)",
         (
             (topic_slug_to_id[slug], topic_slug_to_id[sa])
             for slug, t in topics.items()
@@ -542,58 +548,36 @@ def write_sqlite(
         ),
     )
 
-    # 10. Hebrew words
-    hw_id = 0
-    hw_rows = []
-    for osis_ref, hv in hebrew_verses.items():
-        vid = verse_to_id.get(osis_ref)
-        if vid is None:
-            continue
-        for pos, w in enumerate(hv.words):
-            hw_id += 1
-            hw_rows.append((
-                hw_id, w.word_id, vid, pos, w.text,
-                w.lemma_raw, w.strongs_number, w.morph,
-            ))
+    # Hebrew words
     con.executemany(
         "INSERT INTO hebrew_word "
         "(id, word_id, verse_id, position, text, lemma_raw, strongs_number, morph) "
         "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-        hw_rows,
+        _hebrew_word_rows(hebrew_verses, verse_to_id),
     )
 
-    # 11. Lexicon entries
-    for i, (lex_id, le) in enumerate(sorted(lexicon.items()), start=1):
-        con.execute(
-            "INSERT INTO lexicon_entry "
-            "(id, lexical_id, uuid, hebrew, transliteration, "
-            "part_of_speech, gloss, strongs_number, twot_number) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-            (
-                i, lex_id, le.uuid, le.hebrew, le.transliteration,
-                le.part_of_speech, le.gloss, le.strongs_number, le.twot_number,
-            ),
-        )
-
-    # 12. Cross-references
-    xref_rows = []
-    for from_v, entry in cross_refs.items():
-        from_id = verse_to_id.get(from_v)
-        if from_id is None:
-            continue
-        for t in entry.targets:
-            start_id = verse_to_id.get(t.verse_start)
-            if start_id is None:
-                continue
-            end_id = verse_to_id.get(t.verse_end) if t.verse_end else None
-            xref_rows.append((from_id, start_id, end_id, t.votes))
+    # Lexicon entries
     con.executemany(
-        "INSERT INTO cross_reference (from_verse_id, to_verse_start_id, to_verse_end_id, votes) "
-        "VALUES (?, ?, ?, ?)",
-        xref_rows,
+        "INSERT INTO lexicon_entry "
+        "(id, lexical_id, uuid, hebrew, transliteration, "
+        "part_of_speech, gloss, strongs_number, twot_number) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (
+            (i, le.id, le.uuid, le.hebrew, le.transliteration,
+             le.part_of_speech, le.gloss, le.strongs_number, le.twot_number)
+            for i, (_, le) in enumerate(sorted(lexicon.items()), start=1)
+        ),
     )
 
-    # 13. Metadata
+    # Cross-references
+    con.executemany(
+        "INSERT INTO cross_reference "
+        "(from_verse_id, to_verse_start_id, to_verse_end_id, votes) "
+        "VALUES (?, ?, ?, ?)",
+        _xref_rows(cross_refs, verse_to_id),
+    )
+
+    # Metadata
     con.execute(
         "INSERT INTO gnosis_meta (key, value) VALUES (?, ?)",
         ("version", "0.1.0"),
@@ -608,3 +592,28 @@ def write_sqlite(
     con.close()
 
     return db_path
+
+
+def _hebrew_word_rows(hebrew_verses, verse_to_id):
+    hw_id = 0
+    for osis_ref, hv in hebrew_verses.items():
+        vid = verse_to_id.get(osis_ref)
+        if vid is None:
+            continue
+        for pos, w in enumerate(hv.words):
+            hw_id += 1
+            yield (hw_id, w.word_id, vid, pos, w.text,
+                   w.lemma_raw, w.strongs_number, w.morph)
+
+
+def _xref_rows(cross_refs, verse_to_id):
+    for from_v, entry in cross_refs.items():
+        from_id = verse_to_id.get(from_v)
+        if from_id is None:
+            continue
+        for t in entry.targets:
+            start_id = verse_to_id.get(t.verse_start)
+            if start_id is None:
+                continue
+            end_id = verse_to_id.get(t.verse_end) if t.verse_end else None
+            yield (from_id, start_id, end_id, t.votes)

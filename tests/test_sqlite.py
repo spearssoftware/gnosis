@@ -3,6 +3,7 @@ from pathlib import Path
 
 import pytest
 
+from gnosis.build import BuildContext
 from gnosis.sqlite_writer import write_sqlite
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry, CrossReferenceTarget
@@ -124,11 +125,14 @@ def _build_fixture_data() -> dict:
 def db_path(tmp_path: Path) -> Path:
     """Build a small SQLite DB from fixture data and return its path."""
     d = _build_fixture_data()
-    return write_sqlite(
-        d["people"], d["places"], d["events"], d["groups"],
-        d["cross_refs"], d["strongs"], d["dictionary"],
-        d["topics"], d["hebrew_verses"], d["lexicon"], tmp_path,
+    ctx = BuildContext(
+        people=d["people"], places=d["places"], events=d["events"],
+        groups=d["groups"], match_log={},
+        cross_refs=d["cross_refs"], strongs=d["strongs"],
+        dictionary=d["dictionary"], topics=d["topics"],
+        hebrew_verses=d["hebrew_verses"], lexicon=d["lexicon"],
     )
+    return write_sqlite(ctx, tmp_path)
 
 
 def _query(db_path: Path, sql: str) -> list:

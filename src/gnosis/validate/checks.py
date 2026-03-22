@@ -1,8 +1,10 @@
 """Validation checks for the Gnosis knowledge graph."""
 
+from __future__ import annotations
+
 import re
 from dataclasses import dataclass, field
-from typing import Literal
+from typing import TYPE_CHECKING, Literal
 
 from rich.console import Console
 from rich.table import Table
@@ -14,9 +16,14 @@ from gnosis.types.hebrew import HebrewVerse, LexiconEntry
 from gnosis.types.strongs import StrongsEntry
 from gnosis.types.topic import Topic
 
+if TYPE_CHECKING:
+    from gnosis.build import BuildContext
+
 OSIS_PATTERN = re.compile(
     r"^[A-Z1-9][A-Za-z]+\.\d{1,3}\.\d{1,3}(-\d{1,3})?$"
 )
+
+_WIP_STATUSES = ("wip", "draft", "incomplete")
 
 
 @dataclass
@@ -28,71 +35,36 @@ class ValidationResult:
 
 
 def validate(
-    people: dict[str, Person],
-    places: dict[str, Place],
-    events: dict[str, Event],
-    groups: dict[str, PeopleGroup],
-    match_log: dict[str, str] | None = None,
-    cross_refs: dict[str, CrossReferenceEntry] | None = None,
-    strongs: dict[str, StrongsEntry] | None = None,
-    dictionary: dict[str, DictionaryEntry] | None = None,
-    topics: dict[str, Topic] | None = None,
-    hebrew_verses: dict[str, HebrewVerse] | None = None,
-    lexicon: dict[str, LexiconEntry] | None = None,
+    ctx: BuildContext,
     strict: bool = False,
 ) -> list[ValidationResult]:
     """Run all validation checks. Returns list of results."""
     results: list[ValidationResult] = []
 
-    # 1. Dangling cross-refs
-    results.append(_check_dangling_refs(people, places, events, groups))
+    results.append(_check_dangling_refs(ctx.people, ctx.places, ctx.events, ctx.groups))
+    results.append(_check_osis_format(ctx.people, ctx.places, ctx.events))
+    results.append(_check_wip_entries(ctx.people, ctx.places, ctx.events, strict))
 
-    # 2. OSIS format validation
-    results.append(_check_osis_format(people, places, events))
+    if ctx.match_log:
+        results.append(_check_place_coverage(ctx.match_log))
 
-    # 3. WIP entry detection
-    results.append(_check_wip_entries(people, places, events, strict))
+    results.append(_check_cross_refs(ctx.cross_refs))
+    results.append(_check_strongs(ctx.strongs))
+    results.append(_check_dictionary(ctx.dictionary))
+    results.append(_check_topics(ctx.topics))
+    results.append(_check_hebrew(ctx.hebrew_verses, ctx.lexicon))
 
-    # 4. Place merge coverage
-    if match_log:
-        results.append(_check_place_coverage(match_log))
-
-    # 5. Cross-reference validation
-    if cross_refs is not None:
-        results.append(_check_cross_refs(cross_refs))
-
-    # 6. Strong's validation
-    if strongs is not None:
-        results.append(_check_strongs(strongs))
-
-    # 7. Dictionary validation
-    if dictionary is not None:
-        results.append(_check_dictionary(dictionary))
-
-    # 8. Topics validation
-    if topics is not None:
-        results.append(_check_topics(topics))
-
-    # 9. Hebrew validation
-    if hebrew_verses is not None:
-        results.append(_check_hebrew(hebrew_verses, lexicon))
-
-    # 10. Basic entity counts
-    xref_count = sum(len(e.targets) for e in cross_refs.values()) if cross_refs else 0
-    strongs_count = len(strongs) if strongs else 0
-    dict_count = len(dictionary) if dictionary else 0
-    topics_count = len(topics) if topics else 0
-    hebrew_count = sum(len(v.words) for v in hebrew_verses.values()) if hebrew_verses else 0
-    lexicon_count = len(lexicon) if lexicon else 0
+    xref_count = sum(len(e.targets) for e in ctx.cross_refs.values())
+    hebrew_count = sum(len(v.words) for v in ctx.hebrew_verses.values())
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
         message=(
-            f"{len(people)} people, {len(places)} places, "
-            f"{len(events)} events, {len(groups)} groups, "
-            f"{xref_count} cross-refs, {strongs_count} strongs, "
-            f"{dict_count} dictionary, {topics_count} topics, "
-            f"{hebrew_count} hebrew words, {lexicon_count} lexicon"
+            f"{len(ctx.people)} people, {len(ctx.places)} places, "
+            f"{len(ctx.events)} events, {len(ctx.groups)} groups, "
+            f"{xref_count} cross-refs, {len(ctx.strongs)} strongs, "
+            f"{len(ctx.dictionary)} dictionary, {len(ctx.topics)} topics, "
+            f"{hebrew_count} hebrew words, {len(ctx.lexicon)} lexicon"
         ),
     ))
 
@@ -189,21 +161,12 @@ def _check_osis_format(
     invalid: list[str] = []
     total = 0
 
-    for pid, person in people.items():
-        for v in person.verses:
-            total += 1
-            if not OSIS_PATTERN.match(v):
-                invalid.append(f"person/{pid}: {v}")
-    for plid, place in places.items():
-        for v in place.verses:
-            total += 1
-            if not OSIS_PATTERN.match(v):
-                invalid.append(f"place/{plid}: {v}")
-    for eid, event in events.items():
-        for v in event.verses:
-            total += 1
-            if not OSIS_PATTERN.match(v):
-                invalid.append(f"event/{eid}: {v}")
+    for label, collection in [("person", people), ("place", places), ("event", events)]:
+        for eid, entity in collection.items():
+            for v in entity.verses:
+                total += 1
+                if not OSIS_PATTERN.match(v):
+                    invalid.append(f"{label}/{eid}: {v}")
 
     if invalid:
         return ValidationResult(
@@ -226,15 +189,10 @@ def _check_wip_entries(
     strict: bool,
 ) -> ValidationResult:
     wip: list[str] = []
-    for pid, p in people.items():
-        if p.status and p.status.lower() in ("wip", "draft", "incomplete"):
-            wip.append(f"person/{pid}: {p.status}")
-    for plid, p in places.items():
-        if p.status and p.status.lower() in ("wip", "draft", "incomplete"):
-            wip.append(f"place/{plid}: {p.status}")
-    for eid, e in events.items():
-        if e.status and e.status.lower() in ("wip", "draft", "incomplete"):
-            wip.append(f"event/{eid}: {e.status}")
+    for label, collection in [("person", people), ("place", places), ("event", events)]:
+        for eid, entity in collection.items():
+            if entity.status and entity.status.lower() in _WIP_STATUSES:
+                wip.append(f"{label}/{eid}: {entity.status}")
 
     if wip:
         return ValidationResult(
@@ -414,14 +372,13 @@ def _check_topics(topics: dict[str, Topic]) -> ValidationResult:
 
 def _check_hebrew(
     hebrew_verses: dict[str, HebrewVerse],
-    lexicon: dict[str, LexiconEntry] | None,
+    lexicon: dict[str, LexiconEntry],
 ) -> ValidationResult:
     total_words = sum(len(v.words) for v in hebrew_verses.values())
     words_with_strongs = sum(
         1 for v in hebrew_verses.values()
         for w in v.words if w.strongs_number
     )
-    lex_count = len(lexicon) if lexicon else 0
     pct = (words_with_strongs / total_words * 100) if total_words else 0
 
     return ValidationResult(
@@ -429,6 +386,6 @@ def _check_hebrew(
         status="pass",
         message=(
             f"{len(hebrew_verses)} verses, {total_words} words "
-            f"({pct:.0f}% with Strong's), {lex_count} lexicon entries"
+            f"({pct:.0f}% with Strong's), {len(lexicon)} lexicon entries"
         ),
     )
