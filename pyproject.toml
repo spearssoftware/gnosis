@@ -10,6 +10,12 @@ dependencies = [
     "rich>=13.0",
 ]
 
+[project.optional-dependencies]
+vectors = [
+    "sentence-transformers>=3.0",
+    "usearch>=2.0",
+]
+
 [project.scripts]
 gnosis = "gnosis.build:main"
 
