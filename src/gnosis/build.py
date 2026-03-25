@@ -208,7 +208,9 @@ def cmd_build(strict: bool = False, no_vectors: bool = False) -> bool:
             vector_path = build_vector_index(ctx, OUTPUT_DIR, db_path)
             console.print(f"  Wrote {vector_path.name}")
         except ImportError:
-            console.print("  [yellow]Skipping vectors (install with: uv sync --extra vectors)[/yellow]")
+            console.print(
+                "  [yellow]Skipping vectors (install with: uv sync --extra vectors)[/yellow]"
+            )
 
     console.print("\n[bold green]Build complete.[/bold green]")
     return True

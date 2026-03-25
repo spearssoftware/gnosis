@@ -89,8 +89,12 @@ def _write_vector_meta(
         CREATE INDEX IF NOT EXISTS idx_vector_meta_type ON vector_meta(entity_type);
         CREATE INDEX IF NOT EXISTS idx_vector_meta_slug ON vector_meta(entity_slug);
     """)
+    sql = (
+        "INSERT INTO vector_meta (vector_id, entity_slug, entity_type, embed_text)"
+        " VALUES (?, ?, ?, ?)"
+    )
     con.executemany(
-        "INSERT INTO vector_meta (vector_id, entity_slug, entity_type, embed_text) VALUES (?, ?, ?, ?)",
+        sql,
         [(i, slug, etype, text) for i, (slug, etype, text) in enumerate(docs)],
     )
     con.commit()
@@ -125,7 +129,8 @@ def build_vector_index(ctx: BuildContext, output_dir: Path, db_path: Path) -> Pa
 
     index_path = output_dir / "gnosis.usearch"
     index.save(str(index_path))
-    console.print(f"    Index: {index_path.stat().st_size / 1024 / 1024:.1f} MB, {len(docs)} vectors")
+    size_mb = index_path.stat().st_size / 1024 / 1024
+    console.print(f"    Index: {size_mb:.1f} MB, {len(docs)} vectors")
 
     _write_vector_meta(db_path, docs)
     console.print(f"    Wrote vector_meta table ({len(docs)} rows)")
