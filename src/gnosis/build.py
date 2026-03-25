@@ -13,6 +13,7 @@ from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
 from gnosis.parsers.dictionaries import link_dictionary_entities, parse_dictionaries
 from gnosis.parsers.hebrew_lexicon import parse_hebrew_lexicon
+from gnosis.parsers.kjv import parse_kjv
 from gnosis.parsers.morphhb import parse_morphhb
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
@@ -48,6 +49,7 @@ class BuildContext:
     topics: dict[str, Topic]
     hebrew_verses: dict[str, HebrewVerse]
     lexicon: dict[str, LexiconEntry]
+    kjv_verses: dict[str, str]
 
 
 def _repair_people(people: dict[str, Person]) -> None:
@@ -122,11 +124,12 @@ def _parse_all() -> BuildContext:
     topics = parse_topics(SOURCES_DIR)
     hebrew_verses = parse_morphhb(SOURCES_DIR)
     lexicon = parse_hebrew_lexicon(SOURCES_DIR)
+    kjv_verses = parse_kjv(SOURCES_DIR)
     return BuildContext(
         people=people, places=places, events=events, groups=groups,
         match_log=match_log, cross_refs=cross_refs, strongs=strongs,
         dictionary=dictionary, topics=topics, hebrew_verses=hebrew_verses,
-        lexicon=lexicon,
+        lexicon=lexicon, kjv_verses=kjv_verses,
     )
 
 
@@ -158,7 +161,7 @@ _OUTPUTS: list[tuple[str, str, bool]] = [
 ]
 
 
-def cmd_build(strict: bool = False) -> bool:
+def cmd_build(strict: bool = False, no_vectors: bool = False) -> bool:
     """Run the full build pipeline."""
     console.print("[bold]Gnosis Build Pipeline[/bold]\n")
 
@@ -198,6 +201,15 @@ def cmd_build(strict: bool = False) -> bool:
     db_path = write_sqlite(ctx, OUTPUT_DIR)
     console.print(f"  Wrote {db_path.name}")
 
+    if not no_vectors:
+        try:
+            from gnosis.vector import build_vector_index
+
+            vector_path = build_vector_index(ctx, OUTPUT_DIR, db_path)
+            console.print(f"  Wrote {vector_path.name}")
+        except ImportError:
+            console.print("  [yellow]Skipping vectors (install with: uv sync --extra vectors)[/yellow]")
+
     console.print("\n[bold green]Build complete.[/bold green]")
     return True
 
@@ -217,6 +229,7 @@ def main() -> None:
 
     build_parser = subparsers.add_parser("build", help="Run full build pipeline")
     build_parser.add_argument("--strict", action="store_true", help="Treat warnings as errors")
+    build_parser.add_argument("--no-vectors", action="store_true", help="Skip vector index build")
 
     validate_parser = subparsers.add_parser("validate", help="Run validation only")
     validate_parser.add_argument("--strict", action="store_true", help="Treat warnings as errors")
@@ -224,7 +237,7 @@ def main() -> None:
     args = parser.parse_args()
 
     if args.command == "build":
-        ok = cmd_build(strict=args.strict)
+        ok = cmd_build(strict=args.strict, no_vectors=args.no_vectors)
     elif args.command == "validate":
         ok = cmd_validate(strict=args.strict)
     else:

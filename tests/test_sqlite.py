@@ -131,6 +131,7 @@ def db_path(tmp_path: Path) -> Path:
         cross_refs=d["cross_refs"], strongs=d["strongs"],
         dictionary=d["dictionary"], topics=d["topics"],
         hebrew_verses=d["hebrew_verses"], lexicon=d["lexicon"],
+        kjv_verses={},
     )
     return write_sqlite(ctx, tmp_path)
 
