@@ -66,6 +66,11 @@ def _collect_documents(ctx: BuildContext) -> list[tuple[str, str, str]]:
         if text:
             docs.append((slug, "lexicon", text))
 
+    for slug, gl in ctx.greek_lexicon.items():
+        text = _entity_text(gl.greek, gl.short_gloss or gl.long_gloss)
+        if text:
+            docs.append((slug, "greek_lexicon", text))
+
     for ref, verse_text in ctx.kjv_verses.items():
         if verse_text:
             docs.append((ref, "verse", verse_text))

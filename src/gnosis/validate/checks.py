@@ -13,6 +13,7 @@ from gnosis.osis import is_valid_osis_ref
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
+from gnosis.types.greek import GreekLexiconEntry, GreekVerse
 from gnosis.types.hebrew import HebrewVerse, LexiconEntry
 from gnosis.types.strongs import StrongsEntry
 from gnosis.types.topic import Topic
@@ -54,6 +55,7 @@ def validate(
     results.append(_check_dictionary(ctx.dictionary))
     results.append(_check_topics(ctx.topics))
     results.append(_check_hebrew(ctx.hebrew_verses, ctx.lexicon))
+    results.append(_check_greek(ctx.greek_verses, ctx.greek_lexicon))
     results.append(_check_verse_existence(
         ctx.people, ctx.places, ctx.events,
         ctx.cross_refs, ctx.dictionary, ctx.topics,
@@ -63,6 +65,7 @@ def validate(
 
     xref_count = sum(len(e.targets) for e in ctx.cross_refs.values())
     hebrew_count = sum(len(v.words) for v in ctx.hebrew_verses.values())
+    greek_count = sum(len(v.words) for v in ctx.greek_verses.values())
     results.append(ValidationResult(
         name="Entity counts",
         status="pass",
@@ -71,7 +74,8 @@ def validate(
             f"{len(ctx.events)} events, {len(ctx.groups)} groups, "
             f"{xref_count} cross-refs, {len(ctx.strongs)} strongs, "
             f"{len(ctx.dictionary)} dictionary, {len(ctx.topics)} topics, "
-            f"{hebrew_count} hebrew words, {len(ctx.lexicon)} lexicon"
+            f"{hebrew_count} hebrew words, {len(ctx.lexicon)} lexicon, "
+            f"{greek_count} greek words, {len(ctx.greek_lexicon)} greek lexicon"
         ),
     ))
 
@@ -394,6 +398,27 @@ def _check_hebrew(
         message=(
             f"{len(hebrew_verses)} verses, {total_words} words "
             f"({pct:.0f}% with Strong's), {len(lexicon)} lexicon entries"
+        ),
+    )
+
+
+def _check_greek(
+    greek_verses: dict[str, GreekVerse],
+    greek_lexicon: dict[str, GreekLexiconEntry],
+) -> ValidationResult:
+    total_words = sum(len(v.words) for v in greek_verses.values())
+    words_with_strongs = sum(
+        1 for v in greek_verses.values()
+        for w in v.words if w.strongs_number
+    )
+    pct = (words_with_strongs / total_words * 100) if total_words else 0
+
+    return ValidationResult(
+        name="Greek NT",
+        status="pass",
+        message=(
+            f"{len(greek_verses)} verses, {total_words} words "
+            f"({pct:.0f}% with Strong's), {len(greek_lexicon)} lexicon entries"
         ),
     )
 

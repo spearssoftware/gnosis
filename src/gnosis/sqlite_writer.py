@@ -206,6 +206,29 @@ CREATE TABLE lexicon_entry (
     twot_number TEXT
 );
 
+CREATE TABLE greek_word (
+    id INTEGER PRIMARY KEY,
+    word_id TEXT NOT NULL UNIQUE,
+    verse_id INTEGER NOT NULL REFERENCES verse(id),
+    position INTEGER NOT NULL,
+    text TEXT NOT NULL,
+    lemma TEXT NOT NULL,
+    strongs_number TEXT,
+    morph TEXT NOT NULL
+);
+
+CREATE TABLE greek_lexicon_entry (
+    id INTEGER PRIMARY KEY,
+    strongs_number TEXT NOT NULL UNIQUE,
+    uuid TEXT NOT NULL,
+    greek TEXT NOT NULL,
+    transliteration TEXT,
+    part_of_speech TEXT,
+    short_gloss TEXT,
+    long_gloss TEXT,
+    gk_number TEXT
+);
+
 CREATE TABLE cross_reference (
     id INTEGER PRIMARY KEY,
     from_verse_id INTEGER NOT NULL REFERENCES verse(id),
@@ -241,6 +264,9 @@ CREATE INDEX idx_topic_aspect_topic ON topic_aspect(topic_id);
 CREATE INDEX idx_hebrew_word_verse ON hebrew_word(verse_id);
 CREATE INDEX idx_hebrew_word_strongs ON hebrew_word(strongs_number);
 CREATE INDEX idx_lexicon_strongs ON lexicon_entry(strongs_number);
+CREATE INDEX idx_greek_word_verse ON greek_word(verse_id);
+CREATE INDEX idx_greek_word_strongs ON greek_word(strongs_number);
+CREATE INDEX idx_greek_lexicon_strongs ON greek_lexicon_entry(strongs_number);
 CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
 CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
@@ -269,6 +295,8 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
     topics = ctx.topics
     hebrew_verses = ctx.hebrew_verses
     lexicon = ctx.lexicon
+    greek_verses = ctx.greek_verses
+    greek_lexicon = ctx.greek_lexicon
 
     all_verses: set[str] = set()
     for p in people.values():
@@ -290,6 +318,8 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
             all_verses.update(asp.verses)
     for hv in hebrew_verses.values():
         all_verses.add(hv.osis_ref)
+    for gv in greek_verses.values():
+        all_verses.add(gv.osis_ref)
 
     verse_to_id: dict[str, int] = {}
     for i, ref in enumerate(sorted(all_verses), start=1):
@@ -569,6 +599,27 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
         ),
     )
 
+    # Greek words
+    con.executemany(
+        "INSERT INTO greek_word "
+        "(id, word_id, verse_id, position, text, lemma, strongs_number, morph) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+        _greek_word_rows(greek_verses, verse_to_id),
+    )
+
+    # Greek lexicon entries
+    con.executemany(
+        "INSERT INTO greek_lexicon_entry "
+        "(id, strongs_number, uuid, greek, transliteration, "
+        "part_of_speech, short_gloss, long_gloss, gk_number) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (
+            (i, gl.strongs_number, gl.uuid, gl.greek, gl.transliteration,
+             gl.part_of_speech, gl.short_gloss, gl.long_gloss, gl.gk_number)
+            for i, (_, gl) in enumerate(sorted(greek_lexicon.items()), start=1)
+        ),
+    )
+
     # Cross-references
     con.executemany(
         "INSERT INTO cross_reference "
@@ -604,6 +655,18 @@ def _hebrew_word_rows(hebrew_verses, verse_to_id):
             hw_id += 1
             yield (hw_id, w.word_id, vid, pos, w.text,
                    w.lemma_raw, w.strongs_number, w.morph)
+
+
+def _greek_word_rows(greek_verses, verse_to_id):
+    gw_id = 0
+    for osis_ref, gv in greek_verses.items():
+        vid = verse_to_id.get(osis_ref)
+        if vid is None:
+            continue
+        for pos, w in enumerate(gv.words):
+            gw_id += 1
+            yield (gw_id, w.word_id, vid, pos, w.text,
+                   w.lemma, w.strongs_number, w.morph)
 
 
 def _xref_rows(cross_refs, verse_to_id):
