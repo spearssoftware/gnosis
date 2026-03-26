@@ -8,6 +8,7 @@ from gnosis.sqlite_writer import write_sqlite
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry, CrossReferenceTarget
 from gnosis.types.dictionary import DictionaryDefinition, DictionaryEntry
+from gnosis.types.greek import GreekLexiconEntry, GreekVerse, GreekWord
 from gnosis.types.hebrew import HebrewVerse, HebrewWord, LexiconEntry
 from gnosis.types.strongs import StrongsEntry
 from gnosis.types.topic import Topic, TopicAspect
@@ -113,11 +114,31 @@ def _build_fixture_data() -> dict:
             gloss="father", strongs_number="H1", twot_number="4a",
         ),
     }
+    greek_verses = {
+        "Matt.1.1": GreekVerse(osis_ref="Matt.1.1", words=[
+            GreekWord(
+                word_id="n40001001001", text="Βίβλος",
+                lemma="βίβλος", strongs_number="G976", morph="N-NSF",
+            ),
+            GreekWord(
+                word_id="n40001001002", text="γενέσεως",
+                lemma="γένεσις", strongs_number="G1078", morph="N-GSF",
+            ),
+        ]),
+    }
+    greek_lexicon = {
+        "G3056": GreekLexiconEntry(
+            strongs_number="G3056", uuid="u-gl3056",
+            greek="lo/gos", short_gloss="a word",
+            long_gloss="a word, speech", gk_number="3364",
+        ),
+    }
     return {
         "people": people, "places": places, "events": events,
         "groups": groups, "cross_refs": cross_refs, "strongs": strongs,
         "dictionary": dictionary, "topics": topics,
         "hebrew_verses": hebrew_verses, "lexicon": lexicon,
+        "greek_verses": greek_verses, "greek_lexicon": greek_lexicon,
     }
 
 
@@ -131,6 +152,7 @@ def db_path(tmp_path: Path) -> Path:
         cross_refs=d["cross_refs"], strongs=d["strongs"],
         dictionary=d["dictionary"], topics=d["topics"],
         hebrew_verses=d["hebrew_verses"], lexicon=d["lexicon"],
+        greek_verses=d["greek_verses"], greek_lexicon=d["greek_lexicon"],
         kjv_verses={},
     )
     return write_sqlite(ctx, tmp_path)
@@ -156,6 +178,7 @@ def test_tables_exist(db_path: Path) -> None:
         "dictionary_definition", "dictionary_verse",
         "topic", "topic_aspect", "topic_aspect_verse", "topic_see_also",
         "hebrew_word", "lexicon_entry",
+        "greek_word", "greek_lexicon_entry",
     }
     assert expected.issubset(names)
 
@@ -430,3 +453,48 @@ def test_lexicon_entry(db_path: Path) -> None:
     assert rows[0]["hebrew"] == "אָב"
     assert rows[0]["gloss"] == "father"
     assert rows[0]["strongs_number"] == "H1"
+
+
+# --- Greek words ---
+
+
+def test_greek_word_count(db_path: Path) -> None:
+    rows = _query(db_path, "SELECT count(*) as cnt FROM greek_word")
+    assert rows[0]["cnt"] == 2
+
+
+def test_greek_word_content(db_path: Path) -> None:
+    rows = _query(
+        db_path,
+        "SELECT word_id, text, strongs_number, morph FROM greek_word "
+        "ORDER BY position",
+    )
+    assert rows[0]["word_id"] == "n40001001001"
+    assert rows[0]["strongs_number"] == "G976"
+    assert rows[1]["word_id"] == "n40001001002"
+    assert rows[1]["strongs_number"] == "G1078"
+
+
+def test_greek_word_verse_fk(db_path: Path) -> None:
+    rows = _query(
+        db_path,
+        "SELECT v.osis_ref FROM greek_word gw "
+        "JOIN verse v ON v.id = gw.verse_id "
+        "WHERE gw.word_id = 'n40001001001'",
+    )
+    assert rows[0]["osis_ref"] == "Matt.1.1"
+
+
+# --- Greek lexicon ---
+
+
+def test_greek_lexicon_entry(db_path: Path) -> None:
+    rows = _query(
+        db_path,
+        "SELECT strongs_number, greek, short_gloss, gk_number "
+        "FROM greek_lexicon_entry WHERE strongs_number = 'G3056'",
+    )
+    assert len(rows) == 1
+    assert rows[0]["greek"] == "lo/gos"
+    assert rows[0]["short_gloss"] == "a word"
+    assert rows[0]["gk_number"] == "3364"

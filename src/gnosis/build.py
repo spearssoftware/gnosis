@@ -12,8 +12,10 @@ from rich.progress import Progress
 from gnosis.merge.places import merge_places
 from gnosis.merge.verse_index import build_verse_index
 from gnosis.parsers.dictionaries import link_dictionary_entities, parse_dictionaries
+from gnosis.parsers.dodson import parse_dodson
 from gnosis.parsers.hebrew_lexicon import parse_hebrew_lexicon
 from gnosis.parsers.kjv import parse_kjv
+from gnosis.parsers.macula_greek import parse_macula_greek
 from gnosis.parsers.morphhb import parse_morphhb
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
@@ -24,6 +26,7 @@ from gnosis.sqlite_writer import write_sqlite
 from gnosis.types import Event, PeopleGroup, Person, Place
 from gnosis.types.cross_reference import CrossReferenceEntry
 from gnosis.types.dictionary import DictionaryEntry
+from gnosis.types.greek import GreekLexiconEntry, GreekVerse
 from gnosis.types.hebrew import HebrewVerse, LexiconEntry
 from gnosis.types.strongs import StrongsEntry
 from gnosis.types.topic import Topic
@@ -49,6 +52,8 @@ class BuildContext:
     topics: dict[str, Topic]
     hebrew_verses: dict[str, HebrewVerse]
     lexicon: dict[str, LexiconEntry]
+    greek_verses: dict[str, GreekVerse]
+    greek_lexicon: dict[str, GreekLexiconEntry]
     kjv_verses: dict[str, str]
 
 
@@ -124,12 +129,15 @@ def _parse_all() -> BuildContext:
     topics = parse_topics(SOURCES_DIR)
     hebrew_verses = parse_morphhb(SOURCES_DIR)
     lexicon = parse_hebrew_lexicon(SOURCES_DIR)
+    greek_verses = parse_macula_greek(SOURCES_DIR)
+    greek_lexicon = parse_dodson(SOURCES_DIR)
     kjv_verses = parse_kjv(SOURCES_DIR)
     return BuildContext(
         people=people, places=places, events=events, groups=groups,
         match_log=match_log, cross_refs=cross_refs, strongs=strongs,
         dictionary=dictionary, topics=topics, hebrew_verses=hebrew_verses,
-        lexicon=lexicon, kjv_verses=kjv_verses,
+        lexicon=lexicon, greek_verses=greek_verses,
+        greek_lexicon=greek_lexicon, kjv_verses=kjv_verses,
     )
 
 
@@ -158,6 +166,8 @@ _OUTPUTS: list[tuple[str, str, bool]] = [
     ("topics", "topics.json", True),
     ("hebrew_verses", "hebrew-words.json", True),
     ("lexicon", "lexicon.json", True),
+    ("greek_verses", "greek-words.json", True),
+    ("greek_lexicon", "greek-lexicon.json", True),
 ]
 
 

@@ -35,6 +35,8 @@ def _ctx(**overrides) -> BuildContext:
         "topics": {},
         "hebrew_verses": {},
         "lexicon": {},
+        "greek_verses": {},
+        "greek_lexicon": {},
         "kjv_verses": {},
     }
     defaults.update(overrides)
