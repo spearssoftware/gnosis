@@ -14,8 +14,8 @@ from usearch.index import Index, MetricKind, ScalarKind
 if TYPE_CHECKING:
     from gnosis.build import BuildContext
 
-MODEL_NAME = "mixedbread-ai/mxbai-embed-large-v1"
-NDIM = 256
+MODEL_NAME = "all-MiniLM-L6-v2"
+NDIM = 384
 
 console = Console()
 
@@ -117,13 +117,13 @@ def build_vector_index(ctx: BuildContext, output_dir: Path, db_path: Path) -> Pa
     console.print(f"    Collected {len(docs)} documents")
 
     console.print(f"    Loading model: {MODEL_NAME}")
-    model = SentenceTransformer(MODEL_NAME, truncate_dim=NDIM)
+    model = SentenceTransformer(MODEL_NAME)
 
     texts = [text for _, _, text in docs]
     console.print(f"    Encoding {len(texts)} texts...")
     embeddings = model.encode(
         texts,
-        batch_size=64,
+        batch_size=256,
         show_progress_bar=True,
         normalize_embeddings=True,
     )
