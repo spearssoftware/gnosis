@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import json
 import sqlite3
+from collections import defaultdict
 from pathlib import Path
 from typing import TYPE_CHECKING
 
@@ -125,7 +127,6 @@ def compute_verse_similarity(
     n_verses = len(verse_refs)
 
     # Build adjacency exclusion sets
-    from collections import defaultdict
     chapter_groups: dict[tuple[str, str], list[tuple[int, int]]] = defaultdict(list)
     for idx, ref in enumerate(verse_refs):
         parts = ref.split(".")
@@ -212,8 +213,6 @@ def _write_verse_similarity_json(
     results: list[tuple[str, list[tuple[str, float]]]],
 ) -> None:
     """Write verse-similarity.json."""
-    import json
-
     data = {
         ref: [{"ref": sim_ref, "score": score} for sim_ref, score in pairs]
         for ref, pairs in results
