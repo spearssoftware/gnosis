@@ -33,4 +33,5 @@ jobs:
             output/greek-lexicon.json
             output/gnosis.db
             output/gnosis.usearch
+            output/verse-similarity.json
             gnosis-${{ github.ref_name }}.tar.gz
