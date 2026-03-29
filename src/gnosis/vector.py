@@ -10,8 +10,6 @@ from typing import TYPE_CHECKING
 
 import numpy as np
 from rich.console import Console
-from sentence_transformers import SentenceTransformer
-from usearch.index import Index, MetricKind, ScalarKind
 
 if TYPE_CHECKING:
     from gnosis.build import BuildContext
@@ -228,6 +226,9 @@ def build_vector_index(ctx: BuildContext, output_dir: Path, db_path: Path) -> Pa
 
     Returns the path to the .usearch index file.
     """
+    from sentence_transformers import SentenceTransformer
+    from usearch.index import Index, MetricKind, ScalarKind
+
     console.print("  Building vector index...")
 
     docs = _collect_documents(ctx)
