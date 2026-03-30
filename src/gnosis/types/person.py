@@ -12,6 +12,10 @@ class Person(BaseModel):
     death_year: int | None = None
     birth_year_display: str | None = None
     death_year_display: str | None = None
+    earliest_year_mentioned: int | None = None
+    latest_year_mentioned: int | None = None
+    earliest_year_mentioned_display: str | None = None
+    latest_year_mentioned_display: str | None = None
 
     # Relations (slug ID refs)
     birth_place: str | None = None
