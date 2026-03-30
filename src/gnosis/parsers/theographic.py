@@ -9,13 +9,17 @@ from gnosis.ids import disambiguate, make_uuid, slugify
 from gnosis.types import Event, PeopleGroup, Person, Place
 
 
-def _parse_year(year_str: str | None) -> int | None:
+def _parse_year(year_str: str | int | None) -> int | None:
     """Parse a year string into an astronomical year integer.
 
-    Accepts '1575 BC', '30 AD', or raw integers like '-4'.
+    Accepts '1575 BC', '30 AD', raw integers like '-4', or int values.
     Astronomical years: 1 BC = 0, 2 BC = -1, etc.
     """
-    if not year_str or not year_str.strip():
+    if year_str is None:
+        return None
+    if isinstance(year_str, int):
+        return year_str
+    if not year_str.strip():
         return None
 
     year_str = year_str.strip()
@@ -176,6 +180,8 @@ def parse_theographic(sources_dir: Path) -> tuple[
 
         birth_year = _parse_year(fields.get("birthYear"))
         death_year = _parse_year(fields.get("deathYear"))
+        earliest_year_mentioned = _parse_year(fields.get("minYear"))
+        latest_year_mentioned = _parse_year(fields.get("maxYear"))
 
         # Extract name meaning from Easton's
         name_meaning = None
@@ -196,6 +202,10 @@ def parse_theographic(sources_dir: Path) -> tuple[
             death_year=death_year,
             birth_year_display=_display_year(birth_year),
             death_year_display=_display_year(death_year),
+            earliest_year_mentioned=earliest_year_mentioned,
+            latest_year_mentioned=latest_year_mentioned,
+            earliest_year_mentioned_display=_display_year(earliest_year_mentioned),
+            latest_year_mentioned_display=_display_year(latest_year_mentioned),
             birth_place=resolve_single(fields.get("birthPlace"), place_id_to_slug),
             death_place=resolve_single(fields.get("deathPlace"), place_id_to_slug),
             father=resolve_single(fields.get("father"), person_id_to_slug),
