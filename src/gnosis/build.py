@@ -210,6 +210,8 @@ def cmd_build(strict: bool = False, no_vectors: bool = False) -> bool:
 
     db_path = write_sqlite(ctx, OUTPUT_DIR)
     console.print(f"  Wrote {db_path.name}")
+    lite_db_path = write_sqlite(ctx, OUTPUT_DIR, lite=True)
+    console.print(f"  Wrote {lite_db_path.name}")
 
     if not no_vectors:
         try:

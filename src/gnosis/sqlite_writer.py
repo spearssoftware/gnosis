@@ -10,7 +10,7 @@ from typing import TYPE_CHECKING
 if TYPE_CHECKING:
     from gnosis.build import BuildContext
 
-_SCHEMA = """
+_SCHEMA_CORE = """
 CREATE TABLE verse (
     id INTEGER PRIMARY KEY,
     osis_ref TEXT NOT NULL UNIQUE
@@ -187,6 +187,43 @@ CREATE TABLE topic_see_also (
     PRIMARY KEY (topic_id, related_topic_id)
 );
 
+CREATE TABLE cross_reference (
+    id INTEGER PRIMARY KEY,
+    from_verse_id INTEGER NOT NULL REFERENCES verse(id),
+    to_verse_start_id INTEGER NOT NULL REFERENCES verse(id),
+    to_verse_end_id INTEGER REFERENCES verse(id),
+    votes INTEGER NOT NULL DEFAULT 0
+);
+
+CREATE TABLE gnosis_meta (
+    key TEXT PRIMARY KEY,
+    value TEXT
+);
+
+CREATE INDEX idx_verse_osis_ref ON verse(osis_ref);
+CREATE INDEX idx_person_name ON person(name);
+CREATE INDEX idx_person_father_id ON person(father_id);
+CREATE INDEX idx_person_mother_id ON person(mother_id);
+CREATE INDEX idx_place_name ON place(name);
+CREATE INDEX idx_event_sort_key ON event(sort_key);
+CREATE INDEX idx_person_verse_verse_id ON person_verse(verse_id);
+CREATE INDEX idx_place_verse_verse_id ON place_verse(verse_id);
+CREATE INDEX idx_event_verse_verse_id ON event_verse(verse_id);
+CREATE INDEX idx_person_sibling_sibling_id ON person_sibling(sibling_id);
+CREATE INDEX idx_person_child_child_id ON person_child(child_id);
+CREATE INDEX idx_person_partner_partner_id ON person_partner(partner_id);
+CREATE INDEX idx_person_group_group_id ON person_group(group_id);
+CREATE INDEX idx_event_participant_person_id ON event_participant(person_id);
+CREATE INDEX idx_strongs_number ON strongs(number);
+CREATE INDEX idx_dict_entry_name ON dictionary_entry(name);
+CREATE INDEX idx_dict_def_entry ON dictionary_definition(entry_id);
+CREATE INDEX idx_topic_name ON topic(name);
+CREATE INDEX idx_topic_aspect_topic ON topic_aspect(topic_id);
+CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
+CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
+"""
+
+_SCHEMA_MORPHOLOGY = """
 CREATE TABLE hebrew_word (
     id INTEGER PRIMARY KEY,
     word_id TEXT NOT NULL UNIQUE,
@@ -233,52 +270,18 @@ CREATE TABLE greek_lexicon_entry (
     gk_number TEXT
 );
 
-CREATE TABLE cross_reference (
-    id INTEGER PRIMARY KEY,
-    from_verse_id INTEGER NOT NULL REFERENCES verse(id),
-    to_verse_start_id INTEGER NOT NULL REFERENCES verse(id),
-    to_verse_end_id INTEGER REFERENCES verse(id),
-    votes INTEGER NOT NULL DEFAULT 0
-);
-
-CREATE TABLE gnosis_meta (
-    key TEXT PRIMARY KEY,
-    value TEXT
-);
-
-CREATE INDEX idx_verse_osis_ref ON verse(osis_ref);
-CREATE INDEX idx_person_name ON person(name);
-CREATE INDEX idx_person_father_id ON person(father_id);
-CREATE INDEX idx_person_mother_id ON person(mother_id);
-CREATE INDEX idx_place_name ON place(name);
-CREATE INDEX idx_event_sort_key ON event(sort_key);
-CREATE INDEX idx_person_verse_verse_id ON person_verse(verse_id);
-CREATE INDEX idx_place_verse_verse_id ON place_verse(verse_id);
-CREATE INDEX idx_event_verse_verse_id ON event_verse(verse_id);
-CREATE INDEX idx_person_sibling_sibling_id ON person_sibling(sibling_id);
-CREATE INDEX idx_person_child_child_id ON person_child(child_id);
-CREATE INDEX idx_person_partner_partner_id ON person_partner(partner_id);
-CREATE INDEX idx_person_group_group_id ON person_group(group_id);
-CREATE INDEX idx_event_participant_person_id ON event_participant(person_id);
-CREATE INDEX idx_strongs_number ON strongs(number);
-CREATE INDEX idx_dict_entry_name ON dictionary_entry(name);
-CREATE INDEX idx_dict_def_entry ON dictionary_definition(entry_id);
-CREATE INDEX idx_topic_name ON topic(name);
-CREATE INDEX idx_topic_aspect_topic ON topic_aspect(topic_id);
 CREATE INDEX idx_hebrew_word_verse ON hebrew_word(verse_id);
 CREATE INDEX idx_hebrew_word_strongs ON hebrew_word(strongs_number);
 CREATE INDEX idx_lexicon_strongs ON lexicon_entry(strongs_number);
 CREATE INDEX idx_greek_word_verse ON greek_word(verse_id);
 CREATE INDEX idx_greek_word_strongs ON greek_word(strongs_number);
 CREATE INDEX idx_greek_lexicon_strongs ON greek_lexicon_entry(strongs_number);
-CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
-CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 """
 
 
-def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
+def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Path:
     """Write all gnosis data to a SQLite database. Returns the path to the DB file."""
-    db_path = output_dir / "gnosis.db"
+    db_path = output_dir / ("gnosis-lite.db" if lite else "gnosis.db")
     db_path.unlink(missing_ok=True)
 
     con = sqlite3.connect(str(db_path))
@@ -286,7 +289,8 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
     con.execute("PRAGMA page_size=4096")
     con.execute("PRAGMA foreign_keys=ON")
 
-    con.executescript(_SCHEMA)
+    schema = _SCHEMA_CORE if lite else _SCHEMA_CORE + _SCHEMA_MORPHOLOGY
+    con.executescript(schema)
     con.execute("BEGIN")
 
     people = ctx.people
@@ -297,10 +301,11 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
     strongs = ctx.strongs
     dictionary = ctx.dictionary
     topics = ctx.topics
-    hebrew_verses = ctx.hebrew_verses
-    lexicon = ctx.lexicon
-    greek_verses = ctx.greek_verses
-    greek_lexicon = ctx.greek_lexicon
+    if not lite:
+        hebrew_verses = ctx.hebrew_verses
+        lexicon = ctx.lexicon
+        greek_verses = ctx.greek_verses
+        greek_lexicon = ctx.greek_lexicon
 
     all_verses: set[str] = set()
     for p in people.values():
@@ -320,10 +325,11 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
     for t in topics.values():
         for asp in t.aspects:
             all_verses.update(asp.verses)
-    for hv in hebrew_verses.values():
-        all_verses.add(hv.osis_ref)
-    for gv in greek_verses.values():
-        all_verses.add(gv.osis_ref)
+    if not lite:
+        for hv in hebrew_verses.values():
+            all_verses.add(hv.osis_ref)
+        for gv in greek_verses.values():
+            all_verses.add(gv.osis_ref)
 
     verse_to_id: dict[str, int] = {}
     for i, ref in enumerate(sorted(all_verses), start=1):
@@ -586,47 +592,48 @@ def write_sqlite(ctx: BuildContext, output_dir: Path) -> Path:
         ),
     )
 
-    # Hebrew words
-    con.executemany(
-        "INSERT INTO hebrew_word "
-        "(id, word_id, verse_id, position, text, lemma_raw, strongs_number, morph) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-        _hebrew_word_rows(hebrew_verses, verse_to_id),
-    )
+    if not lite:
+        # Hebrew words
+        con.executemany(
+            "INSERT INTO hebrew_word "
+            "(id, word_id, verse_id, position, text, lemma_raw, strongs_number, morph) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            _hebrew_word_rows(hebrew_verses, verse_to_id),
+        )
 
-    # Lexicon entries
-    con.executemany(
-        "INSERT INTO lexicon_entry "
-        "(id, lexical_id, uuid, hebrew, transliteration, "
-        "part_of_speech, gloss, strongs_number, twot_number) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-        (
-            (i, le.id, le.uuid, le.hebrew, le.transliteration,
-             le.part_of_speech, le.gloss, le.strongs_number, le.twot_number)
-            for i, (_, le) in enumerate(sorted(lexicon.items()), start=1)
-        ),
-    )
+        # Lexicon entries
+        con.executemany(
+            "INSERT INTO lexicon_entry "
+            "(id, lexical_id, uuid, hebrew, transliteration, "
+            "part_of_speech, gloss, strongs_number, twot_number) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                (i, le.id, le.uuid, le.hebrew, le.transliteration,
+                 le.part_of_speech, le.gloss, le.strongs_number, le.twot_number)
+                for i, (_, le) in enumerate(sorted(lexicon.items()), start=1)
+            ),
+        )
 
-    # Greek words
-    con.executemany(
-        "INSERT INTO greek_word "
-        "(id, word_id, verse_id, position, text, lemma, strongs_number, morph) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-        _greek_word_rows(greek_verses, verse_to_id),
-    )
+        # Greek words
+        con.executemany(
+            "INSERT INTO greek_word "
+            "(id, word_id, verse_id, position, text, lemma, strongs_number, morph) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            _greek_word_rows(greek_verses, verse_to_id),
+        )
 
-    # Greek lexicon entries
-    con.executemany(
-        "INSERT INTO greek_lexicon_entry "
-        "(id, strongs_number, uuid, greek, transliteration, "
-        "part_of_speech, short_gloss, long_gloss, gk_number) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-        (
-            (i, gl.strongs_number, gl.uuid, gl.greek, gl.transliteration,
-             gl.part_of_speech, gl.short_gloss, gl.long_gloss, gl.gk_number)
-            for i, (_, gl) in enumerate(sorted(greek_lexicon.items()), start=1)
-        ),
-    )
+        # Greek lexicon entries
+        con.executemany(
+            "INSERT INTO greek_lexicon_entry "
+            "(id, strongs_number, uuid, greek, transliteration, "
+            "part_of_speech, short_gloss, long_gloss, gk_number) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                (i, gl.strongs_number, gl.uuid, gl.greek, gl.transliteration,
+                 gl.part_of_speech, gl.short_gloss, gl.long_gloss, gl.gk_number)
+                for i, (_, gl) in enumerate(sorted(greek_lexicon.items()), start=1)
+            ),
+        )
 
     # Cross-references
     con.executemany(

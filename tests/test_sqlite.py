@@ -498,3 +498,33 @@ def test_greek_lexicon_entry(db_path: Path) -> None:
     assert rows[0]["greek"] == "lo/gos"
     assert rows[0]["short_gloss"] == "a word"
     assert rows[0]["gk_number"] == "3364"
+
+
+# --- Lite build ---
+
+
+def test_lite_build(tmp_path: Path) -> None:
+    d = _build_fixture_data()
+    ctx = BuildContext(
+        people=d["people"], places=d["places"], events=d["events"],
+        groups=d["groups"], match_log={},
+        cross_refs=d["cross_refs"], strongs=d["strongs"],
+        dictionary=d["dictionary"], topics=d["topics"],
+        hebrew_verses=d["hebrew_verses"], lexicon=d["lexicon"],
+        greek_verses=d["greek_verses"], greek_lexicon=d["greek_lexicon"],
+        kjv_verses={},
+    )
+    path = write_sqlite(ctx, tmp_path, lite=True)
+
+    assert path.name == "gnosis-lite.db"
+
+    tables = {r["name"] for r in _query(path, "SELECT name FROM sqlite_master WHERE type='table'")}
+    assert "hebrew_word" not in tables
+    assert "lexicon_entry" not in tables
+    assert "greek_word" not in tables
+    assert "greek_lexicon_entry" not in tables
+
+    assert {"person", "place", "verse", "cross_reference"}.issubset(tables)
+
+    rows = _query(path, "SELECT count(*) as cnt FROM person")
+    assert rows[0]["cnt"] > 0
