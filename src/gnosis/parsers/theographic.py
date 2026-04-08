@@ -38,7 +38,7 @@ def _parse_year(year_str: str | int | None) -> int | None:
     return num
 
 
-def _display_year(year: int | None) -> str | None:
+def display_year(year: int | None) -> str | None:
     """Convert an astronomical year to a display string like '1997 BC' or '30 AD'."""
     if year is None:
         return None
@@ -203,12 +203,12 @@ def parse_theographic(sources_dir: Path) -> tuple[
             gender=fields.get("gender"),
             birth_year=birth_year,
             death_year=death_year,
-            birth_year_display=_display_year(birth_year),
-            death_year_display=_display_year(death_year),
+            birth_year_display=display_year(birth_year),
+            death_year_display=display_year(death_year),
             earliest_year_mentioned=earliest_year_mentioned,
             latest_year_mentioned=latest_year_mentioned,
-            earliest_year_mentioned_display=_display_year(earliest_year_mentioned),
-            latest_year_mentioned_display=_display_year(latest_year_mentioned),
+            earliest_year_mentioned_display=display_year(earliest_year_mentioned),
+            latest_year_mentioned_display=display_year(latest_year_mentioned),
             birth_place=resolve_single(fields.get("birthPlace"), place_id_to_slug),
             death_place=resolve_single(fields.get("deathPlace"), place_id_to_slug),
             father=resolve_single(fields.get("father"), person_id_to_slug),
@@ -289,7 +289,7 @@ def parse_theographic(sources_dir: Path) -> tuple[
             uuid=make_uuid(slug),
             title=fields.get("title", ""),
             start_year=start_year,
-            start_year_display=_display_year(start_year),
+            start_year_display=display_year(start_year),
             duration=fields.get("duration"),
             sort_key=fields.get("sortKey"),
             participants=resolve_refs(fields.get("participants"), person_id_to_slug),

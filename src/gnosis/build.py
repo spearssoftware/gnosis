@@ -20,7 +20,7 @@ from gnosis.parsers.morphhb import parse_morphhb
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
 from gnosis.parsers.strongs import parse_strongs
-from gnosis.parsers.theographic import parse_theographic
+from gnosis.parsers.theographic import display_year, parse_theographic
 from gnosis.parsers.topics import parse_topics
 from gnosis.sqlite_writer import write_sqlite
 from gnosis.types import Event, PeopleGroup, Person, Place
@@ -116,10 +116,66 @@ def _repair_people(people: dict[str, Person]) -> None:
                     parent.birth_year_display = None
 
 
+def _apply_supplements(people: dict[str, Person]) -> None:
+    """Apply curated birth/death year overrides from supplements file."""
+    path = SOURCES_DIR / "supplements" / "people-dates.json"
+    if not path.exists():
+        return
+    with open(path) as f:
+        supplements = json.load(f)
+    for slug, data in supplements.items():
+        if slug not in people:
+            continue
+        person = people[slug]
+        birth = data.get("birth_year")
+        if person.birth_year is None and birth is not None:
+            person.birth_year = birth
+            person.birth_year_display = display_year(birth)
+        death = data.get("death_year")
+        if person.death_year is None and death is not None:
+            person.death_year = death
+            person.death_year_display = display_year(death)
+
+
+def _recompute_year_ranges(
+    people: dict[str, Person], events: dict[str, Event],
+) -> None:
+    """Recompute earliest/latest year mentioned from event dates."""
+    verse_range: dict[str, tuple[int, int]] = {}
+    for event in events.values():
+        if event.start_year is None:
+            continue
+        for v in event.verses:
+            if v in verse_range:
+                lo, hi = verse_range[v]
+                verse_range[v] = (min(lo, event.start_year), max(hi, event.start_year))
+            else:
+                verse_range[v] = (event.start_year, event.start_year)
+
+    for person in people.values():
+        min_year = None
+        max_year = None
+        for v in person.verses:
+            if v in verse_range:
+                lo, hi = verse_range[v]
+                min_year = lo if min_year is None else min(min_year, lo)
+                max_year = hi if max_year is None else max(max_year, hi)
+        if min_year is None:
+            continue
+        if person.earliest_year_mentioned is None or min_year < person.earliest_year_mentioned:
+            person.earliest_year_mentioned = min_year
+            person.earliest_year_mentioned_display = display_year(min_year)
+        if person.latest_year_mentioned is None or max_year > person.latest_year_mentioned:
+            person.latest_year_mentioned = max_year
+            person.latest_year_mentioned_display = display_year(max_year)
+
+
 def _parse_all() -> BuildContext:
     """Parse and merge all sources."""
     people, places, events, groups = parse_theographic(SOURCES_DIR / "theographic")
     _repair_people(people)
+    _apply_supplements(people)
+    _recompute_year_ranges(people, events)
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
     cross_refs = parse_scrollmapper(SOURCES_DIR)
