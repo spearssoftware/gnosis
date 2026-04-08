@@ -38,6 +38,7 @@ def _ctx(**overrides) -> BuildContext:
         "greek_verses": {},
         "greek_lexicon": {},
         "kjv_verses": {},
+        "chapter_timeline": {},
     }
     defaults.update(overrides)
     return BuildContext(**defaults)

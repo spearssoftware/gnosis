@@ -52,6 +52,19 @@ def _load_json(path: Path) -> list[dict]:
         return json.load(f)
 
 
+def parse_verse_years(sources_dir: Path) -> dict[str, int]:
+    """Return a mapping of OSIS ref to yearNum from Theographic verses."""
+    verses_raw = _load_json(sources_dir / "theographic" / "verses.json")
+    result: dict[str, int] = {}
+    for rec in verses_raw:
+        fields = rec.get("fields", {})
+        ref = fields.get("osisRef")
+        year = fields.get("yearNum")
+        if ref and year is not None:
+            result[ref] = year
+    return result
+
+
 def _build_verse_lookup(sources_dir: Path) -> dict[str, str]:
     """Build a map of Airtable verse record ID → OSIS reference string."""
     verses_path = sources_dir / "verses.json"

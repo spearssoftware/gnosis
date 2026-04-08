@@ -20,7 +20,7 @@ from gnosis.parsers.morphhb import parse_morphhb
 from gnosis.parsers.openbible import parse_openbible
 from gnosis.parsers.scrollmapper import parse_scrollmapper
 from gnosis.parsers.strongs import parse_strongs
-from gnosis.parsers.theographic import display_year, parse_theographic
+from gnosis.parsers.theographic import display_year, parse_theographic, parse_verse_years
 from gnosis.parsers.topics import parse_topics
 from gnosis.sqlite_writer import write_sqlite
 from gnosis.types import Event, PeopleGroup, Person, Place
@@ -55,6 +55,7 @@ class BuildContext:
     greek_verses: dict[str, GreekVerse]
     greek_lexicon: dict[str, GreekLexiconEntry]
     kjv_verses: dict[str, str]
+    chapter_timeline: dict[str, dict]
 
 
 def _repair_people(people: dict[str, Person]) -> None:
@@ -170,6 +171,23 @@ def _recompute_year_ranges(
             person.latest_year_mentioned_display = display_year(max_year)
 
 
+def _build_chapter_timeline(verse_years: dict[str, int]) -> dict[str, dict]:
+    """Build chapter-level timeline from verse year data using mode."""
+    from collections import Counter
+    chapters: dict[str, list[int]] = {}
+    for ref, year in verse_years.items():
+        parts = ref.split(".")
+        if len(parts) >= 2:
+            chapter_ref = f"{parts[0]}.{parts[1]}"
+            chapters.setdefault(chapter_ref, []).append(year)
+
+    result: dict[str, dict] = {}
+    for ch_ref, years in sorted(chapters.items()):
+        mode_year = Counter(years).most_common(1)[0][0]
+        result[ch_ref] = {"year": mode_year, "year_display": display_year(mode_year)}
+    return result
+
+
 def _parse_all() -> BuildContext:
     """Parse and merge all sources."""
     people, places, events, groups = parse_theographic(SOURCES_DIR / "theographic")
@@ -188,12 +206,15 @@ def _parse_all() -> BuildContext:
     greek_verses = parse_macula_greek(SOURCES_DIR)
     greek_lexicon = parse_dodson(SOURCES_DIR)
     kjv_verses = parse_kjv(SOURCES_DIR)
+    verse_years = parse_verse_years(SOURCES_DIR)
+    chapter_timeline = _build_chapter_timeline(verse_years)
     return BuildContext(
         people=people, places=places, events=events, groups=groups,
         match_log=match_log, cross_refs=cross_refs, strongs=strongs,
         dictionary=dictionary, topics=topics, hebrew_verses=hebrew_verses,
         lexicon=lexicon, greek_verses=greek_verses,
         greek_lexicon=greek_lexicon, kjv_verses=kjv_verses,
+        chapter_timeline=chapter_timeline,
     )
 
 
@@ -263,6 +284,7 @@ def cmd_build(strict: bool = False, no_vectors: bool = False) -> bool:
         {k: v.model_dump() for k, v in verse_index.items()},
         "verse-index.json",
     )
+    _write_output(ctx.chapter_timeline, "chapter-timeline.json")
 
     db_path = write_sqlite(ctx, OUTPUT_DIR)
     console.print(f"  Wrote {db_path.name}")

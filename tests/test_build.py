@@ -5,7 +5,7 @@ import tempfile
 from pathlib import Path
 from unittest.mock import patch
 
-from gnosis.build import _apply_supplements, _recompute_year_ranges
+from gnosis.build import _apply_supplements, _build_chapter_timeline, _recompute_year_ranges
 from gnosis.types import Event, Person
 
 
@@ -92,3 +92,27 @@ def test_supplements_no_override():
 
     assert person.birth_year == 10
     assert person.death_year == 70
+
+
+def test_build_chapter_timeline():
+    verse_years = {
+        "Jer.37.1": -596, "Jer.37.2": -596, "Jer.37.3": -596,
+        "Jer.38.1": -590, "Jer.38.2": -590,
+        "Gen.1.1": -4004, "Gen.1.2": -4004,
+    }
+    result = _build_chapter_timeline(verse_years)
+
+    assert result["Jer.37"] == {"year": -596, "year_display": "597 BC"}
+    assert result["Jer.38"] == {"year": -590, "year_display": "591 BC"}
+    assert result["Gen.1"] == {"year": -4004, "year_display": "4005 BC"}
+    assert len(result) == 3
+
+
+def test_build_chapter_timeline_uses_mode():
+    verse_years = {
+        "Jer.52.1": -600, "Jer.52.2": -588, "Jer.52.3": -588,
+        "Jer.52.4": -588, "Jer.52.5": -562,
+    }
+    result = _build_chapter_timeline(verse_years)
+
+    assert result["Jer.52"]["year"] == -588

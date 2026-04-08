@@ -29,6 +29,7 @@ jobs:
             output/events.json
             output/people-groups.json
             output/verse-index.json
+            output/chapter-timeline.json
             output/greek-words.json
             output/greek-lexicon.json
             output/gnosis.db
