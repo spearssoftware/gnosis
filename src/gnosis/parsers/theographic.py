@@ -23,6 +23,9 @@ def _parse_year(year_str: str | int | None) -> int | None:
         return None
 
     year_str = year_str.strip()
+    iso_match = re.match(r"^(-?\d{3,4})-\d{2}-\d{2}$", year_str)
+    if iso_match:
+        return int(iso_match.group(1))
     match = re.match(r"^(-?\d+)\s*(BC|AD|BCE|CE)?$", year_str, re.IGNORECASE)
     if not match:
         return None
