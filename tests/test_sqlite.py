@@ -520,11 +520,9 @@ def test_lite_build(tmp_path: Path) -> None:
 
     tables = {r["name"] for r in _query(path, "SELECT name FROM sqlite_master WHERE type='table'")}
     assert "hebrew_word" not in tables
-    assert "lexicon_entry" not in tables
     assert "greek_word" not in tables
-    assert "greek_lexicon_entry" not in tables
 
-    assert {"person", "place", "verse", "cross_reference"}.issubset(tables)
+    assert {"person", "place", "verse", "cross_reference", "lexicon_entry", "greek_lexicon_entry"}.issubset(tables)
 
     rows = _query(path, "SELECT count(*) as cnt FROM person")
     assert rows[0]["cnt"] > 0
