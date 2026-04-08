@@ -65,6 +65,8 @@ CREATE TABLE event (
     title TEXT NOT NULL,
     start_year INTEGER,
     start_year_display TEXT,
+    end_year INTEGER,
+    end_year_display TEXT,
     duration TEXT,
     sort_key REAL,
     parent_event_id INTEGER REFERENCES event(id),
@@ -412,13 +414,15 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
         event_slug_to_id[slug] = i
         event_rows.append((
             i, slug, e.uuid, e.title, e.start_year,
-            e.start_year_display, e.duration, e.sort_key,
+            e.start_year_display, e.end_year, e.end_year_display,
+            e.duration, e.sort_key,
             e.theographic_id, e.status,
         ))
     con.executemany(
         "INSERT INTO event (id, slug, uuid, title, start_year, "
-        "start_year_display, duration, sort_key, theographic_id, status) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "start_year_display, end_year, end_year_display, "
+        "duration, sort_key, theographic_id, status) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         event_rows,
     )
 

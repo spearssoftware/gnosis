@@ -171,6 +171,21 @@ def _recompute_year_ranges(
             person.latest_year_mentioned_display = display_year(max_year)
 
 
+def _compute_end_years(events: dict[str, Event]) -> None:
+    """Compute end_year from start_year + duration for events with year-scale durations."""
+    import re
+    for event in events.values():
+        if event.start_year is None or not event.duration:
+            continue
+        m = re.match(r"^(\d+(?:\.\d+)?)Y", event.duration)
+        if not m:
+            continue
+        years = int(float(m.group(1)))
+        if years > 0:
+            event.end_year = event.start_year + years
+            event.end_year_display = display_year(event.end_year)
+
+
 def _build_chapter_timeline(verse_years: dict[str, int]) -> dict[str, dict]:
     """Build chapter-level timeline from verse year data using mode."""
     from collections import Counter
@@ -194,6 +209,7 @@ def _parse_all() -> BuildContext:
     _repair_people(people)
     _apply_supplements(people)
     _recompute_year_ranges(people, events)
+    _compute_end_years(events)
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
     cross_refs = parse_scrollmapper(SOURCES_DIR)
