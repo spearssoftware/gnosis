@@ -65,6 +65,8 @@ CREATE TABLE event (
     title TEXT NOT NULL,
     start_year INTEGER,
     start_year_display TEXT,
+    end_year INTEGER,
+    end_year_display TEXT,
     duration TEXT,
     sort_key REAL,
     parent_event_id INTEGER REFERENCES event(id),
@@ -219,6 +221,13 @@ CREATE TABLE cross_reference (
     votes INTEGER NOT NULL DEFAULT 0
 );
 
+CREATE TABLE chapter_timeline (
+    id INTEGER PRIMARY KEY,
+    osis_ref TEXT NOT NULL UNIQUE,
+    year INTEGER NOT NULL,
+    year_display TEXT NOT NULL
+);
+
 CREATE TABLE gnosis_meta (
     key TEXT PRIMARY KEY,
     value TEXT
@@ -247,6 +256,7 @@ CREATE INDEX idx_xref_from ON cross_reference(from_verse_id);
 CREATE INDEX idx_xref_to ON cross_reference(to_verse_start_id);
 CREATE INDEX idx_lexicon_strongs ON lexicon_entry(strongs_number);
 CREATE INDEX idx_greek_lexicon_strongs ON greek_lexicon_entry(strongs_number);
+CREATE INDEX idx_chapter_timeline_ref ON chapter_timeline(osis_ref);
 """
 
 _SCHEMA_MORPHOLOGY = """
@@ -404,13 +414,15 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
         event_slug_to_id[slug] = i
         event_rows.append((
             i, slug, e.uuid, e.title, e.start_year,
-            e.start_year_display, e.duration, e.sort_key,
+            e.start_year_display, e.end_year, e.end_year_display,
+            e.duration, e.sort_key,
             e.theographic_id, e.status,
         ))
     con.executemany(
         "INSERT INTO event (id, slug, uuid, title, start_year, "
-        "start_year_display, duration, sort_key, theographic_id, status) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "start_year_display, end_year, end_year_display, "
+        "duration, sort_key, theographic_id, status) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         event_rows,
     )
 
@@ -641,6 +653,16 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
         "(from_verse_id, to_verse_start_id, to_verse_end_id, votes) "
         "VALUES (?, ?, ?, ?)",
         _xref_rows(cross_refs, verse_to_id),
+    )
+
+    # Chapter timeline
+    con.executemany(
+        "INSERT INTO chapter_timeline (id, osis_ref, year, year_display) "
+        "VALUES (?, ?, ?, ?)",
+        (
+            (i, ref, data["year"], data["year_display"])
+            for i, (ref, data) in enumerate(sorted(ctx.chapter_timeline.items()), start=1)
+        ),
     )
 
     # Metadata

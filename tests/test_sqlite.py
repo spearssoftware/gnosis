@@ -154,6 +154,7 @@ def db_path(tmp_path: Path) -> Path:
         hebrew_verses=d["hebrew_verses"], lexicon=d["lexicon"],
         greek_verses=d["greek_verses"], greek_lexicon=d["greek_lexicon"],
         kjv_verses={},
+        chapter_timeline={},
     )
     return write_sqlite(ctx, tmp_path)
 
@@ -513,6 +514,7 @@ def test_lite_build(tmp_path: Path) -> None:
         hebrew_verses=d["hebrew_verses"], lexicon=d["lexicon"],
         greek_verses=d["greek_verses"], greek_lexicon=d["greek_lexicon"],
         kjv_verses={},
+        chapter_timeline={},
     )
     path = write_sqlite(ctx, tmp_path, lite=True)
 
