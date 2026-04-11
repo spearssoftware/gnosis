@@ -216,11 +216,13 @@ def _check_wip_entries(
 
 
 def _check_place_coverage(match_log: dict[str, str]) -> ValidationResult:
-    counts: dict[str, int] = {"exact": 0, "override": 0, "fuzzy": 0, "unmatched": 0}
+    counts: dict[str, int] = {
+        "exact": 0, "override": 0, "fuzzy": 0, "unmatched": 0, "openbible_only": 0,
+    }
     for match_type in match_log.values():
         counts[match_type] = counts.get(match_type, 0) + 1
 
-    total = len(match_log)
+    total = sum(counts[k] for k in ("exact", "override", "fuzzy", "unmatched"))
     matched = counts["exact"] + counts["override"] + counts["fuzzy"]
     pct = (matched / total * 100) if total > 0 else 0
 
@@ -230,7 +232,8 @@ def _check_place_coverage(match_log: dict[str, str]) -> ValidationResult:
         message=(
             f"{matched}/{total} ({pct:.0f}%) matched — "
             f"exact: {counts['exact']}, override: {counts['override']}, "
-            f"fuzzy: {counts['fuzzy']}, unmatched: {counts['unmatched']}"
+            f"fuzzy: {counts['fuzzy']}, unmatched: {counts['unmatched']}, "
+            f"openbible_only: {counts['openbible_only']}"
         ),
     )
 
