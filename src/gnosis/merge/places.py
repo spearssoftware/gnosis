@@ -5,6 +5,7 @@ from pathlib import Path
 
 from rapidfuzz import fuzz, process
 
+from gnosis.ids import make_uuid, slugify
 from gnosis.parsers.openbible import OpenBiblePlace
 from gnosis.types import Place
 
@@ -94,7 +95,47 @@ def merge_places(
         else:
             match_log[slug] = "unmatched"
 
+    # Emit orphan OpenBible places (no Theographic match) so their coordinates
+    # and aliases still flow through to consumers like BibleMarker.
+    used_slugs = set(theographic_places.keys())
+    for fid, ob in openbible_places.items():
+        if fid in matched_ob_ids:
+            continue
+        if ob.latitude is None:
+            continue
+        orphan = _orphan_place(fid, ob, used_slugs)
+        theographic_places[orphan.id] = orphan
+        used_slugs.add(orphan.id)
+        match_log[orphan.id] = "openbible_only"
+
     return theographic_places, match_log
+
+
+def _orphan_place(fid: str, ob: OpenBiblePlace, used_slugs: set[str]) -> Place:
+    display = fid.replace("_", " ")
+    base = slugify(display) or "place"
+    slug = base
+    counter = 2
+    while slug in used_slugs:
+        slug = f"{base}-{counter}"
+        counter += 1
+    feature_type = ob.place_types[0] if ob.place_types else None
+    return Place(
+        id=slug,
+        uuid=make_uuid(slug),
+        name=display,
+        latitude=ob.latitude,
+        longitude=ob.longitude,
+        geo_confidence=ob.confidence,
+        precision_meters=ob.precision_meters,
+        coordinate_source="openbible",
+        feature_type=feature_type,
+        place_types=list(ob.place_types),
+        modern_name=ob.modern_name,
+        openbible_id=ob.friendly_id,
+        aliases=list(ob.aliases),
+        status="openbible_only",
+    )
 
 
 def _apply_openbible(place: Place, ob: OpenBiblePlace) -> None:
@@ -115,3 +156,15 @@ def _apply_openbible(place: Place, ob: OpenBiblePlace) -> None:
         for pt in ob.place_types:
             if pt not in existing:
                 place.place_types.append(pt)
+    if ob.aliases:
+        existing_alias_keys = {
+            (place.name or "").lower(),
+            (place.kjv_name or "").lower(),
+            (place.esv_name or "").lower(),
+        }
+        existing_alias_keys.update(a.lower() for a in place.aliases)
+        for alias in ob.aliases:
+            key = alias.lower()
+            if key and key not in existing_alias_keys:
+                place.aliases.append(alias)
+                existing_alias_keys.add(key)

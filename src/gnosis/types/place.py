@@ -29,6 +29,7 @@ class Place(BaseModel):
     # Enrichment
     modern_name: str | None = None
     modern_country: str | None = None
+    aliases: list[str] = []
 
     # Traceability
     theographic_id: str | None = None

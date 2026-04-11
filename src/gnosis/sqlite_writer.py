@@ -95,6 +95,12 @@ CREATE TABLE place_verse (
     PRIMARY KEY (place_id, verse_id)
 );
 
+CREATE TABLE place_alias (
+    place_id INTEGER NOT NULL REFERENCES place(id),
+    alias TEXT NOT NULL,
+    PRIMARY KEY (place_id, alias)
+);
+
 CREATE TABLE event_verse (
     event_id INTEGER NOT NULL REFERENCES event(id),
     verse_id INTEGER NOT NULL REFERENCES verse(id),
@@ -238,6 +244,7 @@ CREATE INDEX idx_person_name ON person(name);
 CREATE INDEX idx_person_father_id ON person(father_id);
 CREATE INDEX idx_person_mother_id ON person(mother_id);
 CREATE INDEX idx_place_name ON place(name);
+CREATE INDEX idx_place_alias_alias ON place_alias(alias COLLATE NOCASE);
 CREATE INDEX idx_event_sort_key ON event(sort_key);
 CREATE INDEX idx_person_verse_verse_id ON person_verse(verse_id);
 CREATE INDEX idx_place_verse_verse_id ON place_verse(verse_id);
@@ -469,6 +476,14 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
             for slug, pl in places.items()
             for v in pl.verses
             if v in verse_to_id
+        ),
+    )
+    con.executemany(
+        "INSERT OR IGNORE INTO place_alias (place_id, alias) VALUES (?, ?)",
+        (
+            (place_slug_to_id[slug], alias)
+            for slug, pl in places.items()
+            for alias in pl.aliases
         ),
     )
     con.executemany(

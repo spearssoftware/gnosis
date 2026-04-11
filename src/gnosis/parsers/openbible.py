@@ -16,6 +16,7 @@ class OpenBiblePlace:
     coordinate_source: str = "openbible"
     modern_name: str | None = None
     modern_country: str | None = None
+    aliases: list[str] = field(default_factory=list)
 
 
 def _parse_lonlat(lonlat: str | None) -> tuple[float | None, float | None]:
@@ -90,6 +91,21 @@ def parse_openbible(sources_dir: Path) -> dict[str, OpenBiblePlace]:
                 place.latitude = best_lat
                 place.longitude = best_lon
                 place.confidence = best_confidence
+
+                friendly_display = friendly_id.replace("_", " ")
+                seen_aliases: set[str] = {friendly_display.lower()}
+                aliases: list[str] = [friendly_display]
+                tnc = rec.get("translation_name_counts") or {}
+                if isinstance(tnc, dict):
+                    for tname in tnc:
+                        if not tname:
+                            continue
+                        key = tname.lower()
+                        if key in seen_aliases:
+                            continue
+                        seen_aliases.add(key)
+                        aliases.append(tname)
+                place.aliases = aliases
 
                 results[friendly_id] = place
 
