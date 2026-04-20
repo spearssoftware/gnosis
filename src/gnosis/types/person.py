@@ -16,6 +16,8 @@ class Person(BaseModel):
     latest_year_mentioned: int | None = None
     earliest_year_mentioned_display: str | None = None
     latest_year_mentioned_display: str | None = None
+    dates_approximate: bool = False
+    dates_source: str | None = None
 
     # Relations (slug ID refs)
     birth_place: str | None = None
