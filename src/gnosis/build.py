@@ -118,7 +118,7 @@ def _repair_people(people: dict[str, Person]) -> None:
 
 
 def _apply_supplements(people: dict[str, Person]) -> None:
-    """Apply curated birth/death year overrides from supplements file."""
+    """Apply curated birth/death years. Only fills gaps; never overrides Theographic values."""
     path = SOURCES_DIR / "supplements" / "people-dates.json"
     if not path.exists():
         return
@@ -149,7 +149,7 @@ def _apply_supplements(people: dict[str, Person]) -> None:
 
 
 def _apply_event_supplements(events: dict[str, Event]) -> None:
-    """Apply curated start/end year overrides from events supplements file."""
+    """Apply curated event dates; overrides Theographic (corrects wrong dates, spreads pile-ups)."""
     path = SOURCES_DIR / "supplements" / "events-dates.json"
     if not path.exists():
         return
@@ -216,7 +216,7 @@ def _compute_end_years(events: dict[str, Event]) -> None:
     """Compute end_year from start_year + duration for events with year-scale durations."""
     import re
     for event in events.values():
-        if event.start_year is None or not event.duration:
+        if event.start_year is None or event.end_year is not None or not event.duration:
             continue
         m = re.match(r"^(\d+(?:\.\d+)?)Y", event.duration)
         if not m:
@@ -249,9 +249,9 @@ def _parse_all() -> BuildContext:
     people, places, events, groups = parse_theographic(SOURCES_DIR / "theographic")
     _repair_people(people)
     _apply_supplements(people)
+    _apply_event_supplements(events)
     _recompute_year_ranges(people, events)
     _compute_end_years(events)
-    _apply_event_supplements(events)
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
     cross_refs = parse_scrollmapper(SOURCES_DIR)

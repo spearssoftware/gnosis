@@ -1,5 +1,7 @@
 from pydantic import BaseModel
 
+from gnosis.types.person import DateConfidence
+
 
 class Event(BaseModel):
     id: str
@@ -13,7 +15,7 @@ class Event(BaseModel):
     end_year_display: str | None = None
     duration: str | None = None
     sort_key: float | None = None
-    dates_confidence: str | None = None
+    dates_confidence: DateConfidence | None = None
     dates_source: str | None = None
 
     # Relations (slug ID refs)
