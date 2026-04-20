@@ -26,5 +26,31 @@
   "joseph-and-mary-return-to-nazareth": {
     "start_year": -3,
     "confidence": "estimate"
-  }
+  },
+
+  "seven-chosen-to-serve": { "start_year": 31, "confidence": "estimate" },
+  "stephen-is-seized": { "start_year": 31, "confidence": "estimate" },
+  "stephen-addresses-the-council": { "start_year": 31, "confidence": "estimate" },
+
+  "disciples-first-called-christians": { "start_year": 42, "confidence": "estimate" },
+  "herod-kills-james": { "start_year": 44, "confidence": "scholarly_consensus", "source": "agrippa-died-44ad" },
+  "herod-imprisons-peter": { "start_year": 44, "confidence": "scholarly_consensus", "source": "agrippa-died-44ad" },
+  "an-angel-rescues-peter-from-prison": { "start_year": 44, "confidence": "scholarly_consensus", "source": "agrippa-died-44ad" },
+  "herod-dies": { "start_year": 44, "confidence": "scholarly_consensus", "source": "josephus-antiquities-19" },
+
+  "call-to-macedonia": { "start_year": 48, "confidence": "estimate" },
+  "lydia-s-conversion": { "start_year": 48, "confidence": "estimate" },
+  "paul-casts-demon-out-of-soothsayer": { "start_year": 48, "confidence": "estimate" },
+  "paul-and-silas-imprisoned": { "start_year": 48, "confidence": "estimate" },
+  "philippian-jailer-converted": { "start_year": 48, "confidence": "estimate" },
+  "paul-and-silas-released": { "start_year": 48, "confidence": "estimate" },
+
+  "paul-appeals-to-caesar": { "start_year": 58, "confidence": "estimate" },
+  "agrippa-and-bernice-meet-festus": { "start_year": 58, "confidence": "estimate" },
+  "paul-goes-before-agrippa": { "start_year": 58, "confidence": "estimate" },
+  "journey-to-rome-begins": { "start_year": 59, "confidence": "estimate" },
+
+  "paul-is-shipwrecked-by-a-storm": { "start_year": 59, "confidence": "estimate" },
+  "paul-stays-at-malta": { "start_year": 60, "confidence": "estimate" },
+  "paul-arrives-at-rome": { "start_year": 60, "confidence": "estimate" }
 }
