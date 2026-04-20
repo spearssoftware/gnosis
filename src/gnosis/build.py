@@ -227,15 +227,30 @@ def _compute_end_years(events: dict[str, Event]) -> None:
             event.end_year_display = display_year(event.end_year)
 
 
-def _build_chapter_timeline(verse_years: dict[str, int]) -> dict[str, dict]:
-    """Build chapter-level timeline from verse year data using mode."""
+def _build_chapter_timeline(
+    verse_years: dict[str, int], events: dict[str, Event],
+) -> dict[str, dict]:
+    """Build chapter-level timeline, preferring event start_year over verse yearNum.
+
+    Theographic's verses.json yearNum is inconsistent with events.json in places
+    (e.g. Passion Week: events at 30 AD, verses at 33 AD). When a verse is attached
+    to a dated event, trust the event's start_year as the authoritative date.
+    """
     from collections import Counter
+    verse_to_event_year: dict[str, int] = {}
+    for event in events.values():
+        if event.start_year is None:
+            continue
+        for v in event.verses:
+            verse_to_event_year.setdefault(v, event.start_year)
+
     chapters: dict[str, list[int]] = {}
     for ref, year in verse_years.items():
         parts = ref.split(".")
-        if len(parts) >= 2:
-            chapter_ref = f"{parts[0]}.{parts[1]}"
-            chapters.setdefault(chapter_ref, []).append(year)
+        if len(parts) < 2:
+            continue
+        chapter_ref = f"{parts[0]}.{parts[1]}"
+        chapters.setdefault(chapter_ref, []).append(verse_to_event_year.get(ref, year))
 
     result: dict[str, dict] = {}
     for ch_ref, years in sorted(chapters.items()):
@@ -265,7 +280,7 @@ def _parse_all() -> BuildContext:
     greek_lexicon = parse_dodson(SOURCES_DIR)
     kjv_verses = parse_kjv(SOURCES_DIR)
     verse_years = parse_verse_years(SOURCES_DIR)
-    chapter_timeline = _build_chapter_timeline(verse_years)
+    chapter_timeline = _build_chapter_timeline(verse_years, events)
     return BuildContext(
         people=people, places=places, events=events, groups=groups,
         match_log=match_log, cross_refs=cross_refs, strongs=strongs,
