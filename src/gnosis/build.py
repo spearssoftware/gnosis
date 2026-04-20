@@ -140,11 +140,43 @@ def _apply_supplements(people: dict[str, Person]) -> None:
             person.death_year_display = display_year(death)
             applied = True
         if applied:
-            if data.get("approximate"):
-                person.dates_approximate = True
+            confidence = data.get("confidence")
+            if confidence:
+                person.dates_confidence = confidence
             source = data.get("source")
             if source:
                 person.dates_source = source
+
+
+def _apply_event_supplements(events: dict[str, Event]) -> None:
+    """Apply curated start/end year overrides from events supplements file."""
+    path = SOURCES_DIR / "supplements" / "events-dates.json"
+    if not path.exists():
+        return
+    with open(path) as f:
+        supplements = json.load(f)
+    for slug, data in supplements.items():
+        if slug not in events:
+            continue
+        event = events[slug]
+        applied = False
+        start = data.get("start_year")
+        if start is not None:
+            event.start_year = start
+            event.start_year_display = display_year(start)
+            applied = True
+        end = data.get("end_year")
+        if end is not None:
+            event.end_year = end
+            event.end_year_display = display_year(end)
+            applied = True
+        if applied:
+            confidence = data.get("confidence")
+            if confidence:
+                event.dates_confidence = confidence
+            source = data.get("source")
+            if source:
+                event.dates_source = source
 
 
 def _recompute_year_ranges(
@@ -219,6 +251,7 @@ def _parse_all() -> BuildContext:
     _apply_supplements(people)
     _recompute_year_ranges(people, events)
     _compute_end_years(events)
+    _apply_event_supplements(events)
     openbible_places = parse_openbible(SOURCES_DIR / "openbible")
     places, match_log = merge_places(places, openbible_places)
     cross_refs = parse_scrollmapper(SOURCES_DIR)

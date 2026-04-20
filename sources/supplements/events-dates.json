@@ -1,0 +1,30 @@
+{
+  "_comment": "Curated event date overrides. See NOTES.md for assumptions. confidence: exact | scholarly_consensus | tradition | estimate.",
+
+  "wise-men-visit-herod": {
+    "start_year": -4,
+    "confidence": "estimate"
+  },
+  "wise-men-visit-jesus": {
+    "start_year": -4,
+    "confidence": "estimate"
+  },
+  "herod-slays-male-children": {
+    "start_year": -4,
+    "confidence": "estimate"
+  },
+  "joseph-and-mary-flee-to-egypt": {
+    "start_year": -4,
+    "end_year": -3,
+    "confidence": "estimate"
+  },
+  "joseph-and-mary-return-from-egypt": {
+    "start_year": -3,
+    "confidence": "scholarly_consensus",
+    "source": "herod-died-4bc"
+  },
+  "joseph-and-mary-return-to-nazareth": {
+    "start_year": -3,
+    "confidence": "estimate"
+  }
+}

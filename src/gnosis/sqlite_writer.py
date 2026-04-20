@@ -48,7 +48,7 @@ CREATE TABLE person (
     latest_year_mentioned INTEGER,
     earliest_year_mentioned_display TEXT,
     latest_year_mentioned_display TEXT,
-    dates_approximate INTEGER NOT NULL DEFAULT 0,
+    dates_confidence TEXT,
     dates_source TEXT,
     birth_place_id INTEGER REFERENCES place(id),
     death_place_id INTEGER REFERENCES place(id),
@@ -71,6 +71,8 @@ CREATE TABLE event (
     end_year_display TEXT,
     duration TEXT,
     sort_key REAL,
+    dates_confidence TEXT,
+    dates_source TEXT,
     parent_event_id INTEGER REFERENCES event(id),
     predecessor_id INTEGER REFERENCES event(id),
     theographic_id TEXT,
@@ -387,7 +389,7 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
             p.birth_year, p.death_year, p.birth_year_display, p.death_year_display,
             p.earliest_year_mentioned, p.latest_year_mentioned,
             p.earliest_year_mentioned_display, p.latest_year_mentioned_display,
-            1 if p.dates_approximate else 0, p.dates_source,
+            p.dates_confidence, p.dates_source,
             place_slug_to_id.get(p.birth_place) if p.birth_place else None,
             place_slug_to_id.get(p.death_place) if p.death_place else None,
             p.verse_count, p.first_mention, p.name_meaning, p.status,
@@ -397,7 +399,7 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
         "birth_year, death_year, birth_year_display, death_year_display, "
         "earliest_year_mentioned, latest_year_mentioned, "
         "earliest_year_mentioned_display, latest_year_mentioned_display, "
-        "dates_approximate, dates_source, "
+        "dates_confidence, dates_source, "
         "birth_place_id, death_place_id, verse_count, first_mention, "
         "name_meaning, status) "
         "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
@@ -427,13 +429,15 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
             i, slug, e.uuid, e.title, e.start_year,
             e.start_year_display, e.end_year, e.end_year_display,
             e.duration, e.sort_key,
+            e.dates_confidence, e.dates_source,
             e.theographic_id, e.status,
         ))
     con.executemany(
         "INSERT INTO event (id, slug, uuid, title, start_year, "
         "start_year_display, end_year, end_year_display, "
-        "duration, sort_key, theographic_id, status) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "duration, sort_key, dates_confidence, dates_source, "
+        "theographic_id, status) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         event_rows,
     )
 
