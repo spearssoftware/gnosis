@@ -149,7 +149,7 @@ def _apply_supplements(people: dict[str, Person]) -> None:
 
 
 def _apply_event_supplements(events: dict[str, Event]) -> None:
-    """Apply curated event dates. Overrides Theographic values (used to correct wrong dates and spread pile-ups)."""
+    """Apply curated event dates; overrides Theographic (corrects wrong dates, spreads pile-ups)."""
     path = SOURCES_DIR / "supplements" / "events-dates.json"
     if not path.exists():
         return
