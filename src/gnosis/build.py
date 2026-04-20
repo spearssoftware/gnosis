@@ -129,13 +129,22 @@ def _apply_supplements(people: dict[str, Person]) -> None:
             continue
         person = people[slug]
         birth = data.get("birth_year")
+        applied = False
         if person.birth_year is None and birth is not None:
             person.birth_year = birth
             person.birth_year_display = display_year(birth)
+            applied = True
         death = data.get("death_year")
         if person.death_year is None and death is not None:
             person.death_year = death
             person.death_year_display = display_year(death)
+            applied = True
+        if applied:
+            if data.get("approximate"):
+                person.dates_approximate = True
+            source = data.get("source")
+            if source:
+                person.dates_source = source
 
 
 def _recompute_year_ranges(

@@ -48,6 +48,8 @@ CREATE TABLE person (
     latest_year_mentioned INTEGER,
     earliest_year_mentioned_display TEXT,
     latest_year_mentioned_display TEXT,
+    dates_approximate INTEGER NOT NULL DEFAULT 0,
+    dates_source TEXT,
     birth_place_id INTEGER REFERENCES place(id),
     death_place_id INTEGER REFERENCES place(id),
     father_id INTEGER REFERENCES person(id),
@@ -385,6 +387,7 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
             p.birth_year, p.death_year, p.birth_year_display, p.death_year_display,
             p.earliest_year_mentioned, p.latest_year_mentioned,
             p.earliest_year_mentioned_display, p.latest_year_mentioned_display,
+            1 if p.dates_approximate else 0, p.dates_source,
             place_slug_to_id.get(p.birth_place) if p.birth_place else None,
             place_slug_to_id.get(p.death_place) if p.death_place else None,
             p.verse_count, p.first_mention, p.name_meaning, p.status,
@@ -394,9 +397,10 @@ def write_sqlite(ctx: BuildContext, output_dir: Path, lite: bool = False) -> Pat
         "birth_year, death_year, birth_year_display, death_year_display, "
         "earliest_year_mentioned, latest_year_mentioned, "
         "earliest_year_mentioned_display, latest_year_mentioned_display, "
+        "dates_approximate, dates_source, "
         "birth_place_id, death_place_id, verse_count, first_mention, "
         "name_meaning, status) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         person_rows,
     )
 
