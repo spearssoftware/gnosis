@@ -13,6 +13,8 @@ class Event(BaseModel):
     end_year_display: str | None = None
     duration: str | None = None
     sort_key: float | None = None
+    dates_confidence: str | None = None
+    dates_source: str | None = None
 
     # Relations (slug ID refs)
     participants: list[str] = []
