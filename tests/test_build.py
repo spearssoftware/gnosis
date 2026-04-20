@@ -100,7 +100,7 @@ def test_build_chapter_timeline():
         "Jer.38.1": -590, "Jer.38.2": -590,
         "Gen.1.1": -4004, "Gen.1.2": -4004,
     }
-    result = _build_chapter_timeline(verse_years)
+    result = _build_chapter_timeline(verse_years, {})
 
     assert result["Jer.37"] == {"year": -596, "year_display": "597 BC"}
     assert result["Jer.38"] == {"year": -590, "year_display": "591 BC"}
@@ -113,6 +113,23 @@ def test_build_chapter_timeline_uses_mode():
         "Jer.52.1": -600, "Jer.52.2": -588, "Jer.52.3": -588,
         "Jer.52.4": -588, "Jer.52.5": -562,
     }
-    result = _build_chapter_timeline(verse_years)
+    result = _build_chapter_timeline(verse_years, {})
 
     assert result["Jer.52"]["year"] == -588
+
+
+def test_build_chapter_timeline_prefers_event_start_year():
+    verse_years = {
+        "Matt.22.1": 33, "Matt.22.2": 33, "Matt.22.3": 33,
+        "Mark.11.1": 33, "Mark.11.2": 33,
+    }
+    events = {
+        "holy-week": _event(
+            id="holy-week", start_year=30,
+            verses=["Matt.22.1", "Matt.22.2", "Matt.22.3", "Mark.11.1", "Mark.11.2"],
+        ),
+    }
+    result = _build_chapter_timeline(verse_years, events)
+
+    assert result["Matt.22"]["year"] == 30
+    assert result["Mark.11"]["year"] == 30
