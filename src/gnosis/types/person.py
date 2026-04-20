@@ -1,4 +1,8 @@
+from typing import Literal
+
 from pydantic import BaseModel
+
+DateConfidence = Literal["exact", "scholarly_consensus", "tradition", "estimate"]
 
 
 class Person(BaseModel):
@@ -16,7 +20,7 @@ class Person(BaseModel):
     latest_year_mentioned: int | None = None
     earliest_year_mentioned_display: str | None = None
     latest_year_mentioned_display: str | None = None
-    dates_confidence: str | None = None
+    dates_confidence: DateConfidence | None = None
     dates_source: str | None = None
 
     # Relations (slug ID refs)
