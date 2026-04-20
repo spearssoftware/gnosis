@@ -93,4 +93,32 @@ Our spread (~1-2 yr Egypt stay at year granularity):
 - Sub-year (month) granularity if we ever need it. Would require schema changes (`start_month`, etc.) — not worth until we have multiple entities that need it.
 
 ### Note: Theographic's "Herod dies" event
-The `herod-dies` event is at 45 AD — this is **Herod Agrippa I** (Acts 12:23, died 44 AD), not Herod the Great. There is no explicit "Herod the Great dies" event in the upstream data.
+The `herod-dies` event refers to **Herod Agrippa I** (Acts 12:23), not Herod the Great. Theographic originally placed it at 45 AD; we correct to **44 AD** per Josephus (Antiquities 19.8). There is no explicit "Herod the Great dies" event in the upstream data.
+
+### Early Acts — Stephen's martyrdom (moved from 30 → 31)
+Theographic placed `seven-chosen-to-serve`, `stephen-is-seized`, and `stephen-addresses-the-council` at 30 AD while `stephen-is-stoned` is at 31 AD. These are all components of the same martyrdom narrative (Acts 6-7); moved to **31 AD** to consolidate. Scholarly range for Stephen's martyrdom is 33-36 AD — our 31 matches Theographic's own stoning date.
+
+### Herod Agrippa events (moved from 40 → 44)
+Theographic placed `herod-kills-james`, `herod-imprisons-peter`, and `an-angel-rescues-peter-from-prison` at 40 AD, but Acts 12 happens during Agrippa's final year. Corrected to **44 AD** (`scholarly_consensus`).
+
+`disciples-first-called-christians` (Acts 11:26) moved from 40 → **42** as it precedes Agrippa's persecution but follows the Antioch church's establishment.
+
+### 2nd Missionary Journey (Philippi events 47 → 48)
+Theographic lumps 10 events at 47 AD. We split the narrative: Paul/Barnabas split, Timothy joins, and Phrygia/Galatia/Macedonia call stay at 47; the Philippi arc (Lydia, soothsayer, prison, jailer, release) moves to **48** to show narrative progression. `estimate` — Theographic's 47-base is preserved.
+
+### Paul's trials and voyage to Rome
+Theographic lumps trials and shipwreck at 56-57. Using Acts 24:27's "after two years" (Felix → Festus), we spread:
+- Paul sent to Felix (56) → stays spanning 56-58 (`duration: 2Y`, already present)
+- Appeal to Caesar, Festus/Agrippa: **58**
+- Journey to Rome, shipwreck: **59**
+- Malta, arrival at Rome: **60**
+
+All `estimate` — preserves Theographic's 56-base anchor.
+
+---
+
+## Future refinement candidates
+
+- **Holy Week** (30 AD, ~46 events piled): inherently spans 8 days; can't be fixed at year granularity. Consider sub-year fields if narrative-sequence rendering becomes important.
+- **Missionary journey global offset**: mainstream scholarship places 1st journey 46-48, Jerusalem Council 49, 2nd journey 49-52, 3rd journey 53-57. Theographic runs ~1-3 yrs early. Decided not to rewrite; revisit if a user asks for "scholarly-aligned" chronology as an option.
+- **Coptic tradition dates** for Egypt stay, Dormition, apostle martyrdoms — could add a second supplement file `events-dates-tradition.json` and support a query filter.
