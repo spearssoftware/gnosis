@@ -95,6 +95,16 @@ Our spread (~1-2 yr Egypt stay at year granularity):
 ### Note: Theographic's "Herod dies" event
 The `herod-dies` event refers to **Herod Agrippa I** (Acts 12:23), not Herod the Great. Theographic originally placed it at 45 AD; we correct to **44 AD** per Josephus (Antiquities 19.8). There is no explicit "Herod the Great dies" event in the upstream data.
 
+### Passion Week + early Acts (moved from 30 → 33)
+Theographic dates every Passion Week event (Mary anoints Jesus → Pentecost) to **30 AD** in `events.json`, but every verse in Matt 21-28, Mark 11-16, Luke 19-24, John 12-20, and Acts 1-2 carries `yearNum: 33` in `verses.json`. The upstream data is internally inconsistent; a single chapter (e.g. Matt 22) ends up with `chapter_timeline.year = 33` but its events at `start_year = 30`.
+
+Both 30 AD and 33 AD are defensible scholarly datings of the crucifixion. We move events to **33 AD** to match the verse-year mode that drives `chapter-timeline.json`. Confidence: `scholarly_consensus`.
+
+Covered events (all originally `0030-03-30` → `0030-05-02` in Theographic):
+Mary Anoints Jesus, Holy Week, Triumphal Entry, Fig Tree Cursed, Temple Cleansed, Teaching by the Fig Tree, Debates in the Temple, Olivet Discourse, Sanhedrin Conspiracy, Judas Plans Betrayal, The Last Supper, Upper Room Discourse, Prayer and Betrayal in Gethsemane, Jewish Trials, Roman Trials, Judas' Suicide, Bearing Cross to Golgotha, Crucifixion and Burial, Resurrection and Ascension, Jesus ascends to Heaven, The Holy Spirit is promised, Matthias replaces Judas, The Holy Spirit comes, Peter preaches at Pentecost.
+
+**Follow-up candidate:** Acts 6-7 verses also carry `yearNum: 33`, but Stephen's martyrdom cluster currently sits at 31 (see below). That pre-dates the crucifixion under our new Passion=33 anchor, which is chronologically wrong. Revisit whether `seven-chosen-to-serve`, `stephen-is-seized`, `stephen-addresses-the-council`, and `stephen-is-stoned` should move to 33-34.
+
 ### Early Acts — Stephen's martyrdom (moved from 30 → 31)
 Theographic placed `seven-chosen-to-serve`, `stephen-is-seized`, and `stephen-addresses-the-council` at 30 AD while `stephen-is-stoned` is at 31 AD. These are all components of the same martyrdom narrative (Acts 6-7); moved to **31 AD** to consolidate. Scholarly range for Stephen's martyrdom is 33-36 AD — our 31 matches Theographic's own stoning date.
 
@@ -119,6 +129,6 @@ All `estimate` — preserves Theographic's 56-base anchor.
 
 ## Future refinement candidates
 
-- **Holy Week** (30 AD, ~46 events piled): inherently spans 8 days; can't be fixed at year granularity. Consider sub-year fields if narrative-sequence rendering becomes important.
+- **Holy Week** (now 33 AD, ~24 events piled): inherently spans 8 days; can't be fixed at year granularity. Consider sub-year fields if narrative-sequence rendering becomes important.
 - **Missionary journey global offset**: mainstream scholarship places 1st journey 46-48, Jerusalem Council 49, 2nd journey 49-52, 3rd journey 53-57. Theographic runs ~1-3 yrs early. Decided not to rewrite; revisit if a user asks for "scholarly-aligned" chronology as an option.
 - **Coptic tradition dates** for Egypt stay, Dormition, apostle martyrdoms — could add a second supplement file `events-dates-tradition.json` and support a query filter.
