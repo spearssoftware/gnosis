@@ -46,6 +46,8 @@ Dataclasses live in `src/gnosis/types/`. Add fields there first; they flow to bo
 
 Release workflow triggers on tag push (`v*`). Tagging `v0.9.x` from `main` builds the full pipeline and uploads `output/*.json`, both `.db` files, `gnosis.usearch`, `verse-similarity.json`, and a tarball.
 
+To test the build without releasing, run it manually (`gh workflow run release.yml --ref <branch>`): it builds and uploads the same files as a workflow artifact but creates no release.
+
 `pyproject.toml` version is not synced to tags — the tag is the source of truth for released versions.
 
 ## Known upstream quirks

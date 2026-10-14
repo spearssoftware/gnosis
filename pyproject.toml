@@ -13,7 +13,7 @@ dependencies = [
 [project.optional-dependencies]
 vectors = [
     "sentence-transformers>=3.0",
-    "torch>=2.0",
+    "torch>=2.0",  # transitive via sentence-transformers; listed so [tool.uv.sources] applies
     "usearch>=2.0",
 ]
 

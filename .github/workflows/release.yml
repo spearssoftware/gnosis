@@ -15,7 +15,7 @@ jobs:
     env:
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
       # Dispatch runs may be on a branch whose name contains '/', which can't go in a filename.
-      VERSION: ${{ github.ref_type == 'tag' && github.ref_name || format('dev-{0}', github.sha) }}
+      VERSION: ${{ github.event_name == 'push' && github.ref_name || format('dev-{0}', github.sha) }}
     steps:
       - uses: actions/checkout@v5
       - uses: astral-sh/setup-uv@v6
@@ -41,13 +41,14 @@ jobs:
           tar -czf "dist/gnosis-$VERSION.tar.gz" -C output .
       # Dispatch runs build and upload for inspection without publishing a release.
       - name: Upload build artifacts
-        if: github.ref_type != 'tag'
+        if: github.event_name != 'push'
         uses: actions/upload-artifact@v4
         with:
           name: gnosis-${{ env.VERSION }}
           path: dist/*
+          retention-days: 7
       - name: Create release
-        if: github.ref_type == 'tag'
+        if: github.event_name == 'push'
         uses: softprops/action-gh-release@v2
         with:
           files: dist/*
