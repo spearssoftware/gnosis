@@ -13,6 +13,7 @@ dependencies = [
 [project.optional-dependencies]
 vectors = [
     "sentence-transformers>=3.0",
+    "torch>=2.0",  # transitive via sentence-transformers; listed so [tool.uv.sources] applies
     "usearch>=2.0",
 ]
 
@@ -28,6 +29,15 @@ dev = [
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+# Linux (CI) installs CPU-only torch; the PyPI wheel pulls several GB of unused CUDA libraries.
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu", marker = "sys_platform == 'linux'" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/gnosis"]
